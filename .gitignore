@@ -1,0 +1,40 @@
+# 本地游戏与个人存档
+/game/
+/savedata/
+/savedata_*/
+
+# 中间产物与输出
+/tmp/
+/out/
+work/
+/solution/build/work/
+/solution/runtime/out/
+
+# 本地工具与依赖缓存
+/tools/
+/cache/
+/.cache/
+/dependencies/
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+
+# 编译和封包产物
+*.exe
+*.dll
+*.xp3
+*.obj
+*.o
+*.pdb
+*.ilk
+*.lib
+*.exp
+CMakeCache.txt
+CMakeFiles/
+
+# 本地编辑器状态
+/.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
