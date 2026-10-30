@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "recorded_at": "2026-10-31T05:08:44.409320+09:00",
+  "scope": "complete localization engineering pipeline; formal content remains source-pass",
+  "original_resource_files_unchanged_in_project_distribution_and_release": 62,
+  "decrypted_payloads_verified": 20001,
+  "excluded_malformed_index_notices": 5,
+  "scn": {
+    "files": 215,
+    "text_ids": 28860,
+    "reference_positions": 60726,
+    "complete_json_roundtrip": 215,
+    "source_binary_identical": 0,
+    "encoding": "UTF-8",
+    "translation_input_matches_source": true
+  },
+  "system": {
+    "carriers": 338,
+    "text_documents": 131,
+    "bytecode_files": 207,
+    "bytecode_string_constants": 43084,
+    "source_roundtrip_byte_identical": 338,
+    "initial_translations_source_only": true
+  },
+  "images": {
+    "pimg_files": 23,
+    "rgba_images": 448,
+    "layers": 1029,
+    "semantic_and_pixel_roundtrip": true,
+    "temporary_alpha_pixel_edit_roundtrip": true
+  },
+  "tests": {
+    "project_python": 29,
+    "component_python": 20,
+    "shared_cleanup_python": 27,
+    "runtime_stream_harness": true,
+    "shared_log_harness": true,
+    "suspended_process_injection_harness": true
+  },
+  "ui_verified": [
+    "original title",
+    "independent Chinese prologue body",
+    "Chinese backlog",
+    "save and load restore Chinese text",
+    "isolated savedata_chs",
+    "multiline Chinese speed preview",
+    "TJS2 string edit shown as Chinese File menu"
+  ],
+  "ui_scope_notes": [
+    "Formal input is not a completed translation.",
+    "The exit dialog remains Japanese; no claim of complete UI translation.",
+    "All routes were not manually played through."
+  ],
+  "cleanup": {
+    "default_before_new_outputs": true,
+    "scoped_builder": "dc4-fd-localization",
+    "previous_build_package_release_removed": 3,
+    "only_current_three_output_directories_remain": true,
+    "failed_build_cleanup_tested": true,
+    "unknown_files_and_inputs_preserved": true,
+    "keep_and_dry_run_available": true
+  },
+  "ordinary_build": {
+    "run_id": "20261030T195745_f3b9c80d",
+    "sample_overlay": false,
+    "system_overrides": 0,
+    "static_overrides": 0,
+    "patch_entries": 215,
+    "entry_checksum_and_sha256_roundtrip": true,
+    "startup_title_checkpoint": true,
+    "package": "out/package_20261030T195745_f3b9c80d",
+    "release": "out/release_20261030T195745_f3b9c80d",
+    "files": [
+      {
+        "path": "chs_patch/config.ini",
+        "bytes": 176,
+        "sha256": "0754c72a82cc192bc7fbdf532c367d2f26b8e07d6f3a5cf8642e8f101cb6e40e"
+      },
+      {
+        "path": "chs_patch/patch.xp3",
+        "bytes": 40433824,
+        "sha256": "2441d42e6e03ea975edffb6a01b0155b49aad90e87e86e5f0ac618d853bc943c"
+      },
+      {
+        "path": "dc4_fd_chs.dll",
+        "bytes": 181760,
+        "sha256": "4301af9eade9c6d706beb101bb408e306a293b74a261304060a9913c966ca93b"
+      },
+      {
+        "path": "DC4_FD_chs.exe",
+        "bytes": 154112,
+        "sha256": "caf13874a934b4ddb84d1d9898c58e9a76d7b5fc26429e9543363394709a9b03"
+      },
+      {
+        "path": "LICENSE.krkrz.txt",
+        "bytes": 43292,
+        "sha256": "31887f008d3666961adb51572add59709c12eb56d39066fed62b5267d380042d"
+      },
+      {
+        "path": "LICENSE.minhook.txt",
+        "bytes": 4365,
+        "sha256": "d5c2224982b0b95a16b098a561335fa93f3eaf4d0aa964b7843edb986df78dc8"
+      },
+      {
+        "path": "readme.txt",
+        "bytes": 271,
+        "sha256": "3d45ae1c7347e95545ed186dd6402c84e99679dff73fc509af6b80c0656e0154"
+      },
+      {
+        "path": "THIRD_PARTY.md",
+        "bytes": 1930,
+        "sha256": "c021cca67bfedf3f421df94c7e58330f8a39bf5253d2bf850c71aeac0cdd7c4e"
+      }
+    ]
+  },
+  "evidence": {
+    "all_archive_payloads": "docs/archive_validation.json",
+    "decryption_samples": "docs/decryption_validation.json",
+    "system_roundtrip": "docs/system_text_validation.json",
+    "local_ui_screenshots": "tmp/verification/"
+  }
+}

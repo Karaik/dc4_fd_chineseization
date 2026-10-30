@@ -86,7 +86,7 @@ publish_images(edit_root, tools, selected, force=False)
 `selected` 使用 `uipsd/window.pimg` 这样的归档内完整路径；`None` 表示导出或重封全部，发布必须提供非空显式选择。返回值包含各项路径、验证计数、内部资源数和变化状态。工作输出限定在本项目的 `solution/patch/work/`。
 
 ```powershell
-python -m unittest tests.test_pimg -v
+python -m unittest discover -s tests -p test_pimg.py -v
 ```
 
 测试覆盖重导出保护、强制导出备份、外部资源路径拒绝、透明度/坐标/资源引用错误检测、真实 PIMG 回编及临时 RGBA 像素修改、显式发布与未改图片排除。临时编辑和发布测试只写入独立工作目录，不把测试图片放入正式静态补丁。
