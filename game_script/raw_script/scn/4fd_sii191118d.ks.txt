@@ -1,0 +1,212 @@
+# dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
+# title; occurrences=1
+○92171a1db3cdd5f47843501c○"戦うための"
+●92171a1db3cdd5f47843501c●"戦うための"
+
+# speaker; occurrences=19
+○b5f98aae8a380e18e54babb1○"一登"
+●b5f98aae8a380e18e54babb1●"一登"
+
+# body; occurrences=1
+○d83121aff0ca0a93a54df80a○"「ふぅ」"
+●d83121aff0ca0a93a54df80a●"「ふぅ」"
+
+# body; occurrences=1
+○1ddcafdf496a33f40dd2fc2c○"　あの後、詩名は何かを考えこみ、体育祭の日程表を見\\nながらずーっとうなっていた。"
+●1ddcafdf496a33f40dd2fc2c●"　あの後、詩名は何かを考えこみ、体育祭の日程表を見\\nながらずーっとうなっていた。"
+
+# body; occurrences=1
+○63c9d1aa5f5574fa6ef90c3f○"　俺は口を出すこともできず、明日を待つのみとなって\\nしまった。"
+●63c9d1aa5f5574fa6ef90c3f●"　俺は口を出すこともできず、明日を待つのみとなって\\nしまった。"
+
+# body; occurrences=1
+○af665dfee2f5d47a13ce6e25○"「俺も何か、役に立てたらいいんだけどな」"
+●af665dfee2f5d47a13ce6e25●"「俺も何か、役に立てたらいいんだけどな」"
+
+# body; occurrences=1
+○71af9c6acc5e765eb3d2a891○"　そんなことを言ってても、何も始まらない。"
+●71af9c6acc5e765eb3d2a891●"　そんなことを言ってても、何も始まらない。"
+
+# message; occurrences=17
+○13a4a3559218e52f400fb453○"よう。疲れは残ってないか？"
+●13a4a3559218e52f400fb453●"よう。疲れは残ってないか？"
+
+# message; occurrences=16
+○40cc571465d3d28dee4533cb○"大丈夫です"
+●40cc571465d3d28dee4533cb●"大丈夫です"
+
+# message; occurrences=15
+○2c166f27c320cf7dd7495f48○"むしろ、待ち時間で暇疲れしちゃったくらいですかね"
+●2c166f27c320cf7dd7495f48●"むしろ、待ち時間で暇疲れしちゃったくらいですかね"
+
+# message; occurrences=14
+○b1b714dc885a319c2b78dd89○"ああ、それならよかった"
+●b1b714dc885a319c2b78dd89●"ああ、それならよかった"
+
+# message; occurrences=13
+○d9d1f9b33088d80770e53e63○"それにしても、杉並と戦えなくて残念だったな"
+●d9d1f9b33088d80770e53e63●"それにしても、杉並と戦えなくて残念だったな"
+
+# message; occurrences=12
+○221cf7bb6de8716937d90952○"そうですね"
+●221cf7bb6de8716937d90952●"そうですね"
+
+# message; occurrences=11
+○10be3c3cf83de0ba1acdca18○"あの……それについてなんですが、ちょっと考えてみたんですよ"
+●10be3c3cf83de0ba1acdca18●"あの……それについてなんですが、ちょっと考えてみたんですよ"
+
+# message; occurrences=10
+○614f029b9529a2eaeeacbf9a○"これならいけるんじゃないかなって方法を思いつきまして"
+●614f029b9529a2eaeeacbf9a●"これならいけるんじゃないかなって方法を思いつきまして"
+
+# message; occurrences=9
+○174a3b2994840129a72d0380○"マジか"
+●174a3b2994840129a72d0380●"マジか"
+
+# message; occurrences=8
+○851f917b2ed3561f28d6ca94○"はい。まあこの作戦は、優勝をすることを前提にしているのですが"
+●851f917b2ed3561f28d6ca94●"はい。まあこの作戦は、優勝をすることを前提にしているのですが"
+
+# message; occurrences=7
+○7e8516a02ec4f214c9a910c0○"お願いしたいのですが、いいですか？"
+●7e8516a02ec4f214c9a910c0●"お願いしたいのですが、いいですか？"
+
+# message; occurrences=6
+○06d3b31900ab4bec5becae92○"もちろん。どんな方法なんだ"
+●06d3b31900ab4bec5becae92●"もちろん。どんな方法なんだ"
+
+# message; occurrences=5
+○8c5f0fcbbe9eafcb7c4b1b5c○"えっとですね……"
+●8c5f0fcbbe9eafcb7c4b1b5c●"えっとですね……"
+
+# body; occurrences=1
+○c37feb6a8352762763f0b87a○"　それからしばらく、詩名からの作戦のやり取りをした。"
+●c37feb6a8352762763f0b87a●"　それからしばらく、詩名からの作戦のやり取りをした。"
+
+# body; occurrences=1
+○a904ca3e0207e85ab24b2768○"「よくそんなこと考えつくな……詩名」"
+●a904ca3e0207e85ab24b2768●"「よくそんなこと考えつくな……詩名」"
+
+# body; occurrences=1
+○de6b5e2b42a5201f1dd5c5e2○"　その方法なら杉並を引きずり出せるかもしれない。"
+●de6b5e2b42a5201f1dd5c5e2●"　その方法なら杉並を引きずり出せるかもしれない。"
+
+# body; occurrences=1
+○10c4691930be9e1f9b5f6f85○"　むしろ、杉並が出てこざるを得ない状況になるかもし\\nれない。"
+●10c4691930be9e1f9b5f6f85●"　むしろ、杉並が出てこざるを得ない状況になるかもし\\nれない。"
+
+# message; occurrences=48
+○5dc65123e7d2eae44acf6147○"わかった、協力する"
+●5dc65123e7d2eae44acf6147●"わかった、協力する"
+
+# message; occurrences=47
+○ff918f4eac3c152aa2298149○"ありがとうございます！"
+●ff918f4eac3c152aa2298149●"ありがとうございます！"
+
+# message; occurrences=46
+○a0ac189f85ddab1cf8471a2c○"詩名の足を引っ張らないように、頑張るよ"
+●a0ac189f85ddab1cf8471a2c●"詩名の足を引っ張らないように、頑張るよ"
+
+# body; occurrences=1
+○fd4163968712504f24bd1f29○"　と、そう打つと。"
+●fd4163968712504f24bd1f29●"　と、そう打つと。"
+
+# body; occurrences=1
+○616721adcf31690909ab5a14○"「うわ！？　急に通話？」"
+●616721adcf31690909ab5a14●"「うわ！？　急に通話？」"
+
+# body; occurrences=1
+○ee98f7dc9f13aeb723061ebd○"　とりあえず出よう。"
+●ee98f7dc9f13aeb723061ebd●"　とりあえず出よう。"
+
+# body; occurrences=1
+○c537d6e2a19b093e2e175366○"「もしもし」"
+●c537d6e2a19b093e2e175366●"「もしもし」"
+
+# speaker; occurrences=11
+○82738cb0718e3e4f2ea9ddc2○"詩名"
+●82738cb0718e3e4f2ea9ddc2●"詩名"
+
+# body; occurrences=1
+○70536e4f572c416be875aa4e○"『もしもし常坂さん。いまちょっと大丈夫ですか？』"
+●70536e4f572c416be875aa4e●"『もしもし常坂さん。いまちょっと大丈夫ですか？』"
+
+# body; occurrences=1
+○143992da2eccf5d0a92515c1○"「ああ」"
+●143992da2eccf5d0a92515c1●"「ああ」"
+
+# body; occurrences=1
+○73b6b05ed61205f3b136ae8d○"『常坂さん……私たちは、この数日間ずっと一緒にいま\\n　したよね？』"
+●73b6b05ed61205f3b136ae8d●"『常坂さん……私たちは、この数日間ずっと一緒にいま\\n　したよね？』"
+
+# body; occurrences=1
+○16a101bd1d105b7dc84175fc○"「そうだな」"
+●16a101bd1d105b7dc84175fc●"「そうだな」"
+
+# body; occurrences=1
+○a4eeca457df9b1d2629b6a6d○"『一緒にご飯を食べましたし、一緒にお風呂にも入りま\\n　したし、一緒の布団で寝ました』"
+●a4eeca457df9b1d2629b6a6d●"『一緒にご飯を食べましたし、一緒にお風呂にも入りま\\n　したし、一緒の布団で寝ました』"
+
+# body; occurrences=1
+○0d4f1a08430c146da378b8c8○"『一緒にゲームをして……私は、常坂さんと一心同体の\\n　つもりです』"
+●0d4f1a08430c146da378b8c8●"『一緒にゲームをして……私は、常坂さんと一心同体の\\n　つもりです』"
+
+# body; occurrences=1
+○15c8a68cd3201859195a39bb○"『だから、足を引っ張らないようにする……とか寂しい\\n　こと言わないでください』"
+●15c8a68cd3201859195a39bb●"『だから、足を引っ張らないようにする……とか寂しい\\n　こと言わないでください』"
+
+# body; occurrences=1
+○b0a6c45ec1d58df7911baac5○"『常坂さんのミスは、私のミスでもあります。私たちは、\\n　一心同体なんですから』"
+●b0a6c45ec1d58df7911baac5●"『常坂さんのミスは、私のミスでもあります。私たちは、\\n　一心同体なんですから』"
+
+# body; occurrences=1
+○183393795f3c2a274ff6799d○"「詩名……」"
+●183393795f3c2a274ff6799d●"「詩名……」"
+
+# body; occurrences=1
+○f8b67be5f4503091c5a62193○"『私の吐息を……鼓動を思い出してください……。それ\\n　は、あなたの心臓で……あなたの呼吸です』"
+●f8b67be5f4503091c5a62193●"『私の吐息を……鼓動を思い出してください……。それ\\n　は、あなたの心臓で……あなたの呼吸です』"
+
+# body; occurrences=1
+○efed9ffbb8d649771d317ff8○"『あなたともっと……ひとつになりたい……』"
+●efed9ffbb8d649771d317ff8●"『あなたともっと……ひとつになりたい……』"
+
+# body; occurrences=1
+○8695128bb809f5aaadd85ad5○"「ああ……そうだな」"
+●8695128bb809f5aaadd85ad5●"「ああ……そうだな」"
+
+# body; occurrences=1
+○5e967bfded3ccd3642b26972○"『…………。エッチな意味で捉えてませんか？』"
+●5e967bfded3ccd3642b26972●"『…………。エッチな意味で捉えてませんか？』"
+
+# body; occurrences=1
+○515b62f62751a567f8bb1b5d○"「この場面でそんなこと考えられるほど、いやらしい人\\n　間じゃないぞ、お前の恋人は」"
+●515b62f62751a567f8bb1b5d●"「この場面でそんなこと考えられるほど、いやらしい人\\n　間じゃないぞ、お前の恋人は」"
+
+# body; occurrences=1
+○02e34733e8cd63dcbc2fc2c4○"『そう言われると、ちょっと考えてしまったあなたの恋\\n　人は……いやらしい人間ということになってしまうん\\n　ですが』"
+●02e34733e8cd63dcbc2fc2c4●"『そう言われると、ちょっと考えてしまったあなたの恋\\n　人は……いやらしい人間ということになってしまうん\\n　ですが』"
+
+# body; occurrences=1
+○676d2856cb71997d212127ae○"　ちょっと考えてたのかよ。"
+●676d2856cb71997d212127ae●"　ちょっと考えてたのかよ。"
+
+# body; occurrences=1
+○bbcd7d66e449de7329f96095○"「でも……ありがとな。少しリラックスできた」"
+●bbcd7d66e449de7329f96095●"「でも……ありがとな。少しリラックスできた」"
+
+# body; occurrences=1
+○bc1fa741e54e1b66bb963bc6○"「明日、頑張ろうな」"
+●bc1fa741e54e1b66bb963bc6●"「明日、頑張ろうな」"
+
+# body; occurrences=1
+○064e470d91789f3076d04646○"『はい、よろしくお願いします』"
+●064e470d91789f3076d04646●"『はい、よろしくお願いします』"
+
+# body; occurrences=1
+○e90a03219ac2bce3652b02d1○"　そうして──"
+●e90a03219ac2bce3652b02d1●"　そうして──"
+
+# body; occurrences=1
+○9e34ed5c441c074a98c98731○"　──俺たちは決勝の日を迎える。"
+●9e34ed5c441c074a98c98731●"　──俺たちは決勝の日を迎える。"
