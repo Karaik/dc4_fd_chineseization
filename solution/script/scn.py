@@ -34,6 +34,7 @@ class Record:
     paths: list[tuple]
     expected: list[Any] = field(default_factory=list)
     body_paths: set[tuple] = field(default_factory=set)
+    source_ordinal: int | None = None
 
 
 def load_json(path: Path) -> dict:
@@ -155,17 +156,28 @@ def _walk(value: Any, path: tuple = ()):
 def collect_records(doc: dict, script_name: str) -> list[Record]:
     if not isinstance(doc, dict) or set(doc) != {'hash', 'name', 'outlines', 'scenes'} or not isinstance(doc['scenes'], list):
         raise ScriptError(f'Unsupported DC4 SCN root: {script_name}')
-    grouped: dict[tuple[str, str], Record] = {}
+    grouped: dict[tuple, Record] = {}
+    occurrences: Counter[tuple[str, str]] = Counter()
 
     def add(kind: str, value: Any, path: tuple, *, expected: Any = _SOURCE, body: bool = False):
         if value is None or value == '':
             return
         if not isinstance(value, str):
             raise ScriptError(f'Expected visible string: {script_name} {path}')
-        key = kind, value
+        source_key = kind, value
+        ordinal = None
+        if kind in ('speaker', 'message'):
+            key = source_key
+        else:
+            ordinal = occurrences[source_key]
+            occurrences[source_key] += 1
+            key = source_key + (ordinal,)
         if key not in grouped:
-            stable = hashlib.sha256((script_name + '\0' + kind + '\0' + value).encode('utf-8')).hexdigest()[:24]
-            grouped[key] = Record(stable, kind, value, [])
+            identity = script_name + '\0' + kind + '\0' + value
+            if ordinal:
+                identity += '\0' + str(ordinal)
+            stable = hashlib.sha256(identity.encode('utf-8')).hexdigest()[:24]
+            grouped[key] = Record(stable, kind, value, [], source_ordinal=ordinal)
         if path not in grouped[key].paths:
             grouped[key].paths.append(path)
             grouped[key].expected.append(value if expected is _SOURCE else expected)
@@ -271,7 +283,8 @@ def render_text(text: str) -> tuple[str, str, int]:
 def format_records(records: list[Record]) -> str:
     lines = [f'# {FORMAT}; JSON strings preserve escaping; keep IDs and source lines intact.']
     for record in records:
-        lines.extend((f'# {record.kind}; occurrences={len(record.paths)}',
+        ordinal = f'; source_occurrence={record.source_ordinal + 1}' if record.source_ordinal is not None else ''
+        lines.extend((f'# {record.kind}; occurrences={len(record.paths)}{ordinal}',
                       f'○{record.id}○{json.dumps(record.source, ensure_ascii=False)}',
                       f'●{record.id}●{json.dumps(record.source, ensure_ascii=False)}', ''))
     return '\n'.join(lines).rstrip() + '\n'
@@ -389,7 +402,7 @@ def _difference(a: Any, b: Any, path: str = '') -> str | None:
             found = _difference(left, right, path + '/' + str(i))
             if found:
                 return found
-    elif a != b or type(a) not in (int, float) and type(a) != type(b):
+    elif a != b or (type(a) != type(b) and not (type(a) in (int, float) and type(b) in (int, float))):
         return path + f': {a!r} != {b!r}'
     return None
 

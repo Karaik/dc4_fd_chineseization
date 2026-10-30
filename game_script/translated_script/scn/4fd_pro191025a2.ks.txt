@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○534802919d06a77bcd273106○"プロローグ２"
 ●534802919d06a77bcd273106●"プロローグ２"
 
@@ -7,7 +7,7 @@
 ○9521865fa53bf934e511a8fe○"一登"
 ●9521865fa53bf934e511a8fe●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f8858a91bb2c85956e95f1fd○"「二乃ー、朝だぞー。起きろー」"
 ●f8858a91bb2c85956e95f1fd●"「二乃ー、朝だぞー。起きろー」"
 
@@ -15,91 +15,91 @@
 ○5f5a2747b14869066eb996bc○"二乃"
 ●5f5a2747b14869066eb996bc●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7940e27290bc7a94515a6f39○"「すやぁ……すやぁ……」"
 ●7940e27290bc7a94515a6f39●"「すやぁ……すやぁ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2784e6211dda3fd9dcbe7a15○"「二乃ー！　朝だって。起きろ！！」"
 ●2784e6211dda3fd9dcbe7a15●"「二乃ー！　朝だって。起きろ！！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○de95457ec660d53cb514f78c○"「すー……すー……」"
 ●de95457ec660d53cb514f78c●"「すー……すー……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4c2297bd9e8d19729be46f94○"　起きない。"
 ●4c2297bd9e8d19729be46f94●"　起きない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cfbbc29cd768551d0526d5f0○"　むしろ、絶対に起きるものかという断固とした意志を\\n感じる。"
 ●cfbbc29cd768551d0526d5f0●"　むしろ、絶対に起きるものかという断固とした意志を\\n感じる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a952d92b77f51a5c9f6553a8○"　まぁ、これくらいで起きるなら我が妹として情けない\\nくらいだ。"
 ●a952d92b77f51a5c9f6553a8●"　まぁ、これくらいで起きるなら我が妹として情けない\\nくらいだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f0c9910cbbf335e7989af495○"　毎朝と言っても良い頻度で繰り広げられる俺たちの攻\\n防は、こんなものではないのだ。"
 ●f0c9910cbbf335e7989af495●"　毎朝と言っても良い頻度で繰り広げられる俺たちの攻\\n防は、こんなものではないのだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○82af589a420f69d46265f8fb○"「二乃ー、ほら起きろ。リビングで猫が１００匹くらい\\n　待ってるぞ」"
 ●82af589a420f69d46265f8fb●"「二乃ー、ほら起きろ。リビングで猫が１００匹くらい\\n　待ってるぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bb6644cc75f21d02422460fb○"「あうぅ……そんなに……いたら……」"
 ●bb6644cc75f21d02422460fb●"「あうぅ……そんなに……いたら……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c950b97b267c8176b031d512○"「嬉しいだろ？」"
 ●c950b97b267c8176b031d512●"「嬉しいだろ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○69a72f85ffad25817503230d○"「お世話……ちゃんとできなくて可哀想……です……」"
 ●69a72f85ffad25817503230d●"「お世話……ちゃんとできなくて可哀想……です……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6a579ba232b54f3b4764d718○"「好きだからこそ……私は……責任を……、持ちたいん\\n　です……すやぁ……」"
 ●6a579ba232b54f3b4764d718●"「好きだからこそ……私は……責任を……、持ちたいん\\n　です……すやぁ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fbdace1b10bc9e7636b91d32○"「ふむ……」"
 ●fbdace1b10bc9e7636b91d32●"「ふむ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7f9b27a618ea6b936c57bff3○"　寝ぼけてるくせに深いことを言うな。"
 ●7f9b27a618ea6b936c57bff3●"　寝ぼけてるくせに深いことを言うな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5f5cbedc0191df3447d2ac2a○"　ここは俺が悪かった。"
 ●5f5cbedc0191df3447d2ac2a●"　ここは俺が悪かった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6a9410662078bb2c53dac77○"「とにかく起きろって。そら姉がごはん作って待ってる\\n　ぞ。はやくしないと冷めちゃうからな？」"
 ●b6a9410662078bb2c53dac77●"「とにかく起きろって。そら姉がごはん作って待ってる\\n　ぞ。はやくしないと冷めちゃうからな？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fb3b28ca367eee9490a2a1f3○"「んんん……。ふぁ～い……」"
 ●fb3b28ca367eee9490a2a1f3●"「んんん……。ふぁ～い……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○888552f272dae7334790cdd4○"　まだ寝ぼけた様子だけど、まぁそのうち起きるだろ。"
 ●888552f272dae7334790cdd4●"　まだ寝ぼけた様子だけど、まぁそのうち起きるだろ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○92b9b0df8de7efa0397023a9○"「俺は先に行ってるからなー」"
 ●92b9b0df8de7efa0397023a9●"「俺は先に行ってるからなー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8772cfb798b19339a3fbc834○"　ベッドの中でもぞもぞする二乃に声をかけて、俺は部\\n屋を出た。"
 ●8772cfb798b19339a3fbc834●"　ベッドの中でもぞもぞする二乃に声をかけて、俺は部\\n屋を出た。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4d7d3fbec28641d1de1a7e40○"　リビングへ行くと早速良い匂いがしてきた。"
 ●4d7d3fbec28641d1de1a7e40●"　リビングへ行くと早速良い匂いがしてきた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0dbfafed7342c98470caad63○"　食欲をそそるこの匂いは味噌汁だな。"
 ●0dbfafed7342c98470caad63●"　食欲をそそるこの匂いは味噌汁だな。"
 
@@ -107,234 +107,234 @@
 ○066ee4e587f12e8e9d7b706c○"諳子"
 ●066ee4e587f12e8e9d7b706c●"諳子"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○429882207c59679ffd71be91○"「いっちゃん、おはよー。今日もひとりで起きられて偉\\n　いね」"
 ●429882207c59679ffd71be91●"「いっちゃん、おはよー。今日もひとりで起きられて偉\\n　いね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e1f5ab039166df9487e96414○"「おはよー。そら姉の偉さには敵わないって。毎日本当\\n　にありがとね」"
 ●e1f5ab039166df9487e96414●"「おはよー。そら姉の偉さには敵わないって。毎日本当\\n　にありがとね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4403d7d5fb3561011b796b5b○"「ふふふ、いいんだよー。朝ごはん、もうすぐできるか\\n　ら待っててね」"
 ●4403d7d5fb3561011b796b5b●"「ふふふ、いいんだよー。朝ごはん、もうすぐできるか\\n　ら待っててね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aa3e52a4ab44a2197c4b37b1○"「オーケー。すでに良い匂いしてるけど、今日は何の味\\n　噌汁？」"
 ●aa3e52a4ab44a2197c4b37b1●"「オーケー。すでに良い匂いしてるけど、今日は何の味\\n　噌汁？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○361efc67ed6df7de1745b458○"「ふっふっふ～。今日はサツマイモと春菊のお味噌汁な\\n　のです！　甘くて美味しいんだよ～」"
 ●361efc67ed6df7de1745b458●"「ふっふっふ～。今日はサツマイモと春菊のお味噌汁な\\n　のです！　甘くて美味しいんだよ～」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4c4c45687e62dc9b6f3c0ac7○"「おぉ。楽しみ！」"
 ●4c4c45687e62dc9b6f3c0ac7●"「おぉ。楽しみ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○41500b6e4e9f4e68c9064778○"「もうちょっとで出来るから、お茶碗とか用意して待っ\\n　ててくれる？」"
 ●41500b6e4e9f4e68c9064778●"「もうちょっとで出来るから、お茶碗とか用意して待っ\\n　ててくれる？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0eee8597995559d68cffb3bf○"「あいよ」"
 ●0eee8597995559d68cffb3bf●"「あいよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cee1f58c85a66269f48a77b4○"「あ、二乃ちゃんは起きてた？」"
 ●cee1f58c85a66269f48a77b4●"「あ、二乃ちゃんは起きてた？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1fdc4fb692ae3f5e56d6fc91○"「むにゃむにゃしてたけど大丈夫だと思う。そのうち起\\n　きてくるよ」"
 ●1fdc4fb692ae3f5e56d6fc91●"「むにゃむにゃしてたけど大丈夫だと思う。そのうち起\\n　きてくるよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4ba2b568a350cab8004e6049○"「ふふっ。はーい」"
 ●4ba2b568a350cab8004e6049●"「ふふっ。はーい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○14620fcfa638023ad4dca682○"「ふぁ……お味噌汁美味しい。サツマイモがホクホクで\\n　すね」"
 ●14620fcfa638023ad4dca682●"「ふぁ……お味噌汁美味しい。サツマイモがホクホクで\\n　すね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aeb3a371bea92725c9e80d43○"「だな。ご飯にも合うし」"
 ●aeb3a371bea92725c9e80d43●"「だな。ご飯にも合うし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1a743509fd47a271d60b8582○"　俺とそら姉、そこに起きてきた二乃の三人で朝の食卓\\nを囲む。"
 ●1a743509fd47a271d60b8582●"　俺とそら姉、そこに起きてきた二乃の三人で朝の食卓\\nを囲む。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d47543e2594729ec5097e49f○"　サツマイモと春菊の味噌汁の他には、みりんと醤油で\\nほんのり甘めに味付けされた焼き鮭とお漬物。"
 ●d47543e2594729ec5097e49f●"　サツマイモと春菊の味噌汁の他には、みりんと醤油で\\nほんのり甘めに味付けされた焼き鮭とお漬物。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b3e7e789346f9f0c5317e651○"　さらっと食べられて、それでいてしっかり満足する朝\\n食だ。"
 ●b3e7e789346f9f0c5317e651●"　さらっと食べられて、それでいてしっかり満足する朝\\n食だ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○18ac4c98f1933849c9108839○"「あ、そうそう。昨日が締め切りだったけど、ふたりの\\n　クラスはもう決まってる？」"
 ●18ac4c98f1933849c9108839●"「あ、そうそう。昨日が締め切りだったけど、ふたりの\\n　クラスはもう決まってる？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e3c9b23c27a850f528749d0b○"「締め切りって……カガサイですよね」"
 ●e3c9b23c27a850f528749d0b●"「締め切りって……カガサイですよね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○37495ddaf1e1050005b4a4ba○"　香々見学園祭、通称『カガサイ』がすぐそこまで迫っ\\nている。"
 ●37495ddaf1e1050005b4a4ba●"　香々見学園祭、通称『カガサイ』がすぐそこまで迫っ\\nている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○809807d2018c1664ce2c3e77○"　要するに学園祭のことだが、自由な校風とお祭り好き\\nが多い香々見学園は色々とスケールが違う。"
 ●809807d2018c1664ce2c3e77●"　要するに学園祭のことだが、自由な校風とお祭り好き\\nが多い香々見学園は色々とスケールが違う。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○55e4b8524a47db8e57b472f1○"　特にうちのクラスには杉並がいるし、当局側から色ん\\nな意味で熱い視線が集まっていると噂だった。"
 ●55e4b8524a47db8e57b472f1●"　特にうちのクラスには杉並がいるし、当局側から色ん\\nな意味で熱い視線が集まっていると噂だった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○56c4a5286853fd3cd7136852○"「ざっくりした概要と使用場所は提出したけど、詳しい\\n　内容はまだ詰めてないなぁ」"
 ●56c4a5286853fd3cd7136852●"「ざっくりした概要と使用場所は提出したけど、詳しい\\n　内容はまだ詰めてないなぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bea7f4c0c360d96812651c21○"「ですね。それにしても話し合いの進まないこと進まな\\n　いこと。途中で頭が痛くなってきましたもん」"
 ●bea7f4c0c360d96812651c21●"「ですね。それにしても話し合いの進まないこと進まな\\n　いこと。途中で頭が痛くなってきましたもん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b08461c5c90816dbd2d0b443○"「あー……そうだよね。こういうのって、意見が出なく\\n　て重た～い雰囲気になったりするよね。わたしも覚え\\n　あるなぁ」"
 ●b08461c5c90816dbd2d0b443●"「あー……そうだよね。こういうのって、意見が出なく\\n　て重た～い雰囲気になったりするよね。わたしも覚え\\n　あるなぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1fad59cf1f08495186e8a754○"「いや、うちのクラスの場合は違うんだよね」"
 ●1fad59cf1f08495186e8a754●"「いや、うちのクラスの場合は違うんだよね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○817abaaec39f1cf343a192f8○"「逆なんです……出すぎるんです、意見が。主に杉並く\\n　んから」"
 ●817abaaec39f1cf343a192f8●"「逆なんです……出すぎるんです、意見が。主に杉並く\\n　んから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1bae99e5deb9ccf60c2d241e○"「あ、あぁ……なるほどね」"
 ●1bae99e5deb9ccf60c2d241e●"「あ、あぁ……なるほどね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e86584a1f509acb55ec97381○"　ピンと来たのか、そら姉が苦笑した。"
 ●e86584a1f509acb55ec97381●"　ピンと来たのか、そら姉が苦笑した。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a109814d2fed053c70b033dd○"「この間出たのだけでも、忍者屋敷や人間ボーリング。\\n　あと鳥人間コンテストとかも言ってたな」"
 ●a109814d2fed053c70b033dd●"「この間出たのだけでも、忍者屋敷や人間ボーリング。\\n　あと鳥人間コンテストとかも言ってたな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c63063c44d5dfedb84cb7421○"「全部面白そうだけど……、予算とか場所の問題で難し\\n　そうだね」"
 ●c63063c44d5dfedb84cb7421●"「全部面白そうだけど……、予算とか場所の問題で難し\\n　そうだね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dfa6e961c552a7a9f7ac1ba2○"「屋根裏の秘密ルートを一部開放するとか、廊下の端か\\n　ら端まで使って人間ボーリングをすれば盛り上がると\\n　か……はぁ」"
 ●dfa6e961c552a7a9f7ac1ba2●"「屋根裏の秘密ルートを一部開放するとか、廊下の端か\\n　ら端まで使って人間ボーリングをすれば盛り上がると\\n　か……はぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○270170e3700c22adb5339c60○"「あ、あはは……カガサイは一般のお客さんも来るわけ\\n　だし、他の人に迷惑がかかるのは良くないよねぇ……」"
 ●270170e3700c22adb5339c60●"「あ、あはは……カガサイは一般のお客さんも来るわけ\\n　だし、他の人に迷惑がかかるのは良くないよねぇ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2a0bbb1c9b791482a75280de○"「アイツはイベント事になると特にタチが悪いんだよ」"
 ●2a0bbb1c9b791482a75280de●"「アイツはイベント事になると特にタチが悪いんだよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3e38164faacd2977714beccc○"「なに他人事みたいに言ってるんですか。兄さんだって\\n　一緒になって騒いでたの、私は覚えてますからね！」"
 ●3e38164faacd2977714beccc●"「なに他人事みたいに言ってるんですか。兄さんだって\\n　一緒になって騒いでたの、私は覚えてますからね！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bfe24dd9879d692c8e69f6df○"「だって屋根裏とかドキドキするだろ！」"
 ●bfe24dd9879d692c8e69f6df●"「だって屋根裏とかドキドキするだろ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4120ff8084058eeebe622487○"「まったくもう……意見をまとめる側の身にもなってほ\\n　しいです。はぁ……」"
 ●4120ff8084058eeebe622487●"「まったくもう……意見をまとめる側の身にもなってほ\\n　しいです。はぁ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d90dab1b5dce5837499a11b3○"　何度目かのため息。"
 ●d90dab1b5dce5837499a11b3●"　何度目かのため息。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5ab28860c02bf1e58ad29d58○"　こういう時、まとめ役の優等生は損だよな。"
 ●5ab28860c02bf1e58ad29d58●"　こういう時、まとめ役の優等生は損だよな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○caa1bb485965403a93cb4c36○"「そら姉のクラスはどうなの？」"
 ●caa1bb485965403a93cb4c36●"「そら姉のクラスはどうなの？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bc2c01941cd76f091529e47c○"「そうねぇ、文化祭の内容は大体決まったんだけど、そ\\n　の前の体育祭のほうが問題かなー」"
 ●bc2c01941cd76f091529e47c●"「そうねぇ、文化祭の内容は大体決まったんだけど、そ\\n　の前の体育祭のほうが問題かなー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○57552f5bcfc2e8e91bdcd2b4○"「あぁ……そうだ、体育祭もあるんだった」"
 ●57552f5bcfc2e8e91bdcd2b4●"「あぁ……そうだ、体育祭もあるんだった」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c000850d1a2fd7c5938085db○"「そもそも文化祭と体育祭が合体しているなんて、この\\n　学園はどれだけイベント好きなんですか、って感じで\\n　すよ」"
 ●c000850d1a2fd7c5938085db●"「そもそも文化祭と体育祭が合体しているなんて、この\\n　学園はどれだけイベント好きなんですか、って感じで\\n　すよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6f9c4264dfaf5335dace29f6○"　カガサイはおよそ一週間にわたって開催される、いわ\\nゆる体育祭と文化祭の統合されたような香々見学園最大\\nのイベントだ。"
 ●6f9c4264dfaf5335dace29f6●"　カガサイはおよそ一週間にわたって開催される、いわ\\nゆる体育祭と文化祭の統合されたような香々見学園最大\\nのイベントだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e90713b3717af23a15bc3497○"　その前半が主に体育祭で、後半が文化祭になっている。"
 ●e90713b3717af23a15bc3497●"　その前半が主に体育祭で、後半が文化祭になっている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6e98e1680e04114a3237deb0○"　準備期間なども含めて楽しい一か月になることは間違\\nいないんだけど、その分その準備がとにかく大変なのだ。"
 ●6e98e1680e04114a3237deb0●"　準備期間なども含めて楽しい一か月になることは間違\\nいないんだけど、その分その準備がとにかく大変なのだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3dd0ed60561d7363f716b22c○"「カガサイに関して決まっているのは、教室を使って何\\n　か出し物をする、ってことくらいですね」"
 ●3dd0ed60561d7363f716b22c●"「カガサイに関して決まっているのは、教室を使って何\\n　か出し物をする、ってことくらいですね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○469591ccdeda2e5d6254ae0e○"「さすがにそろそろ草案くらいは決めないとまずいな」"
 ●469591ccdeda2e5d6254ae0e●"「さすがにそろそろ草案くらいは決めないとまずいな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○591640e2de307e84cdb2d996○"「ですね。兄さん達もちゃんと考えて下さいよ？　楽し\\n　そうなことを考えるのも結構ですけど、実現しなくちゃ\\n　意味無いんですから！」"
 ●591640e2de307e84cdb2d996●"「ですね。兄さん達もちゃんと考えて下さいよ？　楽し\\n　そうなことを考えるのも結構ですけど、実現しなくちゃ\\n　意味無いんですから！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3507a4fe1832512cf5462ccb○"「わかってるって」"
 ●3507a4fe1832512cf5462ccb●"「わかってるって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○24e9d1d89fd5fe0701a0cc55○"　とは言え、本校にあがって初のカガサイだ。"
 ●24e9d1d89fd5fe0701a0cc55●"　とは言え、本校にあがって初のカガサイだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3ae741bb7228a6e23704eb25○"　なぁなぁな内容で[・]置[・]き[・]に[・]い[・]くのはさすがにもったいな\\nい。"
 ●3ae741bb7228a6e23704eb25●"　なぁなぁな内容で[・]置[・]き[・]に[・]い[・]くのはさすがにもったいな\\nい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○49390da4cf7538add71892a3○"　せっかくやるなら楽しく、思い出に残るものにしたい\\nんだよなぁ。"
 ●49390da4cf7538add71892a3●"　せっかくやるなら楽しく、思い出に残るものにしたい\\nんだよなぁ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○39433335ab400ad21fbabf20○"「ま、今日の放課後はＳＳＲの集まりもあるし、そこで\\n　色々と聞いても良いな」"
 ●39433335ab400ad21fbabf20●"「ま、今日の放課後はＳＳＲの集まりもあるし、そこで\\n　色々と聞いても良いな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○79e3568b654464d625183d89○"「ですね。参考になるかもしれませんし」"
 ●79e3568b654464d625183d89●"「ですね。参考になるかもしれませんし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○02173a3688e75ad200336c51○"「ふふふ。みんなで食べるおやつを用意しておくから、\\n　楽しみにしててね」"
 ●02173a3688e75ad200336c51●"「ふふふ。みんなで食べるおやつを用意しておくから、\\n　楽しみにしててね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7ae5f33dab6adacf5eda515f○"「期待してるよ」"
 ●7ae5f33dab6adacf5eda515f●"「期待してるよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5dc32ded6417f492f608dabd○"　なんて話しながら、美味しい朝食をお腹におさめていっ\\nた。"
 ●5dc32ded6417f492f608dabd●"　なんて話しながら、美味しい朝食をお腹におさめていっ\\nた。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○774734ca7a4f4cd0d9424d22○"プロローグ（１０月２５日）"
 ●774734ca7a4f4cd0d9424d22●"プロローグ（１０月２５日）"

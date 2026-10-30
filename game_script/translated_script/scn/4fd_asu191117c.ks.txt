@@ -1,13 +1,13 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○add9736ab65bb9e37b4466c5○"何もしないが一番の幸せ"
 ●add9736ab65bb9e37b4466c5●"何もしないが一番の幸せ"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3390ea1a0cb86349ffb91693○"　心地良い気温に、地平の先まで澄み渡る空。"
 ●3390ea1a0cb86349ffb91693●"　心地良い気温に、地平の先まで澄み渡る空。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c9789f007a7e10fa50a6bd18○"　これからデートをするのに、既に最高のロケーション\\nと言える。"
 ●c9789f007a7e10fa50a6bd18●"　これからデートをするのに、既に最高のロケーション\\nと言える。"
 
@@ -15,15 +15,15 @@
 ○c72514e602ca9ac038f8589d○"一登"
 ●c72514e602ca9ac038f8589d●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f57de64db8cdb67e3de784a0○"「さて、時間はそろそろだけど……」"
 ●f57de64db8cdb67e3de784a0●"「さて、時間はそろそろだけど……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○772ab1614391b9d74e89e12c○"　……お、それっぽい人影発見。"
 ●772ab1614391b9d74e89e12c●"　……お、それっぽい人影発見。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b22375389487356221ae5119○"「ういーす」"
 ●b22375389487356221ae5119●"「ういーす」"
 
@@ -31,798 +31,798 @@
 ○9cc2f098db052f13c0d3592c○"有里栖"
 ●9cc2f098db052f13c0d3592c●"有里栖"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7413ac04ca993f0a7f661c58○"「やっほー、ふふっ。待たせた……わけじゃないよね？」"
 ●7413ac04ca993f0a7f661c58●"「やっほー、ふふっ。待たせた……わけじゃないよね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○77700ef285023bb38d3c45a6○"「全然余裕」"
 ●77700ef285023bb38d3c45a6●"「全然余裕」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a9d96facf69a49d68949fc74○"　予定より５分ほど早い。実際俺もさっき着いたばかり\\nだし。"
 ●a9d96facf69a49d68949fc74●"　予定より５分ほど早い。実際俺もさっき着いたばかり\\nだし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a3eb7cf9872324a4d9d09b67○"「そっか、良かった。それで……今日のデートはどこに\\n　行くの？」"
 ●a3eb7cf9872324a4d9d09b67●"「そっか、良かった。それで……今日のデートはどこに\\n　行くの？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6993f3be8ff69ee8e987ca86○"「んー……うん、昨日有里栖が帰ったあと、色々考えた\\n　んだよね」"
 ●6993f3be8ff69ee8e987ca86●"「んー……うん、昨日有里栖が帰ったあと、色々考えた\\n　んだよね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a48819ca22a420022ff5ce01○"「どこに行けば、一番喜んでくれるかなーって」"
 ●a48819ca22a420022ff5ce01●"「どこに行けば、一番喜んでくれるかなーって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cc7d1c825521f6dce1cd8976○"「ふふっ、もしかして結構悩んじゃったりした？」"
 ●cc7d1c825521f6dce1cd8976●"「ふふっ、もしかして結構悩んじゃったりした？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7576d48ea54d0404516e3ac3○"「んー、まぁそこそこってくらい」"
 ●7576d48ea54d0404516e3ac3●"「んー、まぁそこそこってくらい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○15ae4b19ed5f83b7c94145a0○"　香々見島はデートスポットも多いからな。それを考え\\nるのに、昨晩はちょっと時間を使った。"
 ●15ae4b19ed5f83b7c94145a0●"　香々見島はデートスポットも多いからな。それを考え\\nるのに、昨晩はちょっと時間を使った。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bac438d3596ec6d0faaf7f9e○"「それで決めたんだけど……今回は特に予定なしにしな\\n　いか？」"
 ●bac438d3596ec6d0faaf7f9e●"「それで決めたんだけど……今回は特に予定なしにしな\\n　いか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6d01821a434f9794e9f1af3a○"「ふえ？　予定なしって……」"
 ●6d01821a434f9794e9f1af3a●"「ふえ？　予定なしって……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○41d7410eb9cbc9183697aad5○"「ん、適当に散歩しようかなーって。ここ最近カガサイ\\n　のことでいっぱいいっぱいだったしさ」"
 ●41d7410eb9cbc9183697aad5●"「ん、適当に散歩しようかなーって。ここ最近カガサイ\\n　のことでいっぱいいっぱいだったしさ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○eac9bd7062297d6e8bf6cf18○"「今日くらいは、頭空っぽにして、適当に歩こうぜ」"
 ●eac9bd7062297d6e8bf6cf18●"「今日くらいは、頭空っぽにして、適当に歩こうぜ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○676811658a59d3cb4a70f2e8○"「あぁ……ふふっ、なるほどね。ちょっと面白いね、そ\\n　れ」"
 ●676811658a59d3cb4a70f2e8●"「あぁ……ふふっ、なるほどね。ちょっと面白いね、そ\\n　れ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○24f54f9f6b5c183dff0b9dbb○"　時間をただ、無駄で無為に使ってみる。"
 ●24f54f9f6b5c183dff0b9dbb●"　時間をただ、無駄で無為に使ってみる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○087b913b0c755fda7195add9○"　今だからこそ、こんな贅沢な日もあったっていいはず\\nだ。"
 ●087b913b0c755fda7195add9●"　今だからこそ、こんな贅沢な日もあったっていいはず\\nだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e11ecf51fc143c1a8c86b52e○"「有里栖が歩くのが嫌だっていうなら、予定を作ってみ\\n　てもいいけど」"
 ●e11ecf51fc143c1a8c86b52e●"「有里栖が歩くのが嫌だっていうなら、予定を作ってみ\\n　てもいいけど」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f1ddc2b44b9f9899a83d81ce○"「あ、全然嫌じゃないよ？　食べ歩きのブロガーが散歩\\n　嫌いなわけないし」"
 ●f1ddc2b44b9f9899a83d81ce●"「あ、全然嫌じゃないよ？　食べ歩きのブロガーが散歩\\n　嫌いなわけないし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○099dd3eba8f5d16699df5ead○"「あぁ、言われてみればそうか」"
 ●099dd3eba8f5d16699df5ead●"「あぁ、言われてみればそうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2b7d8ffc77eaea90cb562034○"「うん、だから……常坂君のプラン、私は好きだよ？\\n　たまには……ううん、今日くらいは、のんびり過ご\\n　そ？」"
 ●2b7d8ffc77eaea90cb562034●"「うん、だから……常坂君のプラン、私は好きだよ？\\n　たまには……ううん、今日くらいは、のんびり過ご\\n　そ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○70b25f7a98b76436b12b349b○"「それなら良かった」"
 ●70b25f7a98b76436b12b349b●"「それなら良かった」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6070d25c8e7cfe6cd6fd6c82○"　これで嫌だと言われたら、ちょっと困ったし。なんせ\\nプランらしいプランは用意していないからな。"
 ●6070d25c8e7cfe6cd6fd6c82●"　これで嫌だと言われたら、ちょっと困ったし。なんせ\\nプランらしいプランは用意していないからな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e617ce887804aae5a42208d4○"「行き先は常坂君任せでいいよね？」"
 ●e617ce887804aae5a42208d4●"「行き先は常坂君任せでいいよね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○90af62a6233b28a5c00c7a7e○"「まぁな……つっても、街中以外の場所を、本当にブラ\\n　ブラするだけだけどな」"
 ●90af62a6233b28a5c00c7a7e●"「まぁな……つっても、街中以外の場所を、本当にブラ\\n　ブラするだけだけどな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b20a3600ea8451c569e32150○"　のんびりするなら、人が溢れてるところより、自然に\\n溢れた場所がいい。"
 ●b20a3600ea8451c569e32150●"　のんびりするなら、人が溢れてるところより、自然に\\n溢れた場所がいい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d5bba5f6ea7e5ba1d8ca5b57○"　だから待ち合わせ場所もここにした。"
 ●d5bba5f6ea7e5ba1d8ca5b57●"　だから待ち合わせ場所もここにした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4c68f9701b124028c0fc6e0c○"「いいよいいよ、賛成。ほら、行こ？」"
 ●4c68f9701b124028c0fc6e0c●"「いいよいいよ、賛成。ほら、行こ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d90a4a01990c297671cb9327○"「お……」"
 ●d90a4a01990c297671cb9327●"「お……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e2d8a7bcf92c34878fdc2738○"　そう言って差し出されたのは、小さな手。"
 ●e2d8a7bcf92c34878fdc2738●"　そう言って差し出されたのは、小さな手。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9629d8f3dc98663e10e6abf8○"「うん、行こうか」"
 ●9629d8f3dc98663e10e6abf8●"「うん、行こうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○613394bd3bce44415d3154ae○"　その手に、自分の手を重ね……包むように握る。"
 ●613394bd3bce44415d3154ae●"　その手に、自分の手を重ね……包むように握る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b2b5c484475e0b9aec91cdb9○"「えへへ……じゃあ、しゅっぱーつ」"
 ●b2b5c484475e0b9aec91cdb9●"「えへへ……じゃあ、しゅっぱーつ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○42fe301c4da30f6f2cf423b1○"　ふたり並んで、行き先は足任せの、予定のないデート\\nに歩き出す。"
 ●42fe301c4da30f6f2cf423b1●"　ふたり並んで、行き先は足任せの、予定のないデート\\nに歩き出す。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c8866d7fdd8121a0c726f8e2○"　久しぶりに過ごす心地いい時間の、はじまりはじまりっ\\nと。"
 ●c8866d7fdd8121a0c726f8e2●"　久しぶりに過ごす心地いい時間の、はじまりはじまりっ\\nと。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○186d6a5a86d3631c5b471a78○"　なんとなく歩いて、なんとなく他愛もない会話をして\\nみれば、いつの間にか海岸線へ。"
 ●186d6a5a86d3631c5b471a78●"　なんとなく歩いて、なんとなく他愛もない会話をして\\nみれば、いつの間にか海岸線へ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6c19352fac66e0826ce6291d○"　１１月なので、流石に海水浴をしている人はいないが、\\n砂浜で遊んでいる人はちらほら。"
 ●6c19352fac66e0826ce6291d●"　１１月なので、流石に海水浴をしている人はいないが、\\n砂浜で遊んでいる人はちらほら。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cb768a07d6049ba6cb6b7e0f○"　キャッチボールをしたり、犬と散歩したり、ただブラ\\nブラ歩いていたり。"
 ●cb768a07d6049ba6cb6b7e0f●"　キャッチボールをしたり、犬と散歩したり、ただブラ\\nブラ歩いていたり。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○13c6110ffef26edae622c0be○"「んー……困ったなぁ……」"
 ●13c6110ffef26edae622c0be●"「んー……困ったなぁ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7091de30d4b3a1d00ebc186b○"「困ったって……何が？」"
 ●7091de30d4b3a1d00ebc186b●"「困ったって……何が？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ec32d5629f2c60c05f4db828○"「頭空っぽにして散歩しようって言ったけど……意外と\\n　難しいなーって」"
 ●ec32d5629f2c60c05f4db828●"「頭空っぽにして散歩しようって言ったけど……意外と\\n　難しいなーって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8df9667197ded89ddbbf116b○"「普通に話してても、いつの間にかカガサイのことがチ\\n　ラついちゃう」"
 ●8df9667197ded89ddbbf116b●"「普通に話してても、いつの間にかカガサイのことがチ\\n　ラついちゃう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bc343c9079093e2a4954d584○"「あぁ、それは分かる気がする」"
 ●bc343c9079093e2a4954d584●"「あぁ、それは分かる気がする」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6bccacd0b4fb4aa0d84ee575○"　時期が時期だもんな。実際、詰まってるタスクがいく\\nつもあるし。"
 ●6bccacd0b4fb4aa0d84ee575●"　時期が時期だもんな。実際、詰まってるタスクがいく\\nつもあるし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cb40cb0eef882a11bab9de0c○"「うぅぅ～～～、どうしよう。これじゃ折角のデートを\\n　楽しめないよ……」"
 ●cb40cb0eef882a11bab9de0c●"「うぅぅ～～～、どうしよう。これじゃ折角のデートを\\n　楽しめないよ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○36afbe146672cbf8dc4db776○"「それは俺も嫌だな……」"
 ●36afbe146672cbf8dc4db776●"「それは俺も嫌だな……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cc10a455c14f6ac178f90d8a○"　完全にこのデートプランが頓挫したことになってしま\\nう。"
 ●cc10a455c14f6ac178f90d8a●"　完全にこのデートプランが頓挫したことになってしま\\nう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○863e030e6b1d12877775a992○"　なんかこう、一発逆転の秘策なんかあればいいが……。"
 ●863e030e6b1d12877775a992●"　なんかこう、一発逆転の秘策なんかあればいいが……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○38042f3579a8d97c46cd19e5○"「……じゃあ、こうしよう。頭を空っぽにするってのは、\\n　一旦ナシにして」"
 ●38042f3579a8d97c46cd19e5●"「……じゃあ、こうしよう。頭を空っぽにするってのは、\\n　一旦ナシにして」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aa82ae768af662c0c0552242○"「カガサイのちょっと先のことを考えよう」"
 ●aa82ae768af662c0c0552242●"「カガサイのちょっと先のことを考えよう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c5b6762a83e025d93c6aa005○"「ちょっと先のこと……期末テスト？」"
 ●c5b6762a83e025d93c6aa005●"「ちょっと先のこと……期末テスト？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○72997aa598df53db80fd93d1○"「……ごめん、それは行き過ぎ」"
 ●72997aa598df53db80fd93d1●"「……ごめん、それは行き過ぎ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○739a50742eb54f26b04b3f92○"　いらんことを思い出してしまった。うわぁ、全然対策\\nしてねぇ……。"
 ●739a50742eb54f26b04b3f92●"　いらんことを思い出してしまった。うわぁ、全然対策\\nしてねぇ……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9f5b4b5ffb9921dd95a5a4ee○"「仮にの話だ、ラブ裁判も無事完成して、カガサイが始\\n　まって、ラブ裁判も大々的に成功したとする」"
 ●9f5b4b5ffb9921dd95a5a4ee●"「仮にの話だ、ラブ裁判も無事完成して、カガサイが始\\n　まって、ラブ裁判も大々的に成功したとする」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fac74c6b3025dfd7abce48cd○"「うんうん」"
 ●fac74c6b3025dfd7abce48cd●"「うんうん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○38c7bcebe6d72e25dd321f43○"「多分、クラス中盛り上がるだろう。やんややんやの大\\n　喝采で、カガサイが幕を閉じる」"
 ●38c7bcebe6d72e25dd321f43●"「多分、クラス中盛り上がるだろう。やんややんやの大\\n　喝采で、カガサイが幕を閉じる」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2e1925a1bff68c5afbcb068d○"「で、その後どうする？」"
 ●2e1925a1bff68c5afbcb068d●"「で、その後どうする？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6bf5781aefb6f001172cc01a○"「その後って……あぁ、ふふっ、そういうことか」"
 ●6bf5781aefb6f001172cc01a●"「その後って……あぁ、ふふっ、そういうことか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1aaa27ce1eace671eb168bc3○"「そういうこと。カガサイが終わって、後夜祭も終えて\\n　……」"
 ●1aaa27ce1eace671eb168bc3●"「そういうこと。カガサイが終わって、後夜祭も終えて\\n　……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dc0bd595d5f79197aece3abc○"「クラスみんなで打ち上げに行ったり、誰かの家に集まっ\\n　て騒いだり……有里栖は何をしたい？」"
 ●dc0bd595d5f79197aece3abc●"「クラスみんなで打ち上げに行ったり、誰かの家に集まっ\\n　て騒いだり……有里栖は何をしたい？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b8db185c6f90c20d9d54e8cf○"「ふふっ、私は……やっぱり、打ち上げといったら、オー\\n　ルインワンが最初に浮かぶかな」"
 ●b8db185c6f90c20d9d54e8cf●"「ふふっ、私は……やっぱり、打ち上げといったら、オー\\n　ルインワンが最初に浮かぶかな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e288d2a083d7353f82fca2b1○"「やっぱりそうか。学生が好きなもの[たい]大[がい]概[そろ]揃ってるもん\\n　な」"
 ●e288d2a083d7353f82fca2b1●"「やっぱりそうか。学生が好きなもの[たい]大[がい]概[そろ]揃ってるもん\\n　な」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f06632d740d1b6e79da38da8○"「カラオケでもいいし、ボーリングでもいいし……。頑\\n　張った分、思い切り騒ぎたいかなー」"
 ●f06632d740d1b6e79da38da8●"「カラオケでもいいし、ボーリングでもいいし……。頑\\n　張った分、思い切り騒ぎたいかなー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e07ae5cdafca684350b9a54f○"「俺も発想は同じだな。個人的にはビリヤード大会が\\n　したい」"
 ●e07ae5cdafca684350b9a54f●"「俺も発想は同じだな。個人的にはビリヤード大会が\\n　したい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○05514295c4db891cb8a68fd6○"「あは、そうなんだ。ちなみに常坂君って上手いの？」"
 ●05514295c4db891cb8a68fd6●"「あは、そうなんだ。ちなみに常坂君って上手いの？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0349cebd42160566f1264ae8○"「いいや、全然。何度か遊びでやったことがあるくらい」"
 ●0349cebd42160566f1264ae8●"「いいや、全然。何度か遊びでやったことがあるくらい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○54f3947fb9efae96c45d5217○"「ただ面白いなーっては思ってるから、一度はみんなで\\n　やってみたい」"
 ●54f3947fb9efae96c45d5217●"「ただ面白いなーっては思ってるから、一度はみんなで\\n　やってみたい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○86b44a2026958eab8977f1dc○"「ふふっ、じゃあその時は、私も参加ってことでお願い\\n　ね？」"
 ●86b44a2026958eab8977f1dc●"「ふふっ、じゃあその時は、私も参加ってことでお願い\\n　ね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a24137c03d1189ced3f74636○"「了解」"
 ●a24137c03d1189ced3f74636●"「了解」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dd4f682f64c3a34aa3562072○"　うん、想像だけでもちょっと楽しい。"
 ●dd4f682f64c3a34aa3562072●"　うん、想像だけでもちょっと楽しい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2a4cc6e5ceaae223fea1a9bf○"　打ち上げをどうするかって、まだ誰も話してなかった\\nからな。"
 ●2a4cc6e5ceaae223fea1a9bf●"　打ち上げをどうするかって、まだ誰も話してなかった\\nからな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7848cc424ea4d81776b83edb○"　今のところ、料金設定は決まってないけど……。完成\\nすればそこそこの売上になる……はず。"
 ●7848cc424ea4d81776b83edb●"　今のところ、料金設定は決まってないけど……。完成\\nすればそこそこの売上になる……はず。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8b840bdfc74da00b4bc4dec0○"「ただ……他のクラスも同じこと考えてると思うんだよ\\n　なぁ……」"
 ●8b840bdfc74da00b4bc4dec0●"「ただ……他のクラスも同じこと考えてると思うんだよ\\n　なぁ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ad055def79a872f9e0e21361○"「あー、それはそうかもね……。みんな考えてることは\\n　一緒だと思うし」"
 ●ad055def79a872f9e0e21361●"「あー、それはそうかもね……。みんな考えてることは\\n　一緒だと思うし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9aeaa28480a0b0f77544a4b1○"「当日は早いもの勝ちになりそうな気がするな」"
 ●9aeaa28480a0b0f77544a4b1●"「当日は早いもの勝ちになりそうな気がするな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○700e4501ada650dcc8f3bc62○"「ふふ、そんなに心配しなくていいんじゃない？　あそ\\n　こ結構広いから大丈夫だよ」"
 ●700e4501ada650dcc8f3bc62●"「ふふ、そんなに心配しなくていいんじゃない？　あそ\\n　こ結構広いから大丈夫だよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f7fdf47ff7e75207726e3337○"「……それもそっか、アトラクションもかなりあるし」"
 ●f7fdf47ff7e75207726e3337●"「……それもそっか、アトラクションもかなりあるし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○02c017d08ca3fa253aff9e00○"　集まったとしても、中でバラけるだろ。"
 ●02c017d08ca3fa253aff9e00●"　集まったとしても、中でバラけるだろ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○29af9dbfd2371eec392743f7○"　ファミレスで打ち上げするクラスとかもあるだろうし。"
 ●29af9dbfd2371eec392743f7●"　ファミレスで打ち上げするクラスとかもあるだろうし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a0844e5b8a6a92108a78e2bb○"　今はポジティブに、自分達に都合のいい考え方でいこ\\nう。"
 ●a0844e5b8a6a92108a78e2bb●"　今はポジティブに、自分達に都合のいい考え方でいこ\\nう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1e6c5cb8cba4ed0815df9399○"　こうやって有里栖といる時くらいは……そんな楽な生\\nき方が丁度いい。"
 ●1e6c5cb8cba4ed0815df9399●"　こうやって有里栖といる時くらいは……そんな楽な生\\nき方が丁度いい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○83c4f5907ea8df906e2461ae○"「わっ……わっ、なんか今日ちょっと揺れるね……」"
 ●83c4f5907ea8df906e2461ae●"「わっ……わっ、なんか今日ちょっと揺れるね……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7149ab2a2912f1a245df17f8○"「確かに……風が強いせいか？」"
 ●7149ab2a2912f1a245df17f8●"「確かに……風が強いせいか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0cc80abce631c9f8d8ec8bd4○"「そうかも……あはは、ちょっとドキドキする」"
 ●0cc80abce631c9f8d8ec8bd4●"「そうかも……あはは、ちょっとドキドキする」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9bcfcb081f4df8af37a1d546○"　大きな橋は、むしろ揺れたほうがいいんだっけ？　無\\n理に耐えたりすると、ダメージが大きいとかなんとか。"
 ●9bcfcb081f4df8af37a1d546●"　大きな橋は、むしろ揺れたほうがいいんだっけ？　無\\n理に耐えたりすると、ダメージが大きいとかなんとか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6539baa9aa0a2002e3ae8091○"　そんなことを、泉先生の授業で聞いた気がする。"
 ●6539baa9aa0a2002e3ae8091●"　そんなことを、泉先生の授業で聞いた気がする。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f0e86bd539b77c5239bce8d5○"「ん……ねぇ、常坂君。ちょっとここで休憩しない？」"
 ●f0e86bd539b77c5239bce8d5●"「ん……ねぇ、常坂君。ちょっとここで休憩しない？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d39a862b29f362b066865a64○"「ん、疲れた？」"
 ●d39a862b29f362b066865a64●"「ん、疲れた？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○be3ba2b7d9dde9ec22115ada○"「ううん、そこは全然。海を見ながらぼーっとしたい気\\n　分になって」"
 ●be3ba2b7d9dde9ec22115ada●"「ううん、そこは全然。海を見ながらぼーっとしたい気\\n　分になって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5a95738868b4270e5671bad9○"「そういうことか……うん、オーケー」"
 ●5a95738868b4270e5671bad9●"「そういうことか……うん、オーケー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ed769afb62d4186dcf760e30○"「ふふっ……ありがと」"
 ●ed769afb62d4186dcf760e30●"「ふふっ……ありがと」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b85c44b8808768c5c00241e7○"　まさに今日にふさわしい時間の使い方だ。"
 ●b85c44b8808768c5c00241e7●"　まさに今日にふさわしい時間の使い方だ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d1a4741cfa753b6bb72bb3cc○"　日も沈みかけの時間帯、丁度いい風が顔に当たる。"
 ●d1a4741cfa753b6bb72bb3cc●"　日も沈みかけの時間帯、丁度いい風が顔に当たる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bd3c6bec73efa09743358d95○"　下を見れば、無数の波が[き]幾[か]何[がく]学[も]模[よう]様を描き。遠くに目\\nを向ければ、穏やかな海原。"
 ●bd3c6bec73efa09743358d95●"　下を見れば、無数の波が[き]幾[か]何[がく]学[も]模[よう]様を描き。遠くに目\\nを向ければ、穏やかな海原。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c18e9a49433d92366c6a9140○"「……ふふっ、もしかして、常坂君ってこういうところ\\n　苦手？」"
 ●c18e9a49433d92366c6a9140●"「……ふふっ、もしかして、常坂君ってこういうところ\\n　苦手？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8ee5a83197c167d431b6ef63○"「いんや、全然平気。別に高所恐怖症じゃないぞ？」"
 ●8ee5a83197c167d431b6ef63●"「いんや、全然平気。別に高所恐怖症じゃないぞ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○48add0f7d00071e598cf8209○"「あ、そうなの？　コースターの時いっぱい叫んでるか\\n　ら、もしかしたらなーって」"
 ●48add0f7d00071e598cf8209●"「あ、そうなの？　コースターの時いっぱい叫んでるか\\n　ら、もしかしたらなーって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fc97c669e4a9871f920e2914○"「あれは……ほら、高いと速いが組み合わさって最恐に\\n　感じるから」"
 ●fc97c669e4a9871f920e2914●"「あれは……ほら、高いと速いが組み合わさって最恐に\\n　感じるから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○82b00f6e0cbecb7bf0c70e19○"「あぁ、なるほど。じゃあこの橋がぐわんぐわん動くと\\n　怖いんだ」"
 ●82b00f6e0cbecb7bf0c70e19●"「あぁ、なるほど。じゃあこの橋がぐわんぐわん動くと\\n　怖いんだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6e403c8b262b873b96472ab○"「……それはもう万人が命の危機を感じるだろ」"
 ●b6e403c8b262b873b96472ab●"「……それはもう万人が命の危機を感じるだろ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○71cc6ca05d512324fe0e42f3○"　無神論者が神に救いを求めるレベル。"
 ●71cc6ca05d512324fe0e42f3●"　無神論者が神に救いを求めるレベル。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○139e5b407a9e7ab2b8a5eb70○"「……今日は誘ってくれてありがとね。おかげで、ちょっ\\n　と楽になった」"
 ●139e5b407a9e7ab2b8a5eb70●"「……今日は誘ってくれてありがとね。おかげで、ちょっ\\n　と楽になった」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8fcb6c1e3f94617bbc546643○"「どういたしまして。……つっても、お礼を言われるほ\\n　どのことはしてないけどな」"
 ●8fcb6c1e3f94617bbc546643●"「どういたしまして。……つっても、お礼を言われるほ\\n　どのことはしてないけどな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f9a8fcdee1df9d0c2a2e54fe○"　ただ散歩に誘っただけ。内容らしい内容なんてほとん\\nどない。"
 ●f9a8fcdee1df9d0c2a2e54fe●"　ただ散歩に誘っただけ。内容らしい内容なんてほとん\\nどない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b2dbf682c4f1d1f2e44dba62○"「ううん……そんなことない。私もちょっと忘れてたし」"
 ●b2dbf682c4f1d1f2e44dba62●"「ううん……そんなことない。私もちょっと忘れてたし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e806a995b426dfcc906bb060○"「どうすればラブ裁判が面白くなるのか、最近はそうい\\n　うことばかり考えがちになっちゃってたかもって……」"
 ●e806a995b426dfcc906bb060●"「どうすればラブ裁判が面白くなるのか、最近はそうい\\n　うことばかり考えがちになっちゃってたかもって……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4123d7c29d2443062708fdc5○"「だから……こうやってノンビリ幸せなことをすること\\n　は逆に忘れがちだったかもって……」"
 ●4123d7c29d2443062708fdc5●"「だから……こうやってノンビリ幸せなことをすること\\n　は逆に忘れがちだったかもって……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○15e2688778d72c9bd46b43e6○"「……うん」"
 ●15e2688778d72c9bd46b43e6●"「……うん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○640894c94ae0e5ff7a278b61○"　みんなも一緒……だけど、有里栖が一番追い込まれて\\nた。"
 ●640894c94ae0e5ff7a278b61●"　みんなも一緒……だけど、有里栖が一番追い込まれて\\nた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○eaf8eaa3573a3343796f7907○"　自ら気負った部分もあったりして。"
 ●eaf8eaa3573a3343796f7907●"　自ら気負った部分もあったりして。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0da57005a809792695bd118a○"　笑顔が無くならないのはさすがだったけど、その下に\\n隠れた疲労は俺じゃないと気付かなかったかもしれない。"
 ●0da57005a809792695bd118a●"　笑顔が無くならないのはさすがだったけど、その下に\\n隠れた疲労は俺じゃないと気付かなかったかもしれない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○82cc83063f6c26313973f56c○"「だから……今日常坂君と一緒に散歩出来て良かった。\\n　息抜き大事だよね！　大げさだけど、本当に嬉しくて\\n　……楽しいってことを思い出したんだ」"
 ●82cc83063f6c26313973f56c●"「だから……今日常坂君と一緒に散歩出来て良かった。\\n　息抜き大事だよね！　大げさだけど、本当に嬉しくて\\n　……楽しいってことを思い出したんだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○eb52e7f8cddb0ce1adda0e86○"「そいつはよかった」"
 ●eb52e7f8cddb0ce1adda0e86●"「そいつはよかった」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2c5cee9b5772e354baa604a5○"「ふふっ、だからありがと。……やっぱり私、常坂君を\\n　好きになってよかった」"
 ●2c5cee9b5772e354baa604a5●"「ふふっ、だからありがと。……やっぱり私、常坂君を\\n　好きになってよかった」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a53b1c77bf87243dd3dbde9d○"「……いきなりドキッとするようなこと言わないでく\\n　れ」"
 ●a53b1c77bf87243dd3dbde9d●"「……いきなりドキッとするようなこと言わないでく\\n　れ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e1913c60c36ab075f2eeec1a○"「えへへ、もう何回も言ってるでしょ？」"
 ●e1913c60c36ab075f2eeec1a●"「えへへ、もう何回も言ってるでしょ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7536f6501966d3cc0953d11a○"「そうなんだけどさ……」"
 ●7536f6501966d3cc0953d11a●"「そうなんだけどさ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○18eaf66c658468eb6a628620○"　有里栖に笑顔で言われると、威力が高いんだって。"
 ●18eaf66c658468eb6a628620●"　有里栖に笑顔で言われると、威力が高いんだって。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dc51a7592d4a5947ddccf540○"「あはっ、分かりやすく照れてない？　そんなにドキド\\n　キしてる？」"
 ●dc51a7592d4a5947ddccf540●"「あはっ、分かりやすく照れてない？　そんなにドキド\\n　キしてる？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○93458ec19a8630562e9499ba○"「まぁ……有里栖が思ってる以上には」"
 ●93458ec19a8630562e9499ba●"「まぁ……有里栖が思ってる以上には」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4f24aedd24a0ec8c2b06c859○"「んふふ……好きだよー、とっても大好き。ずっとちゅー\\n　してたいくらい好きー」"
 ●4f24aedd24a0ec8c2b06c859●"「んふふ……好きだよー、とっても大好き。ずっとちゅー\\n　してたいくらい好きー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7ab20997276a0f723b0d6a53○"「ぐっ……あ、有里栖、なんか面白がってないか？」"
 ●7ab20997276a0f723b0d6a53●"「ぐっ……あ、有里栖、なんか面白がってないか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bc4edebe74fdc90f547b539d○"「んー？　そんなことないよー？　照れてる顔も好きだ\\n　なーって思ってるだけー」"
 ●bc4edebe74fdc90f547b539d●"「んー？　そんなことないよー？　照れてる顔も好きだ\\n　なーって思ってるだけー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○18f6f43bda507426fa17b050○"「……絶対面白がってる」"
 ●18f6f43bda507426fa17b050●"「……絶対面白がってる」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○04f1315b5c46f7299befed8a○"「あー、そうやってすぐ目をそらすー。でもそういうと\\n　ころも好きだなー」"
 ●04f1315b5c46f7299befed8a●"「あー、そうやってすぐ目をそらすー。でもそういうと\\n　ころも好きだなー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c2ab3ee49a6b86b7128aa9d9○"　やばい、これジリ貧じゃねえか……。こうなったら起\\n死回生の奥義を繰り出すしか……。"
 ●c2ab3ee49a6b86b7128aa9d9●"　やばい、これジリ貧じゃねえか……。こうなったら起\\n死回生の奥義を繰り出すしか……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e7e49cd74ffe0eceb6cb853b○"「……俺も有里栖が大好きだぞ」"
 ●e7e49cd74ffe0eceb6cb853b●"「……俺も有里栖が大好きだぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○438f32041d90e946a288364f○"「うん知ってるー、言ってくれてありがと。後でお礼に\\n　ちゅーしてあげるねー？」"
 ●438f32041d90e946a288364f●"「うん知ってるー、言ってくれてありがと。後でお礼に\\n　ちゅーしてあげるねー？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c2431531b5e732b46b4511cd○"「うぐっ……」"
 ●c2431531b5e732b46b4511cd●"「うぐっ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b7dda2cde27e08b302b92833○"　くそ、とっておきの逆転策が、こんなにもあっさりと\\n破られるとは……。"
 ●b7dda2cde27e08b302b92833●"　くそ、とっておきの逆転策が、こんなにもあっさりと\\n破られるとは……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○92a94170ed644db4178e923d○"　もうなりふり構ってられない。何か良い手はないか、\\n何か……。"
 ●92a94170ed644db4178e923d●"　もうなりふり構ってられない。何か良い手はないか、\\n何か……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7ed5b3e5d5a09eeea2aeb4cd○"「お……有里栖、鳥が飛んでるぞ」"
 ●7ed5b3e5d5a09eeea2aeb4cd●"「お……有里栖、鳥が飛んでるぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4aa35630223f955763e5aa00○"「あはは、それはちょっと強引過ぎだって。でもそうい\\n　うところも好きー」"
 ●4aa35630223f955763e5aa00●"「あはは、それはちょっと強引過ぎだって。でもそうい\\n　うところも好きー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cbf291bafd31ee84f817902c○"「……ま、そうなるよなぁ」"
 ●cbf291bafd31ee84f817902c●"「……ま、そうなるよなぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○554b20f6c5c8b43f6b02ddaa○"　子供でも引っかからない手だし。"
 ●554b20f6c5c8b43f6b02ddaa●"　子供でも引っかからない手だし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b5dcc24c86eb701930c20a41○"　でも、鳥が飛んでるのは本当のこと。"
 ●b5dcc24c86eb701930c20a41●"　でも、鳥が飛んでるのは本当のこと。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7d2786f7aac4cfb507ea60c2○"　風に乗るように、ひゅるり、ひゅるりと舞っている。"
 ●7d2786f7aac4cfb507ea60c2●"　風に乗るように、ひゅるり、ひゅるりと舞っている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○612c2557f48004499a39fe19○"「お？」"
 ●612c2557f48004499a39fe19●"「お？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○08ead3e961e55fea1f7ade09○"「わ、わ、こっち来た……」"
 ●08ead3e961e55fea1f7ade09●"「わ、わ、こっち来た……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5cd0517b1cf9adbadf41f62a○"　その鳥が、あっという間に俺たちの目の前まで来て──"
 ●5cd0517b1cf9adbadf41f62a●"　その鳥が、あっという間に俺たちの目の前まで来て──"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bef1e6d68f72f95a8a8135f8○"　するり、と急降下。"
 ●bef1e6d68f72f95a8a8135f8●"　するり、と急降下。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8426e23ea9faeacbd9d72fc2○"「なんだなんだ？」"
 ●8426e23ea9faeacbd9d72fc2●"「なんだなんだ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ebf9794745fd07d31d5ee7b2○"「あ……もしかして……」"
 ●ebf9794745fd07d31d5ee7b2●"「あ……もしかして……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○491b2fbae2489bcbf2dedaf7○"　ぐっと有里栖が、[きょう]橋[りょう]梁を[のぞ]覗き込むと……。"
 ●491b2fbae2489bcbf2dedaf7●"　ぐっと有里栖が、[きょう]橋[りょう]梁を[のぞ]覗き込むと……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dce78b3fc22b3e651fbb2ffa○"「ふふっ、やっぱり……。ね、常坂君、あそこ見て？」"
 ●dce78b3fc22b3e651fbb2ffa●"「ふふっ、やっぱり……。ね、常坂君、あそこ見て？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a3d1bc16b28c7d0e91ff1b5d○"「どこ？」"
 ●a3d1bc16b28c7d0e91ff1b5d●"「どこ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f73a5ca13eb0a675edb22459○"「支柱のところ……あそこに、さっきの鳥がいるよ？」"
 ●f73a5ca13eb0a675edb22459●"「支柱のところ……あそこに、さっきの鳥がいるよ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f339a1995ff65a248b39e56a○"「支柱……？」"
 ●f339a1995ff65a248b39e56a●"「支柱……？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○18584bd9fbe13df9118db9f7○"　んー、っと…………あー、あそこか。"
 ●18584bd9fbe13df9118db9f7●"　んー、っと…………あー、あそこか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6703b3e25fa4dec84e2550c○"「なるほどね、巣があったのか」"
 ●b6703b3e25fa4dec84e2550c●"「なるほどね、巣があったのか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bba51be84f3e616e8743578e○"「みたいだね、ふふっ、ちゃんと[ひな]雛もいるみたい」"
 ●bba51be84f3e616e8743578e●"「みたいだね、ふふっ、ちゃんと[ひな]雛もいるみたい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ec1a9a9c7ad04339847be331○"「上手いところに作ったなー」"
 ●ec1a9a9c7ad04339847be331●"「上手いところに作ったなー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○64402e413158f93d75113526○"　支柱と[きょう　]橋[　りょう]梁の接合部分。上も横もしっかり守られてい\\nて。"
 ●64402e413158f93d75113526●"　支柱と[きょう　]橋[　りょう]梁の接合部分。上も横もしっかり守られてい\\nて。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3da3e5d419944b75b24f8ed5○"　パイプだったり網だったりあるから、外敵からもしっ\\nかり守る形になっている。"
 ●3da3e5d419944b75b24f8ed5●"　パイプだったり網だったりあるから、外敵からもしっ\\nかり守る形になっている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1347dac5b720f9cae48da5d9○"「元からあった物を上手く利用しているみたいだね」"
 ●1347dac5b720f9cae48da5d9●"「元からあった物を上手く利用しているみたいだね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e7d744a012942d44a496de90○"「うんうん、ゼロから作るんじゃなくて、誰かが作った\\n　ものを使わせて貰ってるし」"
 ●e7d744a012942d44a496de90●"「うんうん、ゼロから作るんじゃなくて、誰かが作った\\n　ものを使わせて貰ってるし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○091c59e327b0fe11ffde0562○"「鳥頭なんていうけど、普通に頭良いよな」"
 ●091c59e327b0fe11ffde0562●"「鳥頭なんていうけど、普通に頭良いよな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○065fb9478cb5e8fca1f58e01○"「ふふっ、そう……だね……」"
 ●065fb9478cb5e8fca1f58e01●"「ふふっ、そう……だね……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8306a38859e2ff8d1a0d2577○"　……と、そこで有里栖の表情が一変して。"
 ●8306a38859e2ff8d1a0d2577●"　……と、そこで有里栖の表情が一変して。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6d84ff2bd460470c76e9483a○"「どうかしたか？」"
 ●6d84ff2bd460470c76e9483a●"「どうかしたか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○57575e82f460f3d4267dafc6○"「ん……ちょっと、なんか引っかかる感じ……。ええと、\\n　全然言葉に出来ないんだけど……」"
 ●57575e82f460f3d4267dafc6●"「ん……ちょっと、なんか引っかかる感じ……。ええと、\\n　全然言葉に出来ないんだけど……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○59c564bcec5a865b15532169○"「……思いつきそう？」"
 ●59c564bcec5a865b15532169●"「……思いつきそう？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○da00fa366cc1a689de40bac5○"「うん……そう、かも……。まだ調べてないから、正解\\n　かどうか分からないけど……」"
 ●da00fa366cc1a689de40bac5●"「うん……そう、かも……。まだ調べてないから、正解\\n　かどうか分からないけど……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c3ea09a6830a8940635ba328○"　鳥で？　橋で？　それとも巣で？　まさかそれらでヒ\\nントを？"
 ●c3ea09a6830a8940635ba328●"　鳥で？　橋で？　それとも巣で？　まさかそれらでヒ\\nントを？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0c1c9f85f67f67540a665252○"「うーん……うん、でも、そうだよね……。別に私たち\\n　がいちいち動かす必要もないし……」"
 ●0c1c9f85f67f67540a665252●"「うーん……うん、でも、そうだよね……。別に私たち\\n　がいちいち動かす必要もないし……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○95ae48470172eb1715af881c○"「要は、お客さんから見ても、自然に見えればそれでい\\n　いもんね……」"
 ●95ae48470172eb1715af881c●"「要は、お客さんから見ても、自然に見えればそれでい\\n　いもんね……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8ab29937f17b1cd272d16d6b○"「あとは金額が問題になるけど……結構やってる人も多\\n　いから、そんなに高くはないはず……」"
 ●8ab29937f17b1cd272d16d6b●"「あとは金額が問題になるけど……結構やってる人も多\\n　いから、そんなに高くはないはず……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8a1f738a2e2629da477f7c9e○"　……何を言ってるのか分からん。"
 ●8a1f738a2e2629da477f7c9e●"　……何を言ってるのか分からん。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○416cdc8f3e12c3c71f070436○"　分からないけど……でも有里栖の目には、確かに……。"
 ●416cdc8f3e12c3c71f070436●"　分からないけど……でも有里栖の目には、確かに……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○639b58939d5f5bf46e18f2dd○"　[まぶ]眩しいくらいの、光が[みなぎ]漲ってる。"
 ●639b58939d5f5bf46e18f2dd●"　[まぶ]眩しいくらいの、光が[みなぎ]漲ってる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○33498dfc59cbac23edc47f9b○"「……あはっ、そうだよ。こんなに苦労しなくてもよかっ\\n　たんだ」"
 ●33498dfc59cbac23edc47f9b●"「……あはっ、そうだよ。こんなに苦労しなくてもよかっ\\n　たんだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bceb3dee2663d11fe6baceb1○"「どうして気付かなかったんだろ。あぁ、もう、本当に\\n　私ってバカ……ふふっ」"
 ●bceb3dee2663d11fe6baceb1●"「どうして気付かなかったんだろ。あぁ、もう、本当に\\n　私ってバカ……ふふっ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b8147bd49d5495cd75ce8029○"「……良いこと思いついた？」"
 ●b8147bd49d5495cd75ce8029●"「……良いこと思いついた？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0fbb83ef1ec0d30dbf225573○"「うん、おかげさまで。詰まってるタスクも、あと多分\\n　予算の方も、なんとかなりそう」"
 ●0fbb83ef1ec0d30dbf225573●"「うん、おかげさまで。詰まってるタスクも、あと多分\\n　予算の方も、なんとかなりそう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d7e6737bc5490a78ccb750bd○"「ありがと、常坂君。また助けて貰っちゃった」"
 ●d7e6737bc5490a78ccb750bd●"「ありがと、常坂君。また助けて貰っちゃった」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○15d48aa7d5535d1502e6c8d9○"「いや、俺何もしてないし、助けたって実感が……わっ」"
 ●15d48aa7d5535d1502e6c8d9●"「いや、俺何もしてないし、助けたって実感が……わっ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a63b637b66bd9ed2715d3add○"「ちゅっ」"
 ●a63b637b66bd9ed2715d3add●"「ちゅっ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○11e8e77687315620deedb3db○"　有里栖の顔が近づいてきた……と思った瞬間には、キ\\nスされて。"
 ●11e8e77687315620deedb3db●"　有里栖の顔が近づいてきた……と思った瞬間には、キ\\nスされて。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ea489ebc9332a7b35ee67263○"「ん……ちゅぅ……」"
 ●ea489ebc9332a7b35ee67263●"「ん……ちゅぅ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○54743956ebf55ccf99798807○"「ん……有里栖……」"
 ●54743956ebf55ccf99798807●"「ん……有里栖……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○594f0151dde2ca2f3443342b○"「ん……ふふっ、お礼のキス。やっぱり私、常坂君のこ\\n　と大好きだなー」"
 ●594f0151dde2ca2f3443342b●"「ん……ふふっ、お礼のキス。やっぱり私、常坂君のこ\\n　と大好きだなー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6ac134287f87b1d6aa73c947○"「って……またそうやってからかって……」"
 ●6ac134287f87b1d6aa73c947●"「って……またそうやってからかって……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0ec9725932821273d5f30013○"「からかってないよ、今のは本当に、心からの好き。だ\\n　からキスだってしたんだもん」"
 ●0ec9725932821273d5f30013●"「からかってないよ、今のは本当に、心からの好き。だ\\n　からキスだってしたんだもん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f49632ad35e7222405f90d86○"「…………」"
 ●f49632ad35e7222405f90d86●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○715fb72ca578ff49c8d0eff4○"　だよな、じゃないとこんなあっさりとキスしないし。"
 ●715fb72ca578ff49c8d0eff4●"　だよな、じゃないとこんなあっさりとキスしないし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ac1a280b439484cfc2062bb7○"「……今のはってことは、さっきの好きは、やっぱり冗\\n　談かい」"
 ●ac1a280b439484cfc2062bb7●"「……今のはってことは、さっきの好きは、やっぱり冗\\n　談かい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○04406e2706d64d6741178169○"「あ、ふふっ……やっぱりバレてた？」"
 ●04406e2706d64d6741178169●"「あ、ふふっ……やっぱりバレてた？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4a20ee943accb4119100690b○"「当たり前だろ、あれだけ言われたら、そりゃあなぁ」"
 ●4a20ee943accb4119100690b●"「当たり前だろ、あれだけ言われたら、そりゃあなぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6eaf49fe3998209d1d19939○"「えへへ、ごめんごめん。でも安心して、半分は本音だ\\n　もん」"
 ●b6eaf49fe3998209d1d19939●"「えへへ、ごめんごめん。でも安心して、半分は本音だ\\n　もん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○86d54ee664f3f9af50124f4f○"　……ま、別にいいけどさ。"
 ●86d54ee664f3f9af50124f4f●"　……ま、別にいいけどさ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9d6a32e78fcbaf158ad68a8c○"　有里栖の元気も戻ったし。何より、なんか良いこと思\\nいついたっぽいし。"
 ●9d6a32e78fcbaf158ad68a8c●"　有里栖の元気も戻ったし。何より、なんか良いこと思\\nいついたっぽいし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○30aa607b5620285e5f5b6739○"　……やっぱり有里栖は、素直な笑顔を浮かべてるとき\\nが、一番可愛い。"
 ●30aa607b5620285e5f5b6739●"　……やっぱり有里栖は、素直な笑顔を浮かべてるとき\\nが、一番可愛い。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○35549817a4d9694fda0c96e5○"　その表情を見れるのであれば……どんなイタズラだっ\\nて許すってもんだ。"
 ●35549817a4d9694fda0c96e5●"　その表情を見れるのであれば……どんなイタズラだっ\\nて許すってもんだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○785ea6cd2539b75470443004○"「ふふっ、じゃあ、そろそろ行こうか」"
 ●785ea6cd2539b75470443004●"「ふふっ、じゃあ、そろそろ行こうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○982c592f4310e0d2dd322a14○"「だな、寒くならない内に戻ろう」"
 ●982c592f4310e0d2dd322a14●"「だな、寒くならない内に戻ろう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○91ceaa0f4f0c1a9e2d9e15c4○"　……今日デートに誘って、本当に良かった。俺にとっ\\nても、有里栖にとっても、最高の一日になった。"
 ●91ceaa0f4f0c1a9e2d9e15c4●"　……今日デートに誘って、本当に良かった。俺にとっ\\nても、有里栖にとっても、最高の一日になった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○36d443ce68a9c2b2770c1017○"　明日は体育祭が始まり、それに並行してカガサイの準\\n備もペースアップする。"
 ●36d443ce68a9c2b2770c1017●"　明日は体育祭が始まり、それに並行してカガサイの準\\n備もペースアップする。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f37fdc59970d5be348843a21○"　でも、この調子なら……。"
 ●f37fdc59970d5be348843a21●"　でも、この調子なら……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f0f5bfca1e62061eed3ec044○"　きっと、みんなを驚かす日々になるに違いない。"
 ●f0f5bfca1e62061eed3ec044●"　きっと、みんなを驚かす日々になるに違いない。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○9e31236aa7856a80c1c288f3○"鷲澤有里栖（１１月１７日）"
 ●9e31236aa7856a80c1c288f3●"鷲澤有里栖（１１月１７日）"

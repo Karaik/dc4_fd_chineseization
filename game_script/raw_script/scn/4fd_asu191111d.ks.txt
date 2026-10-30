@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○829206a06ed8f0e62e7ee552○"どうせやるなら本気で"
 ●829206a06ed8f0e62e7ee552●"どうせやるなら本気で"
 
@@ -7,7 +7,7 @@
 ○b22f42a04f76f557242a90fa○"諳子"
 ●b22f42a04f76f557242a90fa●"諳子"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○604a134d38f06ba9e9ccc260○"「ワンダーランドでウケそうなのは、やっぱり可愛い系\\n　のアトラクションだと思うの！」"
 ●604a134d38f06ba9e9ccc260●"「ワンダーランドでウケそうなのは、やっぱり可愛い系\\n　のアトラクションだと思うの！」"
 
@@ -15,27 +15,27 @@
 ○2937ebce79614437657abc4e○"二乃"
 ●2937ebce79614437657abc4e●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○368f624a8e709cb39aaaa75a○"「それもいいですけど、やっぱり遊園地だから、絶叫系\\n　の方が合うんじゃないですか？」"
 ●368f624a8e709cb39aaaa75a●"「それもいいですけど、やっぱり遊園地だから、絶叫系\\n　の方が合うんじゃないですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1d41711e4990d1c3a99f391b○"「上に下に、わぁーきゃぁーってなるような。今度は、\\n　急上昇するタワー的なアトラクションとか」"
 ●1d41711e4990d1c3a99f391b●"「上に下に、わぁーきゃぁーってなるような。今度は、\\n　急上昇するタワー的なアトラクションとか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○de9315bbf4fe8a5c338ea1c3○"「あぁー、あれ凄いよね。見てる方が怖くなっちゃうも\\n　ん」"
 ●de9315bbf4fe8a5c338ea1c3●"「あぁー、あれ凄いよね。見てる方が怖くなっちゃうも\\n　ん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○488b6969b2eb824c0df0d2ef○"　二乃とそら姉の激論は、帰ってきてからずっとこの調\\n子。"
 ●488b6969b2eb824c0df0d2ef●"　二乃とそら姉の激論は、帰ってきてからずっとこの調\\n子。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1c1d72025ea60fe4d18c5941○"　昼間の件を話したら、応募する前提で考えるって切り\\n口が面白いのか、そら姉も真剣に考えてくれている。"
 ●1c1d72025ea60fe4d18c5941●"　昼間の件を話したら、応募する前提で考えるって切り\\n口が面白いのか、そら姉も真剣に考えてくれている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cf4c14c6949ec5cf9e680c52○"「ねぇねぇ、いっちゃんの方は、何か良いアイデアは思\\n　いついた？」"
 ●cf4c14c6949ec5cf9e680c52●"「ねぇねぇ、いっちゃんの方は、何か良いアイデアは思\\n　いついた？」"
 
@@ -43,43 +43,43 @@
 ○eb5eb4b14782ae303f1aeb26○"一登"
 ●eb5eb4b14782ae303f1aeb26●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dc09bbc921720eff37b60db6○"「んー……全然、かなぁ。今ちょっと調査中」"
 ●dc09bbc921720eff37b60db6●"「んー……全然、かなぁ。今ちょっと調査中」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5de1a6917c498855bccab085○"「ＴＡＢで何を見てるんですか？」"
 ●5de1a6917c498855bccab085●"「ＴＡＢで何を見てるんですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8991229fcd8d0626caa48b6c○"「全国の遊園地にあるアトラクション。有名なやつから\\n　マイナーなやつまで一通り」"
 ●8991229fcd8d0626caa48b6c●"「全国の遊園地にあるアトラクション。有名なやつから\\n　マイナーなやつまで一通り」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4eaea7e0eb68b2fbe90e51db○"　ただ、[かんば]芳しいとは言えない。"
 ●4eaea7e0eb68b2fbe90e51db●"　ただ、[かんば]芳しいとは言えない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○29da0abc18b8344c7277394a○"　色んなサイトを巡ってるけど、主に遊園地の目玉とし\\nて紹介されているのは、やっぱり絶叫系。"
 ●29da0abc18b8344c7277394a●"　色んなサイトを巡ってるけど、主に遊園地の目玉とし\\nて紹介されているのは、やっぱり絶叫系。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ddba0493926bca9eeebb5d67○"　高さが売りだったり、速さが売りだったり。確かに参\\n考になるっちゃなるけど……。"
 ●ddba0493926bca9eeebb5d67●"　高さが売りだったり、速さが売りだったり。確かに参\\n考になるっちゃなるけど……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○de3bdcdbe603de58ba435b47○"　カガサイで出来るかと言われたら、阿呆の一言で片付\\nいてしまう。"
 ●de3bdcdbe603de58ba435b47●"　カガサイで出来るかと言われたら、阿呆の一言で片付\\nいてしまう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f8807b7b6845ea96aab681a4○"　となると、また違った見方をしないとな……。"
 ●f8807b7b6845ea96aab681a4●"　となると、また違った見方をしないとな……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9266264b46e0622e12d38581○"　ＣＯＭＵにメッセージが来た。"
 ●9266264b46e0622e12d38581●"　ＣＯＭＵにメッセージが来た。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8929647727123c5602205e86○"　お……有里栖か。"
 ●8929647727123c5602205e86●"　お……有里栖か。"
 
@@ -99,7 +99,7 @@
 ○f27eb236e3a1a18c9b8f27e0○"どうせだったら、面白いの考えたいね。"
 ●f27eb236e3a1a18c9b8f27e0●"どうせだったら、面白いの考えたいね。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○db0bdced057f8c7dd3bbde33○"　違いない……そこが一番難しいポイントではあるけど。"
 ●db0bdced057f8c7dd3bbde33●"　違いない……そこが一番難しいポイントではあるけど。"
 
@@ -119,7 +119,7 @@
 ○9e0886e0b87e587168832225○"それは何より。"
 ●9e0886e0b87e587168832225●"それは何より。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ab3a6f04a35050077ca08c69○"　放課後まで、ちょっと悩んでたみたいだからな。あの\\n後少し声をかけて正解だったようだ。"
 ●ab3a6f04a35050077ca08c69●"　放課後まで、ちょっと悩んでたみたいだからな。あの\\n後少し声をかけて正解だったようだ。"
 
@@ -135,22 +135,22 @@
 ○f1e848f1071ab57b44ecbf4e○"お互いにな。"
 ●f1e848f1071ab57b44ecbf4e●"お互いにな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c9edbb005ada2269f067cb73○"　これで、不安要素は完全に無くなった。"
 ●c9edbb005ada2269f067cb73●"　これで、不安要素は完全に無くなった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4e505af4403d05915182985c○"　有里栖の中で、不安とか悩みとか消化したのであれば、\\nもう俺も何も言うことはない。"
 ●4e505af4403d05915182985c●"　有里栖の中で、不安とか悩みとか消化したのであれば、\\nもう俺も何も言うことはない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a0bf66707636e949232165bf○"　ということで、ここからはフルスロットル。"
 ●a0bf66707636e949232165bf●"　ということで、ここからはフルスロットル。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6254af44a1600f214817aa9○"　カガサイで盛り上がれつつ、ワンダーランドの公募に\\n引っかかりそうなアイデア。"
 ●b6254af44a1600f214817aa9●"　カガサイで盛り上がれつつ、ワンダーランドの公募に\\n引っかかりそうなアイデア。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2231974cc0355529fc8ffc78○"　仮案ひとつ考えるのも難しいけど、なんとか生み出すと\\nしよう。"
 ●2231974cc0355529fc8ffc78●"　仮案ひとつ考えるのも難しいけど、なんとか生み出すと\\nしよう。"

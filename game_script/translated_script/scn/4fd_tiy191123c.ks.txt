@@ -1,9 +1,9 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○58cb05486d9ad0d4f113f862○"文化祭一日目終了！"
 ●58cb05486d9ad0d4f113f862●"文化祭一日目終了！"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1bf96a980812e70b08f58fd8○"　ほとんどのクラスを回った後。"
 ●1bf96a980812e70b08f58fd8●"　ほとんどのクラスを回った後。"
 
@@ -11,11 +11,11 @@
 ○13242b8f4b8100951c028cee○"ちよ子"
 ●13242b8f4b8100951c028cee●"ちよ子"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6a1367fe52ce1b93fd5e2b46○"「さて、次はどうしましょうかね？　あ……展示物とか、\\n　そういうのは見ていませんでした！」"
 ●6a1367fe52ce1b93fd5e2b46●"「さて、次はどうしましょうかね？　あ……展示物とか、\\n　そういうのは見ていませんでした！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○18e9064d87619fb8114fae8e○"「そっちの方にいってみましょうか？」"
 ●18e9064d87619fb8114fae8e●"「そっちの方にいってみましょうか？」"
 
@@ -23,174 +23,174 @@
 ○bbac3860b1e5b319c75a6fe3○"一登"
 ●bbac3860b1e5b319c75a6fe3●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a5317885794f3341b93f2618○"「それもいいな」"
 ●a5317885794f3341b93f2618●"「それもいいな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9655fb73d03844f967c5ab0e○"　と言いつつ、叶方から連絡が来ていないか、ＣＯＭＵ\\nを見ようとする……と。"
 ●9655fb73d03844f967c5ab0e●"　と言いつつ、叶方から連絡が来ていないか、ＣＯＭＵ\\nを見ようとする……と。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f6286a20e13b183770424184○"　別のアプリが気になって、それを開いてみる。"
 ●f6286a20e13b183770424184●"　別のアプリが気になって、それを開いてみる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○20ef0f291cda5da89f9fe912○"「うわ！　ちょっと待て！　その前にさ、これ見てみろ\\n　よ……」"
 ●20ef0f291cda5da89f9fe912●"「うわ！　ちょっと待て！　その前にさ、これ見てみろ\\n　よ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e0a4b3690df5a2cf60f927f8○"「はい？　マイチューブのあたしのチャンネルですか？」"
 ●e0a4b3690df5a2cf60f927f8●"「はい？　マイチューブのあたしのチャンネルですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○074d2a08a2b1796b63159e92○"「……おわ！　な、なんかコメント欄がすごいことに！」"
 ●074d2a08a2b1796b63159e92●"「……おわ！　な、なんかコメント欄がすごいことに！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9552f4005366ba725255a69a○"　ちょこのレポートしたところに、端からお客さんが来\\nていて、さらにはその感想もアップされている。"
 ●9552f4005366ba725255a69a●"　ちょこのレポートしたところに、端からお客さんが来\\nていて、さらにはその感想もアップされている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cff26fc7e36d3aeebc4af2d9○"「すごいな……ＣＨＯＣＯの影響力、かなりあるぞ？」"
 ●cff26fc7e36d3aeebc4af2d9●"「すごいな……ＣＨＯＣＯの影響力、かなりあるぞ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cab537dfde125acafb4f84d8○"「そうなんですね。えーっと『客足が異常に伸びたから\\n　……また来てほしい』これはお店の方からですね」"
 ●cab537dfde125acafb4f84d8●"「そうなんですね。えーっと『客足が異常に伸びたから\\n　……また来てほしい』これはお店の方からですね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○498de0aeaa167aadcba8c3ab○"「『面白いところ見つかった！　ありがとう！』こっち\\n　はお客さんからだな」"
 ●498de0aeaa167aadcba8c3ab●"「『面白いところ見つかった！　ありがとう！』こっち\\n　はお客さんからだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ce01064b9989c1c1e84f692d○"「『ＣＨＯＣＯかわいかった！』『ＣＨＯＣＯ大好き』\\n　『ＣＨＯＣＯのファンになった！』『ＣＨＯＣＯこれ\\n　から絶対に伸びる逸材』」"
 ●ce01064b9989c1c1e84f692d●"「『ＣＨＯＣＯかわいかった！』『ＣＨＯＣＯ大好き』\\n　『ＣＨＯＣＯのファンになった！』『ＣＨＯＣＯこれ\\n　から絶対に伸びる逸材』」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c8b68010b692ff9b9f09a737○"「ふっふーん、ＣＨＯＣＯちゃんがとられちゃいます\\n　よー？」"
 ●c8b68010b692ff9b9f09a737●"「ふっふーん、ＣＨＯＣＯちゃんがとられちゃいます\\n　よー？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9a883b7b8dbe19c90db50c62○"「それくらい人気出てくれた方が、俺も手伝い甲斐があ\\n　るよ」"
 ●9a883b7b8dbe19c90db50c62●"「それくらい人気出てくれた方が、俺も手伝い甲斐があ\\n　るよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○363878c6dfd78922e6dfefde○"「おお！　とっきー先輩は器が大きいですね！　じゃあ、\\n　もっと人気者になっちゃいましょうかね！」"
 ●363878c6dfd78922e6dfefde●"「おお！　とっきー先輩は器が大きいですね！　じゃあ、\\n　もっと人気者になっちゃいましょうかね！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○233cba747f7d521009b44be8○"　嬉しそうにそう言ってコメント[らん]欄を見ている。"
 ●233cba747f7d521009b44be8●"　嬉しそうにそう言ってコメント[らん]欄を見ている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○81e21554a370d84bbfca125b○"「いろんなクラスからリピートが来てますが、まずは全\\n　出し物制覇しましょう！」"
 ●81e21554a370d84bbfca125b●"「いろんなクラスからリピートが来てますが、まずは全\\n　出し物制覇しましょう！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3385326941e5983846f789e6○"「全部褒めに褒めまくりますよ！」"
 ●3385326941e5983846f789e6●"「全部褒めに褒めまくりますよ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○647f20fd13f3054a453009ae○"「全部か……この前みたいに、当たり障りのない感じに\\n　ならないといいな」"
 ●647f20fd13f3054a453009ae●"「全部か……この前みたいに、当たり障りのない感じに\\n　ならないといいな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ba0c0e6fe89158d29b30f2bc○"「おまかせください。マイチューバーＣＨＯＣＯは、ど\\n　んなものでも楽しんじゃう子です！」"
 ●ba0c0e6fe89158d29b30f2bc●"「おまかせください。マイチューバーＣＨＯＣＯは、ど\\n　んなものでも楽しんじゃう子です！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e17edfae5c5df62a4264f2b5○"「いいところ見つけ出して、お客さんもお店の人も楽し\\n　ませちゃいますよ♪」"
 ●e17edfae5c5df62a4264f2b5●"「いいところ見つけ出して、お客さんもお店の人も楽し\\n　ませちゃいますよ♪」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2d59eade019c290448607708○"「ああ、それでこそちょこだしＣＨＯＣＯだな、楽しみ\\n　にしてるよ」"
 ●2d59eade019c290448607708●"「ああ、それでこそちょこだしＣＨＯＣＯだな、楽しみ\\n　にしてるよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○98ccbd52ff34af9a90630803○"「ではでは、次のクラスにゴーです！」"
 ●98ccbd52ff34af9a90630803●"「ではでは、次のクラスにゴーです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ef85ac91a72d5ba2e8624ef0○"『はーい！　それではこれにて、文化祭の一日目は終了\\n　でーす！』"
 ●ef85ac91a72d5ba2e8624ef0●"『はーい！　それではこれにて、文化祭の一日目は終了\\n　でーす！』"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○832f0a714e71cc19bea6e858○"『カガサイ全体で考えても、残りは明日だけとなってし\\n　まいます！』"
 ●832f0a714e71cc19bea6e858●"『カガサイ全体で考えても、残りは明日だけとなってし\\n　まいます！』"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○332e24eb49deb48114e664ff○"『特に三年生は、これが最後のカガサイ！　全力で楽し\\n　んでください！』"
 ●332e24eb49deb48114e664ff●"『特に三年生は、これが最後のカガサイ！　全力で楽し\\n　んでください！』"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8707ebabece0155db480d6ac○"　そう言って放送を[し]締めくくった。"
 ●8707ebabece0155db480d6ac●"　そう言って放送を[し]締めくくった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c513c071aaf3678e8fcf35c6○"「ふはぁぁぁ～～～！　やっぱり疲れましたー！」"
 ●c513c071aaf3678e8fcf35c6●"「ふはぁぁぁ～～～！　やっぱり疲れましたー！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○44cbf5f25732fd2f07da15ae○"「お疲れ、ちょこ」"
 ●44cbf5f25732fd2f07da15ae●"「お疲れ、ちょこ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○98d35e8d44015475298293fe○"「お疲れ様です、とっきー先輩♪」"
 ●98d35e8d44015475298293fe●"「お疲れ様です、とっきー先輩♪」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b4dcd51d2ff3428a46e4f384○"　ずっと一緒にいたのに、久しぶりに話した気がするな。"
 ●b4dcd51d2ff3428a46e4f384●"　ずっと一緒にいたのに、久しぶりに話した気がするな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c39fddf0e581f2deb21491a1○"「お手伝いありがとうございます！　ずーっと放送して\\n　たので、全然お礼言えませんでしたよ」"
 ●c39fddf0e581f2deb21491a1●"「お手伝いありがとうございます！　ずーっと放送して\\n　たので、全然お礼言えませんでしたよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cd9be7f87eccd543b936089a○"「いや、俺が勝手にやったことだしさ」"
 ●cd9be7f87eccd543b936089a●"「いや、俺が勝手にやったことだしさ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○30d3d8b5f6edcf0bd161d3b9○"「それにしても、息ピッタリでしたね！　とっきー先輩\\n　のやりたいことが、言葉なしでもわかったというか」"
 ●30d3d8b5f6edcf0bd161d3b9●"「それにしても、息ピッタリでしたね！　とっきー先輩\\n　のやりたいことが、言葉なしでもわかったというか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○995423cb4a713eec1c379c22○"「やっぱりあたしたち、相性いいんでしょうかね」"
 ●995423cb4a713eec1c379c22●"「やっぱりあたしたち、相性いいんでしょうかね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ed9eb5647e95857e8aaaad01○"「そうだな」"
 ●ed9eb5647e95857e8aaaad01●"「そうだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e819958720d8ff3abe9451a6○"「えへへー。こんな形とはいえ、一緒に回れて楽しかっ\\n　たです♪」"
 ●e819958720d8ff3abe9451a6●"「えへへー。こんな形とはいえ、一緒に回れて楽しかっ\\n　たです♪」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○226cf56bf976d3e3980146cc○"　そう言いながら、ちょこは伸びをする。"
 ●226cf56bf976d3e3980146cc●"　そう言いながら、ちょこは伸びをする。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1661e13bf15a190a29a1abaa○"「さて、明日もありますし、今日はゆっくりしないとで\\n　すね」"
 ●1661e13bf15a190a29a1abaa●"「さて、明日もありますし、今日はゆっくりしないとで\\n　すね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○086397103ebb2e15ad358d8f○"「そうだな。無理して勉強するなよ」"
 ●086397103ebb2e15ad358d8f●"「そうだな。無理して勉強するなよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6f90919f8218a2fd18f6568○"「あはは『勉強するな』なんて言われたの、初めてかも\\n　しれません」"
 ●b6f90919f8218a2fd18f6568●"「あはは『勉強するな』なんて言われたの、初めてかも\\n　しれません」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○53b6e751c4ec2050b4342722○"「それではとっきー先輩、また明日です♪」"
 ●53b6e751c4ec2050b4342722●"「それではとっきー先輩、また明日です♪」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○846ef41b16558052010d72df○"「ああ、また明日な」"
 ●846ef41b16558052010d72df●"「ああ、また明日な」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○70dd658957574926105c8bb8○"　こうして文化祭初日は過ぎていった。"
 ●70dd658957574926105c8bb8●"　こうして文化祭初日は過ぎていった。"

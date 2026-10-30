@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○faae8677aa095d4f7a275462○"ふにゃふにゃ二乃ちゃん"
 ●faae8677aa095d4f7a275462●"ふにゃふにゃ二乃ちゃん"
 
@@ -7,15 +7,15 @@
 ○10be798b1554988bd3c72d01○"二乃"
 ●10be798b1554988bd3c72d01●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○866ef2f1c7cb22f12fc2d8df○"「ふわぁぁぁぁ～～～～……んふぅぅぅぅぅ～～～……。\\n　おふぁよー、ござひ、まふぅぅぅぅ～～……」"
 ●866ef2f1c7cb22f12fc2d8df●"「ふわぁぁぁぁ～～～～……んふぅぅぅぅぅ～～～……。\\n　おふぁよー、ござひ、まふぅぅぅぅ～～……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○420a5ff767c7049b879db890○"　[あん]案の[じょう]定こうなったか。昨夜あれだけ夜更しするなよと\\n言ったのに……。"
 ●420a5ff767c7049b879db890●"　[あん]案の[じょう]定こうなったか。昨夜あれだけ夜更しするなよと\\n言ったのに……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9273ee5717e468debe1b5824○"「ふぁ……あ、あれ……そらねーはどこれすか……？」"
 ●9273ee5717e468debe1b5824●"「ふぁ……あ、あれ……そらねーはどこれすか……？」"
 
@@ -23,158 +23,158 @@
 ○e28fc5c5ede0e742e8ee8a78○"一登"
 ●e28fc5c5ede0e742e8ee8a78●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5b86741b490b4b4ed90fd18b○"「体育祭の準備があるから、さっき登校した。昨日教え\\n　たろ？」"
 ●5b86741b490b4b4ed90fd18b●"「体育祭の準備があるから、さっき登校した。昨日教え\\n　たろ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0b5ff63e4174f6b9b9aad8ff○"「えー、それじゃあ今日は兄さんが姉さんなんですか？\\n　それとってもやーですぅ……」"
 ●0b5ff63e4174f6b9b9aad8ff●"「えー、それじゃあ今日は兄さんが姉さんなんですか？\\n　それとってもやーですぅ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ce4e8d1679df6f1ca0050ebf○"「俺も嫌だよ……」"
 ●ce4e8d1679df6f1ca0050ebf●"「俺も嫌だよ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○003f8d9bd9250ed40aee615f○"　なんだその地獄は。"
 ●003f8d9bd9250ed40aee615f●"　なんだその地獄は。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8a654878b786add06be10a3d○"「ほら、コーヒー。早く目を覚ましてくれ」"
 ●8a654878b786add06be10a3d●"「ほら、コーヒー。早く目を覚ましてくれ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8a7532cb3076dad1a9dd0436○"「さとーとミルクもおねがいしましゅ。それが無いと飲\\n　めませんよぅ……」"
 ●8a7532cb3076dad1a9dd0436●"「さとーとミルクもおねがいしましゅ。それが無いと飲\\n　めませんよぅ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dd43d416c1c40dcee8ed848b○"「お前な……」"
 ●dd43d416c1c40dcee8ed848b●"「お前な……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b7227c1d918826a0a5138597○"　寝不足にも程があるだろ……。一体昨日は何時まで起\\nきてたんだ。"
 ●b7227c1d918826a0a5138597●"　寝不足にも程があるだろ……。一体昨日は何時まで起\\nきてたんだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5c2e6c381275760559224abc○"「体育祭なんだから、怪我したりするなよー？　今の様\\n　子を見てると怖すぎるぞ」"
 ●5c2e6c381275760559224abc●"「体育祭なんだから、怪我したりするなよー？　今の様\\n　子を見てると怖すぎるぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f617e9eeda44e62b465facf1○"「兄さんじゃないんですから大丈夫れふ」"
 ●f617e9eeda44e62b465facf1●"「兄さんじゃないんですから大丈夫れふ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b0f85b9d0bc3b1899a982822○"「ソフトボールだろ？　普通に怪我する可能性あるだろ」"
 ●b0f85b9d0bc3b1899a982822●"「ソフトボールだろ？　普通に怪我する可能性あるだろ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1fe55c014a73d51e4222d47f○"「しませんよぅ……オフサイドに気をつけながらロング\\n　ゲインしてセンチュリーブレイクすればいいだけです\\n　もん……」"
 ●1fe55c014a73d51e4222d47f●"「しませんよぅ……オフサイドに気をつけながらロング\\n　ゲインしてセンチュリーブレイクすればいいだけです\\n　もん……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f0f898d40e17984d90fcccf3○"「色々と単語が混ざりすぎだ、そのルールでどうやって\\n　スポーツになるんだ……」"
 ●f0f898d40e17984d90fcccf3●"「色々と単語が混ざりすぎだ、そのルールでどうやって\\n　スポーツになるんだ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○475dec7528882ab71df71ae0○"　サッカーとアメフトとビリヤードのルールでソフトボー\\nルが出来るか。"
 ●475dec7528882ab71df71ae0●"　サッカーとアメフトとビリヤードのルールでソフトボー\\nルが出来るか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bd52fb11d912637401466c91○"「んー……あ、今日の朝ごはん、トーストですか？　な\\n　らジャムくださーい、ジャムジャム、イチゴのあまー\\n　いの」"
 ●bd52fb11d912637401466c91●"「んー……あ、今日の朝ごはん、トーストですか？　な\\n　らジャムくださーい、ジャムジャム、イチゴのあまー\\n　いの」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1228d78c87479e55688f4d39○"「はいはい」"
 ●1228d78c87479e55688f4d39●"「はいはい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6e8feda55c128b137251fc49○"　テーブルの上に、ふたり分のトーストとサラダ、ミネ\\nストローネを並べていく。"
 ●6e8feda55c128b137251fc49●"　テーブルの上に、ふたり分のトーストとサラダ、ミネ\\nストローネを並べていく。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2c2857692e7f5177a62b5d6a○"「はい、いっただっきまーす」"
 ●2c2857692e7f5177a62b5d6a●"「はい、いっただっきまーす」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○481d26b599b6c54af1070c19○"「いたらきまーふ……あーむ」"
 ●481d26b599b6c54af1070c19●"「いたらきまーふ……あーむ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cff215a54a39ca0c39b14d74○"　半分寝ていながらも、手と口はしっかり動いてる。"
 ●cff215a54a39ca0c39b14d74●"　半分寝ていながらも、手と口はしっかり動いてる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f89bc72d8e5b40511ca5e225○"　この時間でこの調子なら、学園に着く頃にはいつも通\\nりになっていそうだな。"
 ●f89bc72d8e5b40511ca5e225●"　この時間でこの調子なら、学園に着く頃にはいつも通\\nりになっていそうだな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d1c72eaf1f1962abea730824○"「ちなみに、昨日は何時まで起きてたんだ？」"
 ●d1c72eaf1f1962abea730824●"「ちなみに、昨日は何時まで起きてたんだ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f48e22a64a65ef7e32c1e0a6○"「ん～～～～……覚えてませんよ、しょんなの……。最\\n　後に時計を見た時は……確か２時半くらいだったかも\\n　ですけど……」"
 ●f48e22a64a65ef7e32c1e0a6●"「ん～～～～……覚えてませんよ、しょんなの……。最\\n　後に時計を見た時は……確か２時半くらいだったかも\\n　ですけど……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0691d06c431aaeeb04aaf809○"「そんな遅くまで……頑張るのはいいことだけど、寝坊\\n　してまでやることじゃないからな？」"
 ●0691d06c431aaeeb04aaf809●"「そんな遅くまで……頑張るのはいいことだけど、寝坊\\n　してまでやることじゃないからな？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cb08487dbbd5e5f645ac17e2○"「もー、兄さんはおバカさんですねー。ちゃんと起きて\\n　るじゃないですか、もぐもぐもぐ」"
 ●cb08487dbbd5e5f645ac17e2●"「もー、兄さんはおバカさんですねー。ちゃんと起きて\\n　るじゃないですか、もぐもぐもぐ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9bdef5535eb09ce5f728438f○"「…………」"
 ●9bdef5535eb09ce5f728438f●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○968c9b79d7939456db99f28b○"　確かに寝坊はしてないけどさ、未遂のレベルには達し\\nてるっての。"
 ●968c9b79d7939456db99f28b●"　確かに寝坊はしてないけどさ、未遂のレベルには達し\\nてるっての。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cd524ec96069367beb7a0598○"「……ま、今夜からは程々にしろよ？　体育祭だって二\\n　日間あるんだし」"
 ●cd524ec96069367beb7a0598●"「……ま、今夜からは程々にしろよ？　体育祭だって二\\n　日間あるんだし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f3c7f07b7e9ab7b4bd6b9c4a○"「気をつけまーふ、むしゃむしゃ」"
 ●f3c7f07b7e9ab7b4bd6b9c4a●"「気をつけまーふ、むしゃむしゃ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e17e8e533ed89386cd222a3a○"　体育祭の日程としては、通常の授業が全て体育になっ\\nたことと、それが今日明日の二日間続くということのみ。"
 ●e17e8e533ed89386cd222a3a●"　体育祭の日程としては、通常の授業が全て体育になっ\\nたことと、それが今日明日の二日間続くということのみ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c36273e8fbe5a43218bb5863○"　クラス対抗で、各球技をやったり、リレーや徒競走を\\nやったり。"
 ●c36273e8fbe5a43218bb5863●"　クラス対抗で、各球技をやったり、リレーや徒競走を\\nやったり。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9582fe399609a19b1bd06054○"　それ以外はいつもと変わらない。"
 ●9582fe399609a19b1bd06054●"　それ以外はいつもと変わらない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2d3bc3f179705d314bb1f025○"　だから放課後は、クラス全員でカガサイの準備に取り\\n掛かる。"
 ●2d3bc3f179705d314bb1f025●"　だから放課後は、クラス全員でカガサイの準備に取り\\n掛かる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0d8c78fa61e63dc04fec59a6○"「放課後までには目を覚ましてろよー？」"
 ●0d8c78fa61e63dc04fec59a6●"「放課後までには目を覚ましてろよー？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8c2337627e94741b102adee9○"「安心してくだしゃい……私、頑張れば強いんです……\\n　もしゃもしゃ」"
 ●8c2337627e94741b102adee9●"「安心してくだしゃい……私、頑張れば強いんです……\\n　もしゃもしゃ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○73371f0e0a874cf6ac5ecb1b○"「そのふにゃふにゃな言葉で強気になられてもな……」"
 ●73371f0e0a874cf6ac5ecb1b●"「そのふにゃふにゃな言葉で強気になられてもな……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6b22c4c8573e8fa3946761f3○"　ま、やる気があるのはとっくに承知済み。ぶっちゃけ\\nあまり心配はしていないんだよな。"
 ●6b22c4c8573e8fa3946761f3●"　ま、やる気があるのはとっくに承知済み。ぶっちゃけ\\nあまり心配はしていないんだよな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ad65d6176feecb2e963ec052○"　体育祭も……ま、怪我しないレベルで楽しんでくれた\\nら、それでいいや。"
 ●ad65d6176feecb2e963ec052●"　体育祭も……ま、怪我しないレベルで楽しんでくれた\\nら、それでいいや。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○6a37fbaaf6d9aa5fbc4659e4○"常坂二乃（１１月１８日）"
 ●6a37fbaaf6d9aa5fbc4659e4●"常坂二乃（１１月１８日）"

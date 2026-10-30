@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○01eea0c90544eb457956176c○"蝶のように舞い、蜂のように決める杉並"
 ●01eea0c90544eb457956176c●"蝶のように舞い、蜂のように決める杉並"
 
@@ -7,7 +7,7 @@
 ○ee7c1a1ef1554dde26a99c18○"叶方"
 ●ee7c1a1ef1554dde26a99c18●"叶方"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○29c6f4c8dc7f843f955c3693○"「あー疲れた……。もう二度と騎馬戦なんかしない……」"
 ●29c6f4c8dc7f843f955c3693●"「あー疲れた……。もう二度と騎馬戦なんかしない……」"
 
@@ -15,31 +15,31 @@
 ○52d9dfa41522ffc32fddbe11○"一登"
 ●52d9dfa41522ffc32fddbe11●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1ded1a48781106a9207ea8c2○"「非運動部員にガチの肉弾戦はキツいよな……。俺もも\\n　う二度としたくない……」"
 ●1ded1a48781106a9207ea8c2●"「非運動部員にガチの肉弾戦はキツいよな……。俺もも\\n　う二度としたくない……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d0075d1af632e0a1ef93f314○"　肩も背中も腰も足も震えっ放しだ。"
 ●d0075d1af632e0a1ef93f314●"　肩も背中も腰も足も震えっ放しだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6c4607a6ac0e83eea222128a○"「だが悲しいかな、来年もあるんだよな」"
 ●6c4607a6ac0e83eea222128a●"「だが悲しいかな、来年もあるんだよな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9a2a3809d217a95468f8e2ef○"「更には再来年もね……。せめて競技数減らして欲しい\\n　なぁ……」"
 ●9a2a3809d217a95468f8e2ef●"「更には再来年もね……。せめて競技数減らして欲しい\\n　なぁ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○602c68763dd73399b964c1f5○"　スポーツは基本的に好き。だけど消費体力がこうも多\\nいと、流石にな。"
 ●602c68763dd73399b964c1f5●"　スポーツは基本的に好き。だけど消費体力がこうも多\\nいと、流石にな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○821770dd1213f4dd84050229○"　しかも、この昼休みが終わったら、今度は球技が始ま\\nる。"
 ●821770dd1213f4dd84050229●"　しかも、この昼休みが終わったら、今度は球技が始ま\\nる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○09105d763e8cc17e66ca0dd6○"　半端な気持ちでバスケなんか選ばなきゃよかった。"
 ●09105d763e8cc17e66ca0dd6●"　半端な気持ちでバスケなんか選ばなきゃよかった。"
 
@@ -47,15 +47,15 @@
 ○44faf0512471a26e473a5d7a○"有里栖"
 ●44faf0512471a26e473a5d7a●"有里栖"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a6fd1945f87846b0d258bad4○"「あ、ふたりともお疲れ様ー」"
 ●a6fd1945f87846b0d258bad4●"「あ、ふたりともお疲れ様ー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f1e105d929ec01283acd10a6○"　お、有里栖と白河登場。"
 ●f1e105d929ec01283acd10a6●"　お、有里栖と白河登場。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b279ed769ab157dacb6094e4○"「おう、そっちもお疲れさん」"
 ●b279ed769ab157dacb6094e4●"「おう、そっちもお疲れさん」"
 
@@ -63,130 +63,130 @@
 ○60259f2addcc43860528d3de○"ひより"
 ●60259f2addcc43860528d3de●"ひより"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b94721212864e8ab816b7086○"「さっきの騎馬戦凄かったですねー。いやはや、男子の\\n　殺気たるや、本当に恐ろしい」"
 ●b94721212864e8ab816b7086●"「さっきの騎馬戦凄かったですねー。いやはや、男子の\\n　殺気たるや、本当に恐ろしい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6465c25c1037cebcf96b0fcd○"「早く笛鳴れーって思いながら走ってたよ。騎馬戦って、\\n　本気で戦う人と、逃亡者とで完全に分かれるよね」"
 ●6465c25c1037cebcf96b0fcd●"「早く笛鳴れーって思いながら走ってたよ。騎馬戦って、\\n　本気で戦う人と、逃亡者とで完全に分かれるよね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d2b2fd6f81156d57a8db23b9○"「そう言ってる割には、頑張って走ってたように見えた\\n　けど？」"
 ●d2b2fd6f81156d57a8db23b9●"「そう言ってる割には、頑張って走ってたように見えた\\n　けど？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4d690dc976eeefb9a0403fe7○"「そりゃあ……上に乗ってるのが杉並だったからな」"
 ●4d690dc976eeefb9a0403fe7●"「そりゃあ……上に乗ってるのが杉並だったからな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○502cfc5faecfb7e3aa3724fe○"「ひっきりなしに指示されたおかげで、もうヘトヘトだ\\n　よ……。後で髪もセットし直さないと」"
 ●502cfc5faecfb7e3aa3724fe●"「ひっきりなしに指示されたおかげで、もうヘトヘトだ\\n　よ……。後で髪もセットし直さないと」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c7ee1d5bb5a8cda617e38811○"「どうせこの後も乱れるぞ」"
 ●c7ee1d5bb5a8cda617e38811●"「どうせこの後も乱れるぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3d05fba6ea096e566b820a33○"「分かってないなー。オレはいつでも一番の自分でいた\\n　いの」"
 ●3d05fba6ea096e566b820a33●"「分かってないなー。オレはいつでも一番の自分でいた\\n　いの」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0f2977d6f28b31917f0beb6f○"「左様で。そうだろうとは思ったよ」"
 ●0f2977d6f28b31917f0beb6f●"「左様で。そうだろうとは思ったよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○27e31eb2aaa46d369e5074cd○"　それはともかくとして。"
 ●27e31eb2aaa46d369e5074cd●"　それはともかくとして。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4d75293f03ae542d5836cd52○"「そっちもお疲れ様。ふたりとも大活躍だったな」"
 ●4d75293f03ae542d5836cd52●"「そっちもお疲れ様。ふたりとも大活躍だったな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5552900bc069fa9affe1499b○"「あ、見ててくれたの？　ふふ、ありがと」"
 ●5552900bc069fa9affe1499b●"「あ、見ててくれたの？　ふふ、ありがと」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c5fc7c3ac8263eec94430236○"「徒競走で１位だったよね。しかもダントツで」"
 ●c5fc7c3ac8263eec94430236●"「徒競走で１位だったよね。しかもダントツで」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f28cb678a07458578d28fc56○"「男子勢は完全に見とれてたな」"
 ●f28cb678a07458578d28fc56●"「男子勢は完全に見とれてたな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e5ee320311b93f6208a90ba8○"「ちょ、ちょっと～、そんなの教えなくていいってば。\\n　なんだか恥ずかしいし」"
 ●e5ee320311b93f6208a90ba8●"「ちょ、ちょっと～、そんなの教えなくていいってば。\\n　なんだか恥ずかしいし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3d45158fb952396ff957fd02○"「純然たる事実だからなぁ」"
 ●3d45158fb952396ff957fd02●"「純然たる事実だからなぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e2314c7dc4db23d64113de8b○"　ゴールテープを切った後にＶサインをした時は、もう\\n完全にアイドルだった。"
 ●e2314c7dc4db23d64113de8b●"　ゴールテープを切った後にＶサインをした時は、もう\\n完全にアイドルだった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○840ddc4c2efde6628b7ec937○"　おそらく何枚か撮られているかもしれん。後で杉並を\\n通じて調査しとかないと。"
 ●840ddc4c2efde6628b7ec937●"　おそらく何枚か撮られているかもしれん。後で杉並を\\n通じて調査しとかないと。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b2b072b9add43ddd0de1fe45○"「というか、常坂君だって、最後のリレーかっこよかっ\\n　たよ？」"
 ●b2b072b9add43ddd0de1fe45●"「というか、常坂君だって、最後のリレーかっこよかっ\\n　たよ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5ab7035257e1d2d4285bdc21○"「あー、そうか？　まぁ抜かれはしなかったけどな。そ\\n　こそこだよ、そこそこ」"
 ●5ab7035257e1d2d4285bdc21●"「あー、そうか？　まぁ抜かれはしなかったけどな。そ\\n　こそこだよ、そこそこ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○64329f80adccc94956ad2867○"「またまたー、謙遜なんかしちゃってー。このこのー」"
 ●64329f80adccc94956ad2867●"「またまたー、謙遜なんかしちゃってー。このこのー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f7ce21be3a98c1d19e4413d1○"「わっ、やめ、脇腹弱いんだって」"
 ●f7ce21be3a98c1d19e4413d1●"「わっ、やめ、脇腹弱いんだって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2f045d704e8679c2ce101d49○"　急所に伸びてくる悪魔の指先をなんとか避ける。脇腹\\nは本当に弱いんだ。"
 ●2f045d704e8679c2ce101d49●"　急所に伸びてくる悪魔の指先をなんとか避ける。脇腹\\nは本当に弱いんだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○da7f75b8630125d8db62e6ef○"「まぁ何にせよ、あとは午後を頑張るだけだな」"
 ●da7f75b8630125d8db62e6ef●"「まぁ何にせよ、あとは午後を頑張るだけだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2ef7eee631fd134d2b3880b5○"「正解。こっちはいい順位なので、張り切って優勝旗を\\n　もぎ取ってきます」"
 ●2ef7eee631fd134d2b3880b5●"「正解。こっちはいい順位なので、張り切って優勝旗を\\n　もぎ取ってきます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○442c8dadaa4c519717e3c639○"「ふたりはバレーだっけ？　羨ましいなぁ。こっちは最\\n　下位にならないのがやっとだよ」"
 ●442c8dadaa4c519717e3c639●"「ふたりはバレーだっけ？　羨ましいなぁ。こっちは最\\n　下位にならないのがやっとだよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1cdaa485659202a91c6bda56○"「バスケはなぁ……経験者がいるのといないのとで、大\\n　きく差が出るし」"
 ●1cdaa485659202a91c6bda56●"「バスケはなぁ……経験者がいるのといないのとで、大\\n　きく差が出るし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f57cf9ae13b8d64a5711b77a○"　バスケ部員がひとりいるだけで、得点の差が如実に表\\nれる。"
 ●f57cf9ae13b8d64a5711b77a●"　バスケ部員がひとりいるだけで、得点の差が如実に表\\nれる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○31c55690c6c40f7e982e9709○"　杉並が奮闘してくれるものの、優勝の可能性はほとん\\nどない。"
 ●31c55690c6c40f7e982e9709●"　杉並が奮闘してくれるものの、優勝の可能性はほとん\\nどない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○54d96777bcda61b9714761cd○"「とりあえずは、怪我だけは気をつけようね。放課後の\\n　作業もあるんだし」"
 ●54d96777bcda61b9714761cd●"「とりあえずは、怪我だけは気をつけようね。放課後の\\n　作業もあるんだし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○df0809b422ee0ddab0c726a6○"「了解」"
 ●df0809b422ee0ddab0c726a6●"「了解」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c0de423dc52fba49c57ea74a○"　勝利は二の次として、心からバスケを楽しんで、気持\\nちのいい汗を流すとしよう。"
 ●c0de423dc52fba49c57ea74a●"　勝利は二の次として、心からバスケを楽しんで、気持\\nちのいい汗を流すとしよう。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○7196b3c7329c09c039d32d57○"鷲澤有里栖（１１月１９日）"
 ●7196b3c7329c09c039d32d57●"鷲澤有里栖（１１月１９日）"

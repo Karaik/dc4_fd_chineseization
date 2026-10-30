@@ -1,21 +1,21 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○e439d0f19347c5ae78d634e1○"準備は万端"
 ●e439d0f19347c5ae78d634e1●"準備は万端"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bcef7775274eb88abd32a5a5○"　カガサイ初日、すなわち体育祭の初日が終わった。"
 ●bcef7775274eb88abd32a5a5●"　カガサイ初日、すなわち体育祭の初日が終わった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a5f40bd7300b73afd1904c94○"　特に大きな問題も無く、平和に運営することができた\\nと思う。"
 ●a5f40bd7300b73afd1904c94●"　特に大きな問題も無く、平和に運営することができた\\nと思う。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c88905dda72a3908f42d4946○"　俺個人の成績は大したことなかったけど、全力で楽し\\nむことはできた。"
 ●c88905dda72a3908f42d4946●"　俺個人の成績は大したことなかったけど、全力で楽し\\nむことはできた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○62d583bea028eafe0206b8e7○"　これもそら姉の肉うどんのおかげかな。"
 ●62d583bea028eafe0206b8e7●"　これもそら姉の肉うどんのおかげかな。"
 
@@ -23,7 +23,7 @@
 ○041eb1612656ac18c5eb7be4○"未羽"
 ●041eb1612656ac18c5eb7be4●"未羽"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○507572df2efddb4172543772○"「あ、せんぱーい！」"
 ●507572df2efddb4172543772●"「あ、せんぱーい！」"
 
@@ -31,174 +31,174 @@
 ○da9dd87cedfd35627359050c○"一登"
 ●da9dd87cedfd35627359050c●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○92c91dd58b1302fecfadf59b○"「お……」"
 ●92c91dd58b1302fecfadf59b●"「お……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○75aba3bf35aa7d3b43d2814e○"　後ろから未羽が声をかけてきた。"
 ●75aba3bf35aa7d3b43d2814e●"　後ろから未羽が声をかけてきた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○51867124226b84745db37c6f○"「体育祭、お疲れ様でした。どうでしたか？」"
 ●51867124226b84745db37c6f●"「体育祭、お疲れ様でした。どうでしたか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9b19fb35d17e4d75ef7c12f1○"「ぼちぼちかな。未羽は？」"
 ●9b19fb35d17e4d75ef7c12f1●"「ぼちぼちかな。未羽は？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○273a8fc6443a2e4b40eab4d8○"「私はあんまり活躍できませんでした。頑張ったんです\\n　けどね」"
 ●273a8fc6443a2e4b40eab4d8●"「私はあんまり活躍できませんでした。頑張ったんです\\n　けどね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ec63b469af8d8731fb95fefc○"　てへへ、と笑う。"
 ●ec63b469af8d8731fb95fefc●"　てへへ、と笑う。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○89a15cee26f9d50f78832006○"　まぁ、怪我がないようで何より。"
 ●89a15cee26f9d50f78832006●"　まぁ、怪我がないようで何より。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○62a8d7b85cff8597edf887a9○"「これから生徒会室ですか？」"
 ●62a8d7b85cff8597edf887a9●"「これから生徒会室ですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dcc4578dda283dafabca88ad○"「そう。未羽もだよね？」"
 ●dcc4578dda283dafabca88ad●"「そう。未羽もだよね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8758c2175b185cb89e067b7c○"「そのつもりだったんですけど、ついさっき天文部の部\\n　長さんから連絡があったんですよ」"
 ●8758c2175b185cb89e067b7c●"「そのつもりだったんですけど、ついさっき天文部の部\\n　長さんから連絡があったんですよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b57c892d57392385e31d2182○"「マジか。この間連絡した件？」"
 ●b57c892d57392385e31d2182●"「マジか。この間連絡した件？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ecd5a36db4254292c82c5897○"「そうです。お伝えした課題内容、絶対にクリアしてみ\\n　せるって言って下さいました」"
 ●ecd5a36db4254292c82c5897●"「そうです。お伝えした課題内容、絶対にクリアしてみ\\n　せるって言って下さいました」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0119b504f48e636f276371dc○"「それと、実際の活動で使う受信機の用意ができたそう\\n　なので取りに来てほしいと」"
 ●0119b504f48e636f276371dc●"「それと、実際の活動で使う受信機の用意ができたそう\\n　なので取りに来てほしいと」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aa15a81ab0f9811eee5cf505○"「マジか。んじゃ、先に天文部の部室にいこうか」"
 ●aa15a81ab0f9811eee5cf505●"「マジか。んじゃ、先に天文部の部室にいこうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3bc190905e838f8ea44e36e8○"「はい。そうしましょう」"
 ●3bc190905e838f8ea44e36e8●"「はい。そうしましょう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fddc878ded1f1dea4b1f3999○"　生徒会室に行く前に、ふたりで天文部の部室に向かった。"
 ●fddc878ded1f1dea4b1f3999●"　生徒会室に行く前に、ふたりで天文部の部室に向かった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4a7121278da89f106aa14b5a○"「これが例の受信機なんですね」"
 ●4a7121278da89f106aa14b5a●"「これが例の受信機なんですね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○19346788a56bc459f7c25b95○"「やっぱ宇宙人観測用の機材には見えないね」"
 ●19346788a56bc459f7c25b95●"「やっぱ宇宙人観測用の機材には見えないね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○305fd19279aae68ac9ca6ba3○"　よく見るとレトロな感じの機材だけど、これで本当に\\n宇宙人を見つけられるのかな。"
 ●305fd19279aae68ac9ca6ba3●"　よく見るとレトロな感じの機材だけど、これで本当に\\n宇宙人を見つけられるのかな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dc01dc8aef9e737eb733d0a4○"　使い方もシンプルで、起動させたら置いておくだけで\\n良いらしいし。"
 ●dc01dc8aef9e737eb733d0a4●"　使い方もシンプルで、起動させたら置いておくだけで\\n良いらしいし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5ae2eceb2f4d7ab3dedf7fed○"「実際に受信したらどんな風になるんだろうね」"
 ●5ae2eceb2f4d7ab3dedf7fed●"「実際に受信したらどんな風になるんだろうね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○87a59268fac65f2c476850ab○"「えっと、この液晶部分に表示されるらしいですよ。そ\\n　れと、相手の座標がわかる機能もあるらしいです」"
 ●87a59268fac65f2c476850ab●"「えっと、この液晶部分に表示されるらしいですよ。そ\\n　れと、相手の座標がわかる機能もあるらしいです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cadb99b68ce321c2dbda24cc○"「……へえ」"
 ●cadb99b68ce321c2dbda24cc●"「……へえ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○91e87e87cb0fcde21fa6011c○"　イマイチ信じらんねぇ……。"
 ●91e87e87cb0fcde21fa6011c●"　イマイチ信じらんねぇ……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○70e54901c323b486142c82ea○"「と、常坂先輩！　そんな声出しちゃ失礼ですよ。これ\\n　は天文部に伝わる秘伝の備品らしいんですから」"
 ●70e54901c323b486142c82ea●"「と、常坂先輩！　そんな声出しちゃ失礼ですよ。これ\\n　は天文部に伝わる秘伝の備品らしいんですから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d6fab691efb548f509a414a9○"「年代物だってことはわかるけどね。むしろ未羽はどう\\n　思うの？」"
 ●d6fab691efb548f509a414a9●"「年代物だってことはわかるけどね。むしろ未羽はどう\\n　思うの？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○00eccffc0bc893a593cc4563○"「…………」"
 ●00eccffc0bc893a593cc4563●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○273d4353039add0d41577aa2○"「やっぱ不審がってるじゃん！」"
 ●273d4353039add0d41577aa2●"「やっぱ不審がってるじゃん！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1f1357ff53a28734b2ceb73b○"「ち、違いますもん！　あまりこういう話題に馴染みが\\n　無いだけで……！」"
 ●1f1357ff53a28734b2ceb73b●"「ち、違いますもん！　あまりこういう話題に馴染みが\\n　無いだけで……！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○33277bfb9cc4c2728875358d○"「どういう仕組なんだろうね。トランシーバーと形は似\\n　てるけど、中身は違うんだろうし」"
 ●33277bfb9cc4c2728875358d●"「どういう仕組なんだろうね。トランシーバーと形は似\\n　てるけど、中身は違うんだろうし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7c9726b7584de76da6c7b628○"　ジジイの部屋にあったガラクタの中にもトランシーバー\\nがあったけど、もちろん宇宙人用じゃなかった。"
 ●7c9726b7584de76da6c7b628●"　ジジイの部屋にあったガラクタの中にもトランシーバー\\nがあったけど、もちろん宇宙人用じゃなかった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1b25a71df211aa84f313a56d○"　それ用に改造とかしてるのかな。"
 ●1b25a71df211aa84f313a56d●"　それ用に改造とかしてるのかな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b296f6c28534b95e3ffc9beb○"「それが、よくわからないらしいんですよね。普段は、\\n　充電と簡単な手入れをするくらいらしくて……」"
 ●b296f6c28534b95e3ffc9beb●"「それが、よくわからないらしいんですよね。普段は、\\n　充電と簡単な手入れをするくらいらしくて……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f4c86ac42e34c4aa32265494○"「一応過去に天文部によって制作された……らしい、で\\n　す。なので説明書とかも無いとのことでした」"
 ●f4c86ac42e34c4aa32265494●"「一応過去に天文部によって制作された……らしい、で\\n　す。なので説明書とかも無いとのことでした」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a238d8c4dcd245e0546549c5○"「まぁ市販品ではないだろうね……」"
 ●a238d8c4dcd245e0546549c5●"「まぁ市販品ではないだろうね……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○23eabe659f65739bcc17b7b8○"　ロゴも無いし、規格とかを書いてる部分も無いし。"
 ●23eabe659f65739bcc17b7b8●"　ロゴも無いし、規格とかを書いてる部分も無いし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2a6cdd9180544f9952da71eb○"「天文部は謎が多いなぁ……と思ったけど、香々見学園\\n　ってこんな部ばっかだよな」"
 ●2a6cdd9180544f9952da71eb●"「天文部は謎が多いなぁ……と思ったけど、香々見学園\\n　ってこんな部ばっかだよな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6234db408e38b74a398b783e○"「ふふ、そうですね。魚人間コンテスト用の手作り潜水\\n　艦とか、トンネル効果検証のための壁への体当たり一\\n　万回チャレンジとか……」"
 ●6234db408e38b74a398b783e●"「ふふ、そうですね。魚人間コンテスト用の手作り潜水\\n　艦とか、トンネル効果検証のための壁への体当たり一\\n　万回チャレンジとか……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0fc5020c2457b2b4cc0d5e8b○"「身体張ってる企画多いなあ」"
 ●0fc5020c2457b2b4cc0d5e8b●"「身体張ってる企画多いなあ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5260939313dfe299fae9bb6f○"「でも、これでしっかりした検証ができそうです」"
 ●5260939313dfe299fae9bb6f●"「でも、これでしっかりした検証ができそうです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○395c5ae266bd1fbec3a82c99○"「そうだね」"
 ●395c5ae266bd1fbec3a82c99●"「そうだね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3b7ce70cfb75faf3a663428c○"　ともあれ、これで準備は整った。"
 ●3b7ce70cfb75faf3a663428c●"　ともあれ、これで準備は整った。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○28f0dc26db915b92355a06e3○"　あとは最後の検証をしっかりやるだけだ。"
 ●28f0dc26db915b92355a06e3●"　あとは最後の検証をしっかりやるだけだ。"

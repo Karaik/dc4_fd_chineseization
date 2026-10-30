@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○1a3b72dca17b8c2d8fb9fb56○"魔球でしたね"
 ●1a3b72dca17b8c2d8fb9fb56●"魔球でしたね"
 
@@ -7,31 +7,31 @@
 ○f61004a35b3ddf202b18c72b○"一登"
 ●f61004a35b3ddf202b18c72b●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d894c4df2855091c29ad523b○"「ん？」"
 ●d894c4df2855091c29ad523b●"「ん？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○504245b0bcc6c1d1f83df46a○"　土曜の午前中を満喫していると、アラームが鳴った。"
 ●504245b0bcc6c1d1f83df46a●"　土曜の午前中を満喫していると、アラームが鳴った。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fd021a9837b27b02bd12b613○"「そろそろ時間だな」"
 ●fd021a9837b27b02bd12b613●"「そろそろ時間だな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b459fdf8f03363c326ef1fe7○"　今日はこのくらいの時間に、詩名のバイトが終わり連\\n弾に来るはずだ。"
 ●b459fdf8f03363c326ef1fe7●"　今日はこのくらいの時間に、詩名のバイトが終わり連\\n弾に来るはずだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○528f5234ad15c1fe8e60079b○"　向こうの家に行っとくかな。"
 ●528f5234ad15c1fe8e60079b●"　向こうの家に行っとくかな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7c20ce949727a080ca937656○"　お、来たか。"
 ●7c20ce949727a080ca937656●"　お、来たか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2b4f7aab3bd028b01ff0bdde○"「開けてあるから、入ってきてくれー」"
 ●2b4f7aab3bd028b01ff0bdde●"「開けてあるから、入ってきてくれー」"
 
@@ -39,323 +39,327 @@
 ○0e8a68ea9f300a9bc0e1bf36○"詩名"
 ●0e8a68ea9f300a9bc0e1bf36●"詩名"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f8f9fcaa59dc0b737821155b○"「おじゃましますー」"
 ●f8f9fcaa59dc0b737821155b●"「おじゃましますー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d7336b72d2f56874c9a35194○"「おはようございます、常坂さん」"
 ●d7336b72d2f56874c9a35194●"「おはようございます、常坂さん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7b110f642dfa82d05b5c23c0○"「ああ、バイトお疲れ様」"
 ●7b110f642dfa82d05b5c23c0●"「ああ、バイトお疲れ様」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○85069ad2086d935755c5fc4b○"「連弾は、少し休んでからにするか？　それとももう」"
 ●85069ad2086d935755c5fc4b●"「連弾は、少し休んでからにするか？　それとももう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3cd8466370211bd20e2fb802○"「そのことなんですが……今日は連弾はしません。今日\\n　この後のスケジュールはいかがですか？」"
 ●3cd8466370211bd20e2fb802●"「そのことなんですが……今日は連弾はしません。今日\\n　この後のスケジュールはいかがですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○947107f02891923d8852b541○"「詩名と過ごす予定だったから、何も入れてないけど」"
 ●947107f02891923d8852b541●"「詩名と過ごす予定だったから、何も入れてないけど」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c09ee209f6ae76d834308301○"「では、一緒にゲームセンターと、ゲームショップ巡り\\n　に付き合っていただけませんか？」"
 ●c09ee209f6ae76d834308301●"「では、一緒にゲームセンターと、ゲームショップ巡り\\n　に付き合っていただけませんか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○875a9db6e585ac0b3d21e333○"「デートか？」"
 ●875a9db6e585ac0b3d21e333●"「デートか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○04f6707e1017805588af7192○"「違います。昨日も言った通り、様々なジャンルのゲー\\n　ムに一通り触っておきたいんです」"
 ●04f6707e1017805588af7192●"「違います。昨日も言った通り、様々なジャンルのゲー\\n　ムに一通り触っておきたいんです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○50f99d1b7071aa828a83f988○"　それは……。"
 ●50f99d1b7071aa828a83f988●"　それは……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7303df155b6808db63da079c○"「ひとりでもできるんじゃないか？」"
 ●7303df155b6808db63da079c●"「ひとりでもできるんじゃないか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9b20040a4cf582c7c5b66f64○"「それはまあ……そうですけど」"
 ●9b20040a4cf582c7c5b66f64●"「それはまあ……そうですけど」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b86b29440983e54dcf4de1d8○"「それに、買いに行かなくても……ダウンロードすれば\\n　いいし」"
 ●b86b29440983e54dcf4de1d8●"「それに、買いに行かなくても……ダウンロードすれば\\n　いいし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○384d5830601336cebcb59cce○"「ゲームセンターとかにも、行きたいですし……」"
 ●384d5830601336cebcb59cce●"「ゲームセンターとかにも、行きたいですし……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○199bfb6d7e8936a69854fa3e○"「デートだよなこれ？」"
 ●199bfb6d7e8936a69854fa3e●"「デートだよなこれ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e0c11dc09d69a0537becde12○"「……むぅ。わかりました！　わかりましたよ！　ひと\\n　りで行きます……常坂さんの手は不要です！」"
 ●e0c11dc09d69a0537becde12●"「……むぅ。わかりました！　わかりましたよ！　ひと\\n　りで行きます……常坂さんの手は不要です！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○37c0ebcb030168810899d1b7○"「いや、冗談だよ」"
 ●37c0ebcb030168810899d1b7●"「いや、冗談だよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○52d81a908483194f06205a4a○"「……そうですか。では同行を許可します。デートでは\\n　ないので、邪魔にならないように節度を持った行動を\\n　お願いします」"
 ●52d81a908483194f06205a4a●"「……そうですか。では同行を許可します。デートでは\\n　ないので、邪魔にならないように節度を持った行動を\\n　お願いします」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5c7547ce045eb80fff4b800d○"「はい」"
 ●5c7547ce045eb80fff4b800d●"「はい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ba7ec2dbd9f00f4af420ab3c○"　クールな詩名に戻ってしまった。"
 ●ba7ec2dbd9f00f4af420ab3c●"　クールな詩名に戻ってしまった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○022117da08464eee320e453e○"「ただし……手のマッサージは必要になると思うので歩\\n　きながら私の手を揉んだりマッサージすることは許し\\n　ます」"
 ●022117da08464eee320e453e●"「ただし……手のマッサージは必要になると思うので歩\\n　きながら私の手を揉んだりマッサージすることは許し\\n　ます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○70aaa3adb9ce5ba803af926c○"　それは……つまり。"
 ●70aaa3adb9ce5ba803af926c●"　それは……つまり。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○067836f8dc34c46be5335368○"「手をつないで歩くのは、許可すると」"
 ●067836f8dc34c46be5335368●"「手をつないで歩くのは、許可すると」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6956299ec79233edbeddc648○"「あくまでマッサージです……ゲームのためです。手を\\n　つないで、ゲーム屋さんとゲームセンターを梯子する\\n　デートではありません」"
 ●6956299ec79233edbeddc648●"「あくまでマッサージです……ゲームのためです。手を\\n　つないで、ゲーム屋さんとゲームセンターを梯子する\\n　デートではありません」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9443d6d0538e783898b99176○"「だったらちゃんと、マッサージ屋さんに行った方が」"
 ●9443d6d0538e783898b99176●"「だったらちゃんと、マッサージ屋さんに行った方が」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1ed7fd204f382df202dfb128○"「むぅぅぅ～～～！　わかりましたよ！　もう常坂さん\\n　とは、一生、一回も、ずーっと手をつなぎません！」"
 ●1ed7fd204f382df202dfb128●"「むぅぅぅ～～～！　わかりましたよ！　もう常坂さん\\n　とは、一生、一回も、ずーっと手をつなぎません！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d30c45a0e247ab82bfaef152○"「悪い、冗談だから」"
 ●d30c45a0e247ab82bfaef152●"「悪い、冗談だから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f33595571fd4406b080a984d○"「ほら、それじゃあ一緒に行こう」"
 ●f33595571fd4406b080a984d●"「ほら、それじゃあ一緒に行こう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8712490e2a48e0736b8ee0c4○"　そういって手を差し出す。"
 ●8712490e2a48e0736b8ee0c4●"　そういって手を差し出す。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f10bca8e551a2f6337320285○"「……ぷい」"
 ●f10bca8e551a2f6337320285●"「……ぷい」"
 
-# body; occurrences=6
+# body; occurrences=1; source_occurrence=1
 ○d9cd4b3ad3c66a4b58051996○"「…………」"
 ●d9cd4b3ad3c66a4b58051996●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b51b3910c783baa37e832f06○"　かわいい[す]拗ね方をしながら、先に出て行ってしまった。"
 ●b51b3910c783baa37e832f06●"　かわいい[す]拗ね方をしながら、先に出て行ってしまった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c1eab675f6b2815d1930ecff○"「さて、最初はゲーセンと、ゲームショップ、どっちに\\n　向かう？」"
 ●c1eab675f6b2815d1930ecff●"「さて、最初はゲーセンと、ゲームショップ、どっちに\\n　向かう？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○29449059dddab899449ed656○"「ゲームショップですかね。そこで、情報が手に入るか\\n　もしれません」"
 ●29449059dddab899449ed656●"「ゲームショップですかね。そこで、情報が手に入るか\\n　もしれません」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○473aeb4aa211b8793021f49f○"「ん？　情報って？」"
 ●473aeb4aa211b8793021f49f●"「ん？　情報って？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7f016cfe24be2d47d0307348○"「体育祭で使われるゲームを、どなたかが購入している\\n　はずです。そしてその情報をおそらく……杉並さんは\\n　入手しているでしょう」"
 ●7f016cfe24be2d47d0307348●"「体育祭で使われるゲームを、どなたかが購入している\\n　はずです。そしてその情報をおそらく……杉並さんは\\n　入手しているでしょう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○20ea1734a0f9e6336a847bb4○"「確かに、あいつの情報[もう]網なら可能そうだな」"
 ●20ea1734a0f9e6336a847bb4●"「確かに、あいつの情報[もう]網なら可能そうだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b73f46286954f78c634b8eb9○"「なのでお店で『やけに芝居がかった口調で、ゲームを\\n　買っていった人はいないか。そのゲームは何か』と聞\\n　けばきっと教えてくれるはずです」"
 ●b73f46286954f78c634b8eb9●"「なのでお店で『やけに芝居がかった口調で、ゲームを\\n　買っていった人はいないか。そのゲームは何か』と聞\\n　けばきっと教えてくれるはずです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f233b787207d6bb235d2c2ec○"「なるほど、確かに……っていうか、そんなところまで\\n　考えてたんだ」"
 ●f233b787207d6bb235d2c2ec●"「なるほど、確かに……っていうか、そんなところまで\\n　考えてたんだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cd878890430539b658cedc9a○"「勝負事は、盤上だけで起きているのではなくその外側\\n　のことも想像すべきです」"
 ●cd878890430539b658cedc9a●"「勝負事は、盤上だけで起きているのではなくその外側\\n　のことも想像すべきです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8f9c17ad98aa418cbe03e7ce○"「さすがだ……」"
 ●8f9c17ad98aa418cbe03e7ce●"「さすがだ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b9a4977e87bf402242228991○"　ダウンロードで済ませればいいと思ってたけどきっと\\nこれも狙いだったんだな。"
 ●b9a4977e87bf402242228991●"　ダウンロードで済ませればいいと思ってたけどきっと\\nこれも狙いだったんだな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○026517a51d67dafe4365e8ea○"　とりあえずふたりで近くのゲームショップに入ってみ\\nる。"
 ●026517a51d67dafe4365e8ea●"　とりあえずふたりで近くのゲームショップに入ってみ\\nる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d32b668a57b8da076e0f5eec○"　そして、さっきの方法で尋ねてみると……。"
 ●d32b668a57b8da076e0f5eec●"　そして、さっきの方法で尋ねてみると……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8cbe34c9229114bf6261ed8d○"「どれだけ買ってるんだよ……あいつ」"
 ●8cbe34c9229114bf6261ed8d●"「どれだけ買ってるんだよ……あいつ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○24cb1bf055baff0645117773○"「さすが、私と戦えるだけのゲーマー……。レトロゲー\\n　から最新作……レビューで最低評価だった作品……そ\\n　れに乙女ゲーまで」"
 ●24cb1bf055baff0645117773●"「さすが、私と戦えるだけのゲーマー……。レトロゲー\\n　から最新作……レビューで最低評価だった作品……そ\\n　れに乙女ゲーまで」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b95b99f3c195b2c3f7ce4301○"　俺たちの作戦は失敗した。"
 ●b95b99f3c195b2c3f7ce4301●"　俺たちの作戦は失敗した。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4ab35c37f019de65263fe8b1○"　杉並が買っているゲームの量が、半端じゃなかった。"
 ●4ab35c37f019de65263fe8b1●"　杉並が買っているゲームの量が、半端じゃなかった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9e5c273297a2087fc41502b5○"「もしかしてこれは……私をかく乱するためにいろいろ\\n　買っていったのでは？」"
 ●9e5c273297a2087fc41502b5●"「もしかしてこれは……私をかく乱するためにいろいろ\\n　買っていったのでは？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ed820dd22fede9a83950363d○"「あいつのことだから、ただ単に買っていったのかもし\\n　れないけど……どっちなのか判断できないな」"
 ●ed820dd22fede9a83950363d●"「あいつのことだから、ただ単に買っていったのかもし\\n　れないけど……どっちなのか判断できないな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1434a8e0f07360111ad1780b○"「この作戦は無理そうだし、次はゲーセンか」"
 ●1434a8e0f07360111ad1780b●"「この作戦は無理そうだし、次はゲーセンか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b3d146f1ee198a28e86dae38○"「わかりました。お付き合い願います」"
 ●b3d146f1ee198a28e86dae38●"「わかりました。お付き合い願います」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c851052725d42dfa698ad7c7○"　ゲームセンターに入り、しばらく使われそうなゲーム\\nを探して歩き回る。"
 ●c851052725d42dfa698ad7c7●"　ゲームセンターに入り、しばらく使われそうなゲーム\\nを探して歩き回る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○059a4283989f2167c59d4a4d○"　と、とあるゲームの前で、俺たちは足を止めた。"
 ●059a4283989f2167c59d4a4d●"　と、とあるゲームの前で、俺たちは足を止めた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○74468cda174d16630f500901○"　そこにあったのは、体感型のＶＲゲーム。"
 ●74468cda174d16630f500901●"　そこにあったのは、体感型のＶＲゲーム。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a45b06caf69376b1a31e1a52○"「これは……もしかしたら、可能性があるんじゃないで\\n　しょうか」"
 ●a45b06caf69376b1a31e1a52●"「これは……もしかしたら、可能性があるんじゃないで\\n　しょうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cf8e03eeacfc661a6f4721a8○"「確かに。初めて見るやつだし、コンプライアンスを[うた]謳\\n　うなら、最新機は公平な気がする」"
 ●cf8e03eeacfc661a6f4721a8●"「確かに。初めて見るやつだし、コンプライアンスを[うた]謳\\n　うなら、最新機は公平な気がする」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6840c37e2c3894ec9888a70f○"「それよりなにより……最新機は面白そうですね。とり\\n　あえず、やってみましょうか」"
 ●6840c37e2c3894ec9888a70f●"「それよりなにより……最新機は面白そうですね。とり\\n　あえず、やってみましょうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○eee49f83984bf4b6d505ff61○"　ゲームの説明をよく見てみると……。"
 ●eee49f83984bf4b6d505ff61●"　ゲームの説明をよく見てみると……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e437d65b64f85e17338db793○"「ＶＲスポーツ……か」"
 ●e437d65b64f85e17338db793●"「ＶＲスポーツ……か」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aa1135f5ce312d83c8edbc3f○"「なんか、いろんなスポーツが、ゲームの中で楽しめる\\n　らしいぞ」"
 ●aa1135f5ce312d83c8edbc3f●"「なんか、いろんなスポーツが、ゲームの中で楽しめる\\n　らしいぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○69a2adbc238183d8fca6f398○"「なるほど。これならｅ－ｓｐｏｒｔｓにもピッタリな\\n　気がします」"
 ●69a2adbc238183d8fca6f398●"「なるほど。これならｅ－ｓｐｏｒｔｓにもピッタリな\\n　気がします」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2bc8a9ef1c3a16be9a2ec2a7○"　詩名がお金を投入する。"
 ●2bc8a9ef1c3a16be9a2ec2a7●"　詩名がお金を投入する。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7a786398e7e319c1ae4c50b8○"「運動苦手なのに、いきなりやって大丈夫か？」"
 ●7a786398e7e319c1ae4c50b8●"「運動苦手なのに、いきなりやって大丈夫か？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○25c736520682e4679472668d○"「大丈夫です。ゲームと冠しているものですから、私な\\n　ら余裕です」"
 ●25c736520682e4679472668d●"「大丈夫です。ゲームと冠しているものですから、私な\\n　ら余裕です」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e9c3dc301c8c5aa62e5bcf85○"　そういってゴーグルをかける。"
 ●e9c3dc301c8c5aa62e5bcf85●"　そういってゴーグルをかける。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○792487b90d733c57d2689273○"　と、外部の人が見られるように、ゲーム内の様子が外\\n部のモニターに映し出された。"
 ●792487b90d733c57d2689273●"　と、外部の人が見られるように、ゲーム内の様子が外\\n部のモニターに映し出された。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4b25cba9592dc300c58bba02○"「さて、まずはどんなスポーツですかね？　なんだか広\\n　いところに立ってますが……」"
 ●4b25cba9592dc300c58bba02●"「さて、まずはどんなスポーツですかね？　なんだか広\\n　いところに立ってますが……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cca25073244e628fc7e6154b○"　詩名がいるそこは──"
 ●cca25073244e628fc7e6154b●"　詩名がいるそこは──"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f47ae447a859b0bc9e7228fd○"「なるほど、初めは野球というわけですね。……いいで\\n　しょう」"
 ●f47ae447a859b0bc9e7228fd●"「なるほど、初めは野球というわけですね。……いいで\\n　しょう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6dc87b1b875cdfd60330b983○"　──スタジアムのバッターボックスだ。"
 ●6dc87b1b875cdfd60330b983●"　──スタジアムのバッターボックスだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○963cfcf33eb0e641202eadc4○"「大丈夫そうか？」"
 ●963cfcf33eb0e641202eadc4●"「大丈夫そうか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8acf4da04a43835ad1311b94○"「心配無用ですよ。……私の勇姿をお見せするのでその\\n　活躍……見逃さないようにしてください」"
 ●8acf4da04a43835ad1311b94●"「心配無用ですよ。……私の勇姿をお見せするのでその\\n　活躍……見逃さないようにしてください」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1adf25a0f548a881d9c3387b○"「わかった、じっくり見ておくよ」"
 ●1adf25a0f548a881d9c3387b●"「わかった、じっくり見ておくよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○033afe7a574f98728ab34ed9○"「ふふっ、惚れ直してしまうかもしれませんね。さて、\\n　モードはベリーハードで」"
 ●033afe7a574f98728ab34ed9●"「ふふっ、惚れ直してしまうかもしれませんね。さて、\\n　モードはベリーハードで」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○250489a3897d017d6da7af1e○"　詩名が空中の何かを操作している。"
 ●250489a3897d017d6da7af1e●"　詩名が空中の何かを操作している。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3a032eed4c24c926bf4b0c1b○"　そして、モニターには、ＣＰＵの対戦相手が映し出さ\\nれた。"
 ●3a032eed4c24c926bf4b0c1b●"　そして、モニターには、ＣＰＵの対戦相手が映し出さ\\nれた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a0c3dbacb7715e160baf0389○"　対戦相手のピッチャーが振りかぶる。"
 ●a0c3dbacb7715e160baf0389●"　対戦相手のピッチャーが振りかぶる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=2
+○1aad9c9052b56c62d323dc3a○"「…………」"
+●1aad9c9052b56c62d323dc3a●"「…………」"
+
+# body; occurrences=1; source_occurrence=1
 ○8f11f2a5a0829e93bf737c6d○"　すると、詩名も構えて……ピアノを弾くときやゲーム\\nをするとき特有の集中した空気を出し始める。"
 ●8f11f2a5a0829e93bf737c6d●"　すると、詩名も構えて……ピアノを弾くときやゲーム\\nをするとき特有の集中した空気を出し始める。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a935ff4e5659ee21841c4ce2○"　そして……。"
 ●a935ff4e5659ee21841c4ce2●"　そして……。"
 
@@ -363,558 +367,586 @@
 ○f73edd9c0ebb110ad8732b72○"アナウンス"
 ●f73edd9c0ebb110ad8732b72●"アナウンス"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f070e15d1cd2d7ea375b5454○"『ピッチャー振りかぶって、第一球──投げたー！』"
 ●f070e15d1cd2d7ea375b5454●"『ピッチャー振りかぶって、第一球──投げたー！』"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○40784f942b45ce6832fbd9c0○"「タイミングは──ここですね！」"
 ●40784f942b45ce6832fbd9c0●"「タイミングは──ここですね！」"
 
-# body; occurrences=3
+# body; occurrences=1; source_occurrence=1
 ○1beeef0a256d12dae52774f8○"『ストラーイーク！』"
 ●1beeef0a256d12dae52774f8●"『ストラーイーク！』"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○38f55a0f9db31d642501c3dc○"　詩名はバットを振らずに、球を見逃した。"
 ●38f55a0f9db31d642501c3dc●"　詩名はバットを振らずに、球を見逃した。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5c5c68df741e374bacc8f8c8○"　速度とタイミングを計っているのだろう。"
 ●5c5c68df741e374bacc8f8c8●"　速度とタイミングを計っているのだろう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○59c7a647f42d695c733ca2b0○"「なんかカッコいいな」"
 ●59c7a647f42d695c733ca2b0●"「なんかカッコいいな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○783dc0d86da9ab2a1628d624○"「だから言ったじゃないですか、惚れ直してしまうと」"
 ●783dc0d86da9ab2a1628d624●"「だから言ったじゃないですか、惚れ直してしまうと」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cd6b7f064a1fc7a402501aaf○"「今の一球で……タイミングも、ゲームとしての癖も見\\n　抜きました。次は打つので……」"
 ●cd6b7f064a1fc7a402501aaf●"「今の一球で……タイミングも、ゲームとしての癖も見\\n　抜きました。次は打つので……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5ff4c85e7543cd11519d9fac○"『ピッチャー振りかぶって、第二球──投げたー！』"
 ●5ff4c85e7543cd11519d9fac●"『ピッチャー振りかぶって、第二球──投げたー！』"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○13a3b29f1f4c97ee714dfdd1○"「せーの──」"
 ●13a3b29f1f4c97ee714dfdd1●"「せーの──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4b9e6aea177eefca4de5091e○"「ふにゃぁぁぁぁぁぁぁぁぁぁぁ～～～～～～～っ！」"
 ●4b9e6aea177eefca4de5091e●"「ふにゃぁぁぁぁぁぁぁぁぁぁぁ～～～～～～～っ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=2
+○be84e0c35eaf2a2e3a72c749○"『ストラーイーク！』"
+●be84e0c35eaf2a2e3a72c749●"『ストラーイーク！』"
+
+# body; occurrences=1; source_occurrence=3
+○ffa0f27deffe55b6b2680591○"「…………」"
+●ffa0f27deffe55b6b2680591●"「…………」"
+
+# body; occurrences=1; source_occurrence=4
+○5453069b39de8669ecb43552○"「…………」"
+●5453069b39de8669ecb43552●"「…………」"
+
+# body; occurrences=1; source_occurrence=1
 ○e089c57ab4ee3eb07043d46a○"　動き出しのタイミングは完璧だった。"
 ●e089c57ab4ee3eb07043d46a●"　動き出しのタイミングは完璧だった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0c8d2a35a59dccf6d3e380ac○"　でもそれに、体が全く付いていっていない。"
 ●0c8d2a35a59dccf6d3e380ac●"　でもそれに、体が全く付いていっていない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○653c0f54102abe4793639c0f○"　ものすごくヘロヘロしたスイングだった。"
 ●653c0f54102abe4793639c0f●"　ものすごくヘロヘロしたスイングだった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ed2dcb590d10d4cabcda7ead○"「魔球でしたね」"
 ●ed2dcb590d10d4cabcda7ead●"「魔球でしたね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○05cf59c561a8fece15bc1a78○"「え？　あ、うん……そうだったかもな」"
 ●05cf59c561a8fece15bc1a78●"「え？　あ、うん……そうだったかもな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○65fa6601f593732cf6353fec○"「さて、ではそろそろ……やるとしますかぁ」"
 ●65fa6601f593732cf6353fec●"「さて、ではそろそろ……やるとしますかぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c4bdc87d6989d8c9118e98b7○"「お、おう……頑張れ」"
 ●c4bdc87d6989d8c9118e98b7●"「お、おう……頑張れ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5b6e20cf1bc926e268d00942○"「ええ、お任せください。常坂さんは『惚れ直したぞ詩\\n　名』と言う準備をしておくようにお願いします」"
 ●5b6e20cf1bc926e268d00942●"「ええ、お任せください。常坂さんは『惚れ直したぞ詩\\n　名』と言う準備をしておくようにお願いします」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f7a9d235a53ae74d2b0ed6e7○"「はいはい」"
 ●f7a9d235a53ae74d2b0ed6e7●"「はいはい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a323d1ad05313fc5fa8cb6cd○"「少々テイクバックが浅かったかもしれませんね……。\\n　次は、全力で……」"
 ●a323d1ad05313fc5fa8cb6cd●"「少々テイクバックが浅かったかもしれませんね……。\\n　次は、全力で……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7da4015f11df9e95e5bb2810○"　詩名が構える。"
 ●7da4015f11df9e95e5bb2810●"　詩名が構える。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1f4d31d4e56569290e12c687○"　けどやっぱり、素人丸出しの構えで……さらにものす\\nごく無駄な力が入っているように見える。"
 ●1f4d31d4e56569290e12c687●"　けどやっぱり、素人丸出しの構えで……さらにものす\\nごく無駄な力が入っているように見える。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○177104ae7079374745a75540○"『ピッチャー振りかぶって、第三球──投げたー！』"
 ●177104ae7079374745a75540●"『ピッチャー振りかぶって、第三球──投げたー！』"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○744156784b2f9ebd4fad4f47○"「思いっきり──」"
 ●744156784b2f9ebd4fad4f47●"「思いっきり──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6ec48b1f803d7a1da0d2e225○"　全力で打ちに行こうとしているのか、詩名があり得な\\nいくらいにテイクバックをして。"
 ●6ec48b1f803d7a1da0d2e225●"　全力で打ちに行こうとしているのか、詩名があり得な\\nいくらいにテイクバックをして。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e266ef67ce935c9ede5a72c8○"「てやぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁ～～～──」"
 ●e266ef67ce935c9ede5a72c8●"「てやぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁ～～～──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2a7c01ed937e36cb046a968a○"　無駄に力強く、ヘロヘロとスイングをした。"
 ●2a7c01ed937e36cb046a968a●"　無駄に力強く、ヘロヘロとスイングをした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=3
+○baf24afe1a686fc33aa06747○"『ストラーイーク！』"
+●baf24afe1a686fc33aa06747●"『ストラーイーク！』"
+
+# body; occurrences=1; source_occurrence=1
 ○bf678287fa1a7a6e85850c92○"「──ぁぁぁぁぁ～～～あ、あ、あああああ！？」"
 ●bf678287fa1a7a6e85850c92●"「──ぁぁぁぁぁ～～～あ、あ、あああああ！？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○31b7b2895e37e7ac6d491293○"　と、そのままバランスを崩して。"
 ●31b7b2895e37e7ac6d491293●"　と、そのままバランスを崩して。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7362271f5feca9efb438aab7○"「危ないっ！」"
 ●7362271f5feca9efb438aab7●"「危ないっ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8d88cab35c21943659ba1d3b○"　倒れそうになった詩名を抱きとめる。"
 ●8d88cab35c21943659ba1d3b●"　倒れそうになった詩名を抱きとめる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○17b84b7c9e79626ba58a2a21○"「え？　え？　え？　な、なにが？　なんですこれ？」"
 ●17b84b7c9e79626ba58a2a21●"「え？　え？　え？　な、なにが？　なんですこれ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6a2de18ed85d38b2c5f93493○"「倒れそうになったんだよ」"
 ●6a2de18ed85d38b2c5f93493●"「倒れそうになったんだよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○906424dd5b50d096c0c891b7○"「ほら、ちょっとゴーグルとるぞ」"
 ●906424dd5b50d096c0c891b7●"「ほら、ちょっとゴーグルとるぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○80302afd0a84411b586c2715○"「あ……常坂さん。え？　あ、ありがとうございます」"
 ●80302afd0a84411b586c2715●"「あ……常坂さん。え？　あ、ありがとうございます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fd65c24241029dbfba18a10c○"「どういたしましてだ」"
 ●fd65c24241029dbfba18a10c●"「どういたしましてだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dad3fc7838db3c54d284faad○"「す、すみません……かっこ悪いところを見せてしまい\\n　ましたね」"
 ●dad3fc7838db3c54d284faad●"「す、すみません……かっこ悪いところを見せてしまい\\n　ましたね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f31f9296e4916bc75ff1b425○"「いや、なんかかわいかったよ。えーっと……」"
 ●f31f9296e4916bc75ff1b425●"「いや、なんかかわいかったよ。えーっと……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d047c490eece96a6d25f0aef○"「ああ、[ほ]惚れ直したぞ詩名」"
 ●d047c490eece96a6d25f0aef●"「ああ、[ほ]惚れ直したぞ詩名」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c0506ca8e2173715d72b6f5c○"「その言葉は嬉しいですが、想定していた状況とは違い\\n　ます……」"
 ●c0506ca8e2173715d72b6f5c●"「その言葉は嬉しいですが、想定していた状況とは違い\\n　ます……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9dd12679f7a3cf78224ef3a4○"「次こそは、実力で言わせてみせますので！」"
 ●9dd12679f7a3cf78224ef3a4●"「次こそは、実力で言わせてみせますので！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b1ccfb690ba9bbe71074a21a○"　負けず嫌いの詩名だ……失敗して言われても満足する\\nはずがない。"
 ●b1ccfb690ba9bbe71074a21a●"　負けず嫌いの詩名だ……失敗して言われても満足する\\nはずがない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○427db9700040f8cb3e2d8ae0○"　むしろ火に油を注いだかも……。"
 ●427db9700040f8cb3e2d8ae0●"　むしろ火に油を注いだかも……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○57fe00fb89bf0f40941df0ed○"「では第四球……次こそは打ってみせます！」"
 ●57fe00fb89bf0f40941df0ed●"「では第四球……次こそは打ってみせます！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9fae039a04caaee1d392c105○"「四球目はないぞ」"
 ●9fae039a04caaee1d392c105●"「四球目はないぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f75518333cadbf83385eb2c4○"「そ、そうなんですね……。えーっと、それでは……。\\n　あ……また景色が変わっていきます」"
 ●f75518333cadbf83385eb2c4●"「そ、そうなんですね……。えーっと、それでは……。\\n　あ……また景色が変わっていきます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7558b6a73aad33013a4ea3f0○"「今度はサッカーみたいだな」"
 ●7558b6a73aad33013a4ea3f0●"「今度はサッカーみたいだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○417a79c2ee1477cd03f0e940○"　どうやら、ＰＫの対決のようだ。"
 ●417a79c2ee1477cd03f0e940●"　どうやら、ＰＫの対決のようだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f27050e31dd1034a4b802b37○"「ふむふむ。まずはキーパーからですか……。ふふ……\\n　鉄壁とあだ名された私から、ゴールを奪えますかね」"
 ●f27050e31dd1034a4b802b37●"「ふむふむ。まずはキーパーからですか……。ふふ……\\n　鉄壁とあだ名された私から、ゴールを奪えますかね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3ed373ff7fcf5ad132070d75○"　呼ばれてたのかはわからないが……。"
 ●3ed373ff7fcf5ad132070d75●"　呼ばれてたのかはわからないが……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○84d1765c5429a17bf49aeeb1○"　まあ、転校してきたばかりの時は、鉄壁っぽくはあっ\\nたな。"
 ●84d1765c5429a17bf49aeeb1●"　まあ、転校してきたばかりの時は、鉄壁っぽくはあっ\\nたな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1255e355f808a9353d712854○"　そしてゲームが始まる。"
 ●1255e355f808a9353d712854●"　そしてゲームが始まる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○999bbf511b457d7a06802c58○"「相手の……あの体の傾け具合……目線、そしてスピー\\n　ド──」"
 ●999bbf511b457d7a06802c58●"「相手の……あの体の傾け具合……目線、そしてスピー\\n　ド──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5a565623cbe5a2e102cf584d○"　相手ＣＰＵがシュートを打ってくる。"
 ●5a565623cbe5a2e102cf584d●"　相手ＣＰＵがシュートを打ってくる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9c121f5b8f4e394ed120103d○"「──間違いなく右です！」"
 ●9c121f5b8f4e394ed120103d●"「──間違いなく右です！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○37623b3a70cc40173cdd0ecc○"　その宣言通り、ボールは右側に向かってきた。"
 ●37623b3a70cc40173cdd0ecc●"　その宣言通り、ボールは右側に向かってきた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c81a59a40556418852fd05c5○"　そして詩名は。"
 ●c81a59a40556418852fd05c5●"　そして詩名は。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8fa16af8f5a902951d9fbf9e○"「へやあぁぁぁぁぁぁぁぁぁぁぁぁぁ！」"
 ●8fa16af8f5a902951d9fbf9e●"「へやあぁぁぁぁぁぁぁぁぁぁぁぁぁ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1fb098a35483f5dcfdd328e4○"　そんな声を出しながら、ボールに手を伸ばすが……。"
 ●1fb098a35483f5dcfdd328e4●"　そんな声を出しながら、ボールに手を伸ばすが……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○368d0b769e8fde424dbd59e9○"『ゴーーーーーール！！』"
 ●368d0b769e8fde424dbd59e9●"『ゴーーーーーール！！』"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5e6e0d763fe5a591cd3956a7○"　全然体が動いていなかった。"
 ●5e6e0d763fe5a591cd3956a7●"　全然体が動いていなかった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=5
+○ca3e309ed99749f34961a804○"「…………」"
+●ca3e309ed99749f34961a804●"「…………」"
+
+# body; occurrences=1; source_occurrence=1
 ○f3fe01e23732f13cf95c3591○"「……魔球でしたね」"
 ●f3fe01e23732f13cf95c3591●"「……魔球でしたね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e4560311c29de0f65498972d○"「あ、え？　ああ……うん。魔球だったな」"
 ●e4560311c29de0f65498972d●"「あ、え？　ああ……うん。魔球だったな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c1797c56c033ae4760afd270○"　普通のシュートだったけど。"
 ●c1797c56c033ae4760afd270●"　普通のシュートだったけど。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ab9c99786caf8302aff420e5○"「では次は、私がシュートですね。さてと……決めちゃ\\n　いますかぁ～……」"
 ●ab9c99786caf8302aff420e5●"「では次は、私がシュートですね。さてと……決めちゃ\\n　いますかぁ～……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cfc57f4540307f8dc2a7eae4○"　ボールを前にして、詩名は少し後ろに下がりものすご\\nく勢いをつけようとしている。"
 ●cfc57f4540307f8dc2a7eae4●"　ボールを前にして、詩名は少し後ろに下がりものすご\\nく勢いをつけようとしている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5735a0bb40ce3544dd0b4b1e○"「……うーん」"
 ●5735a0bb40ce3544dd0b4b1e●"「……うーん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○af7a7eae1fc8dd9f8ff981f4○"　俺は、詩名の後ろに待機した。"
 ●af7a7eae1fc8dd9f8ff981f4●"　俺は、詩名の後ろに待機した。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○07f51ab271e64e6ae08d371e○"「にゅあぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁっ──」"
 ●07f51ab271e64e6ae08d371e●"「にゅあぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁっ──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2961a03a5126f565692aa1e9○"　勢いよくボールを蹴る。"
 ●2961a03a5126f565692aa1e9●"　勢いよくボールを蹴る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2a2038610799d0eb141bef73○"　が。"
 ●2a2038610799d0eb141bef73●"　が。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a93d52a4c3aece3229583b0e○"「──あああああああああああああ？」"
 ●a93d52a4c3aece3229583b0e●"「──あああああああああああああ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b283245efacfef6adf38d33d○"　そのまま後ろに倒れてきて──"
 ●b283245efacfef6adf38d33d●"　そのまま後ろに倒れてきて──"
 
-# body; occurrences=2
+# body; occurrences=1; source_occurrence=1
 ○fd38a51e30556ab3f4e5d7f1○"「大丈夫か？」"
 ●fd38a51e30556ab3f4e5d7f1●"「大丈夫か？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ecfef8b42b077088170c2f35○"　──抱きとめる。"
 ●ecfef8b42b077088170c2f35●"　──抱きとめる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d42b60445575085787872ab9○"「あ、す、すみません……また、助けていただいて」"
 ●d42b60445575085787872ab9●"「あ、す、すみません……また、助けていただいて」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a6fe4d3ce0e6a8f71a9c70ab○"「良いよ。どこか痛めたりしてないか？」"
 ●a6fe4d3ce0e6a8f71a9c70ab●"「良いよ。どこか痛めたりしてないか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e212bbd5ec8af6daa016edba○"「はい……ありがとうございます。あ！　ボールは？」"
 ●e212bbd5ec8af6daa016edba●"「はい……ありがとうございます。あ！　ボールは？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2636aa380f64758a97cac225○"　画面を見ると……ボールはまだ目の前にあった。"
 ●2636aa380f64758a97cac225●"　画面を見ると……ボールはまだ目の前にあった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d3adf3e92cb90b81bfe31e36○"「蹴れてなかったみたいだな」"
 ●d3adf3e92cb90b81bfe31e36●"「蹴れてなかったみたいだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○36adce57bcb17ee6e78c2a36○"「それならば！　今度こそ決めてきます！　ボールはま\\n　だ生きていますよ！」"
 ●36adce57bcb17ee6e78c2a36●"「それならば！　今度こそ決めてきます！　ボールはま\\n　だ生きていますよ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8eb7594bdcbaa7b45a085773○"「あ……」"
 ●8eb7594bdcbaa7b45a085773●"「あ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8d0efadb00f88c74998cbd2d○"「とやぁぁぁぁぁぁぁぁぁ────ああああああ！？」"
 ●8d0efadb00f88c74998cbd2d●"「とやぁぁぁぁぁぁぁぁぁ────ああああああ！？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e9b82926d4732fac0b0452c6○"「おかえり」"
 ●e9b82926d4732fac0b0452c6●"「おかえり」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0fb8467a1bee2e15260e7a5d○"「……た、ただいま……です」"
 ●0fb8467a1bee2e15260e7a5d●"「……た、ただいま……です」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e1dc91c096e7258b52ae0845○"　その後も──"
 ●e1dc91c096e7258b52ae0845●"　その後も──"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1b52a17ef4e36bd6de2ef537○"　──バスケット。"
 ●1b52a17ef4e36bd6de2ef537●"　──バスケット。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b27fa8f76f31508aa9738561○"「はぁぁぁぁぁぁぁぁぁぁ～～～～～～！」"
 ●b27fa8f76f31508aa9738561●"「はぁぁぁぁぁぁぁぁぁぁ～～～～～～！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=2
+○bd6f28934ea2245040771b16○"「大丈夫か？」"
+●bd6f28934ea2245040771b16●"「大丈夫か？」"
+
+# body; occurrences=1; source_occurrence=1
 ○82463555033256878a112212○"　──テニス。"
 ●82463555033256878a112212●"　──テニス。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○71ab4b4beefa4f9a6b53b3ff○"　──剣道。"
 ●71ab4b4beefa4f9a6b53b3ff●"　──剣道。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○77351c3b8ecc28d53aeb53f3○"「みゃぁぁぁぁぁぁぁぁぁぁ～～～～～～！！」"
 ●77351c3b8ecc28d53aeb53f3●"「みゃぁぁぁぁぁぁぁぁぁぁ～～～～～～！！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○69bdfb720080165541ae01dc○"「えっと……」"
 ●69bdfb720080165541ae01dc●"「えっと……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○105964fddb36c580fd5a32f9○"　──ラグビー。"
 ●105964fddb36c580fd5a32f9●"　──ラグビー。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0d3c12b283e157f7c038f6da○"　──槍投げ。"
 ●0d3c12b283e157f7c038f6da●"　──槍投げ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○87816d5b442cc41bf86b6fd6○"　──アーチェリー。"
 ●87816d5b442cc41bf86b6fd6●"　──アーチェリー。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3aed13010227742f97a0930f○"「うにゃぁぁぁぁぁぁぁぁぁぁ～～～～～～！！」"
 ●3aed13010227742f97a0930f●"「うにゃぁぁぁぁぁぁぁぁぁぁ～～～～～～！！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3eaf3ec86ab8a5fbff5df928○"「なあ……そろそろいいんじゃないか？」"
 ●3eaf3ec86ab8a5fbff5df928●"「なあ……そろそろいいんじゃないか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ca8e6d5f5934af620286784d○"「な、何がですか……？」"
 ●ca8e6d5f5934af620286784d●"「な、何がですか……？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bd9a33cf8ace1f3f8cb1f74d○"「いや、このゲーム……。何度倒れるんだよ？」"
 ●bd9a33cf8ace1f3f8cb1f74d●"「いや、このゲーム……。何度倒れるんだよ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dfbdfa3b51ead45f741d2c6a○"「これは、常坂さんが抱きとめてくれるのが嬉しくて倒\\n　れてるだけです！　ゲームをクリアできないわけじゃ\\n　ないんです！」"
 ●dfbdfa3b51ead45f741d2c6a●"「これは、常坂さんが抱きとめてくれるのが嬉しくて倒\\n　れてるだけです！　ゲームをクリアできないわけじゃ\\n　ないんです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ebbc48fcdec1fab56422aea0○"「それが本当なら嬉しいけどな……」"
 ●ebbc48fcdec1fab56422aea0●"「それが本当なら嬉しいけどな……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dea3e1a074a641233183f032○"「向いてないんだよ、このゲーム」"
 ●dea3e1a074a641233183f032●"「向いてないんだよ、このゲーム」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a6fde8fa93cb4a045fc46790○"「そんなことないですよ！　私に向いてないゲームなん\\n　てありません！」"
 ●a6fde8fa93cb4a045fc46790●"「そんなことないですよ！　私に向いてないゲームなん\\n　てありません！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○20dcf79d0c7ca1102b06dfc5○"「いや、この結果見ようぜ？」"
 ●20dcf79d0c7ca1102b06dfc5●"「いや、この結果見ようぜ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fce6afbb2e1c1bc6f8df7828○"「だって……魔球が……魔球がすごいんですもん！」"
 ●fce6afbb2e1c1bc6f8df7828●"「だって……魔球が……魔球がすごいんですもん！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b0dc55fbb256310e8cc71e10○"「球関係ない競技、かなりあっただろ」"
 ●b0dc55fbb256310e8cc71e10●"「球関係ない競技、かなりあっただろ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3e4cc68e01cce514d904879e○"「じゃあ、常坂さんやってみてくださいよ！　ホントす\\n　ごいですよ！　魔球とか魔剣とか、もう、強すぎます\\n　から！」"
 ●3e4cc68e01cce514d904879e●"「じゃあ、常坂さんやってみてくださいよ！　ホントす\\n　ごいですよ！　魔球とか魔剣とか、もう、強すぎます\\n　から！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○263fe6372d3e0c289e382c5d○"　魔剣って……。"
 ●263fe6372d3e0c289e382c5d●"　魔剣って……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○008d6a5a3b2d3be7b66245ea○"「はぁ。わかったよ」"
 ●008d6a5a3b2d3be7b66245ea●"「はぁ。わかったよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b7789ed084fcb50a5f170f65○"　さて、さっきのセリフのさっきのお返しに。"
 ●b7789ed084fcb50a5f170f65●"　さて、さっきのセリフのさっきのお返しに。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5a4803c94b46eca14f890fbc○"「[ほ]惚れ直すぞ、詩名」"
 ●5a4803c94b46eca14f890fbc●"「[ほ]惚れ直すぞ、詩名」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○99087a776d2ca15ffff9fea8○"「まあ、あの魔球を返せるのであれば……確かにもっと\\n　好きになってしまいそうですね」"
 ●99087a776d2ca15ffff9fea8●"「まあ、あの魔球を返せるのであれば……確かにもっと\\n　好きになってしまいそうですね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2c2baf6d11f617dbade28bf3○"「ですが……私がてこずるゲームですから、期待をせず\\n　に見ていますよ」"
 ●2c2baf6d11f617dbade28bf3●"「ですが……私がてこずるゲームですから、期待をせず\\n　に見ていますよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○25dae11d35290ed0e95e5048○"　とりあえずやってみると。"
 ●25dae11d35290ed0e95e5048●"　とりあえずやってみると。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=6
+○f5dd5e8c473bfd95d778ef2b○"「…………」"
+●f5dd5e8c473bfd95d778ef2b●"「…………」"
+
+# body; occurrences=1; source_occurrence=1
 ○75677c136b70af33f9504308○"　普通に良いスコアを出してしまった。"
 ●75677c136b70af33f9504308●"　普通に良いスコアを出してしまった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b31b188e77c8f96ced831738○"「ぐぅぅぅぅぅぅぅ～～～！　ぐぅぐぅぐぅ～～～！」"
 ●b31b188e77c8f96ced831738●"「ぐぅぅぅぅぅぅぅ～～～！　ぐぅぐぅぐぅ～～～！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f8fda535ee98c1d483492114○"　ものすごく、不機嫌そうな顔とうなり声をあげている。"
 ●f8fda535ee98c1d483492114●"　ものすごく、不機嫌そうな顔とうなり声をあげている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8128aab94b341d9d5ef237c1○"「いや、ほら……これゲームっていうよりは、体を使う\\n　ものだしさ……」"
 ●8128aab94b341d9d5ef237c1●"「いや、ほら……これゲームっていうよりは、体を使う\\n　ものだしさ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9b2223b27e24faf1af9fc572○"「元々俺はゲームもそういうのも得意だし、それに男女\\n　の差もあるしさ」"
 ●9b2223b27e24faf1af9fc572●"「元々俺はゲームもそういうのも得意だし、それに男女\\n　の差もあるしさ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ccae7c9d3a94718d4eac8183○"「そうなるとやっぱり、詩名には不利なんじゃないかな\\n　……」"
 ●ccae7c9d3a94718d4eac8183●"「そうなるとやっぱり、詩名には不利なんじゃないかな\\n　……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a77e7d33a1138a21d4013ecc○"　なんかもう、俺の方が[よう]擁[ご]護に一生懸命だった。"
 ●a77e7d33a1138a21d4013ecc●"　なんかもう、俺の方が[よう]擁[ご]護に一生懸命だった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bb9009fe18924727179f8f56○"「気遣いは無用です。例えそうであろうとも……勝たな\\n　ければならないんです……」"
 ●bb9009fe18924727179f8f56●"「気遣いは無用です。例えそうであろうとも……勝たな\\n　ければならないんです……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1269d10532d1124d0d1b35ac○"「このまま、ＣＰＵにも常坂さんにも負けてはいられま\\n　せん！　さあ、勝つまでやりますよ！」"
 ●1269d10532d1124d0d1b35ac●"「このまま、ＣＰＵにも常坂さんにも負けてはいられま\\n　せん！　さあ、勝つまでやりますよ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○196b6c264d77de496984e031○"「マジか……」"
 ●196b6c264d77de496984e031●"「マジか……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○944d0cf291146f68cd6f0156○"「あの……さっきの様子見たら……少し練習してからの\\n　方がいいと思うんだけど……」"
 ●944d0cf291146f68cd6f0156●"「あの……さっきの様子見たら……少し練習してからの\\n　方がいいと思うんだけど……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5e17020a44e850cf874bfad0○"「私、実践の中で成長するタイプなので！」"
 ●5e17020a44e850cf874bfad0●"「私、実践の中で成長するタイプなので！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8527fec8ff3a21a44caf1e32○"「お金とか……」"
 ●8527fec8ff3a21a44caf1e32●"「お金とか……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8940dfdd8bfeb9924a87fb28○"「バイト代がありますし！　最近では常坂さん宅でご馳\\n　走になって食費も浮いているので、それなりにありま\\n　す！　その件に関してはいつもご馳走様です！」"
 ●8940dfdd8bfeb9924a87fb28●"「バイト代がありますし！　最近では常坂さん宅でご馳\\n　走になって食費も浮いているので、それなりにありま\\n　す！　その件に関してはいつもご馳走様です！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ffaeb4f10e101cfd096fd792○"「あ、うん……。そっか……」"
 ●ffaeb4f10e101cfd096fd792●"「あ、うん……。そっか……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e87fbce6234dd052a3fbfe0b○"　じゃあもう何も言うまい。"
 ●e87fbce6234dd052a3fbfe0b●"　じゃあもう何も言うまい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○28281198276a7fe3c411f8ce○"「さあ、それじゃあリベンジをさせていただきます」"
 ●28281198276a7fe3c411f8ce●"「さあ、それじゃあリベンジをさせていただきます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c6f6d77d715b16926cd88b27○"「あ、それより……惚れ直すって話は……」"
 ●c6f6d77d715b16926cd88b27●"「あ、それより……惚れ直すって話は……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f75ee8f8283de2bbbfd05638○"「設定はベリーハードで……。あの魔球……なんとして\\n　でも打ち返してみせます！」"
 ●f75ee8f8283de2bbbfd05638●"「設定はベリーハードで……。あの魔球……なんとして\\n　でも打ち返してみせます！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○11b5425a34d67010357462fd○"　……詩名が勝つまで、お預けだろうな。"
 ●11b5425a34d67010357462fd●"　……詩名が勝つまで、お預けだろうな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a967bdb32ed13640e9225c05○"「ほやぁぁぁぁぁぁぁぁぁぁぁぁぁ～～～～～～っ！」"
 ●a967bdb32ed13640e9225c05●"「ほやぁぁぁぁぁぁぁぁぁぁぁぁぁ～～～～～～っ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d2cb4a4152006436a2663731○"　ゲームセンター内に、不思議な掛け声が何度もこだま\\nした。"
 ●d2cb4a4152006436a2663731●"　ゲームセンター内に、不思議な掛け声が何度もこだま\\nした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f9c2a4b1a0b741acb75e5039○"　練習一日目は、こうして過ぎていった。"
 ●f9c2a4b1a0b741acb75e5039●"　練習一日目は、こうして過ぎていった。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○4472b49284ea109d398d0065○"鳳城詩名（１１月９日）"
 ●4472b49284ea109d398d0065●"鳳城詩名（１１月９日）"

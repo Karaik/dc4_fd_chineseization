@@ -1,13 +1,13 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○f7ca60d69ed5fc6c0ee5cabb○"この悪友、底知れず"
 ●f7ca60d69ed5fc6c0ee5cabb●"この悪友、底知れず"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0059e62d3ca35a4fe33bd8f3○"　夕飯を済ませ、そら姉が帰った後。"
 ●0059e62d3ca35a4fe33bd8f3●"　夕飯を済ませ、そら姉が帰った後。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○eed5299ea7a2b59bb18143a9○"　向かい合った俺と二乃の間にはピリピリとした緊張感\\nが張り詰めていた。"
 ●eed5299ea7a2b59bb18143a9●"　向かい合った俺と二乃の間にはピリピリとした緊張感\\nが張り詰めていた。"
 
@@ -15,7 +15,7 @@
 ○8224d456a4a291dab64f1900○"二乃"
 ●8224d456a4a291dab64f1900●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○185283cd728193400f3474e8○"「……じゃあいきますよ。言うまでもなく一回勝負です\\n　からね」"
 ●185283cd728193400f3474e8●"「……じゃあいきますよ。言うまでもなく一回勝負です\\n　からね」"
 
@@ -23,59 +23,59 @@
 ○6c598b34ff62b957d8d50343○"一登"
 ●6c598b34ff62b957d8d50343●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d1b943d8821a6f6d40851a8a○"「わかってるって。さっさとやろうぜ」"
 ●d1b943d8821a6f6d40851a8a●"「わかってるって。さっさとやろうぜ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○89d3fdd9a274562a1252eaac○"「大した自信ですね……。それでは。最初はグー！　じゃ\\n　んけん、ポンっ！！」"
 ●89d3fdd9a274562a1252eaac●"「大した自信ですね……。それでは。最初はグー！　じゃ\\n　んけん、ポンっ！！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e7c6c34d41074897636ab6e5○"「ポンっ！」"
 ●e7c6c34d41074897636ab6e5●"「ポンっ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3bac41d2846317d12336a5a5○"　同時に手を出す。"
 ●3bac41d2846317d12336a5a5●"　同時に手を出す。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○542eb2b45f94de022c8686a2○"　俺はチョキ、二乃はパー。"
 ●542eb2b45f94de022c8686a2●"　俺はチョキ、二乃はパー。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○354cb93a41ed0d6596faf107○"　勝ったぞ。"
 ●354cb93a41ed0d6596faf107●"　勝ったぞ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ee9846fcd743ba6f94a3dce4○"「くぅぅぅぅ～！　今ちょっと遅れて出しましたよね？\\n　兄さんズルしましたよね！？」"
 ●ee9846fcd743ba6f94a3dce4●"「くぅぅぅぅ～！　今ちょっと遅れて出しましたよね？\\n　兄さんズルしましたよね！？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d4e07e44da02cd9a98ce631c○"「してねーよ！　[おう]往[じょう]生[ぎわ]際の悪いこと言うな！」"
 ●d4e07e44da02cd9a98ce631c●"「してねーよ！　[おう]往[じょう]生[ぎわ]際の悪いこと言うな！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6ee5a51aad3f68124e7ccbda○"「はぁ……、仕方ないです。今日のねこあるきは録画で\\n　我慢しますか……。チャンネル権は譲ります」"
 ●6ee5a51aad3f68124e7ccbda●"「はぁ……、仕方ないです。今日のねこあるきは録画で\\n　我慢しますか……。チャンネル権は譲ります」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bcc4dbe943a7685c067a3fd6○"「むしろ、何なんだよそのリアルタイムへのこだわりは」"
 ●bcc4dbe943a7685c067a3fd6●"「むしろ、何なんだよそのリアルタイムへのこだわりは」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3c0113528cb06d6cdf4dc579○"　言いつつリモコンを操作しようとした瞬間。"
 ●3c0113528cb06d6cdf4dc579●"　言いつつリモコンを操作しようとした瞬間。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1fde6bf1a1d10b82ec485d3f○"「お？」"
 ●1fde6bf1a1d10b82ec485d3f●"「お？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9ae3a23b36e78bb8ea54d065○"　ＴＡＢにメッセージを受信。"
 ●9ae3a23b36e78bb8ea54d065●"　ＴＡＢにメッセージを受信。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4a459b098e426c58ff2383cf○"　見ると、相手は杉並だった。"
 ●4a459b098e426c58ff2383cf●"　見ると、相手は杉並だった。"
 
@@ -83,23 +83,23 @@
 ○2d209eb347192dffd23246d8○"おこんばんは。暮らしを見つめる杉並です"
 ●2d209eb347192dffd23246d8●"おこんばんは。暮らしを見つめる杉並です"
 
-# image_alt; occurrences=1
+# image_alt; occurrences=1; source_occurrence=1
 ○54c1010464fc85a8492446cf○"スタンプ画像"
 ●54c1010464fc85a8492446cf●"スタンプ画像"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8685370345e0350ef3943bc8○"　なんだこれ。"
 ●8685370345e0350ef3943bc8●"　なんだこれ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○101c9f6d16b72d8e85b9c56c○"　怪文書？"
 ●101c9f6d16b72d8e85b9c56c●"　怪文書？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9c0a6f5ee792707d5f404852○"「どうかしたんですか？」"
 ●9c0a6f5ee792707d5f404852●"「どうかしたんですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○332007e84b39f5529572674a○"「いや、ちょっとな」"
 ●332007e84b39f5529572674a●"「いや、ちょっとな」"
 
@@ -111,51 +111,51 @@
 ○bd95d9635c63ef74c82bc3de○"それとは別に、面白いことを考えたのだが。一枚噛むつもりはないか？"
 ●bd95d9635c63ef74c82bc3de●"それとは別に、面白いことを考えたのだが。一枚噛むつもりはないか？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○60f305018f45f4ffd9cb7314○"「…………」"
 ●60f305018f45f4ffd9cb7314●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5d875fafc373673cb138f34a○"　何で知ってんだよ。"
 ●5d875fafc373673cb138f34a●"　何で知ってんだよ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4410ec4013b88d6cefb4a3cb○"　本当にコイツは何者なんだ……。"
 ●4410ec4013b88d6cefb4a3cb●"　本当にコイツは何者なんだ……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e598752782bad788f0821e5e○"　ともあれ、俺もちょっと相談事がある。"
 ●e598752782bad788f0821e5e●"　ともあれ、俺もちょっと相談事がある。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○057c24d86fd425129b525daf○"「二乃。俺は部屋に戻るから、今日のチャンネル権はお\\n　前に譲るわ」"
 ●057c24d86fd425129b525daf●"「二乃。俺は部屋に戻るから、今日のチャンネル権はお\\n　前に譲るわ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c25d7e85c2b0027d192d3044○"「えっ？　どうしたんですか急に。義務は果たさないの\\n　に権利だけは異常に主張する、あの兄さんが……」"
 ●c25d7e85c2b0027d192d3044●"「えっ？　どうしたんですか急に。義務は果たさないの\\n　に権利だけは異常に主張する、あの兄さんが……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2db3460aa8effb3ca829f4c6○"「厄介者じゃねぇか。妙な[ねつ]捏[ぞう]造すんな」"
 ●2db3460aa8effb3ca829f4c6●"「厄介者じゃねぇか。妙な[ねつ]捏[ぞう]造すんな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8c7adb607154ce1961b07639○"「とにかく、ほら。ねこあるき見ていいぞ」"
 ●8c7adb607154ce1961b07639●"「とにかく、ほら。ねこあるき見ていいぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5ab704307a119574a21a935a○"　二乃にリモコンを渡す。"
 ●5ab704307a119574a21a935a●"　二乃にリモコンを渡す。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○898388bfceecb8cdbcd04fba○"「なんか怪しいですね……。言っておきますけど、揉め\\n　事は起こさないで下さいよ？」"
 ●898388bfceecb8cdbcd04fba●"「なんか怪しいですね……。言っておきますけど、揉め\\n　事は起こさないで下さいよ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f1476f63618d169b1d383b01○"「あーい」"
 ●f1476f63618d169b1d383b01●"「あーい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○014a7729914ff6a92e7d7d8c○"　なかなか鋭い。"
 ●014a7729914ff6a92e7d7d8c●"　なかなか鋭い。"
 
@@ -179,26 +179,26 @@
 ○e831dd7a5f2eb1c04edf739f○"おう"
 ●e831dd7a5f2eb1c04edf739f●"おう"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5a036b14c935e230f1b986cf○"「オッケー。じゃあそういうことで」"
 ●5a036b14c935e230f1b986cf●"「オッケー。じゃあそういうことで」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1deb09f075507b939d380d36○"「よし」"
 ●1deb09f075507b939d380d36●"「よし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8d151fad23bbfdebba5941db○"　話がまとまり、通話画面を閉じる。"
 ●8d151fad23bbfdebba5941db●"　話がまとまり、通話画面を閉じる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e853fa98eab422f8a0314ef2○"　これで、もう少しひねったサプライズを用意すること\\nができそうだ。"
 ●e853fa98eab422f8a0314ef2●"　これで、もう少しひねったサプライズを用意すること\\nができそうだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e2530d3fdeb09f085f48d915○"「さてと……。じゃ、次はＫｏｔｏＲＩに──」"
 ●e2530d3fdeb09f085f48d915●"「さてと……。じゃ、次はＫｏｔｏＲＩに──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○77ea601b007c930ab33fa7b3○"　再びツールを立ち上げ、俺は琴里さんにメッセージを\\n飛ばした。"
 ●77ea601b007c930ab33fa7b3●"　再びツールを立ち上げ、俺は琴里さんにメッセージを\\n飛ばした。"

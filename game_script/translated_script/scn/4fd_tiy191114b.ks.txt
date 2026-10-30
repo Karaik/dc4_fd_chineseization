@@ -1,9 +1,9 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○46b795c7a2ecc997df82617c○"マイチューバーＣＨＯＣＯ！　インタビューしてみた！"
 ●46b795c7a2ecc997df82617c●"マイチューバーＣＨＯＣＯ！　インタビューしてみた！"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b631e9207aa5aa9d0f653d7f○"　昼休み、ちょこと一緒に食べようと、誘いに行こうと\\nすると。"
 ●b631e9207aa5aa9d0f653d7f●"　昼休み、ちょこと一緒に食べようと、誘いに行こうと\\nすると。"
 
@@ -11,11 +11,11 @@
 ○4ab7f06d2062aba6448351b7○"ちよ子"
 ●4ab7f06d2062aba6448351b7●"ちよ子"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0ef4b3a17da07ebd8d3725cd○"「どうもですー！」"
 ●0ef4b3a17da07ebd8d3725cd●"「どうもですー！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○92dd535885783d76ff27496e○"　ちょこの方から現れた。"
 ●92dd535885783d76ff27496e●"　ちょこの方から現れた。"
 
@@ -23,270 +23,270 @@
 ○a86018b9750098eef7fe3fa2○"一登"
 ●a86018b9750098eef7fe3fa2●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fac9a94bebe0ef540fe4d372○"「ああ。ちょうど誘いに行こうと思ってたんだよ」"
 ●fac9a94bebe0ef540fe4d372●"「ああ。ちょうど誘いに行こうと思ってたんだよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○74b60972937710d54e5d6fc0○"「ありゃー……それは残念。実はお昼はご一緒出来ない\\n　んですよ」"
 ●74b60972937710d54e5d6fc0●"「ありゃー……それは残念。実はお昼はご一緒出来ない\\n　んですよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e0834281ecddb6d3307b37d0○"「そうなのか？　じゃあ、なんで本校棟に？」"
 ●e0834281ecddb6d3307b37d0●"「そうなのか？　じゃあ、なんで本校棟に？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d48764dbd071deae82aa006b○"「実は、体育祭の去年の優勝者に、インタビューしてほ\\n　しいと頼まれていまして」"
 ●d48764dbd071deae82aa006b●"「実は、体育祭の去年の優勝者に、インタビューしてほ\\n　しいと頼まれていまして」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○35f8bc6cbd0a9f6fb8a2c5cc○"「それではるばるやってきたというわけです！」"
 ●35f8bc6cbd0a9f6fb8a2c5cc●"「それではるばるやってきたというわけです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8d1d9d66220ec93cd5f51ddf○"　そういえば、カガサイの実行委員もやってたんだよな。"
 ●8d1d9d66220ec93cd5f51ddf●"　そういえば、カガサイの実行委員もやってたんだよな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8ea8b331f02bf2c7cfef360a○"　追試だけじゃなくて、マイチューブに実行委員。"
 ●8ea8b331f02bf2c7cfef360a●"　追試だけじゃなくて、マイチューブに実行委員。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○92e7b3171b74e0f7d79a52e3○"「かなり忙しそうだな」"
 ●92e7b3171b74e0f7d79a52e3●"「かなり忙しそうだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○702b456d7696c110a2122447○"「まあ、こういうの好きですから。苦になりませんよ」"
 ●702b456d7696c110a2122447●"「まあ、こういうの好きですから。苦になりませんよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e58426117e903615a7846ff5○"「ではでは、ちょっと行ってきます！　あ、もしお知り\\n　合いの方でしたら、ご紹介してくださると助かります！」"
 ●e58426117e903615a7846ff5●"「ではでは、ちょっと行ってきます！　あ、もしお知り\\n　合いの方でしたら、ご紹介してくださると助かります！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○14079a7a82ea824bd3e9cbad○"「ああ、大丈夫だ」"
 ●14079a7a82ea824bd3e9cbad●"「ああ、大丈夫だ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0e32130d40ab7cffbf22f6bf○"　俺はちょこと一緒に、去年の優勝者のところに話を聞\\nきに行った。"
 ●0e32130d40ab7cffbf22f6bf●"　俺はちょこと一緒に、去年の優勝者のところに話を聞\\nきに行った。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7a7d400bac69795afa3866a1○"「はーい、どもです♪　マイチューバーＣＨＯＣＯです！」"
 ●7a7d400bac69795afa3866a1●"「はーい、どもです♪　マイチューバーＣＨＯＣＯです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7ff393861d9644dff1715c29○"「今回は、去年の優勝者の皆様にインタビューをしたい\\n　と思います！」"
 ●7ff393861d9644dff1715c29●"「今回は、去年の優勝者の皆様にインタビューをしたい\\n　と思います！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9278e2d88d20d8378447b568○"　どうやら、インタビューの仕方には特に形式はないら\\nしく、いつもの動画配信のようなやり方で、始まった。"
 ●9278e2d88d20d8378447b568●"　どうやら、インタビューの仕方には特に形式はないら\\nしく、いつもの動画配信のようなやり方で、始まった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e04e7a0511a1d8634676cee4○"「まずは、これで勝敗が決したといっても過言でもない、\\n　リレーのアンカーの方からです！」"
 ●e04e7a0511a1d8634676cee4●"「まずは、これで勝敗が決したといっても過言でもない、\\n　リレーのアンカーの方からです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○28877159642737e22dc8342a○"「去年は一年生ながらにアンカーを任され、どんな気分\\n　でしたか？」"
 ●28877159642737e22dc8342a●"「去年は一年生ながらにアンカーを任され、どんな気分\\n　でしたか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○562e71a62b38b7bf56f7f297○"　カメラを向けられた男子学生がプレッシャーについて\\n語る。"
 ●562e71a62b38b7bf56f7f297●"　カメラを向けられた男子学生がプレッシャーについて\\n語る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c85622d757acbe01d7693fd0○"「ふむふむ……なるほど、先輩の期待を裏切らないよう\\n　に必死に。……ですよねー。あたしなら胃が痛くなっ\\n　て、練習どころじゃなさそうですもん」"
 ●c85622d757acbe01d7693fd0●"「ふむふむ……なるほど、先輩の期待を裏切らないよう\\n　に必死に。……ですよねー。あたしなら胃が痛くなっ\\n　て、練習どころじゃなさそうですもん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○70051823fc6718df85487ac9○"「にもかかわらず、あの大活躍！　去年の動画を見せて\\n　いただきましたが、堂々とした走りだったじゃないで\\n　すか！」"
 ●70051823fc6718df85487ac9●"「にもかかわらず、あの大活躍！　去年の動画を見せて\\n　いただきましたが、堂々とした走りだったじゃないで\\n　すか！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fd83e0cd213615e111f81ede○"　走っている最中の感覚について男子学生が答える。"
 ●fd83e0cd213615e111f81ede●"　走っている最中の感覚について男子学生が答える。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○04927b3964e9bee30460200d○"「ふむふむ……走り出したらもうゴールしか見えてない、\\n　と。おお！　それってひょっとして、ゾーンというや\\n　つですか！」"
 ●04927b3964e9bee30460200d●"「ふむふむ……走り出したらもうゴールしか見えてない、\\n　と。おお！　それってひょっとして、ゾーンというや\\n　つですか！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0871ae071bceda0bff86131b○"　[けん]謙[そん]遜する男子学生。"
 ●0871ae071bceda0bff86131b●"　[けん]謙[そん]遜する男子学生。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5d20f74c178566ba81c5c951○"「ありがとうございました！　今年のリレーも、楽しみ\\n　にしています！」"
 ●5d20f74c178566ba81c5c951●"「ありがとうございました！　今年のリレーも、楽しみ\\n　にしています！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a5e4ff29fdf55ca3da8faf5d○"　サムズアップの男子学生の勇姿をカメラに収め、イン\\nタビューは無事終了。"
 ●a5e4ff29fdf55ca3da8faf5d●"　サムズアップの男子学生の勇姿をカメラに収め、イン\\nタビューは無事終了。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b2fe1e5941c4278934f75461○"　ちょこはもう一度頭を下げて、教室を後にした。"
 ●b2fe1e5941c4278934f75461●"　ちょこはもう一度頭を下げて、教室を後にした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b495e7597567e6fd0113680a○"　俺も同じように教室を出る。"
 ●b495e7597567e6fd0113680a●"　俺も同じように教室を出る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b3b4dcf3c4a2a9480c7fe293○"「インタビュー、かなり良かったな」"
 ●b3b4dcf3c4a2a9480c7fe293●"「インタビュー、かなり良かったな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c773788905af456e735e073f○"「えへへー。あの難攻不落のしいしい先輩に、マイチュー\\n　ブでインタビューしてるんです」"
 ●c773788905af456e735e073f●"「えへへー。あの難攻不落のしいしい先輩に、マイチュー\\n　ブでインタビューしてるんです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f2fa65d7091006d412927e4c○"「こういうことは、おまかせください！」"
 ●f2fa65d7091006d412927e4c●"「こういうことは、おまかせください！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○db19f1cccb0511ab8156b49c○"　なるほど、言われてみればそうかもしれない。"
 ●db19f1cccb0511ab8156b49c●"　なるほど、言われてみればそうかもしれない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○162292ae964564c6857e3df6○"「さてさて、次の方に聞きに行きましょう！」"
 ●162292ae964564c6857e3df6●"「さてさて、次の方に聞きに行きましょう！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ee3f7af46de0872c78b7ceaf○"「ああ」"
 ●ee3f7af46de0872c78b7ceaf●"「ああ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○261647c8834e97f39c31b381○"「さてさて、次は趣向を変えて、仮装リレーの優勝者に\\n　インタビューしたいと思います！」"
 ●261647c8834e97f39c31b381●"「さてさて、次は趣向を変えて、仮装リレーの優勝者に\\n　インタビューしたいと思います！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5468db8c5c66cb3998a653a3○"　そんな色物にもインタビューするのか！？"
 ●5468db8c5c66cb3998a653a3●"　そんな色物にもインタビューするのか！？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○14c3904096a87b815c9d9416○"「さて、去年の動画を見せていただきましたが、素晴ら\\n　しい仮装と走りでしたね」"
 ●14c3904096a87b815c9d9416●"「さて、去年の動画を見せていただきましたが、素晴ら\\n　しい仮装と走りでしたね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aa997b8e5489ba9a92030ea9○"「ウェディングドレスという、走りにくい衣装で、さら\\n　に綺麗にメイクまでして……よく走り切りましたね」"
 ●aa997b8e5489ba9a92030ea9●"「ウェディングドレスという、走りにくい衣装で、さら\\n　に綺麗にメイクまでして……よく走り切りましたね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6a4ed11245f272f8778837d○"　去年の優勝者の女子学生が目立てて良かったと笑う。"
 ●b6a4ed11245f272f8778837d●"　去年の優勝者の女子学生が目立てて良かったと笑う。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c2776d52f6beb6667b2095b5○"「花嫁が走ってると、なんか物語がありそうですよね！\\n　あれにコンセプトはあったんですか？」"
 ●c2776d52f6beb6667b2095b5●"「花嫁が走ってると、なんか物語がありそうですよね！\\n　あれにコンセプトはあったんですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8dc1bbc8406ae60d2c1fdbee○"　式場から逃げてるイメージかもと、当時の心境を交え\\nながら応える女子学生。"
 ●8dc1bbc8406ae60d2c1fdbee●"　式場から逃げてるイメージかもと、当時の心境を交え\\nながら応える女子学生。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3bb0a94880b48e3fa0d787ea○"「あはは、なるほど何かその頃イラッとしたことがあっ\\n　たんですね。……優勝した時に、ブーケを投げたのも、\\n　いい演出でしたねー！」"
 ●3bb0a94880b48e3fa0d787ea●"「あはは、なるほど何かその頃イラッとしたことがあっ\\n　たんですね。……優勝した時に、ブーケを投げたのも、\\n　いい演出でしたねー！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e3c501a5396b85b7d776058f○"「これは、今年も期待してしまっていいのでしょうか？」"
 ●e3c501a5396b85b7d776058f●"「これは、今年も期待してしまっていいのでしょうか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ac88091d8566bed488f61178○"　女子学生が、今年の仮装は走力重視かなと答える。"
 ●ac88091d8566bed488f61178●"　女子学生が、今年の仮装は走力重視かなと答える。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○29671d250012fd294f4299ae○"「そうなんですか？　え？　今年の仮装の例えばヒント\\n　だけでもいただいていいですか？」"
 ●29671d250012fd294f4299ae●"「そうなんですか？　え？　今年の仮装の例えばヒント\\n　だけでもいただいていいですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○220be37a1d8140e068e65030○"　女子学生がちょこの耳元に口を寄せ──"
 ●220be37a1d8140e068e65030●"　女子学生がちょこの耳元に口を寄せ──"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c54cab23aefccc3dab4cca7c○"「……ほうほう……え？　えええええ？」"
 ●c54cab23aefccc3dab4cca7c●"「……ほうほう……え？　えええええ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○030af01b6cf390ec1b138678○"　どう思う？　とちょこの感想を気にすると──"
 ●030af01b6cf390ec1b138678●"　どう思う？　とちょこの感想を気にすると──"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5b686c499d5fd8da0e898195○"「いや、ゾンビが走っちゃダメでしょ！」"
 ●5b686c499d5fd8da0e898195●"「いや、ゾンビが走っちゃダメでしょ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e9e0abc639b761bd646bae7c○"「おい、言っちゃってるぞ！」"
 ●e9e0abc639b761bd646bae7c●"「おい、言っちゃってるぞ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aa87f75a2e6287dd54ed51c2○"「わーーーーーー！　言っちゃいましたー！　でもだか\\n　らこそ言わせていただきます！」"
 ●aa87f75a2e6287dd54ed51c2●"「わーーーーーー！　言っちゃいましたー！　でもだか\\n　らこそ言わせていただきます！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b1ceba2fc05d3c83ebb6afdd○"「ゾンビは遅いから怖いんです！　それにゾンビが先頭\\n　走ってたらおかしいです！」"
 ●b1ceba2fc05d3c83ebb6afdd●"「ゾンビは遅いから怖いんです！　それにゾンビが先頭\\n　走ってたらおかしいです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○adc64663dc8b755133971eb5○"　ちょこの感想にハッとした表情の女子学生は、考え直\\nすことにしたようだ。"
 ●adc64663dc8b755133971eb5●"　ちょこの感想にハッとした表情の女子学生は、考え直\\nすことにしたようだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e3585adc0589d0371263bfb1○"　そして──"
 ●e3585adc0589d0371263bfb1●"　そして──"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9b6ac666273cb73af9848f51○"「以上！　ＣＨＯＣＯちゃんネル──じゃなかった、去\\n　年の優勝者さんへのインタビューでした！」"
 ●9b6ac666273cb73af9848f51●"「以上！　ＣＨＯＣＯちゃんネル──じゃなかった、去\\n　年の優勝者さんへのインタビューでした！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○50779242bdc971143f28ad73○"「ず、ずいぶんと好き勝手やってたな」"
 ●50779242bdc971143f28ad73●"「ず、ずいぶんと好き勝手やってたな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ac1a4f3a28316fd4a2bed662○"「あはは、ご本人も色物枠って思ってたみたいなので、\\n　盛り上げる方向性でやらせていただきました」"
 ●ac1a4f3a28316fd4a2bed662●"「あはは、ご本人も色物枠って思ってたみたいなので、\\n　盛り上げる方向性でやらせていただきました」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○72f4fecdb67f6414fdbd57c3○"「それにしても、あの物怖じのしなさはすごいな……先\\n　輩だぞ？」"
 ●72f4fecdb67f6414fdbd57c3●"「それにしても、あの物怖じのしなさはすごいな……先\\n　輩だぞ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dffdcd238823e1f563eb11df○"「先ほども言いましたが、気難しいしいしい先輩とよく\\n　一緒にいるわけです！」"
 ●dffdcd238823e1f563eb11df●"「先ほども言いましたが、気難しいしいしい先輩とよく\\n　一緒にいるわけです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○803e9eaacfb6e4e292879732○"「物怖じもしなくなりますよー」"
 ●803e9eaacfb6e4e292879732●"「物怖じもしなくなりますよー」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0b037457d904ca475fdee220○"　確かにな……。"
 ●0b037457d904ca475fdee220●"　確かにな……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○897a140c145c4d6b9ccfac6c○"「う……しいしい先輩で思い出しました」"
 ●897a140c145c4d6b9ccfac6c●"「う……しいしい先輩で思い出しました」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6ad1a6330a1d53913e642f6a○"「今日はしいしい先輩に教えてもらう日だった……はあ、\\n　どれだけスパルタなんでしょう」"
 ●6ad1a6330a1d53913e642f6a●"「今日はしいしい先輩に教えてもらう日だった……はあ、\\n　どれだけスパルタなんでしょう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fa1dfd32071b19d814692c35○"「厳しそうだよな……」"
 ●fa1dfd32071b19d814692c35●"「厳しそうだよな……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2c285f79f7b151ab0a24c153○"　一緒に連弾をしたからわかるけど……絶対に厳しい……。"
 ●2c285f79f7b151ab0a24c153●"　一緒に連弾をしたからわかるけど……絶対に厳しい……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fde924577cf43dea09cb66cf○"　それにしても、勉強と動画と実行委員。"
 ●fde924577cf43dea09cb66cf●"　それにしても、勉強と動画と実行委員。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6bd8d3ef89dd719a60624ef6○"　プライベートの部分は、少し優しくしてあげないとな。"
 ●6bd8d3ef89dd719a60624ef6●"　プライベートの部分は、少し優しくしてあげないとな。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○94e86413e8b7a011b2d4995f○"日野原ちよ子（１１月１４日）"
 ●94e86413e8b7a011b2d4995f●"日野原ちよ子（１１月１４日）"

@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○c529d9c35281a46387fb16ee○"カガサイ実行委員、初仕事"
 ●c529d9c35281a46387fb16ee●"カガサイ実行委員、初仕事"
 
@@ -7,15 +7,15 @@
 ○895c81b5e5525b7c2730dd05○"泉"
 ●895c81b5e5525b7c2730dd05●"泉"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○55f800f7b51c496dd800a19a○"「む、時間か。では今日はここまで。起立も礼もいらん。\\n　これにて解散。じゃあな」"
 ●55f800f7b51c496dd800a19a●"「む、時間か。では今日はここまで。起立も礼もいらん。\\n　これにて解散。じゃあな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3dd8425c22df5b5fb108f4d4○"　チャイムが鳴り、いつもの適当な感じの挨拶でＨＲが\\n締められた。"
 ●3dd8425c22df5b5fb108f4d4●"　チャイムが鳴り、いつもの適当な感じの挨拶でＨＲが\\n締められた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9d20180a81554c09cfffa5af○"　これで締まったのか？　という疑問は口に出さないの\\nがこのクラスでの暗黙の了解となっている。"
 ●9d20180a81554c09cfffa5af●"　これで締まったのか？　という疑問は口に出さないの\\nがこのクラスでの暗黙の了解となっている。"
 
@@ -23,7 +23,7 @@
 ○58fc4157641516cdea0c682e○"二乃"
 ●58fc4157641516cdea0c682e●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○deafb674a19aea136aa28d22○"「兄さん、確か今日から実行委員の活動が始まるんです\\n　よね？」"
 ●deafb674a19aea136aa28d22●"「兄さん、確か今日から実行委員の活動が始まるんです\\n　よね？」"
 
@@ -31,67 +31,67 @@
 ○31976c8e054fcdc7587c1d84○"一登"
 ●31976c8e054fcdc7587c1d84●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0654d2576de623089400cfc5○"「そうそう。集まりがあるんだよ。えっと……」"
 ●0654d2576de623089400cfc5●"「そうそう。集まりがあるんだよ。えっと……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9a7676574fcbc2f1c8b73b08○"　事前に配られたプリントを確認する。"
 ●9a7676574fcbc2f1c8b73b08●"　事前に配られたプリントを確認する。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bc46434bc3eb24e2526a1f76○"　場所は生徒会室で、時間は……。"
 ●bc46434bc3eb24e2526a1f76●"　場所は生徒会室で、時間は……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f1e72d6843a175d5ce75de50○"　うん、まだ少し余裕があるな。"
 ●f1e72d6843a175d5ce75de50●"　うん、まだ少し余裕があるな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○222e0eacd923f4a38b9b4f79○"「もうちょい時間あるから、カガサイの作業があるなら\\n　手伝うぞ？」"
 ●222e0eacd923f4a38b9b4f79●"「もうちょい時間あるから、カガサイの作業があるなら\\n　手伝うぞ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○99f2af70aca8589f8ce751f4○"「じゃあ、すぐに終わるものを──」"
 ●99f2af70aca8589f8ce751f4●"「じゃあ、すぐに終わるものを──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3860ed51599fe9aaaa73cf14○"「おーい常坂兄、お前を呼んでる女子がいるぞ」"
 ●3860ed51599fe9aaaa73cf14●"「おーい常坂兄、お前を呼んでる女子がいるぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○87c9e9b05161685fdbb23878○"　出ていったはずの泉先生が戻ってきた。"
 ●87c9e9b05161685fdbb23878●"　出ていったはずの泉先生が戻ってきた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○db8fb634df652fd23256e6a2○"「俺をですか？」"
 ●db8fb634df652fd23256e6a2●"「俺をですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0c798877d12e90a08a54874d○"「ああ。あまり女を待たせると厄介だ。さっさと出た方\\n　が良い。私からの数少ない実用的なアドバイスだ」"
 ●0c798877d12e90a08a54874d●"「ああ。あまり女を待たせると厄介だ。さっさと出た方\\n　が良い。私からの数少ない実用的なアドバイスだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○64af92309bd926084a3e3ad0○"「俺を呼んでる女子の正体、実は泉先生だったとかいう\\n　オチは無いですか？」"
 ●64af92309bd926084a3e3ad0●"「俺を呼んでる女子の正体、実は泉先生だったとかいう\\n　オチは無いですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○134dd823eebb633811989fc6○"「私だったらこの問答の間にお前を連れ出している」"
 ●134dd823eebb633811989fc6●"「私だったらこの問答の間にお前を連れ出している」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○51e67b9c873a82088e7bf656○"「そっすね」"
 ●51e67b9c873a82088e7bf656●"「そっすね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○15d3b608cd3d81372ad90602○"　余計なことは言わず廊下に出る。"
 ●15d3b608cd3d81372ad90602●"　余計なことは言わず廊下に出る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e4b5592a35da0f8874f9e11e○"　待ってたのは未羽だった。"
 ●e4b5592a35da0f8874f9e11e●"　待ってたのは未羽だった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cfbb1e95d97d6f7c4ae747e6○"「あれ、未羽？　どしたの？」"
 ●cfbb1e95d97d6f7c4ae747e6●"「あれ、未羽？　どしたの？」"
 
@@ -99,175 +99,175 @@
 ○362d9a33ce301c9cd07662c5○"未羽"
 ●362d9a33ce301c9cd07662c5●"未羽"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8f86cf40cd0a9dea03a3f0c9○"「あ、急にすみません。今日の会議、場所をお伝えして\\n　なかったかと思いまして、お迎えに来ました」"
 ●8f86cf40cd0a9dea03a3f0c9●"「あ、急にすみません。今日の会議、場所をお伝えして\\n　なかったかと思いまして、お迎えに来ました」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○91c01c8165a364b93f7657bb○"「場所、生徒会室だよね？」"
 ●91c01c8165a364b93f7657bb●"「場所、生徒会室だよね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c229726ea2dd9fe8faa3243a○"「あ、わかってたんですか？」"
 ●c229726ea2dd9fe8faa3243a●"「あ、わかってたんですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3c58bb64622640a69ec2518b○"「もらったプリントにそう書いてあったからね」"
 ●3c58bb64622640a69ec2518b●"「もらったプリントにそう書いてあったからね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9acd65ff55becb36b9e0c5e8○"「そ、そうですか。えっと、あの……」"
 ●9acd65ff55becb36b9e0c5e8●"「そ、そうですか。えっと、あの……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6a7f2b540ba85d8bf9f3bfc4○"「……ん？」"
 ●6a7f2b540ba85d8bf9f3bfc4●"「……ん？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○14ed58baadfb7384d4250626○"　もじもじしてる。"
 ●14ed58baadfb7384d4250626●"　もじもじしてる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○32f0dba9d8be159770d40f63○"　どうしたんだろう。"
 ●32f0dba9d8be159770d40f63●"　どうしたんだろう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○60d3bd8c345e7f036e8f07e8○"「美嶋、あまり男に期待はするな。思っていることがあ\\n　るならハッキリ言わないと伝わらんぞ？」"
 ●60d3bd8c345e7f036e8f07e8●"「美嶋、あまり男に期待はするな。思っていることがあ\\n　るならハッキリ言わないと伝わらんぞ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○09214e47b12e6bed971cf651○"「えっ、いやっ、泉先生、私は別に、そんな……」"
 ●09214e47b12e6bed971cf651●"「えっ、いやっ、泉先生、私は別に、そんな……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○99c24a9e605d642e39517dd0○"「ん？　どういうことすか？」"
 ●99c24a9e605d642e39517dd0●"「ん？　どういうことすか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○218d5fe0cba8941318391d91○"「美嶋はな、お前と一緒に生徒会室まで行きたかったん\\n　だよ。しかしそのまま伝えるのは抵抗があるから、別\\n　の理由をつけて迎えに来たんだ」"
 ●218d5fe0cba8941318391d91●"「美嶋はな、お前と一緒に生徒会室まで行きたかったん\\n　だよ。しかしそのまま伝えるのは抵抗があるから、別\\n　の理由をつけて迎えに来たんだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8b5d5433023b7928666d31c2○"「大方、お前に対してじゃなく自分に言い聞かせるため\\n　の理由だろうがな」"
 ●8b5d5433023b7928666d31c2●"「大方、お前に対してじゃなく自分に言い聞かせるため\\n　の理由だろうがな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3c4349de8f6943269bdcb123○"「マジすか……」"
 ●3c4349de8f6943269bdcb123●"「マジすか……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8c487ce5cde81344a8f7ed4d○"　察しが悪すぎだろ、俺。"
 ●8c487ce5cde81344a8f7ed4d●"　察しが悪すぎだろ、俺。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f93aef961625322fe88d5d1e○"　これは申し訳ない。"
 ●f93aef961625322fe88d5d1e●"　これは申し訳ない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c584db1c77db42d6f326120e○"「さすがっす。助かりました」"
 ●c584db1c77db42d6f326120e●"「さすがっす。助かりました」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bcc2fbf21a527eabc55d3749○"「他人の色恋沙汰に口を出すようになるとは、私も世俗\\n　に染まったもんだな。やれやれ……」"
 ●bcc2fbf21a527eabc55d3749●"「他人の色恋沙汰に口を出すようになるとは、私も世俗\\n　に染まったもんだな。やれやれ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a80410e7c9b75fe02b648841○"　ため息を残して去って行った。"
 ●a80410e7c9b75fe02b648841●"　ため息を残して去って行った。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7c3f3f8dc43b42d3c5fdb277○"　なんか仙人みたいな捨て台詞だったな。"
 ●7c3f3f8dc43b42d3c5fdb277●"　なんか仙人みたいな捨て台詞だったな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f949e358a8aa6f6a59654c33○"「その、ごめん。察しが悪くて」"
 ●f949e358a8aa6f6a59654c33●"「その、ごめん。察しが悪くて」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○697ca3bdb81b4f778294ad07○"「えっ？　い、いえ！　その、私は別にそんな、あの、\\n　違くて……」"
 ●697ca3bdb81b4f778294ad07●"「えっ？　い、いえ！　その、私は別にそんな、あの、\\n　違くて……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1d5a2578b67ba5c392b547e0○"　もじもじ、もじもじ。"
 ●1d5a2578b67ba5c392b547e0●"　もじもじ、もじもじ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b329e21a9c2e044c35929806○"　視線があちこち泳ぐ。"
 ●b329e21a9c2e044c35929806●"　視線があちこち泳ぐ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ed224273a9878a3330013911○"　でも最後には、まっすぐ俺を見た。"
 ●ed224273a9878a3330013911●"　でも最後には、まっすぐ俺を見た。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2b967e913184ab456272ecc4○"「……実は、はい。先輩と一緒に行きたくて、ここまで\\n　来ちゃいました」"
 ●2b967e913184ab456272ecc4●"「……実は、はい。先輩と一緒に行きたくて、ここまで\\n　来ちゃいました」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9375514765eb8d358795acb3○"「そ、そっか。なんか照れるね」"
 ●9375514765eb8d358795acb3●"「そ、そっか。なんか照れるね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○55f366a7d2c8689ddda1fb37○"「すみません。迷惑でしたか？　その、付属生がここに\\n　いると先輩まで目立っちゃいますし……」"
 ●55f366a7d2c8689ddda1fb37●"「すみません。迷惑でしたか？　その、付属生がここに\\n　いると先輩まで目立っちゃいますし……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8b8c1b142cc014dcd65bfd4d○"「全然。そんなことないよ。来てくれて嬉しいし」"
 ●8b8c1b142cc014dcd65bfd4d●"「全然。そんなことないよ。来てくれて嬉しいし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○26e9f53c352a6684f430fd36○"「そ、そうですか？　なら良かったです……」"
 ●26e9f53c352a6684f430fd36●"「そ、そうですか？　なら良かったです……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ab19b005315ad8691d3f26e9○"　安心したような笑顔。"
 ●ab19b005315ad8691d3f26e9●"　安心したような笑顔。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b9425b96dcbcff6adb24ce15○"　本校生の校舎まで来るのには勇気が必要だったと思う。"
 ●b9425b96dcbcff6adb24ce15●"　本校生の校舎まで来るのには勇気が必要だったと思う。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7d5001e0823f5ab4e59d2507○"　そこまでして来てくれたのが素直に嬉しい。"
 ●7d5001e0823f5ab4e59d2507●"　そこまでして来てくれたのが素直に嬉しい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f14ab719598cc911f8f88dc5○"「じゃあ、必要なものの買い出しに──うわ！　兄さん、\\n　まだいたんですか！？」"
 ●f14ab719598cc911f8f88dc5●"「じゃあ、必要なものの買い出しに──うわ！　兄さん、\\n　まだいたんですか！？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○29efe5379c596bdc023828d6○"　教室から出てきた二乃に驚かれた。"
 ●29efe5379c596bdc023828d6●"　教室から出てきた二乃に驚かれた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6df56d55970f2cc10c6b4fe5○"「それに美嶋さんまで……。集まり、そろそろですよね？\\n　遅れちゃいますよ？」"
 ●6df56d55970f2cc10c6b4fe5●"「それに美嶋さんまで……。集まり、そろそろですよね？\\n　遅れちゃいますよ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○52f912b85b990e0e90899682○"「そうだ！　行こう、未羽」"
 ●52f912b85b990e0e90899682●"「そうだ！　行こう、未羽」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2599f09360faf14ed277ad86○"「は、はい！」"
 ●2599f09360faf14ed277ad86●"「は、はい！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4fe45b97890699168bdea9ef○"　走らない程度の早足で生徒会室に向かった。"
 ●4fe45b97890699168bdea9ef●"　走らない程度の早足で生徒会室に向かった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1ada8e392605d462f0ea284b○"「風紀委員長代行としての参加となります、付属３年の\\n　美嶋です。カガサイでは見回りや出し物の確認などを\\n　担当します。よろしくお願いします」"
 ●1ada8e392605d462f0ea284b●"「風紀委員長代行としての参加となります、付属３年の\\n　美嶋です。カガサイでは見回りや出し物の確認などを\\n　担当します。よろしくお願いします」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f14696e641c6cba7df4d3a71○"　会議が始まり、まずは挨拶から。"
 ●f14696e641c6cba7df4d3a71●"　会議が始まり、まずは挨拶から。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d16cc56e554faaeea413489d○"　人手不足なこともあり、風紀委員長代行の未羽は付属\\n生ながら重要なポストだ。"
 ●d16cc56e554faaeea413489d●"　人手不足なこともあり、風紀委員長代行の未羽は付属\\n生ながら重要なポストだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bacc61b56f90730f15c26b43○"　それに……。"
 ●bacc61b56f90730f15c26b43●"　それに……。"
 
@@ -275,7 +275,7 @@
 ○09d51034c53aa0277d5b6d6c○"ララ"
 ●09d51034c53aa0277d5b6d6c●"ララ"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b5df1216e1a215465a4025b6○"「皆さん、本日はお集まり頂きありがとうございます！\\n　カガサイ実行委員長補佐の[かみ]上[しま]嶋ララです！」"
 ●b5df1216e1a215465a4025b6●"「皆さん、本日はお集まり頂きありがとうございます！\\n　カガサイ実行委員長補佐の[かみ]上[しま]嶋ララです！」"
 
@@ -283,7 +283,7 @@
 ○e809e075ffaaf1a0c3411fee○"リリ"
 ●e809e075ffaaf1a0c3411fee●"リリ"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○de9c97c25e5ab971374821ee○"「上嶋リリです！」"
 ●de9c97c25e5ab971374821ee●"「上嶋リリです！」"
 
@@ -291,7 +291,7 @@
 ○fc2cd894405905d4f4fd0a83○"ルル"
 ●fc2cd894405905d4f4fd0a83●"ルル"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○581ba74c0e7bb92b5986bb68○"「上嶋ルルです！」"
 ●581ba74c0e7bb92b5986bb68●"「上嶋ルルです！」"
 
@@ -299,23 +299,23 @@
 ○d128a0330c4f1c0dfac50609○"風紀委員ズ"
 ●d128a0330c4f1c0dfac50609●"風紀委員ズ"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○55adf137e3c0e66bc05e30d9○"「よろしくお願いします！」"
 ●55adf137e3c0e66bc05e30d9●"「よろしくお願いします！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d221e46a7bff37e73789808c○"　いつも未羽と一緒にいる三人組も実行委員として参加\\nしている。"
 ●d221e46a7bff37e73789808c●"　いつも未羽と一緒にいる三人組も実行委員として参加\\nしている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b7d02baf3e167038e7118081○"　それも実行委員長直属の補佐役として動くらしい。"
 ●b7d02baf3e167038e7118081●"　それも実行委員長直属の補佐役として動くらしい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7044c99e1be107c6e6abae89○"　人手不足は深刻そうだ。"
 ●7044c99e1be107c6e6abae89●"　人手不足は深刻そうだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○43913061fcd4adf036fdd875○"「本校１年の常坂です。よろしくお願いします」"
 ●43913061fcd4adf036fdd875●"「本校１年の常坂です。よろしくお願いします」"
 
@@ -323,558 +323,558 @@
 ○dd05df4860dd57135802d002○"ちよ子"
 ●dd05df4860dd57135802d002●"ちよ子"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f587ffe4c2a01fffb4824723○"「付属３年、日野原です！　あたしは校内放送や色んな\\n　出し物の取材を担当します。よろしくお願いします！」"
 ●f587ffe4c2a01fffb4824723●"「付属３年、日野原です！　あたしは校内放送や色んな\\n　出し物の取材を担当します。よろしくお願いします！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bf818f1cf9c7f8b003304fbb○"　今回の実行委員にはちょこも参加している。"
 ●bf818f1cf9c7f8b003304fbb●"　今回の実行委員にはちょこも参加している。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○89007f5bc7c86f33b79f25f4○"　ざっくり言うと広報係みたいなものらしい。"
 ●89007f5bc7c86f33b79f25f4●"　ざっくり言うと広報係みたいなものらしい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1f77a05108754e20c8262817○"　適任だ。"
 ●1f77a05108754e20c8262817●"　適任だ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f28dae5bd56efecc9b12d78c○"　最後は実行委員長の松江さんが自己紹介をして、最初\\nの議題に入った。"
 ●f28dae5bd56efecc9b12d78c●"　最後は実行委員長の松江さんが自己紹介をして、最初\\nの議題に入った。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bc85f9afb413a394bf082540○"「最初の議題は、今年度のカガサイのスローガンです。\\n　実施していた校内アンケートの結果をまずは発表して\\n　いこうと思います。委員長、よろしいですか？」"
 ●bc85f9afb413a394bf082540●"「最初の議題は、今年度のカガサイのスローガンです。\\n　実施していた校内アンケートの結果をまずは発表して\\n　いこうと思います。委員長、よろしいですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6e073134a098f232b5f9c192○"　問いかけに、実行委員長が無言で頷く。"
 ●6e073134a098f232b5f9c192●"　問いかけに、実行委員長が無言で頷く。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e82ada21b89f573b70b5b6bf○"　ものすごい[じゅう]重[ちん]鎮感だ。"
 ●e82ada21b89f573b70b5b6bf●"　ものすごい[じゅう]重[ちん]鎮感だ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b8645b78135ad50640d38946○"「アンケートの結果ですが、今年のスローガンは『笑顔\\n　のパズル』に大きく支持が集まっています」"
 ●b8645b78135ad50640d38946●"「アンケートの結果ですが、今年のスローガンは『笑顔\\n　のパズル』に大きく支持が集まっています」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9ddba4e374cb8c9f240a1f4d○"「生徒やお客さんひとりひとりの笑顔というピースを集\\n　め、カガサイというジグソーパズルを完成させよう、\\n　というのが主題ですね」"
 ●9ddba4e374cb8c9f240a1f4d●"「生徒やお客さんひとりひとりの笑顔というピースを集\\n　め、カガサイというジグソーパズルを完成させよう、\\n　というのが主題ですね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e0dd89be0541275883582082○"「また、ひとりの生徒ができることは小さくても、皆で\\n　力を合わせることで大きな目標を達成できる、という\\n　意味も込められたテーマになっています」"
 ●e0dd89be0541275883582082●"「また、ひとりの生徒ができることは小さくても、皆で\\n　力を合わせることで大きな目標を達成できる、という\\n　意味も込められたテーマになっています」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e6b0bf147e6a7b20a08bb754○"「ありがとうございます。……みなさんはどう思います\\n　か？　ご意見をお聞かせ下さい」"
 ●e6b0bf147e6a7b20a08bb754●"「ありがとうございます。……みなさんはどう思います\\n　か？　ご意見をお聞かせ下さい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6b761047a8583c9e5d95124b○"「あたしは良いと思います！　皆の力を合わせるってと\\n　ころが青春っぽくて！」"
 ●6b761047a8583c9e5d95124b●"「あたしは良いと思います！　皆の力を合わせるってと\\n　ころが青春っぽくて！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e930f18c39d2db051d57e923○"「僕も賛成です。カガサイという行事の性格を表してい\\n　ると思うので」"
 ●e930f18c39d2db051d57e923●"「僕も賛成です。カガサイという行事の性格を表してい\\n　ると思うので」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○efa06fe3d6f3dae0fd42751b○"「私も賛成です。カガサイの特徴は、他校や一般の方の\\n　参加者が多いという点だと思いますし──」"
 ●efa06fe3d6f3dae0fd42751b●"「私も賛成です。カガサイの特徴は、他校や一般の方の\\n　参加者が多いという点だと思いますし──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○88478839f00ec90fa6053aa0○"「そういったピースが集まってひとつの行事が完成する、\\n　というのはスローガンにピッタリだと思いますから」"
 ●88478839f00ec90fa6053aa0●"「そういったピースが集まってひとつの行事が完成する、\\n　というのはスローガンにピッタリだと思いますから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2793e2dd3d8b244a9d78efac○"「ありがとうございます！　……では最後に、委員長、\\n　いかがでしょう？」"
 ●2793e2dd3d8b244a9d78efac●"「ありがとうございます！　……では最後に、委員長、\\n　いかがでしょう？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b129c9396c170747ebd021ed○"　実行委員長が三人組に耳打ちする。"
 ●b129c9396c170747ebd021ed●"　実行委員長が三人組に耳打ちする。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fc8b4682c3379c9e8aca584e○"　この人、黒幕かなんかなのか？"
 ●fc8b4682c3379c9e8aca584e●"　この人、黒幕かなんかなのか？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a950c9aa66d3adbed22de71d○"「結果が出ました！　実行委員長も賛成ということで！\\n　今年のスローガンは『笑顔のパズル』に決定です！」"
 ●a950c9aa66d3adbed22de71d●"「結果が出ました！　実行委員長も賛成ということで！\\n　今年のスローガンは『笑顔のパズル』に決定です！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○22d17afc3a8b0040d3c49285○"　パチパチと拍手があがる。"
 ●22d17afc3a8b0040d3c49285●"　パチパチと拍手があがる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a84cd2dbf104f8e0383b732e○"　カガサイのスローガンってこうやって決まってたんだ\\nな。"
 ●a84cd2dbf104f8e0383b732e●"　カガサイのスローガンってこうやって決まってたんだ\\nな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dbea0783d872845297ada13f○"　なんか舞台裏を見られたようで楽しい。"
 ●dbea0783d872845297ada13f●"　なんか舞台裏を見られたようで楽しい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c81e801eeac51b2e0a8cf771○"「では次に、申請が出ている出し物についてですが……\\n　その前に、懸念点の確認をしておきたいと思います」"
 ●c81e801eeac51b2e0a8cf771●"「では次に、申請が出ている出し物についてですが……\\n　その前に、懸念点の確認をしておきたいと思います」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c328813881c9692c0dbad474○"　懸念点？"
 ●c328813881c9692c0dbad474●"　懸念点？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0a6a062133b0c0b1798f102f○"　なんだろう。"
 ●0a6a062133b0c0b1798f102f●"　なんだろう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○408c34c783b9060eabcd5ddf○"「常坂一登さん！」"
 ●408c34c783b9060eabcd5ddf●"「常坂一登さん！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aa4bb86b964cd5c53acde053○"「え、俺？」"
 ●aa4bb86b964cd5c53acde053●"「え、俺？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○896196fa9207453ace66ef12○"　びっくりした。"
 ●896196fa9207453ace66ef12●"　びっくりした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○babfafbe8c107a5207353cdc○"　ここで呼ばれるとは思ってなかった。"
 ●babfafbe8c107a5207353cdc●"　ここで呼ばれるとは思ってなかった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○27ab272ad856829882eb8f0c○"「常坂一登さんのクラスには、『あの方』がいらっしゃ\\n　いますよね？」"
 ●27ab272ad856829882eb8f0c●"「常坂一登さんのクラスには、『あの方』がいらっしゃ\\n　いますよね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a2c0b02ae3f16d571185f542○"「あの方……？　あっ」"
 ●a2c0b02ae3f16d571185f542●"「あの方……？　あっ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5cf087cd111caa1f7d81b616○"　杉並か。"
 ●5cf087cd111caa1f7d81b616●"　杉並か。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b4fdd1090c702e80e99e4dae○"　なんか『名前を呼んではいけない存在』みたいにな扱\\nいになってるな。"
 ●b4fdd1090c702e80e99e4dae●"　なんか『名前を呼んではいけない存在』みたいにな扱\\nいになってるな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f81a7efa64965ba16b56b2cf○"　[おん]怨[りょう]霊か何かか？"
 ●f81a7efa64965ba16b56b2cf●"　[おん]怨[りょう]霊か何かか？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4da6f9e362893112e48c783d○"「いますね、はい。確かに」"
 ●4da6f9e362893112e48c783d●"「いますね、はい。確かに」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7f4bac98f1918092d455c235○"「あの方には普段から頭を悩ませていました。風紀委員\\n　的には最重要人物ですし、カガサイ実行委員的にも要\\n　注意人物です……ですよね、委員長？」"
 ●7f4bac98f1918092d455c235●"「あの方には普段から頭を悩ませていました。風紀委員\\n　的には最重要人物ですし、カガサイ実行委員的にも要\\n　注意人物です……ですよね、委員長？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ade887abf38038d2578fb784○"　三人に水を向けられ、実行委員長が頷く。"
 ●ade887abf38038d2578fb784●"　三人に水を向けられ、実行委員長が頷く。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5203d682b81c9ba556d4c28a○"「あの方が、今年のカガサイで何を企んでいるのか、常\\n　坂一登さんは知りませんか？　どんなに微かな情報で\\n　もかまいません。……重要な情報源なのです！」"
 ●5203d682b81c9ba556d4c28a●"「あの方が、今年のカガサイで何を企んでいるのか、常\\n　坂一登さんは知りませんか？　どんなに微かな情報で\\n　もかまいません。……重要な情報源なのです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○969d70672ab83c189c47955b○"　そういうことか。"
 ●969d70672ab83c189c47955b●"　そういうことか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f00b7446616387fbaa007220○"　全然尻尾を出さない杉並の情報を、俺ルートから得よ\\nうって考えだな。"
 ●f00b7446616387fbaa007220●"　全然尻尾を出さない杉並の情報を、俺ルートから得よ\\nうって考えだな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a89a632d0b126138112917f2○"　確かに付き合いも長いしクラスも同じだから、その狙\\nいは妥当なところだけど──"
 ●a89a632d0b126138112917f2●"　確かに付き合いも長いしクラスも同じだから、その狙\\nいは妥当なところだけど──"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ac9fe1169d83a5d6f8a8f040○"「残念ながら何も知らないです。あいつは仲間にもあん\\n　まり手の内は見せないので」"
 ●ac9fe1169d83a5d6f8a8f040●"「残念ながら何も知らないです。あいつは仲間にもあん\\n　まり手の内は見せないので」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e26390afebc1e49c055dff40○"「……本当ですか？　隠すとご自身のためになりません\\n　よ！　……せめてヒントだけでも！」"
 ●e26390afebc1e49c055dff40●"「……本当ですか？　隠すとご自身のためになりません\\n　よ！　……せめてヒントだけでも！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e165ba3fdf397c92112e9ad0○"　疑われてんなぁ。"
 ●e165ba3fdf397c92112e9ad0●"　疑われてんなぁ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ccac7ba48d36dbf6ac897d91○"　ま、風紀委員から見れば俺は杉並の仲間みたいなもの\\nだろうしな。"
 ●ccac7ba48d36dbf6ac897d91●"　ま、風紀委員から見れば俺は杉並の仲間みたいなもの\\nだろうしな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○60bf049b12ac8acb9181c28c○"「残念ながら本当に何も知らないです」"
 ●60bf049b12ac8acb9181c28c●"「残念ながら本当に何も知らないです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○82efb6278b2d9ffcdebcc9dc○"「……そうですかぁ。残念です……」"
 ●82efb6278b2d9ffcdebcc9dc●"「……そうですかぁ。残念です……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○850851988239022a9431400e○"「無念です……」"
 ●850851988239022a9431400e●"「無念です……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ce834ffbef8e412fe35e8b73○"　しょんぼりしちゃった。"
 ●ce834ffbef8e412fe35e8b73●"　しょんぼりしちゃった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2734915c0790b7be13d79ae9○"　可哀想だけど、知らないもんは知らないしなぁ。"
 ●2734915c0790b7be13d79ae9●"　可哀想だけど、知らないもんは知らないしなぁ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9d829f3c2dfc92fdfc64b795○"「できる限りの協力はしますよ。あんまり期待はしない\\n　でもらった方がいいですけど」"
 ●9d829f3c2dfc92fdfc64b795●"「できる限りの協力はしますよ。あんまり期待はしない\\n　でもらった方がいいですけど」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d4f5411214435233e5a52e0e○"「了解です。よろしくお願いします。……実行委員長、\\n　それで良いですか？」"
 ●d4f5411214435233e5a52e0e●"「了解です。よろしくお願いします。……実行委員長、\\n　それで良いですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9ddd1e8aebb076d0b2bf49ab○"　頷き、俺に向かって頭を下げる実行委員長。"
 ●9ddd1e8aebb076d0b2bf49ab●"　頷き、俺に向かって頭を下げる実行委員長。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○75b444d30ced7a5de2d3fefa○"　実行委員長に指名されるだけあって本当に真面目な人\\nなんだな。"
 ●75b444d30ced7a5de2d3fefa●"　実行委員長に指名されるだけあって本当に真面目な人\\nなんだな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3bdcdfe453c37e157403943e○"「それでは、現在出している出し物の申請についてです\\n　が、まずは天文部からですね」"
 ●3bdcdfe453c37e157403943e●"「それでは、現在出している出し物の申請についてです\\n　が、まずは天文部からですね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9cd2710d5bad7b2fd87bee47○"「『夜間における宇宙人の観測と交流』という内容です。\\n　去年は却下されたそうなので、今年はぜひ、との強い\\n　要望が添えられていますね」"
 ●9cd2710d5bad7b2fd87bee47●"「『夜間における宇宙人の観測と交流』という内容です。\\n　去年は却下されたそうなので、今年はぜひ、との強い\\n　要望が添えられていますね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f0ceb96fea93f7eeac10011f○"　宇宙人……。"
 ●f0ceb96fea93f7eeac10011f●"　宇宙人……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b514852e08e168349e9110c8○"　そんな要望が出ていること自体知らなかった。"
 ●b514852e08e168349e9110c8●"　そんな要望が出ていること自体知らなかった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○02db0389a201e1ec43837636○"　つーか、去年も申請して却下されてたのか。"
 ●02db0389a201e1ec43837636●"　つーか、去年も申請して却下されてたのか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ba7157fc1b5a25e9d353b36f○"「ちなみに、どうして去年は却下されたんですか？」"
 ●ba7157fc1b5a25e9d353b36f●"「ちなみに、どうして去年は却下されたんですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○71759206ca5db5f0d695b838○"「去年だけではありません。天文部からは毎年同じ申請\\n　が出ていて、毎年却下されているらしいのです」"
 ●71759206ca5db5f0d695b838●"「去年だけではありません。天文部からは毎年同じ申請\\n　が出ていて、毎年却下されているらしいのです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○602f74cc34d9f3a533f58130○"「何か特別な理由があるのでしょうか……？　宇宙人の\\n　有無は別にして、この申請内容自体には特に問題は無\\n　いかと思います」"
 ●602f74cc34d9f3a533f58130●"「何か特別な理由があるのでしょうか……？　宇宙人の\\n　有無は別にして、この申請内容自体には特に問題は無\\n　いかと思います」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○accbcb405d5e1d93afad3feb○"「それに、申請書に書かれている文言からも天文部の皆\\n　さんの熱意が伝わってきます。個人的には申請を許可\\n　してあげたいと思うのですが……」"
 ●accbcb405d5e1d93afad3feb●"「それに、申請書に書かれている文言からも天文部の皆\\n　さんの熱意が伝わってきます。個人的には申請を許可\\n　してあげたいと思うのですが……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bdcc13a5b98a8914fa94c697○"　未羽の言葉を受けて、実行委員長が耳打ちする。"
 ●bdcc13a5b98a8914fa94c697●"　未羽の言葉を受けて、実行委員長が耳打ちする。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○acc10cf481a6e2ef63ff7638○"「どうやら過去、天文部は大きな事件を起こしたことが\\n　あるらしいです。それも今回の申請内容と同じ、宇宙\\n　人の観測活動中に、です」"
 ●acc10cf481a6e2ef63ff7638●"「どうやら過去、天文部は大きな事件を起こしたことが\\n　あるらしいです。それも今回の申請内容と同じ、宇宙\\n　人の観測活動中に、です」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○83204219a89e59fb7fb7f514○"「以来、天文部からの申請は伝統的に厳しくチェックす\\n　るようになっているようですよ」"
 ●83204219a89e59fb7fb7f514●"「以来、天文部からの申請は伝統的に厳しくチェックす\\n　るようになっているようですよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○81755d236edb8054404c6e57○"「ふーむ……」"
 ●81755d236edb8054404c6e57●"「ふーむ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○eca67f3e522dfce28f4b3581○"　前にやらかしちゃったことがあったのか。"
 ●eca67f3e522dfce28f4b3581●"　前にやらかしちゃったことがあったのか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○be7274be2275da7bef9bc869○"　でもなぁ、それで申請が通らないっていうのも可哀想\\nというか[ふ]不[びん]憫というか。"
 ●be7274be2275da7bef9bc869●"　でもなぁ、それで申請が通らないっていうのも可哀想\\nというか[ふ]不[びん]憫というか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1ed32859ef5c9e465a185521○"　もう一回くらいチャンスがあっても良いと思うけど。"
 ●1ed32859ef5c9e465a185521●"　もう一回くらいチャンスがあっても良いと思うけど。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d260e547acec946019d91c4f○"「ちなみに、問題ってどんなことなんですか？」"
 ●d260e547acec946019d91c4f●"「ちなみに、問題ってどんなことなんですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0ddf1505b43331852909228b○"「それが、詳しい記録は残っていないのです。事件自体\\n　はかなり昔に起きたことのようで。……大問題になっ\\n　た、ということくらいしか伝わってないのです」"
 ●0ddf1505b43331852909228b●"「それが、詳しい記録は残っていないのです。事件自体\\n　はかなり昔に起きたことのようで。……大問題になっ\\n　た、ということくらいしか伝わってないのです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○123e4a177cf94dbace05883c○"「そうなんですか……」"
 ●123e4a177cf94dbace05883c●"「そうなんですか……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d6693cfb6339cf3644943ab8○"　何をやらかしたんだよ……。"
 ●d6693cfb6339cf3644943ab8●"　何をやらかしたんだよ……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d2a1af122da305f7b4b5ec46○"　記録が残ってないっていうのが、また不気味だな。"
 ●d2a1af122da305f7b4b5ec46●"　記録が残ってないっていうのが、また不気味だな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3c125f4acb0e9306c69324f9○"「……はい、はいはいはい」"
 ●3c125f4acb0e9306c69324f9●"「……はい、はいはいはい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5b12e8fea7271bbebccb894d○"　実行委員長に耳打ちされ、三人組がこちらを見る。"
 ●5b12e8fea7271bbebccb894d●"　実行委員長に耳打ちされ、三人組がこちらを見る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5c1fd96c993a4d076b5b5f03○"「伝統に[なら]倣い、今年も天文部の申請は不可ということで\\n　返答をするのが良いかと思われます。……ということ\\n　で、次の申請ですが──」"
 ●5c1fd96c993a4d076b5b5f03●"「伝統に[なら]倣い、今年も天文部の申請は不可ということで\\n　返答をするのが良いかと思われます。……ということ\\n　で、次の申請ですが──」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a32b2c966cb9bd17db16c7f5○"「ま、待って下さい！」"
 ●a32b2c966cb9bd17db16c7f5●"「ま、待って下さい！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d69175a14e5e819d7b523081○"　話が決まりかけたところで未羽が声をあげた。"
 ●d69175a14e5e819d7b523081●"　話が決まりかけたところで未羽が声をあげた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○47165e111977352d8e6310c9○"「確かに過去、そういった事件があったのは考慮すべき\\n　事実だと思います。しかし、当時と今とでは状況も部\\n　員も違います」"
 ●47165e111977352d8e6310c9●"「確かに過去、そういった事件があったのは考慮すべき\\n　事実だと思います。しかし、当時と今とでは状況も部\\n　員も違います」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a548fce909f4a2acf10f9f7e○"「毎年毎年、同じ内容の申請を出すということは、それ\\n　だけ本気だということだと思うんです」"
 ●a548fce909f4a2acf10f9f7e●"「毎年毎年、同じ内容の申請を出すということは、それ\\n　だけ本気だということだと思うんです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○27d5fe47c0958d8e634e4450○"「そんな熱心な方々の気持ちに、実行委員として応えて\\n　あげたいと私は思います。ですから、このまま不可に\\n　してしまうのは、少し可哀想だと思うのですが……」"
 ●27d5fe47c0958d8e634e4450●"「そんな熱心な方々の気持ちに、実行委員として応えて\\n　あげたいと私は思います。ですから、このまま不可に\\n　してしまうのは、少し可哀想だと思うのですが……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fc5e58f443deb99fe7a87382○"「そのお気持ちはわかりますが……。何か問題が起きて\\n　からでは遅いので……。それに、次に何か問題が起き\\n　たら天文部の存続自体が怪しくなってしまいます……」"
 ●fc5e58f443deb99fe7a87382●"「そのお気持ちはわかりますが……。何か問題が起きて\\n　からでは遅いので……。それに、次に何か問題が起き\\n　たら天文部の存続自体が怪しくなってしまいます……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○53887e185daf3f0c57d0508c○"「あたしはみうみう……、美嶋さんに賛成です！　毎年\\n　申請してるのに通らないなんて可哀想ですよ」"
 ●53887e185daf3f0c57d0508c●"「あたしはみうみう……、美嶋さんに賛成です！　毎年\\n　申請してるのに通らないなんて可哀想ですよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e649447f6995ed720517bab7○"「確かに失敗したことがあるのかもしれないですけど、\\n　再チャレンジする機会すらもらえないのは不公平かなっ\\n　て思っちゃいます！」"
 ●e649447f6995ed720517bab7●"「確かに失敗したことがあるのかもしれないですけど、\\n　再チャレンジする機会すらもらえないのは不公平かなっ\\n　て思っちゃいます！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○77844f626142de0e90be377a○"「私たちはカガサイ実行委員です。監視や規制するため\\n　の集まりではなく、何かを行うための手助けをするの\\n　が主な仕事だと思っています」"
 ●77844f626142de0e90be377a●"「私たちはカガサイ実行委員です。監視や規制するため\\n　の集まりではなく、何かを行うための手助けをするの\\n　が主な仕事だと思っています」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○35a9b661a2de42dbbcdae552○"「なので最初から却下前提で進めるのではなく、せめて\\n　お話を聞いたり検討してからでも遅くはないと思いま\\n　す」"
 ●35a9b661a2de42dbbcdae552●"「なので最初から却下前提で進めるのではなく、せめて\\n　お話を聞いたり検討してからでも遅くはないと思いま\\n　す」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○57a1297176e3f250450ff8c4○"「今年のスローガンにある『笑顔のパズル』の中には、\\n　天文部の皆さんも含まれていると思いますから」"
 ●57a1297176e3f250450ff8c4●"「今年のスローガンにある『笑顔のパズル』の中には、\\n　天文部の皆さんも含まれていると思いますから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○93722fd076f6b05ddb702067○"　その後も各々、意見を出し合う。"
 ●93722fd076f6b05ddb702067●"　その後も各々、意見を出し合う。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5f5a088458269ed727999cc4○"　ざっくり見ると賛成と反対は半々くらいか。"
 ●5f5a088458269ed727999cc4●"　ざっくり見ると賛成と反対は半々くらいか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○392e099e65423d46245d8683○"　それぞれ理由もあり、どちらかが間違っているという\\nことでもない。"
 ●392e099e65423d46245d8683●"　それぞれ理由もあり、どちらかが間違っているという\\nことでもない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○76c4d8c06fb1a758894cce41○"　これは難しいな……。"
 ●76c4d8c06fb1a758894cce41●"　これは難しいな……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○719c922fa985c0b2d2044638○"「みなさん、様々なご意見ありがとうございます。この\\n　ように様々なご意見が出るということは、検討の余地\\n　があるということだ、と実行委員長は申しています」"
 ●719c922fa985c0b2d2044638●"「みなさん、様々なご意見ありがとうございます。この\\n　ように様々なご意見が出るということは、検討の余地\\n　があるということだ、と実行委員長は申しています」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○74129210a919bcfb9998ac06○"　実行委員長が頷く。"
 ●74129210a919bcfb9998ac06●"　実行委員長が頷く。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6240a5e30317c4290a927070○"　この人も、別に意地悪で申請を却下しようとしてるわ\\nけじゃないんだよな。"
 ●6240a5e30317c4290a927070●"　この人も、別に意地悪で申請を却下しようとしてるわ\\nけじゃないんだよな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○46eb5e5bf454eea4fc34f11a○"「ただそうなると、申請可否の検討をどうやって行うか、\\n　という問題が残るのです」"
 ●46eb5e5bf454eea4fc34f11a●"「ただそうなると、申請可否の検討をどうやって行うか、\\n　という問題が残るのです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9347e2d6e27866498128e240○"「人手、少ないですもんね……」"
 ●9347e2d6e27866498128e240●"「人手、少ないですもんね……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○352f655de4daf3f483646c62○"　各クラスの出し物に加え、部活の出し物や後夜祭。"
 ●352f655de4daf3f483646c62●"　各クラスの出し物に加え、部活の出し物や後夜祭。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e35ac515bbe2294f8962ca4d○"　他校や一般のお客さんのことも考えると常に人手不足\\nだ。"
 ●e35ac515bbe2294f8962ca4d●"　他校や一般のお客さんのことも考えると常に人手不足\\nだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7b3ba01455f79e5cc71ba618○"　ひとつの申請にそこまで時間をかけてられないのも無\\n理はないか。"
 ●7b3ba01455f79e5cc71ba618●"　ひとつの申請にそこまで時間をかけてられないのも無\\n理はないか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d8cdc61c38e7051485cb31f3○"　でも未羽が言う通り、なんとかしてあげたい。"
 ●d8cdc61c38e7051485cb31f3●"　でも未羽が言う通り、なんとかしてあげたい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○057013a1d69e73f1e351603b○"　うーん……。"
 ●057013a1d69e73f1e351603b●"　うーん……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○12a88b288dccd7424efcb3a2○"「あの、この件は私に預からせてもらえませんか？」"
 ●12a88b288dccd7424efcb3a2●"「あの、この件は私に預からせてもらえませんか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e896e2ca67e755f7c098b37f○"「天文部の皆さんにお話を聞き、もう少し詳しく活動の\\n　内容を把握してみます」"
 ●e896e2ca67e755f7c098b37f●"「天文部の皆さんにお話を聞き、もう少し詳しく活動の\\n　内容を把握してみます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a18d695e2e1cfc4d1d9c513c○"「その上で危険そうであれば話し合い、問題なさそうで\\n　あれば許可をする。これならどうですか？」"
 ●a18d695e2e1cfc4d1d9c513c●"「その上で危険そうであれば話し合い、問題なさそうで\\n　あれば許可をする。これならどうですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dbdc478821159df5153639f9○"「でも美嶋さんには風紀委員のお仕事もありますし……」"
 ●dbdc478821159df5153639f9●"「でも美嶋さんには風紀委員のお仕事もありますし……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○66e26c1eda3598dcff204928○"「そ、そこは……。頑張ります。他のお仕事には支障を\\n　きたさないようにしますので」"
 ●66e26c1eda3598dcff204928●"「そ、そこは……。頑張ります。他のお仕事には支障を\\n　きたさないようにしますので」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○73a980dcaa325971c1c0fc5a○"　未羽の言葉に実行委員長は考え込む。"
 ●73a980dcaa325971c1c0fc5a●"　未羽の言葉に実行委員長は考え込む。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5233204397028acc007b7fab○"　ただでさえ人手不足で風紀委員からは何人も借りてる\\n状態だからなぁ。"
 ●5233204397028acc007b7fab●"　ただでさえ人手不足で風紀委員からは何人も借りてる\\n状態だからなぁ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6ce43092b3478d11c878fd18○"「…………」"
 ●6ce43092b3478d11c878fd18●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2bac504ae38b12777d987327○"　よし。"
 ●2bac504ae38b12777d987327●"　よし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○850ec320e43ce345cf4c6716○"「あの、ちょっといいですか」"
 ●850ec320e43ce345cf4c6716●"「あの、ちょっといいですか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○677241eb5a0ebc2266c5ccd5○"「はい、常坂一登さん」"
 ●677241eb5a0ebc2266c5ccd5●"「はい、常坂一登さん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f0478b09ee062714ab3c7ea3○"「僕も美嶋さんの手伝いをします。他の人と違って、僕\\n　はまだ具体的な仕事内容が決まってませんし」"
 ●f0478b09ee062714ab3c7ea3●"「僕も美嶋さんの手伝いをします。他の人と違って、僕\\n　はまだ具体的な仕事内容が決まってませんし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b81ede6a0bd7bfea28ba31a4○"「もちろんそれだけじゃなく、他の仕事もやります。そ\\n　れなら美嶋さんの負担も減らせると思いますし」"
 ●b81ede6a0bd7bfea28ba31a4●"「もちろんそれだけじゃなく、他の仕事もやります。そ\\n　れなら美嶋さんの負担も減らせると思いますし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f34d0770e8a1ba5968515a3a○"「いかがでしょうか？」"
 ●f34d0770e8a1ba5968515a3a●"「いかがでしょうか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c4b8afbde002d3f208f7672d○"「常坂先輩……」"
 ●c4b8afbde002d3f208f7672d●"「常坂先輩……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ba44077527420a3c9c61bcbf○"　元々、俺は未羽の手助けがしたいと思って実行委員会\\nに参加したわけだし。"
 ●ba44077527420a3c9c61bcbf●"　元々、俺は未羽の手助けがしたいと思って実行委員会\\nに参加したわけだし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2b64ba6d8b0d6ecffa02d98b○"　ならこうするのは当然なのだ。"
 ●2b64ba6d8b0d6ecffa02d98b●"　ならこうするのは当然なのだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8dcc80cd2a35f80aafd07638○"　実行委員長も、しばらく考え込んだ後で頷いてくれた。"
 ●8dcc80cd2a35f80aafd07638●"　実行委員長も、しばらく考え込んだ後で頷いてくれた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a5970ff474f6ce66778e23b4○"「了解です。そういうことならお任せします」"
 ●a5970ff474f6ce66778e23b4●"「了解です。そういうことならお任せします」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○51b73c48ddba2d890b0f5aca○"「本当ですか！？　ありがとうございます！」"
 ●51b73c48ddba2d890b0f5aca●"「本当ですか！？　ありがとうございます！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a859292511f051ddc4d2c3d7○"「はいはい！　じゃあ、あたしも手伝います！　なんか\\n　楽しそうだし！」"
 ●a859292511f051ddc4d2c3d7●"「はいはい！　じゃあ、あたしも手伝います！　なんか\\n　楽しそうだし！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○71598118d0d0dde692188805○"　ちょこが元気に手を上げる。"
 ●71598118d0d0dde692188805●"　ちょこが元気に手を上げる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○178f9995a47e0a62780b14a3○"「日野原さんは、おふたりよりたくさんお仕事がありま\\n　すよ？　出し物の取材は準備期間から発生しますし」"
 ●178f9995a47e0a62780b14a3●"「日野原さんは、おふたりよりたくさんお仕事がありま\\n　すよ？　出し物の取材は準備期間から発生しますし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e68d05fc36db499fa059a3b6○"「あうぅ、そうでした……。あたしもお手伝いしたいの\\n　にー！」"
 ●e68d05fc36db499fa059a3b6●"「あうぅ、そうでした……。あたしもお手伝いしたいの\\n　にー！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○246236c250dd42dcd0b4ab16○"「ありがとう、日野原さん。どうしても困ったら相談に\\n　乗ってもらえると助かるな」"
 ●246236c250dd42dcd0b4ab16●"「ありがとう、日野原さん。どうしても困ったら相談に\\n　乗ってもらえると助かるな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6bdc3b7939a998f0d8af5eea○"「それはもちろん！　みうみうととっきー先輩のためな\\n　らキャパオーバーしても頑張るから！」"
 ●6bdc3b7939a998f0d8af5eea●"「それはもちろん！　みうみうととっきー先輩のためな\\n　らキャパオーバーしても頑張るから！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○93c86d73e3dce086eb84272b○"「む、無理はしなくて良いよ？　できる範囲で大丈夫だ\\n　からね？」"
 ●93c86d73e3dce086eb84272b●"「む、無理はしなくて良いよ？　できる範囲で大丈夫だ\\n　からね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○65f085ec900f5e8c8ce0063e○"「うん！」"
 ●65f085ec900f5e8c8ce0063e●"「うん！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f4f44ed34ca51846cd29adab○"　カガサイは規模が大きい分、色んな問題があるんだな。"
 ●f4f44ed34ca51846cd29adab●"　カガサイは規模が大きい分、色んな問題があるんだな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b173e54129d4fd37a6036dd4○"　こうやって実行委員に参加してみて初めてわかった。"
 ●b173e54129d4fd37a6036dd4●"　こうやって実行委員に参加してみて初めてわかった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○851fe73443cdcf7f72cd039a○"　天文部の件も知らなかったし。"
 ●851fe73443cdcf7f72cd039a●"　天文部の件も知らなかったし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4a4158ac6408cd326ad133aa○"　それでも俺は、未羽の意見に全面賛成。"
 ●4a4158ac6408cd326ad133aa●"　それでも俺は、未羽の意見に全面賛成。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○07c7c8d4a792652df2a31a6a○"　『笑顔のパズル』の中には、天文部の人たちも含まれ\\nて当然なのだ。"
 ●07c7c8d4a792652df2a31a6a●"　『笑顔のパズル』の中には、天文部の人たちも含まれ\\nて当然なのだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○652ad500e2539982b6a9646d○"　未羽の力になれるよう、頑張ろう。"
 ●652ad500e2539982b6a9646d●"　未羽の力になれるよう、頑張ろう。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○135f40ad7acafd7df134c6da○"美嶋未羽（１１月１２日）"
 ●135f40ad7acafd7df134c6da●"美嶋未羽（１１月１２日）"

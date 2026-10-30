@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○c46af31fab30d502accf100c○"あと少し、もう少し"
 ●c46af31fab30d502accf100c●"あと少し、もう少し"
 
@@ -7,7 +7,7 @@
 ○6aa1c5f35279078f4d9d2efc○"一登"
 ●6aa1c5f35279078f4d9d2efc●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○44f38bc6d6ca251512267a4f○"「それじゃあ先に行ってくるわ」"
 ●44f38bc6d6ca251512267a4f●"「それじゃあ先に行ってくるわ」"
 
@@ -15,7 +15,7 @@
 ○9a34e33364f00968d674335a○"諳子"
 ●9a34e33364f00968d674335a●"諳子"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b153307a9470b1e60bb9efcf○"「はーい、いってらっしゃーい」"
 ●b153307a9470b1e60bb9efcf●"「はーい、いってらっしゃーい」"
 
@@ -23,79 +23,79 @@
 ○c5b9db1bc00523445cc4aa32○"二乃"
 ●c5b9db1bc00523445cc4aa32●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○eb8a24593dbebecfeecc58e7○"「むにゃむぅ……いってらっさいですぅ……むにゅ……」"
 ●eb8a24593dbebecfeecc58e7●"「むにゃむぅ……いってらっさいですぅ……むにゅ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6ecfb50db4832720788b7fbd○"　朝から笑顔の[まぶ]眩しいそら姉。夢と[うつつ]現の[はざ]狭[ま]間をたゆたう\\n二乃。"
 ●6ecfb50db4832720788b7fbd●"　朝から笑顔の[まぶ]眩しいそら姉。夢と[うつつ]現の[はざ]狭[ま]間をたゆたう\\n二乃。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○08910698208d654c63b8f827○"「二乃もゆっくりで大丈夫だからな？　遅刻さえしなけ\\n　りゃ良いんだし」"
 ●08910698208d654c63b8f827●"「二乃もゆっくりで大丈夫だからな？　遅刻さえしなけ\\n　りゃ良いんだし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○12277e54875f85a47832413d○"「ふぁい、そうしまふ……ふあぁ……」"
 ●12277e54875f85a47832413d●"「ふぁい、そうしまふ……ふあぁ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○59a324c2c8890e4a717c1f63○"　かなり眠そうだな。けど昨晩遅くまで作業してたみた\\nいだし、しゃーない。"
 ●59a324c2c8890e4a717c1f63●"　かなり眠そうだな。けど昨晩遅くまで作業してたみた\\nいだし、しゃーない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c1853568a8e9c426ee4a8ebd○"　今日ばかりは見逃してやろう。そら姉も二乃と一緒に\\n登校してくれるようだし。"
 ●c1853568a8e9c426ee4a8ebd●"　今日ばかりは見逃してやろう。そら姉も二乃と一緒に\\n登校してくれるようだし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6308e91b52b8746b6179b009○"　それに、今日から金曜まで授業は全面的に中止。学園\\nの配慮で、一日中カガサイの準備に使える。"
 ●6308e91b52b8746b6179b009●"　それに、今日から金曜まで授業は全面的に中止。学園\\nの配慮で、一日中カガサイの準備に使える。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○843c895dbf34a7802515cfe8○"　こういう時くらい、のんびりでいいだろう。"
 ●843c895dbf34a7802515cfe8●"　こういう時くらい、のんびりでいいだろう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○283550111e227910fb00eb15○"「そんじゃ、行ってきまーす」"
 ●283550111e227910fb00eb15●"「そんじゃ、行ってきまーす」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○13c8c59a3f3a958ba0c6c173○"　秋の朝は、程よく冷えてる。"
 ●13c8c59a3f3a958ba0c6c173●"　秋の朝は、程よく冷えてる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3d9824a5a7bd20cf8c3bd57b○"　汗ばんだりもしなければ、寒さに背中が縮こまること\\nもない。"
 ●3d9824a5a7bd20cf8c3bd57b●"　汗ばんだりもしなければ、寒さに背中が縮こまること\\nもない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7721aa973dea613ebee3c7e5○"　昨日の疲れは……まぁちょこっと残ってる。太ももが\\n軽い筋肉痛。"
 ●7721aa973dea613ebee3c7e5●"　昨日の疲れは……まぁちょこっと残ってる。太ももが\\n軽い筋肉痛。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ea88bc781e35799aac777435○"　だけどそこまで気にはならない。"
 ●ea88bc781e35799aac777435●"　だけどそこまで気にはならない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○50e366a388f39ecae9eca603○"　……厳密には、気にしてられる状況じゃない、だけど。"
 ●50e366a388f39ecae9eca603●"　……厳密には、気にしてられる状況じゃない、だけど。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○587b53d2f751f97dcd0c49d8○"「今日から追い込みかけないと、だもんなぁ」"
 ●587b53d2f751f97dcd0c49d8●"「今日から追い込みかけないと、だもんなぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○20b3878ab0826565b38b7d2b○"　カスタムチューバーのおかげで、作業効率が格段にアッ\\nプした。"
 ●20b3878ab0826565b38b7d2b●"　カスタムチューバーのおかげで、作業効率が格段にアッ\\nプした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○055e0d9fa7185196e4f51cff○"　だけど細かい調整はたくさん残ってる。"
 ●055e0d9fa7185196e4f51cff●"　だけど細かい調整はたくさん残ってる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○38777bd591df07d616518144○"　当日の運営方法だってまだ決まってない部分もあるし、\\nプレゼント用の指輪だってまだ足りない。"
 ●38777bd591df07d616518144●"　当日の運営方法だってまだ決まってない部分もあるし、\\nプレゼント用の指輪だってまだ足りない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○568ef2a8ba39eff8869ef428○"　やらなきゃいけないことは、まだまだあって……。"
 ●568ef2a8ba39eff8869ef428●"　やらなきゃいけないことは、まだまだあって……。"
 
@@ -103,43 +103,43 @@
 ○f78d4980b540fc5ae5cb4e5a○"有里栖"
 ●f78d4980b540fc5ae5cb4e5a●"有里栖"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6642b5d2bcff77a2c25ec8ed○"「じゃじゃーん、おはよーございまーす！」"
 ●6642b5d2bcff77a2c25ec8ed●"「じゃじゃーん、おはよーございまーす！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a9317561822dc207ba0c0e7e○"「うおっ、アリ……いや、有里栖か……。びっくりした\\n　ぁ……おはよ」"
 ●a9317561822dc207ba0c0e7e●"「うおっ、アリ……いや、有里栖か……。びっくりした\\n　ぁ……おはよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4bd6e62712e3d02a71940cc1○"「あはっ、朝から難しい顔して、どうかしたの？」"
 ●4bd6e62712e3d02a71940cc1●"「あはっ、朝から難しい顔して、どうかしたの？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○898acdb8f1de8adb2704cc69○"「ただの考え事、今日からスパートかけなきゃなーって」"
 ●898acdb8f1de8adb2704cc69●"「ただの考え事、今日からスパートかけなきゃなーって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8908c206f81eaee403dd7b97○"「一日を丸々使えるもんねー。今日明日で最低でも形に\\n　はしておきたいかも」"
 ●8908c206f81eaee403dd7b97●"「一日を丸々使えるもんねー。今日明日で最低でも形に\\n　はしておきたいかも」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6e6e71633d670c35a7c71e73○"「同感。作業の[しん]進[ちょく]捗的にはどうなんだ？」"
 ●6e6e71633d670c35a7c71e73●"「同感。作業の[しん]進[ちょく]捗的にはどうなんだ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cf92288e95ac8dbf6bb4e1df○"「今日中にテスト……出来ればいい方かも。頑張ってみ\\n　るつもりだけど、正直微妙かなあ」"
 ●cf92288e95ac8dbf6bb4e1df●"「今日中にテスト……出来ればいい方かも。頑張ってみ\\n　るつもりだけど、正直微妙かなあ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c99901e65d70f1e8554f8c30○"「なるほど、まぁ今日が駄目なら明日テストすれば……」"
 ●c99901e65d70f1e8554f8c30●"「なるほど、まぁ今日が駄目なら明日テストすれば……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6114a8b01c553fd0cc4d0cc5○"「おっと、誰だ？」"
 ●6114a8b01c553fd0cc4d0cc5●"「おっと、誰だ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a8dea8507f6429f23001171e○"　えーっと、メッセの差出人は……ん、鳳城？"
 ●a8dea8507f6429f23001171e●"　えーっと、メッセの差出人は……ん、鳳城？"
 
@@ -151,15 +151,15 @@
 ○6df3d4e30bda6d834b5f20cd○"私でよければ、お手伝いしましょうか？"
 ●6df3d4e30bda6d834b5f20cd●"私でよければ、お手伝いしましょうか？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f40753288118d731ff54a8fd○"「……おぉ？」"
 ●f40753288118d731ff54a8fd●"「……おぉ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3fd65faea6b2af4f00671f1d○"「ん？　どうかしたの？」"
 ●3fd65faea6b2af4f00671f1d●"「ん？　どうかしたの？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○837c41131ceed082c60664a3○"「いや、意外なタイミングで意外な助っ人が」"
 ●837c41131ceed082c60664a3●"「いや、意外なタイミングで意外な助っ人が」"
 
@@ -179,11 +179,11 @@
 ○3c1d34c2ccdcf0ee00179eec○"つまりは、暇ってことです。"
 ●3c1d34c2ccdcf0ee00179eec●"つまりは、暇ってことです。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ff9589c424b2afb31c75ee4d○"　なるほどな。いや、それでも十分ありがたい。"
 ●ff9589c424b2afb31c75ee4d●"　なるほどな。いや、それでも十分ありがたい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○77fbe8970a11a5281a42040d○"　カガサイ直前まで、ちょくちょく屋上で[だ]駄[べ]弁ったり、\\n一緒にソシャゲのガチャを回したりしてたもんな。"
 ●77fbe8970a11a5281a42040d●"　カガサイ直前まで、ちょくちょく屋上で[だ]駄[べ]弁ったり、\\n一緒にソシャゲのガチャを回したりしてたもんな。"
 
@@ -203,70 +203,70 @@
 ○0e073d652133de6a5ccd73bd○"分かりました、では放課後から。"
 ●0e073d652133de6a5ccd73bd●"分かりました、では放課後から。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cc46c7173daf4f9a810b65f8○"　よしよし、助っ人一名ゲットと。"
 ●cc46c7173daf4f9a810b65f8●"　よしよし、助っ人一名ゲットと。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9f09a1371b66b434f3e5fc28○"「鳳城がこっちの作業も手伝ってくれるって」"
 ●9f09a1371b66b434f3e5fc28●"「鳳城がこっちの作業も手伝ってくれるって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○200a9e470498a11ade5d13fd○"「ええっ、詩名ちゃんが？　そんな悪いよ」"
 ●200a9e470498a11ade5d13fd●"「ええっ、詩名ちゃんが？　そんな悪いよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○57cda7eaad749731dd9ab64f○"「向こうのクラスの作業が大分終わったから暇みたい。\\n　学園についたら軽く打ち合わせしてくるよ」"
 ●57cda7eaad749731dd9ab64f●"「向こうのクラスの作業が大分終わったから暇みたい。\\n　学園についたら軽く打ち合わせしてくるよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9cce440825efd3d7049ed67e○"「そっかそっか……ふふ、あとでお礼しとかないと」"
 ●9cce440825efd3d7049ed67e●"「そっかそっか……ふふ、あとでお礼しとかないと」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bf707088a924936b12650921○"　難しい作業をお願いするのは気が引けるし、とりあえ\\nず簡単な仕事からお願いするか。"
 ●bf707088a924936b12650921●"　難しい作業をお願いするのは気が引けるし、とりあえ\\nず簡単な仕事からお願いするか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○298ca8012ed9daf954b70d87○"「しかし、助かるには助かるけど、やっぱ申し訳なさも\\n　あるよな、やっぱり。家じゃそら姉も手伝ってくれて\\n　るしさ」"
 ●298ca8012ed9daf954b70d87●"「しかし、助かるには助かるけど、やっぱ申し訳なさも\\n　あるよな、やっぱり。家じゃそら姉も手伝ってくれて\\n　るしさ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○259fb2ad9b0de7540b309e4c○"「逢見先輩が？　その……大丈夫？　確かパソコン関係っ\\n　て苦手だった気が……」"
 ●259fb2ad9b0de7540b309e4c●"「逢見先輩が？　その……大丈夫？　確かパソコン関係っ\\n　て苦手だった気が……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6ca7cc29a79e153c154f3919○"「あぁ、そっちじゃない。二乃がやってる指輪の方を少\\n　しね」"
 ●6ca7cc29a79e153c154f3919●"「あぁ、そっちじゃない。二乃がやってる指輪の方を少\\n　しね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4a9576e4df5ecb4ebebfd940○"「なるほど、それなら安心」"
 ●4a9576e4df5ecb4ebebfd940●"「なるほど、それなら安心」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9b335e6b6af1e53785cd8fb7○"　そら姉にＰＣを触らせるのは、俺も怖い。最悪の場合、\\n入ってるデータがお釈迦になりかねんし。"
 ●9b335e6b6af1e53785cd8fb7●"　そら姉にＰＣを触らせるのは、俺も怖い。最悪の場合、\\n入ってるデータがお釈迦になりかねんし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d998c1820c752e5528b8c473○"「ふふっ……こうなったら、意地でもいいものにしない\\n　といけなくなっちゃうね」"
 ●d998c1820c752e5528b8c473●"「ふふっ……こうなったら、意地でもいいものにしない\\n　といけなくなっちゃうね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○660df079509ef5cf91941cb0○"「そうだな、全くもって同感だ。ちゃんと完成させない\\n　と」"
 ●660df079509ef5cf91941cb0●"「そうだな、全くもって同感だ。ちゃんと完成させない\\n　と」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4a793b6fdf11cbeb543155d8○"　今日も含めて、あと三日。カガサイ文化祭パートのカ\\nウントダウンが始まった。"
 ●4a793b6fdf11cbeb543155d8●"　今日も含めて、あと三日。カガサイ文化祭パートのカ\\nウントダウンが始まった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dd04eef8c4448c2f785019ad○"　ちゃんとゲームを起動させることは勿論、クオリティ\\nアップにも努めないといけない。"
 ●dd04eef8c4448c2f785019ad●"　ちゃんとゲームを起動させることは勿論、クオリティ\\nアップにも努めないといけない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a0cac659fc0716ed1167c266○"　最後まで気を抜かずやり遂げないとな……。"
 ●a0cac659fc0716ed1167c266●"　最後まで気を抜かずやり遂げないとな……。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○2519659bdfb9f4063959b1db○"鷲澤有里栖（１１月２０日）"
 ●2519659bdfb9f4063959b1db●"鷲澤有里栖（１１月２０日）"

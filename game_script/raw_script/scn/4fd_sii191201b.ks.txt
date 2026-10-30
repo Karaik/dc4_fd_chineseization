@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○cf013487b6ea35e90ba69020○"責任…とってくださいね"
 ●cf013487b6ea35e90ba69020●"責任…とってくださいね"
 
@@ -7,7 +7,7 @@
 ○05fce98866f0ae44462c67ac○"一登"
 ●05fce98866f0ae44462c67ac●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d697a3472ddc727a066168b8○"「はぁ……はぁ……はぁ……」"
 ●d697a3472ddc727a066168b8●"「はぁ……はぁ……はぁ……」"
 
@@ -15,15 +15,15 @@
 ○3f7724b2bbc60697c7b400b6○"詩名"
 ●3f7724b2bbc60697c7b400b6●"詩名"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6ab023776510e3bca4aeb285○"「ふぅ……ふぅ……」"
 ●6ab023776510e3bca4aeb285●"「ふぅ……ふぅ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dba445da9ce0ee36c9d37014○"「詩名……そっちは大丈夫か？」"
 ●dba445da9ce0ee36c9d37014●"「詩名……そっちは大丈夫か？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○76ff967cce33e659d31b9d1c○"「わかりません。とりあえず、水鏡湖で待ち合わせにし\\n　ましょう！」"
 ●76ff967cce33e659d31b9d1c●"「わかりません。とりあえず、水鏡湖で待ち合わせにし\\n　ましょう！」"
 
@@ -31,67 +31,67 @@
 ○b0cab004eace1fad454e6ca7○"杉並"
 ●b0cab004eace1fad454e6ca7●"杉並"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5d989bd6c38835c18fb3e42f○"「見つけたぞ！　王よ！」"
 ●5d989bd6c38835c18fb3e42f●"「見つけたぞ！　王よ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b4a58ec342aaf00f5563b55b○"「王はやめてください！」"
 ●b4a58ec342aaf00f5563b55b●"「王はやめてください！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○899adb2ebd70638ee49312ee○"「今日こそは、貴様に勝ってみせる！　さあ！」"
 ●899adb2ebd70638ee49312ee●"「今日こそは、貴様に勝ってみせる！　さあ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2e6600fe141854aba542673b○"「今日は常坂さんとデートの日なんです！　今日は挑戦\\n　はお休みです！」"
 ●2e6600fe141854aba542673b●"「今日は常坂さんとデートの日なんです！　今日は挑戦\\n　はお休みです！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2e0f036153c67ad7f8fe9c8a○"　あの日以来、杉並をはじめ、様々な生徒が詩名や俺を\\n訪ねてくる。"
 ●2e0f036153c67ad7f8fe9c8a●"　あの日以来、杉並をはじめ、様々な生徒が詩名や俺を\\n訪ねてくる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6415e448c4a2173fc454aed3○"　あの大会で負けた悔しさだったり、あの大会で[あこが]憧れた\\n[せん]羨[ぼう]望だったり。"
 ●6415e448c4a2173fc454aed3●"　あの大会で負けた悔しさだったり、あの大会で[あこが]憧れた\\n[せん]羨[ぼう]望だったり。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8e4fb330b4b419a7a522727a○"　あるいはスカウトだったり、ただの好意だったり。"
 ●8e4fb330b4b419a7a522727a●"　あるいはスカウトだったり、ただの好意だったり。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f538c5fe81876f615db8cd24○"「良いのか……鳳城……俺はアップデートに合わせ、新\\n　規の戦法を編み出した」"
 ●f538c5fe81876f615db8cd24●"「良いのか……鳳城……俺はアップデートに合わせ、新\\n　規の戦法を編み出した」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○eacf080849de928f177d9cc1○"「アップデート……噂には聞いてましたが、もしかして\\n　かなり大幅な」"
 ●eacf080849de928f177d9cc1●"「アップデート……噂には聞いてましたが、もしかして\\n　かなり大幅な」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○84b5c919a10857b51f9d3a16○"「常人では気が付かんレベルだ。だが、我々クラスでは\\n　どうかな……」"
 ●84b5c919a10857b51f9d3a16●"「常人では気が付かんレベルだ。だが、我々クラスでは\\n　どうかな……」"
 
-# body; occurrences=2
+# body; occurrences=1; source_occurrence=1
 ○4b24c9e5707f56cee1a2125f○"「…………」"
 ●4b24c9e5707f56cee1a2125f●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9296e3b448f7b71d4cde9cc0○"「常坂さん……今日は、ゲームデートに」"
 ●9296e3b448f7b71d4cde9cc0●"「常坂さん……今日は、ゲームデートに」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fe79e450d665bb94c2fc0623○"「ああ、わかったよ」"
 ●fe79e450d665bb94c2fc0623●"「ああ、わかったよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○78844b8e68ded56f23943c48○"　まあ、そんな人たちと一緒に、[しのぎ]鎬を削ってまだまだゲー\\nムに強くなっている。"
 ●78844b8e68ded56f23943c48●"　まあ、そんな人たちと一緒に、[しのぎ]鎬を削ってまだまだゲー\\nムに強くなっている。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e6917b7f1ab979da034dcec0○"　あそこまでくれば、限界だと思っていたアマクラの腕\\nも、彼らと戦っているうちに、どんどん腕が上がってい\\nく。"
 ●e6917b7f1ab979da034dcec0●"　あそこまでくれば、限界だと思っていたアマクラの腕\\nも、彼らと戦っているうちに、どんどん腕が上がってい\\nく。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ad90bb5909215c17e395d4d0○"　なんにでも、限界なんてものはないんだな……なんて\\n痛感する。"
 ●ad90bb5909215c17e395d4d0●"　なんにでも、限界なんてものはないんだな……なんて\\n痛感する。"
 
@@ -99,227 +99,227 @@
 ○d971493a0c41963e3bea932c○"ちよ子"
 ●d971493a0c41963e3bea932c●"ちよ子"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e1eb046a46d2c5d4595a83a8○"「おー！　お見事です！　ありがとうございました！」"
 ●e1eb046a46d2c5d4595a83a8●"「おー！　お見事です！　ありがとうございました！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5771f9001b3ca455876b938c○"　それは連弾も同じで、あの特訓以来、詩名と弾くとき\\n限定で、腕が上がったような気がした。"
 ●5771f9001b3ca455876b938c●"　それは連弾も同じで、あの特訓以来、詩名と弾くとき\\n限定で、腕が上がったような気がした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5a34e7db1efe854c5d9c5c64○"「お休みの日だというのに、わざわざ音楽室にまで来て\\n　くれて、ありがとうございます」"
 ●5a34e7db1efe854c5d9c5c64●"「お休みの日だというのに、わざわざ音楽室にまで来て\\n　くれて、ありがとうございます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7698f533c1626801dbb1bee7○"「ううんお礼みたいなものだから」"
 ●7698f533c1626801dbb1bee7●"「ううんお礼みたいなものだから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cfcfe38f010b0b415f0afdd2○"「お礼？　何かしましたっけ？」"
 ●cfcfe38f010b0b415f0afdd2●"「お礼？　何かしましたっけ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8d5f68aa7546ff943685d3a6○"「前に、私の指では弾きにくい曲を、リクエストしてく\\n　れたでしょう？　それがヒントで、あの大会で勝てた\\n　から」"
 ●8d5f68aa7546ff943685d3a6●"「前に、私の指では弾きにくい曲を、リクエストしてく\\n　れたでしょう？　それがヒントで、あの大会で勝てた\\n　から」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1debd2eed9c7663ff8d15111○"「おー！　そう言えばそうでしたね。あ、でしたらでし\\n　たら、あたしの実況でエキシビジョンマッチにまでなっ\\n　たのも、お礼ください！」"
 ●1debd2eed9c7663ff8d15111●"「おー！　そう言えばそうでしたね。あ、でしたらでし\\n　たら、あたしの実況でエキシビジョンマッチにまでなっ\\n　たのも、お礼ください！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c8653677e21b44f7dce3b1d1○"「えー……」"
 ●c8653677e21b44f7dce3b1d1●"「えー……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○02b78f2dd6986a0ae1a38b00○"「えーって、あたし結構頑張りましたよ！」"
 ●02b78f2dd6986a0ae1a38b00●"「えーって、あたし結構頑張りましたよ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○57c501e8d3884e379899656a○"「わかったよ。また今度お礼するから、どんな曲がいい\\n　のか、考えておいて」"
 ●57c501e8d3884e379899656a●"「わかったよ。また今度お礼するから、どんな曲がいい\\n　のか、考えておいて」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6667a9a88a432039df74d56f○"「はーい」"
 ●6667a9a88a432039df74d56f●"「はーい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b3238614495fef22072425ed○"「それでは、しいしい先輩もとっきー先輩も、また」"
 ●b3238614495fef22072425ed●"「それでは、しいしい先輩もとっきー先輩も、また」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2989c2e4e93e9feb776dbcbd○"「ああ、それじゃあな」"
 ●2989c2e4e93e9feb776dbcbd●"「ああ、それじゃあな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9e063c36333441c7616f0b85○"「ばいばい」"
 ●9e063c36333441c7616f0b85●"「ばいばい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○30bef80649f0ca818e864af8○"　俺たちは歩く。"
 ●30bef80649f0ca818e864af8●"　俺たちは歩く。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c17fa46ed55ed6da0169efd0○"　手をつないで、ゆっくりと。"
 ●c17fa46ed55ed6da0169efd0●"　手をつないで、ゆっくりと。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5ca864ff85310cdefbc564cb○"　あの日、好きと言い合えなかった日、手をつなげば気\\n持ちが伝わると思った。"
 ●5ca864ff85310cdefbc564cb●"　あの日、好きと言い合えなかった日、手をつなげば気\\n持ちが伝わると思った。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○834d7156a3835415851eaade○"　でも今は、気持ちが伝わって……手をつなぐ。"
 ●834d7156a3835415851eaade●"　でも今は、気持ちが伝わって……手をつなぐ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bfe576477980d693fdbf3155○"　きっと彼女も、同じようなことを考えているだろう。"
 ●bfe576477980d693fdbf3155●"　きっと彼女も、同じようなことを考えているだろう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○13d507d699ee4563e983ad0c○"　[・]あ[・]の[・]日から、俺たちは時折ここにきてはちぇしの鳴き\\n声や姿を探していた。"
 ●13d507d699ee4563e983ad0c●"　[・]あ[・]の[・]日から、俺たちは時折ここにきてはちぇしの鳴き\\n声や姿を探していた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d7f0348cd4bf0914323b3d5f○"　それが本当に意味のあることなのかは判らないけれど。"
 ●d7f0348cd4bf0914323b3d5f●"　それが本当に意味のあることなのかは判らないけれど。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○714a2e45ba341071bab6ac22○"「常坂さん……あの日、手をつないで、お互いの気持ち\\n　を伝えましたよね」"
 ●714a2e45ba341071bab6ac22●"「常坂さん……あの日、手をつないで、お互いの気持ち\\n　を伝えましたよね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○052eceb0c6dbaaab2cf2513b○"「あはは……そうだな」"
 ●052eceb0c6dbaaab2cf2513b●"「あはは……そうだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○049a53141ea7ca6214c275c3○"「どうして笑ったんです？」"
 ●049a53141ea7ca6214c275c3●"「どうして笑ったんです？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5ad755c143a6428bc726c613○"「いや、そんなこと考えてたからさ、もしかしたら同じ\\n　こと考えてたかもって」"
 ●5ad755c143a6428bc726c613●"「いや、そんなこと考えてたからさ、もしかしたら同じ\\n　こと考えてたかもって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8d0a262060f12a6f58bd27df○"「私は、そんなこと考えてそうな顔を常坂さんがしてい\\n　たので、話を振ってあげたんです」"
 ●8d0a262060f12a6f58bd27df●"「私は、そんなこと考えてそうな顔を常坂さんがしてい\\n　たので、話を振ってあげたんです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2e71ab3f71de26b1c013208c○"「負けず嫌いだなぁ」"
 ●2e71ab3f71de26b1c013208c●"「負けず嫌いだなぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d0a423b3202f448327fdb799○"「ふふっ。でも今、またあんな気分になってるんです」"
 ●d0a423b3202f448327fdb799●"「ふふっ。でも今、またあんな気分になってるんです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9bc4f3abe6e648218042deec○"「もう、好意を伝えてもいいのにか？」"
 ●9bc4f3abe6e648218042deec●"「もう、好意を伝えてもいいのにか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○05546aa8d0950a90091217a6○"「はい……言葉だけじゃ、伝えきれないくらい……もっ\\n　ともっと好きになって……」"
 ●05546aa8d0950a90091217a6●"「はい……言葉だけじゃ、伝えきれないくらい……もっ\\n　ともっと好きになって……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1748265f73402e13d4a274f6○"「限界まで好きになったと思ってたんですが……まだま\\n　だ……好きになりそうで……」"
 ●1748265f73402e13d4a274f6●"「限界まで好きになったと思ってたんですが……まだま\\n　だ……好きになりそうで……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4e2655b8cbb6ff095ab3ac89○"「どういえば伝わるのか……もうわかりません」"
 ●4e2655b8cbb6ff095ab3ac89●"「どういえば伝わるのか……もうわかりません」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e5bb0305657c7b19f865668d○"「あいかわらず、デレに遠慮がないな……詩名は……」"
 ●e5bb0305657c7b19f865668d●"「あいかわらず、デレに遠慮がないな……詩名は……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7629e3e96de7130e9e47ff38○"「そうですよ。ダー……ふふふ♪」"
 ●7629e3e96de7130e9e47ff38●"「そうですよ。ダー……ふふふ♪」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○58719e1cb776e85c082f2400○"　満月の日や朔月の日……詩名を元の世界に返すために\\n何度も来ている水鏡湖。"
 ●58719e1cb776e85c082f2400●"　満月の日や朔月の日……詩名を元の世界に返すために\\n何度も来ている水鏡湖。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3e4976e72deb0e565855d57f○"　その水面に花びらが落ちる。"
 ●3e4976e72deb0e565855d57f●"　その水面に花びらが落ちる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6932087e203a4421af226cb○"「こんなに好きになったら……『元の世界に帰りたい』\\n　って、願えなくなっちゃいますよ」"
 ●b6932087e203a4421af226cb●"「こんなに好きになったら……『元の世界に帰りたい』\\n　って、願えなくなっちゃいますよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0ff174ee530306f9b91aba0b○"「それは……」"
 ●0ff174ee530306f9b91aba0b●"「それは……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1b93bde1188504fcd7570d26○"　最低かもしれないけど、俺はそれを少し望んでいる。"
 ●1b93bde1188504fcd7570d26●"　最低かもしれないけど、俺はそれを少し望んでいる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2a9a8fbaa136ad1d3ef0ccc4○"　詩名には、ずっとこの世界にいてほしい。"
 ●2a9a8fbaa136ad1d3ef0ccc4●"　詩名には、ずっとこの世界にいてほしい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e8b8c4b7a080bcd4bc5f9130○"「こんなに好きにさせて……責任……とってください」"
 ●e8b8c4b7a080bcd4bc5f9130●"「こんなに好きにさせて……責任……とってください」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ab7ad11488a3b8a2da946b79○"「うん……」"
 ●ab7ad11488a3b8a2da946b79●"「うん……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○146234b47e217caca0732e55○"　詩名の体を、ギュっと抱きしめる。"
 ●146234b47e217caca0732e55●"　詩名の体を、ギュっと抱きしめる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○40406f34ea4a9d695f73615e○"「責任……とって」"
 ●40406f34ea4a9d695f73615e●"「責任……とって」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cf417cd37efc6f5bc41d23ce○"　帰れない彼女を、もっとこの世界にとどめてしまう行\\n為なのかもしれない。"
 ●cf417cd37efc6f5bc41d23ce●"　帰れない彼女を、もっとこの世界にとどめてしまう行\\n為なのかもしれない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1057a14ac5f35135f412bf5c○"　けれど俺は……。"
 ●1057a14ac5f35135f412bf5c●"　けれど俺は……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○911e42d4181cf87262416633○"「ん……」"
 ●911e42d4181cf87262416633●"「ん……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cd111380d98b833e5cdb42ed○"　彼女の唇にキスをした。"
 ●cd111380d98b833e5cdb42ed●"　彼女の唇にキスをした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0be5e1dbdeaf9455ccdc2b9e○"　今まで何度もしてきているけれど……。"
 ●0be5e1dbdeaf9455ccdc2b9e●"　今まで何度もしてきているけれど……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○edcbee06ebc12f990f15282c○"　でも、今の俺たちなら……この気持ちは、この意味は\\n……意図は……伝わるだろう。"
 ●edcbee06ebc12f990f15282c●"　でも、今の俺たちなら……この気持ちは、この意味は\\n……意図は……伝わるだろう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f1da99aa888e1485bb763e18○"　ゆっくりと唇が離れる。"
 ●f1da99aa888e1485bb763e18●"　ゆっくりと唇が離れる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e30fb3c9efdd0256bc945be0○"「ありがとうございます」"
 ●e30fb3c9efdd0256bc945be0●"「ありがとうございます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○91423d96ed560b8fd5e55f78○"「どういたしまして」"
 ●91423d96ed560b8fd5e55f78●"「どういたしまして」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e46e9466f1a32375a33fef47○"「さて、それじゃあ今日はどこにデートに行く？」"
 ●e46e9466f1a32375a33fef47●"「さて、それじゃあ今日はどこにデートに行く？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a28aae75825b3f2a8ed95d92○"「ゲームしましょうよ！　疲れたら連弾！」"
 ●a28aae75825b3f2a8ed95d92●"「ゲームしましょうよ！　疲れたら連弾！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2d38315aadb44df1cf39c370○"「またか……」"
 ●2d38315aadb44df1cf39c370●"「またか……」"
 
@@ -327,46 +327,50 @@
 ○7b2f4529ef1daa28859d4fea○"？？？"
 ●7b2f4529ef1daa28859d4fea●"？？？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a99d51f9338db7254168d6ab○"「……にや」"
 ●a99d51f9338db7254168d6ab●"「……にや」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○565dbb24b6d4ae9669f88a2f○"「あ……」"
 ●565dbb24b6d4ae9669f88a2f●"「あ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9bff473eed108ebce4513e8b○"「ん？」"
 ●9bff473eed108ebce4513e8b●"「ん？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2f7aab0912d1aeee54fe0808○"　詩名の視線を追ったが何も無かった。"
 ●2f7aab0912d1aeee54fe0808●"　詩名の視線を追ったが何も無かった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=2
+○a7cbdb7ed75912d579932e4e○"「…………」"
+●a7cbdb7ed75912d579932e4e●"「…………」"
+
+# body; occurrences=1; source_occurrence=1
 ○681f0abec2c16bca0d5d50b7○"「姿が見えた気がしたんですが……気のせいだったかも\\n　しれません」"
 ●681f0abec2c16bca0d5d50b7●"「姿が見えた気がしたんですが……気のせいだったかも\\n　しれません」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b35e2a34a0e73f14dc38fa42○"「そっか」"
 ●b35e2a34a0e73f14dc38fa42●"「そっか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ab9a60816f768e1df60ff814○"「さて、それじゃあ……」"
 ●ab9a60816f768e1df60ff814●"「さて、それじゃあ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ba9f298e3afe125591cd0f29○"「うん」"
 ●ba9f298e3afe125591cd0f29●"「うん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a924af45d533936c41478ae3○"　手をつないで、俺たちの町へと戻る。"
 ●a924af45d533936c41478ae3●"　手をつないで、俺たちの町へと戻る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○404d714c790e4c81dd7db50b○"　その手からは幸せだという気持ちが伝わってきた……。"
 ●404d714c790e4c81dd7db50b●"　その手からは幸せだという気持ちが伝わってきた……。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○061bfbae269c8a83affcf53a○"鳳城詩名（１２月１日）"
 ●061bfbae269c8a83affcf53a●"鳳城詩名（１２月１日）"

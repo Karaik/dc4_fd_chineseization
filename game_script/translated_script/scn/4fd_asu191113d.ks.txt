@@ -1,21 +1,21 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○2066eba51616668202dc2445○"ぴえんディレクター"
 ●2066eba51616668202dc2445●"ぴえんディレクター"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9f2920b4a21f5637a166bd21○"　今日のリビングは、えらいこっちゃ状態。"
 ●9f2920b4a21f5637a166bd21●"　今日のリビングは、えらいこっちゃ状態。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○27ecc9df2b4f6ecf48669d1a○"　ゲームの作り方教本に、グラフィックデザインの入門\\n書。"
 ●27ecc9df2b4f6ecf48669d1a●"　ゲームの作り方教本に、グラフィックデザインの入門\\n書。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○99cbbf628b25b1ebd18c89fe○"　そしてアートデザインや、女性向けアクセサリーのカ\\nタログ。"
 ●99cbbf628b25b1ebd18c89fe●"　そしてアートデザインや、女性向けアクセサリーのカ\\nタログ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dc94e467744abd5c9f2d5569○"　それらが積み重なり、机の上が溢れんばかりになって\\nいる。"
 ●dc94e467744abd5c9f2d5569●"　それらが積み重なり、机の上が溢れんばかりになって\\nいる。"
 
@@ -23,31 +23,31 @@
 ○013c9b608d6b37643ca80461○"一登"
 ●013c9b608d6b37643ca80461●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ca6c3e14dff71d9935403d0e○"「……ま、寝る前に片付けときゃいいか」"
 ●ca6c3e14dff71d9935403d0e●"「……ま、寝る前に片付けときゃいいか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○36237420a66fa99224b23cd5○"　俺もこれから読み込まないといけないし。"
 ●36237420a66fa99224b23cd5●"　俺もこれから読み込まないといけないし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b022fb951795cfc312d29609○"　二乃も二乃で、風呂から出たら勉強するつもりだろう\\nからな。"
 ●b022fb951795cfc312d29609●"　二乃も二乃で、風呂から出たら勉強するつもりだろう\\nからな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f03363b87ab1b6ed9b366df2○"「お？」"
 ●f03363b87ab1b6ed9b366df2●"「お？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ae3b51af5ac55c182fa79ee5○"　この時間にメッセということは……。"
 ●ae3b51af5ac55c182fa79ee5●"　この時間にメッセということは……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a4f64f2f5d9d291b0c3adae0○"「やっぱり有里栖か」"
 ●a4f64f2f5d9d291b0c3adae0●"「やっぱり有里栖か」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○abadcfec6fb0716af0e998ab○"　どれどれっと。"
 ●abadcfec6fb0716af0e998ab●"　どれどれっと。"
 
@@ -55,7 +55,7 @@
 ○56fa60e4e13080249853f462○"予算が足りないよぉ、よよよ……。"
 ●56fa60e4e13080249853f462●"予算が足りないよぉ、よよよ……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9eb5563287c3ec10c7308c26○"　開口一番に泣き言とは……相当だな。"
 ●9eb5563287c3ec10c7308c26●"　開口一番に泣き言とは……相当だな。"
 
@@ -75,11 +75,11 @@
 ○5fbcbf8819786b58b3198ad4○"やっぱりそういうもんか。"
 ●5fbcbf8819786b58b3198ad4●"やっぱりそういうもんか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○00cbf213bc10e1dac1b4ef0a○"　俺もあまり触ったことがない。せいぜいゲームをする\\nのに必要なソフトをダウンロードしたことが何回かある\\nくらいだ。"
 ●00cbf213bc10e1dac1b4ef0a●"　俺もあまり触ったことがない。せいぜいゲームをする\\nのに必要なソフトをダウンロードしたことが何回かある\\nくらいだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bd38d9507fcf19f393d5e626○"　でも、有里栖が言わんとしてることは、なんとなく分\\nかる。"
 ●bd38d9507fcf19f393d5e626●"　でも、有里栖が言わんとしてることは、なんとなく分\\nかる。"
 
@@ -103,15 +103,15 @@
 ○28be3a2aac43b8650d1a62fe○"あぁ……なるほど。"
 ●28be3a2aac43b8650d1a62fe●"あぁ……なるほど。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e8a14278d2d956e5ff567169○"　実家が実家だから、ソフト開発者の気持ちもある程度\\n分かるわけだ。"
 ●e8a14278d2d956e5ff567169●"　実家が実家だから、ソフト開発者の気持ちもある程度\\n分かるわけだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○56af91599b1a741d06518b58○"　だから、専門ソフトを無料で使うことに抵抗がある、\\nと。"
 ●56af91599b1a741d06518b58●"　だから、専門ソフトを無料で使うことに抵抗がある、\\nと。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d01aa054eb9e30b95fc4bee9○"「…………」"
 ●d01aa054eb9e30b95fc4bee9●"「…………」"
 
@@ -143,7 +143,7 @@
 ○7b74b63afd13a4f445cf902d○"使えるものは、どんどん使っていくべきだ。"
 ●7b74b63afd13a4f445cf902d●"使えるものは、どんどん使っていくべきだ。"
 
-# image_alt; occurrences=2
+# image_alt; occurrences=1; source_occurrence=1
 ○6f39194d79070d247d384330○"スタンプ画像"
 ●6f39194d79070d247d384330●"スタンプ画像"
 
@@ -159,34 +159,38 @@
 ○3a18d29fe1ba6a48fa408fd4○"頑張ります！　相談乗ってくれてありがと！"
 ●3a18d29fe1ba6a48fa408fd4●"頑張ります！　相談乗ってくれてありがと！"
 
+# image_alt; occurrences=1; source_occurrence=2
+○2d36cb1c48800c9445e30e12○"スタンプ画像"
+●2d36cb1c48800c9445e30e12●"スタンプ画像"
+
 # message; occurrences=17
 ○e0d681f01ccd8b917de88f43○"ノープロブレム。がんば！"
 ●e0d681f01ccd8b917de88f43●"ノープロブレム。がんば！"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5b04939cc373a6f173bf7b43○"　有里栖も有里栖で、たくさん悩んで、たくさん頑張っ\\nてる。"
 ●5b04939cc373a6f173bf7b43●"　有里栖も有里栖で、たくさん悩んで、たくさん頑張っ\\nてる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○75cb44cb44ffca32cccc100d○"　素人でゲーム制作、少ない費用に少ない時間。"
 ●75cb44cb44ffca32cccc100d●"　素人でゲーム制作、少ない費用に少ない時間。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a60c1337906ae5e13ae9b87b○"「……俺も負けてられないな」"
 ●a60c1337906ae5e13ae9b87b●"「……俺も負けてられないな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e82b2478c95a31a5064999b0○"　やる気と体力だけが武器だ。高い壁を前に、足[ぶ]踏みな\\nんかしていられない。"
 ●e82b2478c95a31a5064999b0●"　やる気と体力だけが武器だ。高い壁を前に、足[ぶ]踏みな\\nんかしていられない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dc97d24dbcdcfc8afd895a64○"　さっさと本を読み込んで、知識を[たくわ]蓄えるとするか。"
 ●dc97d24dbcdcfc8afd895a64●"　さっさと本を読み込んで、知識を[たくわ]蓄えるとするか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8fb9428ce87ddc99e69b58e5○"　夜はまだまだこれから。"
 ●8fb9428ce87ddc99e69b58e5●"　夜はまだまだこれから。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○25ddef38f32729f2516385fc○"　[よ]夜[ふか]更しは学生の得意とするところ。眠気が襲ってくる\\nまで、頑張るとしよう。"
 ●25ddef38f32729f2516385fc●"　[よ]夜[ふか]更しは学生の得意とするところ。眠気が襲ってくる\\nまで、頑張るとしよう。"

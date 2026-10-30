@@ -1,13 +1,13 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○240d5fdb4f7053f4f8b80516○"身の振り方"
 ●240d5fdb4f7053f4f8b80516●"身の振り方"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○80c3a01a14d43f8d73fb1deb○"　そら姉の美味しい夕飯をガッツリ頂き、お風呂も入っ\\nてすっきり。"
 ●80c3a01a14d43f8d73fb1deb●"　そら姉の美味しい夕飯をガッツリ頂き、お風呂も入っ\\nてすっきり。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d5f6443a530f831906adffef○"　ベッドに寝っ転がってＫｏｔｏＲＩの動画を見る。"
 ●d5f6443a530f831906adffef●"　ベッドに寝っ転がってＫｏｔｏＲＩの動画を見る。"
 
@@ -15,27 +15,27 @@
 ○36ad0a9bd0cac5b1b42abda5○"一登"
 ●36ad0a9bd0cac5b1b42abda5●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b932e5f67335ccbf03e98dc1○"「今でも信じらんねぇ……。俺、中の人に会ったんだよ\\n　な」"
 ●b932e5f67335ccbf03e98dc1●"「今でも信じらんねぇ……。俺、中の人に会ったんだよ\\n　な」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8a113f59cd898915734bdb50○"　もちろん、そのことは誰にも話していない。"
 ●8a113f59cd898915734bdb50●"　もちろん、そのことは誰にも話していない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○19fbc54c2c6aac4bee5d4061○"　[こと]琴[り]里さんとの約束もあるけど、ファンとしてのマナー\\nがある。"
 ●19fbc54c2c6aac4bee5d4061●"　[こと]琴[り]里さんとの約束もあるけど、ファンとしてのマナー\\nがある。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c2af07bdc2a31963c3f3e170○"「お？」"
 ●c2af07bdc2a31963c3f3e170●"「お？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c5ef1fc686f51a96518bf2d4○"　ぼんやりしてたらＴＡＢの通知ライトが点滅している。"
 ●c5ef1fc686f51a96518bf2d4●"　ぼんやりしてたらＴＡＢの通知ライトが点滅している。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○97d1043905ca4197fce3ecfb○"　ＣＯＭＵにメッセージが来ていた。"
 ●97d1043905ca4197fce3ecfb●"　ＣＯＭＵにメッセージが来ていた。"
 
@@ -43,11 +43,11 @@
 ○8bcd7f2fca86258de9ee8071○"こんばんは。お昼の答え合わせをしようと思います！"
 ●8bcd7f2fca86258de9ee8071●"こんばんは。お昼の答え合わせをしようと思います！"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b7f75770bae9a44e8460a5d1○"「杉並の件か？」"
 ●b7f75770bae9a44e8460a5d1●"「杉並の件か？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○95cc43a4590352ed349908c0○"ぽちぽちとＴＡＢを操作する。"
 ●95cc43a4590352ed349908c0●"ぽちぽちとＴＡＢを操作する。"
 
@@ -63,11 +63,11 @@
 ○1839a8de09495f18b0c3629b○"きっと、今もいそいそと準備してるんだと思うよ"
 ●1839a8de09495f18b0c3629b●"きっと、今もいそいそと準備してるんだと思うよ"
 
-# image_alt; occurrences=7
+# image_alt; occurrences=1; source_occurrence=1
 ○582d2f6cacf43c3c89744db0○"スタンプ画像"
 ●582d2f6cacf43c3c89744db0●"スタンプ画像"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e4454d446574733c6310fcb2○"　可愛いスタンプ。"
 ●e4454d446574733c6310fcb2●"　可愛いスタンプ。"
 
@@ -75,19 +75,23 @@
 ○f7eeeb9e350ad07461896ff2○"だよな"
 ●f7eeeb9e350ad07461896ff2●"だよな"
 
-# body; occurrences=1
+# image_alt; occurrences=1; source_occurrence=2
+○5fd9855adba198ae39d315b7○"スタンプ画像"
+●5fd9855adba198ae39d315b7●"スタンプ画像"
+
+# body; occurrences=1; source_occurrence=1
 ○27b90bfbc292214255e93c0a○"　俺もスタンプを返す。"
 ●27b90bfbc292214255e93c0a●"　俺もスタンプを返す。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○990ead7917344f1be6a2066c○"　話を聞いた感じだと、まだ実行委員会も中央幹事会も詳\\nしい情報をつかめてはいないんだろうな。"
 ●990ead7917344f1be6a2066c●"　話を聞いた感じだと、まだ実行委員会も中央幹事会も詳\\nしい情報をつかめてはいないんだろうな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1f46d221a89ff664bff10952○"　このまま対応が後手後手に回って、ゲリラライブは無\\n事開催されてしまうことになりそう。"
 ●1f46d221a89ff664bff10952●"　このまま対応が後手後手に回って、ゲリラライブは無\\n事開催されてしまうことになりそう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3543d84c4c33b00f703c619e○"　美嶋さん、気の毒に……。"
 ●3543d84c4c33b00f703c619e●"　美嶋さん、気の毒に……。"
 
@@ -99,6 +103,10 @@
 ○666362f7932d7674dd9ce052○"そこはボクも悩み中"
 ●666362f7932d7674dd9ce052●"そこはボクも悩み中"
 
+# image_alt; occurrences=1; source_occurrence=3
+○59a687845b2b6580197702f7○"スタンプ画像"
+●59a687845b2b6580197702f7●"スタンプ画像"
+
 # message; occurrences=33
 ○f9eeb5823644a313fae78fcd○"未羽の側について杉並と対決するのも面白そうだし、あえて中立で見守るのもオツかな、ってね"
 ●f9eeb5823644a313fae78fcd●"未羽の側について杉並と対決するのも面白そうだし、あえて中立で見守るのもオツかな、ってね"
@@ -107,15 +115,23 @@
 ○ffa2b9de1a65a567676d8ef6○"杉並と対決とか悪夢だな"
 ●ffa2b9de1a65a567676d8ef6●"杉並と対決とか悪夢だな"
 
+# image_alt; occurrences=1; source_occurrence=4
+○857c5448cc96ca190a82cf6b○"スタンプ画像"
+●857c5448cc96ca190a82cf6b●"スタンプ画像"
+
 # message; occurrences=30
 ○479ee0b9d3b69f6a6ffd0cd9○"正解。それに中立でも一登くんは何だかんだで杉並に巻き込まれそうな気もする今日この頃です"
 ●479ee0b9d3b69f6a6ffd0cd9●"正解。それに中立でも一登くんは何だかんだで杉並に巻き込まれそうな気もする今日この頃です"
 
-# body; occurrences=1
+# image_alt; occurrences=1; source_occurrence=5
+○261644263a481077ec2ce7ca○"スタンプ画像"
+●261644263a481077ec2ce7ca●"スタンプ画像"
+
+# body; occurrences=1; source_occurrence=1
 ○b5ffa2db73cfe02aa38c756a○"「そうなったらそうなったで面白そうだけど……」"
 ●b5ffa2db73cfe02aa38c756a●"「そうなったらそうなったで面白そうだけど……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bd7e03a03bbdc6fd677d4ba8○"　泥沼化した上、まとめて怒られそうな気がする。"
 ●bd7e03a03bbdc6fd677d4ba8●"　泥沼化した上、まとめて怒られそうな気がする。"
 
@@ -127,15 +143,19 @@
 ○9b2344a48580a306049330ef○"杉並側に協力する、って選択"
 ●9b2344a48580a306049330ef●"杉並側に協力する、って選択"
 
-# body; occurrences=1
+# image_alt; occurrences=1; source_occurrence=6
+○7db5d02a0740b9b4e85b5b93○"スタンプ画像"
+●7db5d02a0740b9b4e85b5b93●"スタンプ画像"
+
+# body; occurrences=1; source_occurrence=1
 ○b54bfaa281579e9691fab51b○"「ふむ」"
 ●b54bfaa281579e9691fab51b●"「ふむ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0ced2f20c4ad144e65cd7868○"　美嶋さん側につくか、中立の立場を貫くか、杉並側に\\nつくか……。"
 ●0ced2f20c4ad144e65cd7868●"　美嶋さん側につくか、中立の立場を貫くか、杉並側に\\nつくか……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bd429917a81fe92b3a62a251○"　選択肢はこの三つ。"
 ●bd429917a81fe92b3a62a251●"　選択肢はこの三つ。"
 
@@ -147,34 +167,38 @@
 ○7f35a146ff000e392dd5a36b○"決まっています。面白そうなことをするだけ"
 ●7f35a146ff000e392dd5a36b●"決まっています。面白そうなことをするだけ"
 
-# body; occurrences=1
+# image_alt; occurrences=1; source_occurrence=7
+○63cf6b0715c5b0b824aed64b○"スタンプ画像"
+●63cf6b0715c5b0b824aed64b●"スタンプ画像"
+
+# body; occurrences=1; source_occurrence=1
 ○4279da1fdc0c79703423e5a2○"「だよなぁ」"
 ●4279da1fdc0c79703423e5a2●"「だよなぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fbc16621f83d4345b381f9b5○"　予想通りの返答。"
 ●fbc16621f83d4345b381f9b5●"　予想通りの返答。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○efa0f38ef97d55bb95539a1c○"　いつもいつも杉並の悪だくみに巻き込まれるのもアレ\\nだし、困り顔の美嶋さんに怒られるのも避けたい。"
 ●efa0f38ef97d55bb95539a1c●"　いつもいつも杉並の悪だくみに巻き込まれるのもアレ\\nだし、困り顔の美嶋さんに怒られるのも避けたい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○862d2b32553058f5a05edb4b○"　でも一番イヤなのは、面白くない行事になってしまう\\nこと。"
 ●862d2b32553058f5a05edb4b●"　でも一番イヤなのは、面白くない行事になってしまう\\nこと。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e0f9c8934cc076c866a65314○"　面白そうなことってのは常に魅力なのだ。"
 ●e0f9c8934cc076c866a65314●"　面白そうなことってのは常に魅力なのだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e7044cd3c61a5a8eddffe2fc○"　杉並のことだし、途中で計画に一部変更を加えること\\nはあっても、中止にすることはないだろう。"
 ●e7044cd3c61a5a8eddffe2fc●"　杉並のことだし、途中で計画に一部変更を加えること\\nはあっても、中止にすることはないだろう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c41beee51d81a5854f2d8f95○"　さて、どうするか……。"
 ●c41beee51d81a5854f2d8f95●"　さて、どうするか……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d4dc70b60bba1291e09a0d5e○"　今のうちにじっくり考えおくとしよう。"
 ●d4dc70b60bba1291e09a0d5e●"　今のうちにじっくり考えおくとしよう。"

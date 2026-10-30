@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○d9613553aa9a70c41757a985○"ドキドキの気配"
 ●d9613553aa9a70c41757a985●"ドキドキの気配"
 
@@ -7,7 +7,7 @@
 ○cc242d462f4dfba381818373○"諳子"
 ●cc242d462f4dfba381818373●"諳子"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cac57dc999d4728cfaa74890○"「じゃあ、今日は洗い物お願いしちゃうね。冷蔵庫の中\\n　は明日の朝整理するから、そのままにしといて」"
 ●cac57dc999d4728cfaa74890●"「じゃあ、今日は洗い物お願いしちゃうね。冷蔵庫の中\\n　は明日の朝整理するから、そのままにしといて」"
 
@@ -15,7 +15,7 @@
 ○2e7caffa2286e0bedabed93b○"二乃"
 ●2e7caffa2286e0bedabed93b●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e7abf542af4d0c35cb343d45○"「はい。いつもすみません」"
 ●e7abf542af4d0c35cb343d45●"「はい。いつもすみません」"
 
@@ -23,71 +23,71 @@
 ○4a21d21ec4ce2f959619c364○"一登"
 ●4a21d21ec4ce2f959619c364●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e052f358eb1e6c4e4cc0f241○"「むしろ皿洗いくらいは俺たちにやらせてくれ」"
 ●e052f358eb1e6c4e4cc0f241●"「むしろ皿洗いくらいは俺たちにやらせてくれ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○62a54caeb3bf2a8f1e656fe0○"「うふふっ、ありがと。お夜食にアップルパイが入って\\n　るから、小腹が空いたら食べてね」"
 ●62a54caeb3bf2a8f1e656fe0●"「うふふっ、ありがと。お夜食にアップルパイが入って\\n　るから、小腹が空いたら食べてね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○799d0bb2c4a2d917c8337d63○"「はーい」"
 ●799d0bb2c4a2d917c8337d63●"「はーい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○80767e0e8d82b486f7cef039○"「ふー、今日もお腹いっぱいで満足ですね。そら姉の料\\n　理は毎日の癒やしです」"
 ●80767e0e8d82b486f7cef039●"「ふー、今日もお腹いっぱいで満足ですね。そら姉の料\\n　理は毎日の癒やしです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○89c971433b4a13aa04639bbb○"「あとはソファで横になりつつねこあるきを観ることに\\n　よって、私の完璧な日常が完成するというわけですね。\\n　ふふっ」"
 ●89c971433b4a13aa04639bbb●"「あとはソファで横になりつつねこあるきを観ることに\\n　よって、私の完璧な日常が完成するというわけですね。\\n　ふふっ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d576def8308f6b849f29f4cd○"「なにリラックスタイムに突入しようとしてんだよ。皿\\n　洗いじゃんけんだ。三本勝負な」"
 ●d576def8308f6b849f29f4cd●"「なにリラックスタイムに突入しようとしてんだよ。皿\\n　洗いじゃんけんだ。三本勝負な」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○691e4842253a92c3767b1b48○"「くっ、気づいてましたか……。自然な流れで導入でき\\n　ると思ってたのに……」"
 ●691e4842253a92c3767b1b48●"「くっ、気づいてましたか……。自然な流れで導入でき\\n　ると思ってたのに……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○76d0796844f7176a79a7a548○"「最初から怪しいとは思ってたぞ。ソファ近くに位置取\\n　りしてたからな」"
 ●76d0796844f7176a79a7a548●"「最初から怪しいとは思ってたぞ。ソファ近くに位置取\\n　りしてたからな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fc1c462f3f61b982be52516e○"「ううっ、こしゃくですね……。良いでしょう、勝負で\\n　す！」"
 ●fc1c462f3f61b982be52516e●"「ううっ、こしゃくですね……。良いでしょう、勝負で\\n　す！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d8960ff27b47269571549623○"「そら姉のアップルパイを食べながらねこあるきを観る\\n　という私の野望、兄さんに邪魔させるわけにはいきま\\n　せんから！」"
 ●d8960ff27b47269571549623●"「そら姉のアップルパイを食べながらねこあるきを観る\\n　という私の野望、兄さんに邪魔させるわけにはいきま\\n　せんから！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5c69502c8dfdb157641249ab○"「おま……！　今メシ食ったばっかなのに……！」"
 ●5c69502c8dfdb157641249ab●"「おま……！　今メシ食ったばっかなのに……！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e3969b5fb1da9f879eb7f815○"「女子のお腹には甘いもの用のスペースがあるのです」"
 ●e3969b5fb1da9f879eb7f815●"「女子のお腹には甘いもの用のスペースがあるのです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○56e1e7486d4b069d24290d5c○"「太るぞ」"
 ●56e1e7486d4b069d24290d5c●"「太るぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ddcc5dc7fd738ebdb007df8c○"「きーこーえーまーせーんー！」"
 ●ddcc5dc7fd738ebdb007df8c●"「きーこーえーまーせーんー！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1a32f6ebb064f18cf39eeed1○"　ピコン、とＴＡＢに反応。"
 ●1a32f6ebb064f18cf39eeed1●"　ピコン、とＴＡＢに反応。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cd6bac5037fe4b4ef3d93f6b○"「ん？　すまん、ちょっと待ってくれ」"
 ●cd6bac5037fe4b4ef3d93f6b●"「ん？　すまん、ちょっと待ってくれ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○23fa965d69ffd3d7103e7357○"　ＴＡＢを起動し、ＣＯＭＵを開く。"
 ●23fa965d69ffd3d7103e7357●"　ＴＡＢを起動し、ＣＯＭＵを開く。"
 
@@ -95,11 +95,11 @@
 ○895ac46bafa9201580787046○"夜分遅くにすみません。起きてますか？"
 ●895ac46bafa9201580787046●"夜分遅くにすみません。起きてますか？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○42eda2cbe503e541f4c605a9○"　メッセージは未羽からだった。"
 ●42eda2cbe503e541f4c605a9●"　メッセージは未羽からだった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d1e875efc61f967ade975fbf○"　それだけなのになんか嬉しくなるな。"
 ●d1e875efc61f967ade975fbf●"　それだけなのになんか嬉しくなるな。"
 
@@ -115,7 +115,7 @@
 ○5962cb9499108641ab2451b5○"明日の検証、よろしくお願いしますと言いたくて連絡しちゃいました"
 ●5962cb9499108641ab2451b5●"明日の検証、よろしくお願いしますと言いたくて連絡しちゃいました"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5e9447e8b845f547bb0f065b○"　和むぜ……。"
 ●5e9447e8b845f547bb0f065b●"　和むぜ……。"
 
@@ -131,23 +131,23 @@
 ○b1f8caf7da256e4257d64a59○"なので、すごくドキドキしちゃいます……"
 ●b1f8caf7da256e4257d64a59●"なので、すごくドキドキしちゃいます……"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○788c9b6bd6ac55e6de5429d5○"　未羽もドキドキしてくれてるのか。"
 ●788c9b6bd6ac55e6de5429d5●"　未羽もドキドキしてくれてるのか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○889672e8625a01b36d973401○"　なんか嬉しい……、っていうか、俺までドキドキして\\nきたぞ。"
 ●889672e8625a01b36d973401●"　なんか嬉しい……、っていうか、俺までドキドキして\\nきたぞ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○38dfef5f9681db5c830eaeb8○"　だってこれ、言わばお泊りだよな。"
 ●38dfef5f9681db5c830eaeb8●"　だってこれ、言わばお泊りだよな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○889b226c1cfadd285487e969○"　彼女と初のお泊りなんだよな！"
 ●889b226c1cfadd285487e969●"　彼女と初のお泊りなんだよな！"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○22e9ff7f69749ae1069437bf○"　委員会の仕事だっていうのが若干アレだけど！"
 ●22e9ff7f69749ae1069437bf●"　委員会の仕事だっていうのが若干アレだけど！"
 
@@ -155,7 +155,7 @@
 ○4bb274cdf2e1c8f9f26b145d○"未羽との初お泊り、俺もドキドキです"
 ●4bb274cdf2e1c8f9f26b145d●"未羽との初お泊り、俺もドキドキです"
 
-# image_alt; occurrences=1
+# image_alt; occurrences=1; source_occurrence=1
 ○b84aed8cc4f4704b210a13b4○"スタンプ画像"
 ●b84aed8cc4f4704b210a13b4●"スタンプ画像"
 
@@ -163,78 +163,78 @@
 ○e34836582f1998860d89d987○"そう言われるともっとドキドキしちゃいますよ～！"
 ●e34836582f1998860d89d987●"そう言われるともっとドキドキしちゃいますよ～！"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0ba161679a1a53b181a2e24d○"　ふふ、ふふふ。"
 ●0ba161679a1a53b181a2e24d●"　ふふ、ふふふ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f15777056a75c019ae69fd90○"　ＴＡＢの前で顔を真っ赤にする未羽が目に浮かぶ。"
 ●f15777056a75c019ae69fd90●"　ＴＡＢの前で顔を真っ赤にする未羽が目に浮かぶ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○49f7a224a0fb62565fc41235○"　可愛いなぁ。"
 ●49f7a224a0fb62565fc41235●"　可愛いなぁ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fe5ca1d88f90208516d7b584○"「どうしたんですか？　早くしないとテレビ始まっちゃ\\n　うんですけど？」"
 ●fe5ca1d88f90208516d7b584●"「どうしたんですか？　早くしないとテレビ始まっちゃ\\n　うんですけど？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ffc43a14b4764b33f23fb199○"「悪い悪い。洗い物は俺がするから観てていいぞ」"
 ●ffc43a14b4764b33f23fb199●"「悪い悪い。洗い物は俺がするから観てていいぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f3d43919f5ff1a2103a4c4fb○"「え、良いんですか？」"
 ●f3d43919f5ff1a2103a4c4fb●"「え、良いんですか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○826887307101536314cd253d○"「うん」"
 ●826887307101536314cd253d●"「うん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○04f954106c7fd1eef7e45f9e○"　ＴＡＢを持ってキッチンへ。"
 ●04f954106c7fd1eef7e45f9e●"　ＴＡＢを持ってキッチンへ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f8f5aeadd30dcd39159ba730○"　気分が良いので皿洗いくらいは引き受けてやるのだ。"
 ●f8f5aeadd30dcd39159ba730●"　気分が良いので皿洗いくらいは引き受けてやるのだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f008db34bb0b211674b34f5f○"　それに、皿洗いという労働の疲れは未羽とのＣＯＭＵ\\nで[そう]相[さい]殺される。"
 ●f008db34bb0b211674b34f5f●"　それに、皿洗いという労働の疲れは未羽とのＣＯＭＵ\\nで[そう]相[さい]殺される。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ac029a84b556727ca641c7a0○"　むしろお釣りがくるくらいだ。"
 ●ac029a84b556727ca641c7a0●"　むしろお釣りがくるくらいだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c832ec7c49c741fca4b6cf7f○"「む……？　なんかニヤニヤしてません？　洗い物、そ\\n　んなに好きでしたっけ？」"
 ●c832ec7c49c741fca4b6cf7f●"「む……？　なんかニヤニヤしてません？　洗い物、そ\\n　んなに好きでしたっけ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○90df9ddb97e9a98f73d02fbb○"「別に」"
 ●90df9ddb97e9a98f73d02fbb●"「別に」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f52f90a9977ea77556606010○"「ん～？　怪しいですね～？」"
 ●f52f90a9977ea77556606010●"「ん～？　怪しいですね～？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cbddee10ed505241685c13d1○"「いいからほら、アップルパイとネコが待ってるぞ」"
 ●cbddee10ed505241685c13d1●"「いいからほら、アップルパイとネコが待ってるぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○458d19c0cc7f8dd39fa2aacb○"「あ、そうでした。ねっこあっるき～♪」"
 ●458d19c0cc7f8dd39fa2aacb●"「あ、そうでした。ねっこあっるき～♪」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b6031530f86de7946815ed74○"　未羽に『皿洗いするからレス遅れるね』と送る。"
 ●b6031530f86de7946815ed74●"　未羽に『皿洗いするからレス遅れるね』と送る。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○422220ecc70945363ab46281○"　『偉いですね』と褒められた。"
 ●422220ecc70945363ab46281●"　『偉いですね』と褒められた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○995a3ac8b09c25341b483884○"　これだけで、もうやる気十分だ。"
 ●995a3ac8b09c25341b483884●"　これだけで、もうやる気十分だ。"

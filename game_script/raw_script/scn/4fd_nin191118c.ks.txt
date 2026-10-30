@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○0390f702c9fdd8f05a7ea1ec○"雨ニモマケズ、妹ニモマケズ"
 ●0390f702c9fdd8f05a7ea1ec●"雨ニモマケズ、妹ニモマケズ"
 
@@ -7,7 +7,7 @@
 ○cf579a7fd3817e37c976f5b9○"叶方"
 ●cf579a7fd3817e37c976f5b9●"叶方"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3844c6a4a3ec5b97ee3648fe○"「あー、足痛い……。ちょっとばかり張り切りすぎたか\\n　なぁ……」"
 ●3844c6a4a3ec5b97ee3648fe●"「あー、足痛い……。ちょっとばかり張り切りすぎたか\\n　なぁ……」"
 
@@ -15,23 +15,23 @@
 ○6a1efb72ee44985ecd78f2d3○"一登"
 ●6a1efb72ee44985ecd78f2d3●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○889fd0f9c63080ce692dbeb8○"「お前もか……今日はセーブしたつもりだったんだけど\\n　なぁ」"
 ●889fd0f9c63080ce692dbeb8●"「お前もか……今日はセーブしたつもりだったんだけど\\n　なぁ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9c509ab554cc534d8c607194○"　足と肩がジンジンと鈍い痛みを絶えず送ってくる。"
 ●9c509ab554cc534d8c607194●"　足と肩がジンジンと鈍い痛みを絶えず送ってくる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3ff1cf7c6e432e5b13e6255a○"　いい運動をした何よりの証拠なんだけど、終わってみ\\nればちょっと辛い。"
 ●3ff1cf7c6e432e5b13e6255a●"　いい運動をした何よりの証拠なんだけど、終わってみ\\nればちょっと辛い。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8e5a78006cda346b920ba7fb○"　無事体育祭の一日目が終わったけど、既に身体はボロ\\nボロだ。"
 ●8e5a78006cda346b920ba7fb●"　無事体育祭の一日目が終わったけど、既に身体はボロ\\nボロだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○028aec13dc0902a4e99f1057○"「楽しくてテンション上がっちまったな……。明日動け\\n　るか分からん……」"
 ●028aec13dc0902a4e99f1057●"「楽しくてテンション上がっちまったな……。明日動け\\n　るか分からん……」"
 
@@ -39,111 +39,111 @@
 ○50c3a5e8986f977974282965○"杉並"
 ●50c3a5e8986f977974282965●"杉並"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○72c4313fe1c8f9cbce81afa4○"「全クラスとの総力戦ということを考えて、メンバーの\\n　疲労を考えるべきだったな」"
 ●72c4313fe1c8f9cbce81afa4●"「全クラスとの総力戦ということを考えて、メンバーの\\n　疲労を考えるべきだったな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0aeb03e7083946a04526670b○"「あぁ……つーかなんでお前は平気そうなんだよ」"
 ●0aeb03e7083946a04526670b●"「あぁ……つーかなんでお前は平気そうなんだよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1a46c85394120d103f2d5479○"「ふっ、同志たちとは、くぐってきた修羅場の数が違う」"
 ●1a46c85394120d103f2d5479●"「ふっ、同志たちとは、くぐってきた修羅場の数が違う」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○838039f745268d2bdf94b9fd○"「フェイダウェイとかフックシュートを何本も決めてた\\n　けど、あれも修羅場で培ったテクニックなの？」"
 ●838039f745268d2bdf94b9fd●"「フェイダウェイとかフックシュートを何本も決めてた\\n　けど、あれも修羅場で培ったテクニックなの？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○476325d0174f5555a24e9b40○"「いや、それは数年前、とある最前線での基地で戦友か\\n　ら教わったものだ」"
 ●476325d0174f5555a24e9b40●"「いや、それは数年前、とある最前線での基地で戦友か\\n　ら教わったものだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○69ce876eb0fe4ee23c925f98○"「……華麗なワンマン・アリウープを叩き込んでいたが、\\n　それもか？」"
 ●69ce876eb0fe4ee23c925f98●"「……華麗なワンマン・アリウープを叩き込んでいたが、\\n　それもか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cd91f9f10f03a9e35dc086a6○"「ふっ、その通りだ……残念ながら彼らは、教えてくれ\\n　た次の日に、敵の魔の手に掛かってしまってな……」"
 ●cd91f9f10f03a9e35dc086a6●"「ふっ、その通りだ……残念ながら彼らは、教えてくれ\\n　た次の日に、敵の魔の手に掛かってしまってな……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c8ada163fa3b45c1b6bde8b7○"「今日のプレーは彼らへの弔いのつもりだった。付き合\\n　わせてしまって申し訳ない限りだ」"
 ●c8ada163fa3b45c1b6bde8b7●"「今日のプレーは彼らへの弔いのつもりだった。付き合\\n　わせてしまって申し訳ない限りだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○57b74883a4ffad09a7c365d2○"「……どこまでが本気か分からん」"
 ●57b74883a4ffad09a7c365d2●"「……どこまでが本気か分からん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○51bc610a31fcd814b7230219○"　杉並が言うと、冗談だと思えないんだよなぁ。"
 ●51bc610a31fcd814b7230219●"　杉並が言うと、冗談だと思えないんだよなぁ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e25670bf023f99a70ad6193e○"「……大丈夫、杉並のプレーと気持ちは、間違いなく彼\\n　らの魂に届いたはずだよ」"
 ●e25670bf023f99a70ad6193e●"「……大丈夫、杉並のプレーと気持ちは、間違いなく彼\\n　らの魂に届いたはずだよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4e588adf5280250f4854188a○"「ふっ……あぁ、そうだな。彼らも今頃、十万億土で微\\n　笑んでるに違いない」"
 ●4e588adf5280250f4854188a●"「ふっ……あぁ、そうだな。彼らも今頃、十万億土で微\\n　笑んでるに違いない」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a112784fafd6e1fda43bb285○"「……まぁ、それを言うだけのプレーをしてたのは確か\\n　だな」"
 ●a112784fafd6e1fda43bb285●"「……まぁ、それを言うだけのプレーをしてたのは確か\\n　だな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d6f4e78eece2af23e916944a○"　杉並の活躍がなければ、ダントツの最下位だった。"
 ●d6f4e78eece2af23e916944a●"　杉並の活躍がなければ、ダントツの最下位だった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5e9e1dbc3faa9fe7b5951e81○"　こいつにバスケのいろはを叩き込んでくれた誰かに、\\n心からの感謝を。"
 ●5e9e1dbc3faa9fe7b5951e81●"　こいつにバスケのいろはを叩き込んでくれた誰かに、\\n心からの感謝を。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○627b27b335ed41ce77fdde8f○"「にしても、明日はキツそうだな。今日の時点で、順位\\n　は３位……」"
 ●627b27b335ed41ce77fdde8f●"「にしても、明日はキツそうだな。今日の時点で、順位\\n　は３位……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d2011226073c21cdb90e8d11○"「だねぇ、しかも明日は４組と戦うし。バスケ部が三人\\n　もいるのって卑怯だよね」"
 ●d2011226073c21cdb90e8d11●"「だねぇ、しかも明日は４組と戦うし。バスケ部が三人\\n　もいるのって卑怯だよね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5183cc6de293876eec8dd166○"「まぁ、目立ちたい気持ちも分かるけど、文句のひとつ\\n　くらいは言いたくなるよな」"
 ●5183cc6de293876eec8dd166●"「まぁ、目立ちたい気持ちも分かるけど、文句のひとつ\\n　くらいは言いたくなるよな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fec71f14a1ae1f8fd7db255d○"　クラスの女子にかっこいい姿を見せたい。その[はら]腹[づ]積も\\nりは十分理解できるし。"
 ●fec71f14a1ae1f8fd7db255d●"　クラスの女子にかっこいい姿を見せたい。その[はら]腹[づ]積も\\nりは十分理解できるし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a416722a852326ad4a46f667○"「仕方ない、４組との試合では、トライアングルツーゾー\\n　ンディフェンスで臨むとしよう」"
 ●a416722a852326ad4a46f667●"「仕方ない、４組との試合では、トライアングルツーゾー\\n　ンディフェンスで臨むとしよう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2214d13ca7169997f18b0cbb○"「分からん分からん。もっと簡単な戦術にしようぜ」"
 ●2214d13ca7169997f18b0cbb●"「分からん分からん。もっと簡単な戦術にしようぜ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aca796e964ac483f2fb5d8c4○"「そうそう、ラン＆ガンみたいな、分かりやすい戦い方\\n　にしようよ」"
 ●aca796e964ac483f2fb5d8c4●"「そうそう、ラン＆ガンみたいな、分かりやすい戦い方\\n　にしようよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○48bd19dd33e15251e2c4dc67○"「ふっ、今のバスケ界のトレンドはディフェンスだ。守\\n　りに重きを置かねば勝ちきれん。それに体力の問題も\\n　あるからな。ロースコアの試合をせねば勝算は低いぞ」"
 ●48bd19dd33e15251e2c4dc67●"「ふっ、今のバスケ界のトレンドはディフェンスだ。守\\n　りに重きを置かねば勝ちきれん。それに体力の問題も\\n　あるからな。ロースコアの試合をせねば勝算は低いぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○795e704e2cc3e77ece37a049○"「んー……ま、俺は怪我が無ければそれでいいや」"
 ●795e704e2cc3e77ece37a049●"「んー……ま、俺は怪我が無ければそれでいいや」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○14f9c3ba768b64b0663b9769○"　むしろ目下の悩みは、教室の中にあるくらいだし。"
 ●14f9c3ba768b64b0663b9769●"　むしろ目下の悩みは、教室の中にあるくらいだし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○998f6a783fd1bb2202878d20○"　体育祭があるからといって、文化祭の準備が止まるわ\\nけじゃないのがカガサイだ。"
 ●998f6a783fd1bb2202878d20●"　体育祭があるからといって、文化祭の準備が止まるわ\\nけじゃないのがカガサイだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7e2fe29bce1176f9d97b6c64○"　放課後でも、作業を進めるために、何人かが教室に残っ\\nてくれている。"
 ●7e2fe29bce1176f9d97b6c64●"　放課後でも、作業を進めるために、何人かが教室に残っ\\nてくれている。"
 
@@ -151,7 +151,7 @@
 ○a85008f8fd87e7bd1549218b○"有里栖"
 ●a85008f8fd87e7bd1549218b●"有里栖"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f088aca2d4069e6fc6833977○"「お、おぉぉぉぉ～～～……。手作りでもこんなに綺麗\\n　にカット出来るんだ……」"
 ●f088aca2d4069e6fc6833977●"「お、おぉぉぉぉ～～～……。手作りでもこんなに綺麗\\n　にカット出来るんだ……」"
 
@@ -159,7 +159,7 @@
 ○8026d395954b334e2528795d○"二乃"
 ●8026d395954b334e2528795d●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6e4e0e5465601aff0b75ed69○"「そ、そうですか？　でもガラス玉の加工ですから、そ\\n　んなに褒めるほどでは……」"
 ●6e4e0e5465601aff0b75ed69●"「そ、そうですか？　でもガラス玉の加工ですから、そ\\n　んなに褒めるほどでは……」"
 
@@ -167,194 +167,194 @@
 ○630a87c98d8b0fcfde831c3b○"ひより"
 ●630a87c98d8b0fcfde831c3b●"ひより"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○400592625a37d6ce626e1f64○"「いやいや、これはお見事。本物とほとんど変わらない\\n　クオリティですよ」"
 ●400592625a37d6ce626e1f64●"「いやいや、これはお見事。本物とほとんど変わらない\\n　クオリティですよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b3da433a10f12632e5de57ed○"「あはは……どもです」"
 ●b3da433a10f12632e5de57ed●"「あはは……どもです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○645e5ee8e0126ab8b0a09483○"　残ってくれたメンバーの中心に、二乃がいる。"
 ●645e5ee8e0126ab8b0a09483●"　残ってくれたメンバーの中心に、二乃がいる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7fb08275c1563592f211d025○"　机の上には、製作途中のリングと、宝石代わりのガラ\\nス玉がいくつか。"
 ●7fb08275c1563592f211d025●"　机の上には、製作途中のリングと、宝石代わりのガラ\\nス玉がいくつか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○938fdd6155073709778608c6○"「こうして見ると、結構進んだな」"
 ●938fdd6155073709778608c6●"「こうして見ると、結構進んだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5dd382c8c41ea507d1c0543c○"「あ、買い出しお疲れ様です。私の分ください」"
 ●5dd382c8c41ea507d1c0543c●"「あ、買い出しお疲れ様です。私の分ください」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7671a39d4e679d46ec683d69○"「はいよ」"
 ●7671a39d4e679d46ec683d69●"「はいよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ec3876cbba6819c026b8b394○"　返事をして、袋の中からカフェオレを取り出す。"
 ●ec3876cbba6819c026b8b394●"　返事をして、袋の中からカフェオレを取り出す。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3d495f841f3f9fe2b9cac727○"　他のみんなの分は……ま、空いてる机に置いときゃ勝\\n手に持ってくだろ。"
 ●3d495f841f3f9fe2b9cac727●"　他のみんなの分は……ま、空いてる机に置いときゃ勝\\n手に持ってくだろ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c601e1cfd9727ad2ce7d1172○"「それにしても、指輪の作業は結構進んだよね」"
 ●c601e1cfd9727ad2ce7d1172●"「それにしても、指輪の作業は結構進んだよね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cd5eeee66653fa8c93c8f7b5○"「いえいえ、まだリングと宝石代わりのガラス玉が終わっ\\n　ただけですから」"
 ●cd5eeee66653fa8c93c8f7b5●"「いえいえ、まだリングと宝石代わりのガラス玉が終わっ\\n　ただけですから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d4cbc7b7eb76f07dae0f8e53○"「これをあと何個も作らなきゃいけませんし、むしろ本\\n　番はここからです」"
 ●d4cbc7b7eb76f07dae0f8e53●"「これをあと何個も作らなきゃいけませんし、むしろ本\\n　番はここからです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○83db316632baf77e55292907○"　二乃はそう[けん]謙[そん]遜してるけど、実際叶方の意見は正しい。"
 ●83db316632baf77e55292907●"　二乃はそう[けん]謙[そん]遜してるけど、実際叶方の意見は正しい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ec4a7899a16d62b1b84ffdc7○"　他の作業と比べて、指輪制作の作業はかなり進んでる。\\nそれはやっぱり二乃が培ったスキルが大きい。"
 ●ec4a7899a16d62b1b84ffdc7●"　他の作業と比べて、指輪制作の作業はかなり進んでる。\\nそれはやっぱり二乃が培ったスキルが大きい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○26135ac83844fe295efe86ee○"「プレイしてくれた人用のプレゼントだから、指輪はい\\n　くつあってもいいんだけど……」"
 ●26135ac83844fe295efe86ee●"「プレイしてくれた人用のプレゼントだから、指輪はい\\n　くつあってもいいんだけど……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fa174c6c777096bd2346499c○"「正直なところ、準備期間中に何個くらい作れそう？」"
 ●fa174c6c777096bd2346499c●"「正直なところ、準備期間中に何個くらい作れそう？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6211121bd960770625bfb4e9○"「んー、そうですね……担当者全員で取り掛かって、全\\n　部で２００個いけばいい方かもしれません」"
 ●6211121bd960770625bfb4e9●"「んー、そうですね……担当者全員で取り掛かって、全\\n　部で２００個いけばいい方かもしれません」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○003d31fb59eb2ae7524087bf○"「ペアで用意しなきゃいけないから、実質１００個ずつっ\\n　てことですね……」"
 ●003d31fb59eb2ae7524087bf●"「ペアで用意しなきゃいけないから、実質１００個ずつっ\\n　てことですね……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d377256fd8f85c0ffaaa2277○"「ただサイズの問題もありますから……。それを考える\\n　と、出来ればもうちょっと作っておきたいです」"
 ●d377256fd8f85c0ffaaa2277●"「ただサイズの問題もありますから……。それを考える\\n　と、出来ればもうちょっと作っておきたいです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○73dba6e21582345f37832d30○"　そうなんだよな、そこが作業の一番の問題かもしれな\\nい。最初に言われた時は、頭がクラっとした。"
 ●73dba6e21582345f37832d30●"　そうなんだよな、そこが作業の一番の問題かもしれな\\nい。最初に言われた時は、頭がクラっとした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e66910067763214b91d510c6○"「んー、とりあえず、たくさんある分には困らないから、\\n　出来る限り作るって方向がいいかなあ」"
 ●e66910067763214b91d510c6●"「んー、とりあえず、たくさんある分には困らないから、\\n　出来る限り作るって方向がいいかなあ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○334429df24bc2fcbfc584b6a○"「そうですね、あとは作り方をマニュアルにして、担当\\n　してる方々全員で量産すればいいだけですし」"
 ●334429df24bc2fcbfc584b6a●"「そうですね、あとは作り方をマニュアルにして、担当\\n　してる方々全員で量産すればいいだけですし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b3ec78d00178c6aa3a3cc442○"「そういうわけで、こっちはどんどん進めていきますね？」"
 ●b3ec78d00178c6aa3a3cc442●"「そういうわけで、こっちはどんどん進めていきますね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e42753e11b9830d13f7a30de○"「うん、お願い。遠慮なく頼っちゃうね？」"
 ●e42753e11b9830d13f7a30de●"「うん、お願い。遠慮なく頼っちゃうね？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○af41acc8859ddd2fd9bb7c93○"「はい、お任せあれです」"
 ●af41acc8859ddd2fd9bb7c93●"「はい、お任せあれです」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ba2a69cd13e6c07ff00ea434○"　体育祭の疲れなぞ何のその、二乃の表情はとても明る\\nい。"
 ●ba2a69cd13e6c07ff00ea434●"　体育祭の疲れなぞ何のその、二乃の表情はとても明る\\nい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○46e1d1d585603c5725d874c6○"「ふっ、彼氏として鼻が高いといった顔だな、同志よ」"
 ●46e1d1d585603c5725d874c6●"「ふっ、彼氏として鼻が高いといった顔だな、同志よ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a197673fb21d0dd6e77425c8○"「む……いや、そこまでじゃねえよ。ただまぁ、兄とし\\n　て嬉しいのは違いないけどな」"
 ●a197673fb21d0dd6e77425c8●"「む……いや、そこまでじゃねえよ。ただまぁ、兄とし\\n　て嬉しいのは違いないけどな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e2297bf1d5653caa42ca2c00○"「だろうな、常坂妹のあの手さばきは、完全に素人離れ\\n　している。熟練者とまではいかないが、経験を積んで\\n　きたことだけは、見ていて伝わるな」"
 ●e2297bf1d5653caa42ca2c00●"「だろうな、常坂妹のあの手さばきは、完全に素人離れ\\n　している。熟練者とまではいかないが、経験を積んで\\n　きたことだけは、見ていて伝わるな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f2fb276643ad9711502ee72a○"「…………」"
 ●f2fb276643ad9711502ee72a●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8fc9cba7419ff19b8ef1b870○"「心当たりがあるのではないか、同志よ？」"
 ●8fc9cba7419ff19b8ef1b870●"「心当たりがあるのではないか、同志よ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○aed6a3b87c6658135c3c14fe○"　……こいつはまた、全部見透かしてるかのような口調\\nをしやがって。"
 ●aed6a3b87c6658135c3c14fe●"　……こいつはまた、全部見透かしてるかのような口調\\nをしやがって。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○34a97f522652bcf928955456○"「ちょっと前にマイチューブにあがってた、六角ナット\\n　から指輪のリングを作る動画にハマってたんだよ」"
 ●34a97f522652bcf928955456●"「ちょっと前にマイチューブにあがってた、六角ナット\\n　から指輪のリングを作る動画にハマってたんだよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5507aee9b74e47fb500f1196○"「それで見たことを活かしてるんじゃないか？」"
 ●5507aee9b74e47fb500f1196●"「それで見たことを活かしてるんじゃないか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○65f5f8949c3d2b4932f21d81○"「なるほど、その動画は俺も観た。編集と演出が非常に\\n　巧みだったことを覚えている。つまり同志は常坂妹は\\n　それに影響されたということにしておきたいんだな？」"
 ●65f5f8949c3d2b4932f21d81●"「なるほど、その動画は俺も観た。編集と演出が非常に\\n　巧みだったことを覚えている。つまり同志は常坂妹は\\n　それに影響されたということにしておきたいんだな？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ca3157ba337883f94f109a7d○"「……おきたいんじゃなくて、事実そうだってことだよ」"
 ●ca3157ba337883f94f109a7d●"「……おきたいんじゃなくて、事実そうだってことだよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○32a45d65d73cc16dbeaee039○"「はっはっは、同志がそう言うのであれば、そういうこ\\n　とにしておこう」"
 ●32a45d65d73cc16dbeaee039●"「はっはっは、同志がそう言うのであれば、そういうこ\\n　とにしておこう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○edd4ff059433691813009d3b○"　……いや、本当にさ。時たま本当に恐ろしくなるんだ\\nよな。"
 ●edd4ff059433691813009d3b●"　……いや、本当にさ。時たま本当に恐ろしくなるんだ\\nよな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6fa8b1136a496d7148ae0902○"　こいつに知らないことなんて、ひとつも無いんじゃな\\nいかって。"
 ●6fa8b1136a496d7148ae0902●"　こいつに知らないことなんて、ひとつも無いんじゃな\\nいかって。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8f30dc7fc8d0c0bc629151c5○"「この調子だと、今回の立役者は常坂妹になりそうだな」"
 ●8f30dc7fc8d0c0bc629151c5●"「この調子だと、今回の立役者は常坂妹になりそうだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fd2f85708f6587886bf04f9e○"「それは気が早いって。まだ一個くらいしか完成してな\\n　いんだ」"
 ●fd2f85708f6587886bf04f9e●"「それは気が早いって。まだ一個くらいしか完成してな\\n　いんだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○962c2bab1b6f6a39f004adb0○"「指輪の数が十分に揃って、かつ他の作業が終わってか\\n　ら結論を出そうぜ」"
 ●962c2bab1b6f6a39f004adb0●"「指輪の数が十分に揃って、かつ他の作業が終わってか\\n　ら結論を出そうぜ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○82b6a9abac493e8d31ea3c20○"　ただ、今日残ってくれた皆の顔つきからして、二乃の\\n仕事がいい影響になってきているのは分かる。"
 ●82b6a9abac493e8d31ea3c20●"　ただ、今日残ってくれた皆の顔つきからして、二乃の\\n仕事がいい影響になってきているのは分かる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3a4b7f339dd37ebaf0797845○"　……俺も負けてられないな。"
 ●3a4b7f339dd37ebaf0797845●"　……俺も負けてられないな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○21a0060f7622c7da1be53b43○"「さて、俺も作業すっか」"
 ●21a0060f7622c7da1be53b43●"「さて、俺も作業すっか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fd284908f3698d35ab8f22e0○"　とりあえず……二乃の作業を真似して、ガラス玉のカ\\nットからやっていくか。"
 ●fd284908f3698d35ab8f22e0●"　とりあえず……二乃の作業を真似して、ガラス玉のカ\\nットからやっていくか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fcca1c044e2f1fbd6d9b6257○"　かなり小手先の技術が要求される、難しい仕事だけど\\n……足りないものは、やる気と根気で補おう。"
 ●fcca1c044e2f1fbd6d9b6257●"　かなり小手先の技術が要求される、難しい仕事だけど\\n……足りないものは、やる気と根気で補おう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○661bd076e9c67a389fa1bc30○"　二乃がこれだけ頑張ってるのに、兄は全然……なんて、\\n絶対言われたくないしな。"
 ●661bd076e9c67a389fa1bc30●"　二乃がこれだけ頑張ってるのに、兄は全然……なんて、\\n絶対言われたくないしな。"

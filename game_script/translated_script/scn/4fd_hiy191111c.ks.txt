@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○4d61d85c87d36ec05dec3693○"今年のカガサイは？"
 ●4d61d85c87d36ec05dec3693●"今年のカガサイは？"
 
@@ -7,11 +7,11 @@
 ○6644961fa53e1e45f7834944○"二乃"
 ●6644961fa53e1e45f7834944●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○154e9a6edd5d876002ca813a○"「カガサイの内容、今日も決まりませんでしたね」"
 ●154e9a6edd5d876002ca813a●"「カガサイの内容、今日も決まりませんでしたね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○60faaa18ee430191e4611473○"　放課後のチャイムが鳴って教室がざわめくと、二乃た\\nちがやってきた。"
 ●60faaa18ee430191e4611473●"　放課後のチャイムが鳴って教室がざわめくと、二乃た\\nちがやってきた。"
 
@@ -19,7 +19,7 @@
 ○e39e3f51e2b3fed038e31836○"一登"
 ●e39e3f51e2b3fed038e31836●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○afa675e98c936837b685d06f○"「そうだなぁ。教室を使った出し物って、大抵はどこか\\n　で見たようなものになるからな」"
 ●afa675e98c936837b685d06f●"「そうだなぁ。教室を使った出し物って、大抵はどこか\\n　で見たようなものになるからな」"
 
@@ -27,7 +27,7 @@
 ○6c45321555099acb65881c98○"ひより"
 ●6c45321555099acb65881c98●"ひより"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a742561bad523500515fa031○"「写真展、カフェ、お化け屋敷。どれも悪くないけど、\\n　コレ！　といった決め手に欠ける感じだね」"
 ●a742561bad523500515fa031●"「写真展、カフェ、お化け屋敷。どれも悪くないけど、\\n　コレ！　といった決め手に欠ける感じだね」"
 
@@ -35,11 +35,11 @@
 ○a559cc325e3091899db1d3d9○"有里栖"
 ●a559cc325e3091899db1d3d9●"有里栖"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4eaf549fb85e8a9d8b5e42f6○"「もう別のクラスが申請しちゃってるものも多いし、選\\n　択肢が限られてきてる感じだよね」"
 ●4eaf549fb85e8a9d8b5e42f6●"「もう別のクラスが申請しちゃってるものも多いし、選\\n　択肢が限られてきてる感じだよね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8ad7b0bdfeaf4187a20d88f5○"「こう、何か方向性だけでも見えればいいんだけど」"
 ●8ad7b0bdfeaf4187a20d88f5●"「こう、何か方向性だけでも見えればいいんだけど」"
 
@@ -47,39 +47,39 @@
 ○a31105f60a1773cd117adf1f○"杉並"
 ●a31105f60a1773cd117adf1f●"杉並"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b600ca6e5e0e8880e138b870○"「そんな貴方に！　杉並チャーンス！！」"
 ●b600ca6e5e0e8880e138b870●"「そんな貴方に！　杉並チャーンス！！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○18cf60aebdd4b69780aecde8○"　軽快なステップで杉並が割り込んできた。"
 ●18cf60aebdd4b69780aecde8●"　軽快なステップで杉並が割り込んできた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6b995e75c72fd20c2ff1fb18○"「悩める若人よ。どうせやるなら大きく出ようではない\\n　か。ということで、コレを目標にしてみないか？」"
 ●6b995e75c72fd20c2ff1fb18●"「悩める若人よ。どうせやるなら大きく出ようではない\\n　か。ということで、コレを目標にしてみないか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6f54c88b52b741e5c596774c○"　ＴＡＢの画面を見せてきた。"
 ●6f54c88b52b741e5c596774c●"　ＴＡＢの画面を見せてきた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○45f30eef270acf4c68c10cdb○"「カガミワンダーランド、新アトラクション公募企画？」"
 ●45f30eef270acf4c68c10cdb●"「カガミワンダーランド、新アトラクション公募企画？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6fe84489ddecd40885260e24○"「うむ。日課の情報収集中に見つけたのだ。面白そうだ\\n　ろう？」"
 ●6fe84489ddecd40885260e24●"「うむ。日課の情報収集中に見つけたのだ。面白そうだ\\n　ろう？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f933cdc2803e35e6dcd4ede2○"「あ……。それ、つい最近始まったキャンペーンなんだ\\n　よね。よく見つけてきたね」"
 ●f933cdc2803e35e6dcd4ede2●"「あ……。それ、つい最近始まったキャンペーンなんだ\\n　よね。よく見つけてきたね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○067fb1bec9f5e4ec4d80e385○"「ワンダーランドは香々見島における話題の中心だから\\n　な。常に最新情報はチェックするようにしている。ス\\n　キあらば拡散もしているぞ」"
 ●067fb1bec9f5e4ec4d80e385●"「ワンダーランドは香々見島における話題の中心だから\\n　な。常に最新情報はチェックするようにしている。ス\\n　キあらば拡散もしているぞ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f2f439612b0a06351bd6f7a3○"「それはそれは。ありがとうございます」"
 ●f2f439612b0a06351bd6f7a3●"「それはそれは。ありがとうございます」"
 
@@ -87,178 +87,178 @@
 ○4806d7a72c50f5cf91cf2207○"叶方"
 ●4806d7a72c50f5cf91cf2207●"叶方"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4023e6146c15fa3306bca4af○"「ワンダーランドに新しく設置されるアトラクションの\\n　アイデアを募集します、か。これ、採用されたらけっ\\n　こうすごいんじゃない？」"
 ●4023e6146c15fa3306bca4af●"「ワンダーランドに新しく設置されるアトラクションの\\n　アイデアを募集します、か。これ、採用されたらけっ\\n　こうすごいんじゃない？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ea90c0cc1993ec56d02aed18○"「然り。ふふっ、ついに我ら、香々見三銃士のセンスが\\n　世間に知られてしまうな。衝撃のデビュー戦にしよう\\n　ではないか」"
 ●ea90c0cc1993ec56d02aed18●"「然り。ふふっ、ついに我ら、香々見三銃士のセンスが\\n　世間に知られてしまうな。衝撃のデビュー戦にしよう\\n　ではないか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1c7686c63889e4bdf30d19bf○"「マジか。ついにデビューしちゃうのか……」"
 ●1c7686c63889e4bdf30d19bf●"「マジか。ついにデビューしちゃうのか……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5228553488defa4a4bd7b96c○"「なにその気になってるんですか。兄さんたちについて\\n　るあだ名は三バカです。良い風に解釈しないで下さい」"
 ●5228553488defa4a4bd7b96c●"「なにその気になってるんですか。兄さんたちについて\\n　るあだ名は三バカです。良い風に解釈しないで下さい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○87d148307f7f5086574a59c3○"「おぉっ！　見ろよこれ！　優秀なアイデアには賞金も\\n　出るらしいぜ！　ガチャ３００回まわせるじゃんか！」"
 ●87d148307f7f5086574a59c3●"「おぉっ！　見ろよこれ！　優秀なアイデアには賞金も\\n　出るらしいぜ！　ガチャ３００回まわせるじゃんか！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cbd581992aa498cb449dbd0b○"「賞金は全て課金にまわすことが前提とは、さすが叶方\\n　だ。どうだ、夢があるだろう？」"
 ●cbd581992aa498cb449dbd0b●"「賞金は全て課金にまわすことが前提とは、さすが叶方\\n　だ。どうだ、夢があるだろう？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○55f2b3d8b71c65908cb8c546○"「うん、面白そうじゃん！」"
 ●55f2b3d8b71c65908cb8c546●"「うん、面白そうじゃん！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7a1885b82d249e00c20072de○"「でも、所詮は学生の出し物ですよ？　企業の公募に申\\n　し込めるようなものが出来るでしょうか……」"
 ●7a1885b82d249e00c20072de●"「でも、所詮は学生の出し物ですよ？　企業の公募に申\\n　し込めるようなものが出来るでしょうか……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4cb034f6d73f6cf8bf73897c○"「私も、ちょっと気乗りしないかなぁ……」"
 ●4cb034f6d73f6cf8bf73897c●"「私も、ちょっと気乗りしないかなぁ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5a780b1bc88f8806f3d6f15d○"「親が経営してる企業の公募に申し込むって、確かに抵\\n　抗ありそうだな」"
 ●5a780b1bc88f8806f3d6f15d●"「親が経営してる企業の公募に申し込むって、確かに抵\\n　抗ありそうだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9278ee4a0da884a0e10718bb○"「あはは……。嫌とかじゃなくて、単純に恥ずかしいだ\\n　けなんだけどね」"
 ●9278ee4a0da884a0e10718bb●"「あはは……。嫌とかじゃなくて、単純に恥ずかしいだ\\n　けなんだけどね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○696a43c3a39cd566bffd5af0○"「遠慮は何も産まん。アイデアがイマイチだった場合は\\n　先方が淡々とボツにするだけだ」"
 ●696a43c3a39cd566bffd5af0●"「遠慮は何も産まん。アイデアがイマイチだった場合は\\n　先方が淡々とボツにするだけだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○41feeefb88c0758d3e1ec04c○"「それに鷺澤嬢の気持ちもわかるが、逆に考えるのだ。\\n　これは、自分のクラスがいかに素晴らしいかを両親に\\n　伝えるためのチャンスだ、と」"
 ●41feeefb88c0758d3e1ec04c●"「それに鷺澤嬢の気持ちもわかるが、逆に考えるのだ。\\n　これは、自分のクラスがいかに素晴らしいかを両親に\\n　伝えるためのチャンスだ、と」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○84f87b154f2f8987ada0ff87○"「父上、母上！　私はこんなに素晴らしいクラスで日々\\n　勉学に勤しんでいます！　という絶好のアピールにな\\n　るのではないか？」"
 ●84f87b154f2f8987ada0ff87●"「父上、母上！　私はこんなに素晴らしいクラスで日々\\n　勉学に勤しんでいます！　という絶好のアピールにな\\n　るのではないか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a60ce8a270029e2f91e8d161○"「だからぜひ！　クラスメイトの杉並くんに活動の資金\\n　援助を！　と言いやすくなるではないか」"
 ●a60ce8a270029e2f91e8d161●"「だからぜひ！　クラスメイトの杉並くんに活動の資金\\n　援助を！　と言いやすくなるではないか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1a9170ef25db8094cfdca2d7○"「そう……、かな？　果たして本当にそうなのかな？\\n　私は今悪い人に騙されようとしてるんじゃないのか\\n　な？」"
 ●1a9170ef25db8094cfdca2d7●"「そう……、かな？　果たして本当にそうなのかな？\\n　私は今悪い人に騙されようとしてるんじゃないのか\\n　な？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1f840b08b24210d835a7cd31○"「大丈夫ですよ鷺澤さん。その直感は当たってます」"
 ●1f840b08b24210d835a7cd31●"「大丈夫ですよ鷺澤さん。その直感は当たってます」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f06fadfa94a29be944dadbc1○"「でも実際、話し合いが行き詰まってるのは確かだもん\\n　なぁ。こういうきっかけがあっても良いのかも」"
 ●f06fadfa94a29be944dadbc1●"「でも実際、話し合いが行き詰まってるのは確かだもん\\n　なぁ。こういうきっかけがあっても良いのかも」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c4b81d79a58dc3187a8624b8○"「そのとおり！　大事なことは、面白いことをしてやろ\\n　う！　という心意気なのだ！　そうだろう、白河嬢？」"
 ●c4b81d79a58dc3187a8624b8●"「そのとおり！　大事なことは、面白いことをしてやろ\\n　う！　という心意気なのだ！　そうだろう、白河嬢？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a55baae1f39f2b598e5946f0○"「むう。杉並の意見っていうのがシャクだけど、確かに\\n　面白そう。それに、目的が明確なら考えの方向性も決\\n　めやすいからね」"
 ●a55baae1f39f2b598e5946f0●"「むう。杉並の意見っていうのがシャクだけど、確かに\\n　面白そう。それに、目的が明確なら考えの方向性も決\\n　めやすいからね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○373f579da7a4d4cce3f6057b○"「まぁ、確かにそうですね。ワンダーランドのアトラク\\n　ションにするなら？　ってお題で考えられますし」"
 ●373f579da7a4d4cce3f6057b●"「まぁ、確かにそうですね。ワンダーランドのアトラク\\n　ションにするなら？　ってお題で考えられますし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○49afc5345e7da534ba4b993f○"「ま、実際に応募するかどうかはアイデアをまとめた後\\n　で考えてもいいわけだしな」"
 ●49afc5345e7da534ba4b993f●"「ま、実際に応募するかどうかはアイデアをまとめた後\\n　で考えてもいいわけだしな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○11723d0f1cac38d6a94f8e6f○"「鷺澤さんはどうですか？　抵抗があるなら、公募はせ\\n　ずにアイデアのとっかかりにするだけでも良いとは思\\n　いますけど」"
 ●11723d0f1cac38d6a94f8e6f●"「鷺澤さんはどうですか？　抵抗があるなら、公募はせ\\n　ずにアイデアのとっかかりにするだけでも良いとは思\\n　いますけど」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○495198f259aabb7037acbd05○"「ううん、大丈夫。ここまで来たら面白いの考えて、お\\n　父さんに自慢しちゃうんだから！」"
 ●495198f259aabb7037acbd05●"「ううん、大丈夫。ここまで来たら面白いの考えて、お\\n　父さんに自慢しちゃうんだから！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4df62290cf7b83af95450a43○"「そして採用された暁には俺への資金援助を！」"
 ●4df62290cf7b83af95450a43●"「そして採用された暁には俺への資金援助を！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ac51cc848f98acde7272969e○"「それは無いよ？」"
 ●ac51cc848f98acde7272969e●"「それは無いよ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4084884eb142220f6f6aa89a○"　にっこり顔で否定。"
 ●4084884eb142220f6f6aa89a●"　にっこり顔で否定。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e0311b41f94699e8f11bf06f○"「それじゃあ、ランドにあったら面白そうなアトラクショ\\n　ンは？　ってお題で、もう一度考えてみましょうか」"
 ●e0311b41f94699e8f11bf06f●"「それじゃあ、ランドにあったら面白そうなアトラクショ\\n　ンは？　ってお題で、もう一度考えてみましょうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a8b4124633c86e7eb582588a○"「あ、じゃあまずは、今稼働してるものをリストアップ\\n　してみよっか。そこからヒントが得られるかもしれな\\n　いし」"
 ●a8b4124633c86e7eb582588a●"「あ、じゃあまずは、今稼働してるものをリストアップ\\n　してみよっか。そこからヒントが得られるかもしれな\\n　いし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○430f1781f771b6b1727ebbf3○"　それぞれ手近な席を借りて、早速話し合い再開。"
 ●430f1781f771b6b1727ebbf3●"　それぞれ手近な席を借りて、早速話し合い再開。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fe4288179658e1b0d9d9dc65○"　行き詰まってた話し合いが少し活発化してきた感じ。"
 ●fe4288179658e1b0d9d9dc65●"　行き詰まってた話し合いが少し活発化してきた感じ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a2e8ff86691ed4bab889d2df○"「ふっ……」"
 ●a2e8ff86691ed4bab889d2df●"「ふっ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○70c2146eadc956c1567c66f6○"「なんだその笑みは。不穏だな」"
 ●70c2146eadc956c1567c66f6●"「なんだその笑みは。不穏だな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1524f5f262f001192e749e39○"「いやなに、青春とはかくも美しいものなり……。と思っ\\n　ただけだ。他意は無い」"
 ●1524f5f262f001192e749e39●"「いやなに、青春とはかくも美しいものなり……。と思っ\\n　ただけだ。他意は無い」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3b0d5179ebf822430395fbbd○"「…………」"
 ●3b0d5179ebf822430395fbbd●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○baf539cddc1bf10b89e2258a○"　こいつのこういう発言は一ミリも信用できねぇ……。"
 ●baf539cddc1bf10b89e2258a●"　こいつのこういう発言は一ミリも信用できねぇ……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d84d0dfb831809f88cbd8f76○"「本当に何も企んでないんだな？」"
 ●d84d0dfb831809f88cbd8f76●"「本当に何も企んでないんだな？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3a8887b20ec4747c61981edc○"「それは難しい問いだ。俺は常に何かを企んでいる」"
 ●3a8887b20ec4747c61981edc●"「それは難しい問いだ。俺は常に何かを企んでいる」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c1da477d313489a5e71abcf9○"「それもそうか」"
 ●c1da477d313489a5e71abcf9●"「それもそうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○40a86659c444ac12794a4206○"　愚問だった。"
 ●40a86659c444ac12794a4206●"　愚問だった。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4f841351ad7f20373d865326○"　杉並を理解しようとすること自体が無謀なのだ。"
 ●4f841351ad7f20373d865326●"　杉並を理解しようとすること自体が無謀なのだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○108d6116764bf301ba7e75b4○"　それでも話し合いの雰囲気は少し良くなって、前に進\\nんだような気がした。"
 ●108d6116764bf301ba7e75b4●"　それでも話し合いの雰囲気は少し良くなって、前に進\\nんだような気がした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2944e84fa8a85c200cb9b964○"　それだけで、ここは良しとしよう。"
 ●2944e84fa8a85c200cb9b964●"　それだけで、ここは良しとしよう。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○7c586c2cd32a87462beff0e0○"白河ひより（１１月１１日）"
 ●7c586c2cd32a87462beff0e0●"白河ひより（１１月１１日）"

@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○627f63c9d431dc9785a27291○"痕跡あつめ"
 ●627f63c9d431dc9785a27291●"痕跡あつめ"
 
@@ -7,35 +7,35 @@
 ○30c56a11168921700a7777e7○"有里咲"
 ●30c56a11168921700a7777e7●"有里咲"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dae8e54499ca87bf3a22fd82○"「そうそう、いい感じ。そのまま、マナを自分の周りに\\n　とどめておくイメージで……」"
 ●dae8e54499ca87bf3a22fd82●"「そうそう、いい感じ。そのまま、マナを自分の周りに\\n　とどめておくイメージで……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○82defbede6ec1fb31ba1c6f7○"　今日も日課の朝修行の時間。"
 ●82defbede6ec1fb31ba1c6f7●"　今日も日課の朝修行の時間。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cee75ab15444ee44f0c235cb○"　自らの内にあるマナと周囲のマナを一体化させ、その\\n状態をとどめておくのはやはり難しい。"
 ●cee75ab15444ee44f0c235cb●"　自らの内にあるマナと周囲のマナを一体化させ、その\\n状態をとどめておくのはやはり難しい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ad315f4582ee484362b1b599○"　気を抜くとポーンと弾けそうになる。"
 ●ad315f4582ee484362b1b599●"　気を抜くとポーンと弾けそうになる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○04091b0fa49c7ce29159dafd○"　空気椅子を長時間続けながら、イライラ棒をする感じ。"
 ●04091b0fa49c7ce29159dafd●"　空気椅子を長時間続けながら、イライラ棒をする感じ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7a03abd57adfe53a2755cde4○"　でも[め]愛[の]乃[あ]亜を追いかける上で魔法の上達は必須。"
 ●7a03abd57adfe53a2755cde4●"　でも[め]愛[の]乃[あ]亜を追いかける上で魔法の上達は必須。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8db95106ad5bfc2373035eeb○"　そしてそれはやはり、基礎から。"
 ●8db95106ad5bfc2373035eeb●"　そしてそれはやはり、基礎から。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○73782695eacaae505374349f○"　修行の手は抜くわけにはいかないのだ。"
 ●73782695eacaae505374349f●"　修行の手は抜くわけにはいかないのだ。"
 
@@ -43,302 +43,306 @@
 ○43aa7fecb9d72d78bacaee89○"一登"
 ●43aa7fecb9d72d78bacaee89●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e884699765ad58450dde66b9○"「むむむ……」"
 ●e884699765ad58450dde66b9●"「むむむ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c919cc107e9c2f0cf16f3c33○"「うん、いいね。毎日続けてるから、以前より明らかに\\n　上達してると思う」"
 ●c919cc107e9c2f0cf16f3c33●"「うん、いいね。毎日続けてるから、以前より明らかに\\n　上達してると思う」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4941205541d3b4e5fa8b0d85○"「かなり疲れるけどなあ……」"
 ●4941205541d3b4e5fa8b0d85●"「かなり疲れるけどなあ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4d3a6e6635ad5c094d3f7a05○"「ふふ、わかるわかる。私もそう。ちっちゃい頃からお\\n　婆ちゃんに言われて今と同じような修行をしてたんだ\\n　けど、今でもやっぱりしんどいもんなあ」"
 ●4d3a6e6635ad5c094d3f7a05●"「ふふ、わかるわかる。私もそう。ちっちゃい頃からお\\n　婆ちゃんに言われて今と同じような修行をしてたんだ\\n　けど、今でもやっぱりしんどいもんなあ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e298d2adb5a2c855657db8b4○"「疲れるし退屈だしつまんないしニチアサは観たいしで\\n　辛かったよぉ」"
 ●e298d2adb5a2c855657db8b4●"「疲れるし退屈だしつまんないしニチアサは観たいしで\\n　辛かったよぉ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d99d9bf2b543461b61314ee8○"「ははは、それは辛そうだな」"
 ●d99d9bf2b543461b61314ee8●"「ははは、それは辛そうだな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e0dd5dee8b16b3a72621a2fb○"「さて……[ぎ]擬[じ]似[しゅう]収[そく]束パスを最終的に作るとして、まずは\\n　それを構成する[　　　パ]系統[　　　ス]樹の径にそれぞれ因果を置いてく\\n　る必要がある」"
 ●e0dd5dee8b16b3a72621a2fb●"「さて……[ぎ]擬[じ]似[しゅう]収[そく]束パスを最終的に作るとして、まずは\\n　それを構成する[　　　パ]系統[　　　ス]樹の径にそれぞれ因果を置いてく\\n　る必要がある」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e3b4b4714e56c850a107973b○"「そうすることで、その因果をもとに、擬似収束パスを\\n　作ってみることになる。本当にできるのか？　って疑\\n　問は常につきまとうことになるが……」"
 ●e3b4b4714e56c850a107973b●"「そうすることで、その因果をもとに、擬似収束パスを\\n　作ってみることになる。本当にできるのか？　って疑\\n　問は常につきまとうことになるが……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ace040a3f953744432a8807c○"「また、その各[　　　パ]系統[　　　ス]樹の径は、愛乃亜の痕跡が存在する\\n　ことも必要だな」"
 ●ace040a3f953744432a8807c●"「また、その各[　　　パ]系統[　　　ス]樹の径は、愛乃亜の痕跡が存在する\\n　ことも必要だな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○39584ebc82a1de757cb7d551○"「あ、それなんだけどね。ひとまずカガミの国に行って\\n　みるのはどうかな？」"
 ●39584ebc82a1de757cb7d551●"「あ、それなんだけどね。ひとまずカガミの国に行って\\n　みるのはどうかな？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2c1503b82308f9a922cdc63c○"「前も別の[　　　パ]系統[　　　ス]樹の径に行くときはカガミの国に残され\\n　たマナの残照──彼女の痕跡からだったじゃない？\\n　今回もしっかり調べておいた方が良いかもね」"
 ●2c1503b82308f9a922cdc63c●"「前も別の[　　　パ]系統[　　　ス]樹の径に行くときはカガミの国に残され\\n　たマナの残照──彼女の痕跡からだったじゃない？\\n　今回もしっかり調べておいた方が良いかもね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b3de8ce810352f678602e5ad○"「現場第一主義ってことだな。俺もそれが良いと思う」"
 ●b3de8ce810352f678602e5ad●"「現場第一主義ってことだな。俺もそれが良いと思う」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c6ff9d7cfa0e4b8b74ee873b○"「うん。じゃあ、朝の日課修行が終わったら調査してみ\\n　るとして……もうひとつの日課を先にしちゃおうか」"
 ●c6ff9d7cfa0e4b8b74ee873b●"「うん。じゃあ、朝の日課修行が終わったら調査してみ\\n　るとして……もうひとつの日課を先にしちゃおうか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0b815a01e9cabef35dca9605○"「え……？　何か他に日課なんかあったっけ……」"
 ●0b815a01e9cabef35dca9605●"「え……？　何か他に日課なんかあったっけ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○efd8763b4b91200342a7a7a2○"　朝食……は日課とは言わないよな……。"
 ●efd8763b4b91200342a7a7a2●"　朝食……は日課とは言わないよな……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○128c4a452fd43e835d589221○"「ん～……」"
 ●128c4a452fd43e835d589221●"「ん～……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○753f9d0a94d5ca0655797751○"　これは完全にキスカモンだ。"
 ●753f9d0a94d5ca0655797751●"　これは完全にキスカモンだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○38e96c5fccf47df58d575aee○"　おもわず顔がニヤけそうになるのを抑えて、そっと唇\\nを寄せる。"
 ●38e96c5fccf47df58d575aee●"　おもわず顔がニヤけそうになるのを抑えて、そっと唇\\nを寄せる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a3f682530e8858eb2675646d○"「……ちゅっ」"
 ●a3f682530e8858eb2675646d●"「……ちゅっ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5a9698b5ddd9789107d53d6c○"　柔らかな感触。"
 ●5a9698b5ddd9789107d53d6c●"　柔らかな感触。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4721c1148efa0a2fbd2857e1○"「ふふふ、修行も大事だし、懐中時計も取り戻さないと\\n　いけないけど、いっくんとラブラブもしたいのさ！」"
 ●4721c1148efa0a2fbd2857e1●"「ふふふ、修行も大事だし、懐中時計も取り戻さないと\\n　いけないけど、いっくんとラブラブもしたいのさ！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fbb6613607cecd8137bb22b1○"「日課だったっけ？」"
 ●fbb6613607cecd8137bb22b1●"「日課だったっけ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d4d373c88754fba2f4978251○"　そんな記憶はなかった。けれど……。"
 ●d4d373c88754fba2f4978251●"　そんな記憶はなかった。けれど……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○994a612bb6cd213a16814720○"「いや、日課にしちゃえばいいか」"
 ●994a612bb6cd213a16814720●"「いや、日課にしちゃえばいいか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○54488c9892bf58d6b05db874○"「そういうことです。ふふ、いっくんは察しが良くてあ\\n　りがたいなあ」"
 ●54488c9892bf58d6b05db874●"「そういうことです。ふふ、いっくんは察しが良くてあ\\n　りがたいなあ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fc3e515e7df1e04ec6858eec○"　俺たちはもう一度唇を重ねて、水鏡湖を後にした。"
 ●fc3e515e7df1e04ec6858eec●"　俺たちはもう一度唇を重ねて、水鏡湖を後にした。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○564770dd59887c3706e989af○"　修行を終え朝ごはんも食べ、改めてカガミの国へ。"
 ●564770dd59887c3706e989af●"　修行を終え朝ごはんも食べ、改めてカガミの国へ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4fab75b7669fce3dd6aad693○"　だけど前みたいに愛乃亜が姿を現すようなことは無い。"
 ●4fab75b7669fce3dd6aad693●"　だけど前みたいに愛乃亜が姿を現すようなことは無い。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5df7d4bc96409a0881e1386b○"「さて……それにしても何を手がかりにすれば良いんだ\\n　ろうなあ」\\n　"
 ●5df7d4bc96409a0881e1386b●"「さて……それにしても何を手がかりにすれば良いんだ\\n　ろうなあ」\\n　"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f2ce0d0f9bf45b6914505a72○"「愛乃亜ちゃんの痕跡やマナの[ざん]残[し]滓とか。そういうもの\\n　が他にもあれば良いんだけどね……」"
 ●f2ce0d0f9bf45b6914505a72●"「愛乃亜ちゃんの痕跡やマナの[ざん]残[し]滓とか。そういうもの\\n　が他にもあれば良いんだけどね……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cb653654c7df6e61f6c6c325○"　ふたりで周囲を確認する。"
 ●cb653654c7df6e61f6c6c325●"　ふたりで周囲を確認する。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4e3cb05e6de00e9b84d9f87a○"　でも、わかりやすい目印や痕跡は見つかりそうになかっ\\nた。"
 ●4e3cb05e6de00e9b84d9f87a●"　でも、わかりやすい目印や痕跡は見つかりそうになかっ\\nた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○15fe75cabb74456b4ec99614○"「足跡や指紋みたいな物理的な痕跡があるわけじゃない\\n　だろうし、何かあるとしたら魔法的なものだよなあ」"
 ●15fe75cabb74456b4ec99614●"「足跡や指紋みたいな物理的な痕跡があるわけじゃない\\n　だろうし、何かあるとしたら魔法的なものだよなあ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○423bd57be81ca664aca8791d○"「そうなると……やっぱり基本に立ち返ってマナの痕跡\\n　を見つけて、そこから情報を得る──つまり普段の修\\n　行の延長だね」"
 ●423bd57be81ca664aca8791d●"「そうなると……やっぱり基本に立ち返ってマナの痕跡\\n　を見つけて、そこから情報を得る──つまり普段の修\\n　行の延長だね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○39524f6372e15bed92484b68○"「確かに」"
 ●39524f6372e15bed92484b68●"「確かに」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○50f8649c0085c2046435cb9e○"　なら[やみ]闇[くも]雲に目視で確認して回っても無意味か。"
 ●50f8649c0085c2046435cb9e●"　なら[やみ]闇[くも]雲に目視で確認して回っても無意味か。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○19a6b684516219213a0702bd○"「まずは愛乃亜ちゃんの痕跡を探すところからだね。マ\\n　ナの動きや変化に注目してみよっか」"
 ●19a6b684516219213a0702bd●"「まずは愛乃亜ちゃんの痕跡を探すところからだね。マ\\n　ナの動きや変化に注目してみよっか」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a26ba0f6f93077bd553c6587○"「おう」"
 ●a26ba0f6f93077bd553c6587●"「おう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a1ec626a433faf4cf94b108d○"　マナの残照──魔法的な痕跡は、目で見るのではなく\\n魔法で探知すると表現した方が近いかもしれない。"
 ●a1ec626a433faf4cf94b108d●"　マナの残照──魔法的な痕跡は、目で見るのではなく\\n魔法で探知すると表現した方が近いかもしれない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cf7ac625885a737a1f9e1a31○"　日常生活ではまず使わない感覚だ。"
 ●cf7ac625885a737a1f9e1a31●"　日常生活ではまず使わない感覚だ。"
 
-# body; occurrences=2
+# body; occurrences=1; source_occurrence=1
 ○5ed41a5c003e8ca1f54fe3c8○"「…………」"
 ●5ed41a5c003e8ca1f54fe3c8●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f362c510214b45a86f9b1ce7○"　魔法の痕跡、マナの残滓、愛乃亜の足跡。"
 ●f362c510214b45a86f9b1ce7●"　魔法の痕跡、マナの残滓、愛乃亜の足跡。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9220eb933a9e933ba59866c4○"　言い方は何でもいいけど、そういう[・]違[・]和[・]感みたいなも\\nのを探していく。"
 ●9220eb933a9e933ba59866c4●"　言い方は何でもいいけど、そういう[・]違[・]和[・]感みたいなも\\nのを探していく。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○93843685fc8d987d08279940○"　普段は使わない目で見るのは、いつもは操作しない指\\nを動かすような感覚。"
 ●93843685fc8d987d08279940●"　普段は使わない目で見るのは、いつもは操作しない指\\nを動かすような感覚。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bb8210c3f8fdc71b74b89134○"「こういうの、有里咲は得意？」"
 ●bb8210c3f8fdc71b74b89134●"「こういうの、有里咲は得意？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○00a0e34109ce8eca3382add3○"「ううん、あんまり。でも、魔法探偵とかいたらカッコ\\n　イイよね。どんな痕跡も見逃さない。いっくんもどう？\\n　ジッチャンの名にかけて！　みたいな」"
 ●00a0e34109ce8eca3382add3●"「ううん、あんまり。でも、魔法探偵とかいたらカッコ\\n　イイよね。どんな痕跡も見逃さない。いっくんもどう？\\n　ジッチャンの名にかけて！　みたいな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dc0e013a90daa50b01570870○"「ジジイの名前はあんまりかけたくないなあ……。でも、\\n　これが上手くいくと、ジジイの痕跡も追いやすくなる\\n　のかもって思うと気合い入るかも」"
 ●dc0e013a90daa50b01570870●"「ジジイの名前はあんまりかけたくないなあ……。でも、\\n　これが上手くいくと、ジジイの痕跡も追いやすくなる\\n　のかもって思うと気合い入るかも」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○fc4726d72309f876e2eed180○"「うんうん、そう思うと私も集中力あがりそう」"
 ●fc4726d72309f876e2eed180●"「うんうん、そう思うと私も集中力あがりそう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c72c678b0146fdc9c5d417b9○"　再びふたりで周囲に魔法的な探索の目を向ける。"
 ●c72c678b0146fdc9c5d417b9●"　再びふたりで周囲に魔法的な探索の目を向ける。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=2
+○e751a27ca80d4cf1a05fff94○"「…………」"
+●e751a27ca80d4cf1a05fff94●"「…………」"
+
+# body; occurrences=1; source_occurrence=1
 ○32c3f9ce7f630b455eea2fe4○"　魔法の感度をビンビンに[と]研ぎ[す]澄ませて辺りを探してい\\nく。"
 ●32c3f9ce7f630b455eea2fe4●"　魔法の感度をビンビンに[と]研ぎ[す]澄ませて辺りを探してい\\nく。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c6b7f2ee0ac3578599662ea5○"「わからーん！！」"
 ●c6b7f2ee0ac3578599662ea5●"「わからーん！！」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1b1abcbb41e3998abf9cfe0b○"「思ったより疲れるねこれ……」"
 ●1b1abcbb41e3998abf9cfe0b●"「思ったより疲れるねこれ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1197e855968ef3bcb06e884f○"　数十分後、有里咲と一緒にぐったりしてた。"
 ●1197e855968ef3bcb06e884f●"　数十分後、有里咲と一緒にぐったりしてた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f14038cf7b95cd9d517bb5e0○"「浜辺にある無数の砂の中からガラス片を見つけろって\\n　言うのと似たものがあるなコレ……」"
 ●f14038cf7b95cd9d517bb5e0●"「浜辺にある無数の砂の中からガラス片を見つけろって\\n　言うのと似たものがあるなコレ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2ea6656bc409bbd96c3101aa○"「物理的なものじゃないから、きっとコツはあるはずな\\n　んだけどなあ……」"
 ●2ea6656bc409bbd96c3101aa●"「物理的なものじゃないから、きっとコツはあるはずな\\n　んだけどなあ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c6954bacb4ddff875522dd0a○"「私たちはきっと、まだ目で見ることに頼りすぎてるん\\n　だろうね。視覚から得られる情報って思ったより多い\\n　から」"
 ●c6954bacb4ddff875522dd0a●"「私たちはきっと、まだ目で見ることに頼りすぎてるん\\n　だろうね。視覚から得られる情報って思ったより多い\\n　から」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○476e43cf490aa20cbbd1c83b○"「となると、むしろ瞑想に近い行為なのかな、これ」"
 ●476e43cf490aa20cbbd1c83b●"「となると、むしろ瞑想に近い行為なのかな、これ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○00d5a0b185ace246c8412b9a○"「集中力が必要って意味だと、そうかも」"
 ●00d5a0b185ace246c8412b9a●"「集中力が必要って意味だと、そうかも」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a76503d6b07be6ef6b23cf53○"「じゃあ……」"
 ●a76503d6b07be6ef6b23cf53●"「じゃあ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○44c71612a222b2280c4628ea○"　目を閉じる。"
 ●44c71612a222b2280c4628ea●"　目を閉じる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○695ede95a48ed36c1fa9acde○"　視覚情報を一切遮断して、マナの気配や愛乃亜の痕跡\\nだけに意識を集中させて……。"
 ●695ede95a48ed36c1fa9acde●"　視覚情報を一切遮断して、マナの気配や愛乃亜の痕跡\\nだけに意識を集中させて……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○625360ad5ee51e9d71d12195○"　周囲から浮いてたり変わったりしてる痕跡を感じて……。"
 ●625360ad5ee51e9d71d12195●"　周囲から浮いてたり変わったりしてる痕跡を感じて……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3cbba288ef8c82d68cd2045b○"「あ……」"
 ●3cbba288ef8c82d68cd2045b●"「あ……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○49596c3cc3b6cb5d104557aa○"　これは。"
 ●49596c3cc3b6cb5d104557aa●"　これは。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1b8ea5a00a943133b215f8cd○"　明らかに周囲と違うマナの残照が見えた。"
 ●1b8ea5a00a943133b215f8cd●"　明らかに周囲と違うマナの残照が見えた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4336732408eef28b7e16cc91○"「何かあった？」"
 ●4336732408eef28b7e16cc91●"「何かあった？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b3cf0d6b04146a905b7c9c11○"「うん。たぶんコレだと思う。……視覚的に表現すると、\\n　どこかに繋がる細い糸の[かた]片[はし]端みたいなもの」"
 ●b3cf0d6b04146a905b7c9c11●"「うん。たぶんコレだと思う。……視覚的に表現すると、\\n　どこかに繋がる細い糸の[かた]片[はし]端みたいなもの」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○767f50b57671679845efd432○"　違和感の[げん]源[せん]泉に触れる。"
 ●767f50b57671679845efd432●"　違和感の[げん]源[せん]泉に触れる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3e1e7ac45c73119cb847f41d○"「やっぱそうだ。これは愛乃亜の痕跡だ。んで、また断\\n　ち切られてる」"
 ●3e1e7ac45c73119cb847f41d●"「やっぱそうだ。これは愛乃亜の痕跡だ。んで、また断\\n　ち切られてる」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c3e196d45a42c7b388bfae90○"「じゃあまずは、その痕跡を追おっか。一歩一歩だけど\\n　やるしかないもんね」"
 ●c3e196d45a42c7b388bfae90●"「じゃあまずは、その痕跡を追おっか。一歩一歩だけど\\n　やるしかないもんね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8dce48c0e18fbeadd5e7c85b○"「だな」"
 ●8dce48c0e18fbeadd5e7c85b●"「だな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○78ee889ebd3e1f55c56438e9○"　頷き合う。"
 ●78ee889ebd3e1f55c56438e9●"　頷き合う。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○59fa1032fd5cbc9a82a841c6○"　あとはここから因果を繋いで、次の情報を探して……。"
 ●59fa1032fd5cbc9a82a841c6●"　あとはここから因果を繋いで、次の情報を探して……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f6407def7b4e03c9772e9f3e○"　やっぱり大変そうだな、これ。"
 ●f6407def7b4e03c9772e9f3e●"　やっぱり大変そうだな、これ。"
 
-# autosave; occurrences=1
+# autosave; occurrences=1; source_occurrence=1
 ○180f16d31feeb92b91ed0123○"鷺澤有里咲（１１月１６日）"
 ●180f16d31feeb92b91ed0123●"鷺澤有里咲（１１月１６日）"

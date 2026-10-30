@@ -1,5 +1,5 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○176309c754a16f75badc5611○"らしいって何だろう？"
 ●176309c754a16f75badc5611●"らしいって何だろう？"
 
@@ -7,19 +7,19 @@
 ○23db986e29a446b3dd1d36e3○"一登"
 ●23db986e29a446b3dd1d36e3●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○be87dc8bad77419006090010○"「んー……こんなもんかな……」"
 ●be87dc8bad77419006090010●"「んー……こんなもんかな……」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○04281d2ddecfdfe49675b3b8○"　今日出された宿題は８割ほど終わった。あとは……ま、\\n明日の休み時間にでもやっておこう。"
 ●04281d2ddecfdfe49675b3b8●"　今日出された宿題は８割ほど終わった。あとは……ま、\\n明日の休み時間にでもやっておこう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○581754f6f00e8d82f42521a1○"「お……有里栖か」"
 ●581754f6f00e8d82f42521a1●"「お……有里栖か」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○67e5fd4d8ce3078ffa04ddf3○"　この感じだと、出し物についての相談か？"
 ●67e5fd4d8ce3078ffa04ddf3●"　この感じだと、出し物についての相談か？"
 
@@ -31,7 +31,7 @@
 ○bec941e5a9f93be2ee545dc7○"今日決まったカガサイの企画で、知りたいことがあるんだけど。"
 ●bec941e5a9f93be2ee545dc7●"今日決まったカガサイの企画で、知りたいことがあるんだけど。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1c61ecbc19f319b891238021○"「色気かぁ……」"
 ●1c61ecbc19f319b891238021●"「色気かぁ……」"
 
@@ -51,7 +51,7 @@
 ○fa088625a80ee6bee458e0d8○"色気って言葉から連想されるのって、どうしてもセクシー寄りなんだよね。"
 ●fa088625a80ee6bee458e0d8●"色気って言葉から連想されるのって、どうしてもセクシー寄りなんだよね。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f6bc820ad97a38578b5a3ab1○"　だよな、それはもう[こ]固[てい]定[かん]観[ねん]念に近い。英単語に直すと、\\n完全にそっちになっちゃうし。"
 ●f6bc820ad97a38578b5a3ab1●"　だよな、それはもう[こ]固[てい]定[かん]観[ねん]念に近い。英単語に直すと、\\n完全にそっちになっちゃうし。"
 
@@ -95,38 +95,42 @@
 ○6ccf0c03cedfd671f2b3ee35○"お安い御用だ。"
 ●6ccf0c03cedfd671f2b3ee35●"お安い御用だ。"
 
-# image_alt; occurrences=2
+# image_alt; occurrences=1; source_occurrence=1
 ○7026848b485e90204efb064a○"スタンプ画像"
 ●7026848b485e90204efb064a●"スタンプ画像"
 
-# body; occurrences=1
+# image_alt; occurrences=1; source_occurrence=2
+○38f5e68bd19bda8f5dac73b5○"スタンプ画像"
+●38f5e68bd19bda8f5dac73b5●"スタンプ画像"
+
+# body; occurrences=1; source_occurrence=1
 ○ac3095e13630add482b7ed66○"　有里栖も[ぜっ]絶[さん]賛[ふん]奮[とう]闘中らしい。もう夜も遅いっていうの\\nに……。"
 ●ac3095e13630add482b7ed66●"　有里栖も[ぜっ]絶[さん]賛[ふん]奮[とう]闘中らしい。もう夜も遅いっていうの\\nに……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○20455c99378c35dfa94c8f89○"「…………」"
 ●20455c99378c35dfa94c8f89●"「…………」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bad0963a114729f9b334e82f○"　明日が最終日。"
 ●bad0963a114729f9b334e82f●"　明日が最終日。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0094755afb0f956859b03caa○"　さっさと企画をまとめて、放課後にカガサイ実行委員\\n会に提出……。"
 ●0094755afb0f956859b03caa●"　さっさと企画をまとめて、放課後にカガサイ実行委員\\n会に提出……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a7c1354857ea49cdc51d2f0f○"　……軽く休憩でもしようと思ってたけど、やめた。"
 ●a7c1354857ea49cdc51d2f0f●"　……軽く休憩でもしようと思ってたけど、やめた。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d30853838e624b9af43e8de4○"　彼女が頑張ってるのに、[のん]呑[き]気になれるわけがない。[さいわ]幸\\nいにも、まだ眠気も遠い。"
 ●d30853838e624b9af43e8de4●"　彼女が頑張ってるのに、[のん]呑[き]気になれるわけがない。[さいわ]幸\\nいにも、まだ眠気も遠い。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e14616b8f75cf43e4547fc2c○"　細かなルール作りや、本番でのやり方など、決めてお\\nかなきゃいけないことはまだまだあるし……。"
 ●e14616b8f75cf43e4547fc2c●"　細かなルール作りや、本番でのやり方など、決めてお\\nかなきゃいけないことはまだまだあるし……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a6d1890533350ca3e4336059○"　もう少しだけ、頑張るとしよう。"
 ●a6d1890533350ca3e4336059●"　もう少しだけ、頑張るとしよう。"

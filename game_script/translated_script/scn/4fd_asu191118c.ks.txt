@@ -1,25 +1,25 @@
 # dc4-scn-text-v1; JSON strings preserve escaping; keep IDs and source lines intact.
-# title; occurrences=1
+# title; occurrences=1; source_occurrence=1
 ○eeb2e18b898c0841f56d2a35○"とっておきのどんでん返し"
 ●eeb2e18b898c0841f56d2a35●"とっておきのどんでん返し"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2a07f14c00c2352b2ff249af○"　カスタムチューバー。"
 ●2a07f14c00c2352b2ff249af●"　カスタムチューバー。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○13f6e8873101b4823e9b16eb○"　バーチャルマイチューバーが使用するソフトのひとつ\\nで、アバターなどの作成が比較的簡単に行える。"
 ●13f6e8873101b4823e9b16eb●"　バーチャルマイチューバーが使用するソフトのひとつ\\nで、アバターなどの作成が比較的簡単に行える。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0727682fdae622b13f410972○"　バージョンのよって値段は様々だが、基本的に良心的\\nな価格。"
 ●0727682fdae622b13f410972●"　バージョンのよって値段は様々だが、基本的に良心的\\nな価格。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3de946ebe116e42672d42ee1○"　元より実装されてあるパーツでアバターを作ってもよ\\nし。データを入力し、新たなアバターを作ってもよし。"
 ●3de946ebe116e42672d42ee1●"　元より実装されてあるパーツでアバターを作ってもよ\\nし。データを入力し、新たなアバターを作ってもよし。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cfdbbcb01a0a62823e83237e○"　更には、決まったモーションならいつでも可能なので、\\n細かな数値を入力する必要もなし。"
 ●cfdbbcb01a0a62823e83237e●"　更には、決まったモーションならいつでも可能なので、\\n細かな数値を入力する必要もなし。"
 
@@ -27,11 +27,11 @@
 ○7abaa1db89ecf975a2a44c76○"有里栖"
 ●7abaa1db89ecf975a2a44c76●"有里栖"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1c28d0ce8a7d54de60c1d8f0○"「ということで、このツールを使って、残りのタスクを\\n　一気に片付けたいと思います」"
 ●1c28d0ce8a7d54de60c1d8f0●"「ということで、このツールを使って、残りのタスクを\\n　一気に片付けたいと思います」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○43da84f296c809041bcc9580○"　会心の一手に、皆が大きく頷く。"
 ●43da84f296c809041bcc9580●"　会心の一手に、皆が大きく頷く。"
 
@@ -39,7 +39,7 @@
 ○513dd0ab61723d0cbb081cb0○"ひより"
 ●513dd0ab61723d0cbb081cb0●"ひより"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○12c1a5c3975d29c87fdb370d○"「うん、これはいいね。複雑な操作もないみたいだし」"
 ●12c1a5c3975d29c87fdb370d●"「うん、これはいいね。複雑な操作もないみたいだし」"
 
@@ -47,19 +47,19 @@
 ○6f3c7eed6e6e714c3aaffbcf○"二乃"
 ●6f3c7eed6e6e714c3aaffbcf●"二乃"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9418371657f195f09dc0c157○"「オプションがたくさん用意されてるのに、お値段が安\\n　めなのがありがたいですね」"
 ●9418371657f195f09dc0c157●"「オプションがたくさん用意されてるのに、お値段が安\\n　めなのがありがたいですね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7733a0e4d0fb9b4451e78d83○"「あはは、本当は完全手作りが理想だけど、時間的にも\\n　予算的にも厳しいからね」"
 ●7733a0e4d0fb9b4451e78d83●"「あはは、本当は完全手作りが理想だけど、時間的にも\\n　予算的にも厳しいからね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7ca0bb39f73034b84296a188○"「でも、これを使ってるクリエイターや商品も多いから、\\n　駄目ってことはないと思うの」"
 ●7ca0bb39f73034b84296a188●"「でも、これを使ってるクリエイターや商品も多いから、\\n　駄目ってことはないと思うの」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○58d84b2835be68284ab3120c○"「全然問題ないと思うよ、ボクもバーチャルマイチュー\\n　バーを何人か視聴してるけど、モーションに違和感を\\n　持ったことはないし」"
 ●58d84b2835be68284ab3120c●"「全然問題ないと思うよ、ボクもバーチャルマイチュー\\n　バーを何人か視聴してるけど、モーションに違和感を\\n　持ったことはないし」"
 
@@ -67,19 +67,19 @@
 ○29e48fd459edee7cc2be5f72○"一登"
 ●29e48fd459edee7cc2be5f72●"一登"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○be51e4bf1c93e8be41de5fbd○"「ツール自体の評価も高いからな。残りのＡＲの作業は\\n　これをメインに使っていこう」"
 ●be51e4bf1c93e8be41de5fbd●"「ツール自体の評価も高いからな。残りのＡＲの作業は\\n　これをメインに使っていこう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○45fd605956b2d4da5d1ad393○"　そういうわけで、カスタムチューバーの使用法を簡単\\nにまとめたプリントを、各自に渡していく。"
 ●45fd605956b2d4da5d1ad393●"　そういうわけで、カスタムチューバーの使用法を簡単\\nにまとめたプリントを、各自に渡していく。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cf36f012a51f33f68b883f90○"　今朝有里栖と簡単に要点をまとめたのみの、分かりや\\nすさ重視の内容。"
 ●cf36f012a51f33f68b883f90●"　今朝有里栖と簡単に要点をまとめたのみの、分かりや\\nすさ重視の内容。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ce14c65f346ee29079dc930d○"　だけど伝えるべき点はしっかりと書かれているから、\\n問題はない。"
 ●ce14c65f346ee29079dc930d●"　だけど伝えるべき点はしっかりと書かれているから、\\n問題はない。"
 
@@ -87,202 +87,202 @@
 ○7a7b3067d71456c73ef15159○"杉並"
 ●7a7b3067d71456c73ef15159●"杉並"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○57c7042d9fd077873dc528e0○"「ふむ、カスタムチューバーとは、良いアイデアを持っ\\n　てきたな同志よ」"
 ●57c7042d9fd077873dc528e0●"「ふむ、カスタムチューバーとは、良いアイデアを持っ\\n　てきたな同志よ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○e28c09a55c58ead7e7e52500○"「発案は俺じゃないぞ。手柄は全て有里栖のものだ」"
 ●e28c09a55c58ead7e7e52500●"「発案は俺じゃないぞ。手柄は全て有里栖のものだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○414587d3f2380a41ac62eb7d○"「はっはっは、[けん]謙[そん]遜するな。一役買っていることは既に\\n　お見通しだ」"
 ●414587d3f2380a41ac62eb7d●"「はっはっは、[けん]謙[そん]遜するな。一役買っていることは既に\\n　お見通しだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d8f8b588923fc85ecb762920○"「……言ってろ」"
 ●d8f8b588923fc85ecb762920●"「……言ってろ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5e92b8a8fb3ddd3c8b79c2e0○"　相変わらず、何もかも見透かした言い方をしやがって。"
 ●5e92b8a8fb3ddd3c8b79c2e0●"　相変わらず、何もかも見透かした言い方をしやがって。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4ecf0afc8548c49d0ac1f107○"「しかしこれで、作業を阻んでいた壁が一挙に取り払わ\\n　れることになったな」"
 ●4ecf0afc8548c49d0ac1f107●"「しかしこれで、作業を阻んでいた壁が一挙に取り払わ\\n　れることになったな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○b06d7ba7b21c0018d1a2af2e○"「安心するのはまだ早いぞ。まだ大きなきっかけをひと\\n　つ手に入れただけだ」"
 ●b06d7ba7b21c0018d1a2af2e●"「安心するのはまだ早いぞ。まだ大きなきっかけをひと\\n　つ手に入れただけだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9ebf034298831831fbec15a3○"「特にゲーム内の背景とか、まだまだ残ってるからな。\\n　ここからは本腰入れてやってかないと」"
 ●9ebf034298831831fbec15a3●"「特にゲーム内の背景とか、まだまだ残ってるからな。\\n　ここからは本腰入れてやってかないと」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○228cafba5abc7886e54da8fc○"　大きな背景、小さな背景。俺も取り掛かってるけど、\\nまだまだ難しい。"
 ●228cafba5abc7886e54da8fc●"　大きな背景、小さな背景。俺も取り掛かってるけど、\\nまだまだ難しい。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○bf94e2d78cf6a4bcbe806cd4○"　残り時間を考えると、全員で作業しても間に合うかど\\nうかってところだ……。"
 ●bf94e2d78cf6a4bcbe806cd4●"　残り時間を考えると、全員で作業しても間に合うかど\\nうかってところだ……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○82eb110a455b772d4c9c9916○"「安心するがいい同志よ。一部の背景グラフィックに関\\n　しては、外部に委託する運びになった」"
 ●82eb110a455b772d4c9c9916●"「安心するがいい同志よ。一部の背景グラフィックに関\\n　しては、外部に委託する運びになった」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f968c426bec26d5c320c6d5c○"「はぁ？　外部に委託って……まさか業者とかか？」"
 ●f968c426bec26d5c320c6d5c●"「はぁ？　外部に委託って……まさか業者とかか？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○03a9d04540f82bc05985eff8○"「うむ、その通り、その手の仕事を専門としているれっ\\n　きとした株式会社だ」"
 ●03a9d04540f82bc05985eff8●"「うむ、その通り、その手の仕事を専門としているれっ\\n　きとした株式会社だ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○1758cfcf152aef683e7d8c32○"「アホ抜かせ、ただでさえ予算ギリギリなのに、そんな\\n　立派なところに依頼なんか出来るかよ」"
 ●1758cfcf152aef683e7d8c32●"「アホ抜かせ、ただでさえ予算ギリギリなのに、そんな\\n　立派なところに依頼なんか出来るかよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○562c3adab37f6788cf11e7e4○"「予算については問題ない。既に向こうの営業とは話を\\n　つけてある」"
 ●562c3adab37f6788cf11e7e4●"「予算については問題ない。既に向こうの営業とは話を\\n　つけてある」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○dce19285c4001d8d6af493a0○"「はぁ？　……まさかお前、また怪しいことに手を出し\\n　たんじゃあるまいな」"
 ●dce19285c4001d8d6af493a0●"「はぁ？　……まさかお前、また怪しいことに手を出し\\n　たんじゃあるまいな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○d5c22a9d8ef703e22e6c15ec○"　法に抵触する真似事に巻き込まれるのは勘弁だぞ？"
 ●d5c22a9d8ef703e22e6c15ec●"　法に抵触する真似事に巻き込まれるのは勘弁だぞ？"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a7b6c7276b32830426cb12ba○"「下衆の勘繰りはよせ。俺は一切手を汚していない。む\\n　しろ過失を犯したのは向こうだ。俺様はそれを清算し\\n　てやっただけに過ぎん」"
 ●a7b6c7276b32830426cb12ba●"「下衆の勘繰りはよせ。俺は一切手を汚していない。む\\n　しろ過失を犯したのは向こうだ。俺様はそれを清算し\\n　てやっただけに過ぎん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○38a2c751ecc7296ed32d822c○"「……結局怪しいことしてるじゃねえか。つまり貸しが\\n　あったわけだ」"
 ●38a2c751ecc7296ed32d822c●"「……結局怪しいことしてるじゃねえか。つまり貸しが\\n　あったわけだ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○14f95424ed1df1cdbbe1f9e5○"「ふぁーっはっはっ！　あぁその通りだとも。昔話をひ\\n　とつしただけで快く受注してくれた。持つべきものは\\n　友、とはまさにこのこと。涙を流して頷いてくれたよ」"
 ●14f95424ed1df1cdbbe1f9e5●"「ふぁーっはっはっ！　あぁその通りだとも。昔話をひ\\n　とつしただけで快く受注してくれた。持つべきものは\\n　友、とはまさにこのこと。涙を流して頷いてくれたよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a14d5beb80b736febfa63ba9○"「俺はお前が地獄からの使者にしか見えんがな」"
 ●a14d5beb80b736febfa63ba9●"「俺はお前が地獄からの使者にしか見えんがな」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5771cda78d2074bc21761b1f○"　名も知らぬ社長さんには、心の中で同情しておこう。"
 ●5771cda78d2074bc21761b1f●"　名も知らぬ社長さんには、心の中で同情しておこう。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○f38635553e30a4a75163f6b0○"　尊き犠牲を[かて]糧にして、俺たちは前に進ませて貰う。"
 ●f38635553e30a4a75163f6b0●"　尊き犠牲を[かて]糧にして、俺たちは前に進ませて貰う。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6885bea38e507d8dd237c65d○"「さぁて、けどこれで大体の問題は解決したわけだが」"
 ●6885bea38e507d8dd237c65d●"「さぁて、けどこれで大体の問題は解決したわけだが」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○2e7f515e4522365d34c3c74e○"　残るは、機器の問題だ。購入するのか、レンタルする\\nのか、別の解決を求めるか……。"
 ●2e7f515e4522365d34c3c74e●"　残るは、機器の問題だ。購入するのか、レンタルする\\nのか、別の解決を求めるか……。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6de1e72a695f5d407a00d45c○"　今のうちに有里栖に確認しておくか。"
 ●6de1e72a695f5d407a00d45c●"　今のうちに有里栖に確認しておくか。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○359d9eb8f81b0ecbaa48c3dc○"「有里栖、ＡＲグラスかゴーグルに関してはどうなって\\n　る？」"
 ●359d9eb8f81b0ecbaa48c3dc●"「有里栖、ＡＲグラスかゴーグルに関してはどうなって\\n　る？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○93b52c0da8972b9db3c92453○"「あぁ、うん、メガネタイプのＡＲグラスをレンタルす\\n　ることになったよ」"
 ●93b52c0da8972b9db3c92453●"「あぁ、うん、メガネタイプのＡＲグラスをレンタルす\\n　ることになったよ」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a3665ef2e00ae9da272d2327○"「そっか、それで……予算については大丈夫そう？」"
 ●a3665ef2e00ae9da272d2327●"「そっか、それで……予算については大丈夫そう？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○5f275a9a58281ac9d43d4310○"「んー、ギリギリかなあ？　カスタムチューバーのおか\\n　げで、ちょっと余裕出来たから」"
 ●5f275a9a58281ac9d43d4310●"「んー、ギリギリかなあ？　カスタムチューバーのおか\\n　げで、ちょっと余裕出来たから」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a82fb6ad317e98578954aa8e○"「一番メジャーなグラスをレンタルするから、ラブ裁判\\n　を起動させるために必要なスペックも問題なし」"
 ●a82fb6ad317e98578954aa8e●"「一番メジャーなグラスをレンタルするから、ラブ裁判\\n　を起動させるために必要なスペックも問題なし」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○7bfad812a2a691b629f159e8○"「なるほど、了解」"
 ●7bfad812a2a691b629f159e8●"「なるほど、了解」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a5837db2746554b30ea3a12e○"　モデルの作成ツール、背景作業、そしてＡＲグラス。"
 ●a5837db2746554b30ea3a12e●"　モデルの作成ツール、背景作業、そしてＡＲグラス。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○c51a788b3a9032c1b184731b○"　大きな壁は、全部取っ払ったってわけだ。"
 ●c51a788b3a9032c1b184731b●"　大きな壁は、全部取っ払ったってわけだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○cb65733cc2b05565f969d429○"「大手柄だな、有里栖」"
 ●cb65733cc2b05565f969d429●"「大手柄だな、有里栖」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○48f8e9097188ed020d8aae68○"「あは、ありがと。でも本番はここからだよ？」"
 ●48f8e9097188ed020d8aae68●"「あは、ありがと。でも本番はここからだよ？」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○4260bfc1ef2f87f294a0b81c○"「背景素材のクオリティアップや、モデルの服装とか、\\n　細かい調整とか、やることはまだまだたくさんあるも\\n　ん」"
 ●4260bfc1ef2f87f294a0b81c●"「背景素材のクオリティアップや、モデルの服装とか、\\n　細かい調整とか、やることはまだまだたくさんあるも\\n　ん」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0fb4cae4baeab383c823430b○"「私も本腰入れて進行管理をしなきゃいけないし。今日\\n　から今まで以上に忙しくなりそう」"
 ●0fb4cae4baeab383c823430b●"「私も本腰入れて進行管理をしなきゃいけないし。今日\\n　から今まで以上に忙しくなりそう」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○6c2ee72d99b39017bbb33382○"「だな……俺もいくつか家に持ち帰らないと」"
 ●6c2ee72d99b39017bbb33382●"「だな……俺もいくつか家に持ち帰らないと」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○94700da0052d9de54e23340d○"　二乃の作業は、どうやら順調の様子で。"
 ●94700da0052d9de54e23340d●"　二乃の作業は、どうやら順調の様子で。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○9a1f5fa20b6ad3bbdb44ff26○"　大変そうではあるけど、どこか楽しみながら毎晩指輪\\nを作ってる。"
 ●9a1f5fa20b6ad3bbdb44ff26●"　大変そうではあるけど、どこか楽しみながら毎晩指輪\\nを作ってる。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○ba43e0ec9e7bfa20539035a1○"　……負けてられない。"
 ●ba43e0ec9e7bfa20539035a1●"　……負けてられない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○0b6e2a1152b109f270ba557d○"「頑張ろうな、有里栖」"
 ●0b6e2a1152b109f270ba557d●"「頑張ろうな、有里栖」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○531277ebf7a69f70a62d9024○"「ふふっ、そこはお互い様。くれぐれも無理はしないよ\\n　うにね」"
 ●531277ebf7a69f70a62d9024●"「ふふっ、そこはお互い様。くれぐれも無理はしないよ\\n　うにね」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○89ec979cb34eea7815376155○"「はいはい」"
 ●89ec979cb34eea7815376155●"「はいはい」"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○a3b839aae7e0985039dbfa73○"　確かに頑張りすぎて体調を崩しちゃ元も子もないから\\nな。"
 ●a3b839aae7e0985039dbfa73●"　確かに頑張りすぎて体調を崩しちゃ元も子もないから\\nな。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○8de826a009eb2494eaef5e98○"　……でも、多分大丈夫。"
 ●8de826a009eb2494eaef5e98●"　……でも、多分大丈夫。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3b14de87f26f351006d8364b○"　土日と今日で、むしろ気力は充実し過ぎてるくらいな\\nんだ。"
 ●3b14de87f26f351006d8364b●"　土日と今日で、むしろ気力は充実し過ぎてるくらいな\\nんだ。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○3925dbc2010179ac8890a389○"　有里栖を見習って……少しは貢献しないと、彼氏とし\\nて格好がつかない。"
 ●3925dbc2010179ac8890a389●"　有里栖を見習って……少しは貢献しないと、彼氏とし\\nて格好がつかない。"
 
-# body; occurrences=1
+# body; occurrences=1; source_occurrence=1
 ○274dfa207eeccb6c69886b1f○"　だからまずは……俺に出来ることからひとつずつ、全\\n力でこなしていこう。"
 ●274dfa207eeccb6c69886b1f●"　だからまずは……俺に出来ることからひとつずつ、全\\n力でこなしていこう。"

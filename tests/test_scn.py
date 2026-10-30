@@ -12,6 +12,14 @@ TITLE_ROOT = Path(__file__).resolve().parents[1]
 TOOL = TITLE_ROOT / 'tools/Ulysses-FreeMoteToolkit-v4.3.0'
 
 
+class StructuralComparisonTests(unittest.TestCase):
+    def test_numeric_normalization_does_not_accept_boolean_or_string_types(self):
+        from solution.script.scn import _difference
+        self.assertIsNone(_difference({'number': 1}, {'number': 1.0}))
+        self.assertIsNotNone(_difference({'number': 1}, {'number': True}))
+        self.assertIsNotNone(_difference({'number': 1}, {'number': '1'}))
+
+
 class ScnTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -104,6 +112,45 @@ class ScnTests(unittest.TestCase):
         self.assertTrue(states)
         self.assertFalse(any(m.get('text') == source for v in states for m in v['comumode']))
 
+    def test_repeated_body_contexts_translate_independently_and_rebuild_only_selected_caches(self):
+        scn, cache = self.corpus()
+        doc = scn.load_json(cache / '4fd_com191125d.ks.json')
+        first = ('scenes', 11, 'texts', 23, 1, 0, 1)
+        second = ('scenes', 12, 'texts', 20, 1, 0, 1)
+        source = '　[せん]繊[さい]細な部分に触れて、そっと撫でてくれるようで。'
+        self.assertEqual(scn._get(doc, first), source)
+        self.assertEqual(scn._get(doc, second), source)
+        records = scn.collect_records(doc, '4fd_com191125d.ks.json')
+        repeated = [r for r in records if r.kind == 'body' and r.source == source]
+        self.assertEqual(len(repeated), 2)
+        self.assertEqual(repeated[0].id, '2a1ddf686ad8eea2710efa45')
+        self.assertNotEqual(repeated[0].id, repeated[1].id)
+        self.assertEqual([r.paths for r in repeated], [[first], [second]])
+        values = {r.id: r.source for r in records}
+        values[repeated[0].id] = '　中文语境甲。'
+        changed = copy.deepcopy(doc)
+        scn.apply_translations(changed, records, values)
+        expected = copy.deepcopy(doc)
+        expected['scenes'][11]['texts'][23][1][0][1:] = ['　中文语境甲。', 7, '　中文语境甲。', '　中文语境甲。']
+        self.assertEqual(changed, expected)
+        values[repeated[1].id] = '　另一语境中的译文。'
+        changed = copy.deepcopy(doc)
+        scn.apply_translations(changed, records, values)
+        expected['scenes'][12]['texts'][20][1][0][1:] = ['　另一语境中的译文。', 10, '　另一语境中的译文。', '　另一语境中的译文。']
+        self.assertEqual(changed, expected)
+
+    def test_unrelated_body_insertion_preserves_repeated_source_ids(self):
+        scn, cache = self.corpus()
+        doc = scn.load_json(cache / '4fd_com191125d.ks.json')
+        source = doc['scenes'][11]['texts'][23][1][0][1]
+        before = [r.id for r in scn.collect_records(doc, '4fd_com191125d.ks.json') if r.kind == 'body' and r.source == source]
+        self.assertEqual(len(before), 2)
+        inserted = copy.deepcopy(doc['scenes'][11]['texts'][23])
+        inserted[1][0][1:] = ['新しい独立文。', 7, '新しい独立文。', '新しい独立文。']
+        doc['scenes'][11]['texts'].insert(0, inserted)
+        after = [r.id for r in scn.collect_records(doc, '4fd_com191125d.ks.json') if r.kind == 'body' and r.source == source]
+        self.assertEqual(after, before)
+
     def test_reexport_preserves_existing_translation_bytes(self):
         scn, cache = self.corpus()
         target = self.root / 'preserve'
@@ -143,8 +190,13 @@ class ScnTests(unittest.TestCase):
         i = next(i for i, line in enumerate(lines) if line.startswith('●') and '有里栖、お腹空いてない？' in line)
         lines[i] = '●' + lines[i].split('●', 2)[1] + '●' + json.dumps('中文选择项测试？', ensure_ascii=False)
         path.write_text('\n'.join(lines) + '\n', encoding='utf-8')
+        repeated_lines = [i for i, line in enumerate(lines) if line.startswith('●') and '[せん]繊[さい]細な部分' in line]
+        self.assertEqual(len(repeated_lines), 2)
+        for i, target in zip(repeated_lines, ['　中文语境甲。', '　另一语境中的译文。']):
+            lines[i] = '●' + lines[i].split('●', 2)[1] + '●' + json.dumps(target, ensure_ascii=False)
+        path.write_text('\n'.join(lines) + '\n', encoding='utf-8')
         chinese = scn.compile_translations(cache, translated, base / 'chinese', TOOL, verify=True)
-        self.assertEqual(chinese['changed_records'], 4)
+        self.assertEqual(chinese['changed_records'], 6)
         self.assertEqual(chinese['verified'], 3)
         verify = Path(chinese['verification_json'])
         rebuilt = scn.load_json(verify / '4fd_asa191109a.ks.json')
@@ -155,9 +207,12 @@ class ScnTests(unittest.TestCase):
         self.assertEqual(rebuilt['scenes'][0]['texts'][0][1][0][0], '测试人名')
         ruby = rebuilt['scenes'][0]['texts'][5][1][0]
         self.assertEqual(ruby[1:], ['　这是每天的基础练习。', 11, '　这是每天的基础练习。', '　这是每天的基础练习。'])
-        choices = scn.load_json(verify / '4fd_com191125d.ks.json')['scenes'][1]['selects']
+        context = scn.load_json(verify / '4fd_com191125d.ks.json')
+        choices = context['scenes'][1]['selects']
         self.assertEqual(choices[0]['text'], '中文选择项测试？')
         self.assertEqual(choices[0]['target'], '*sel1-1')
+        self.assertEqual(context['scenes'][11]['texts'][23][1][0][1:], ['　中文语境甲。', 7, '　中文语境甲。', '　中文语境甲。'])
+        self.assertEqual(context['scenes'][12]['texts'][20][1][0][1:], ['　另一语境中的译文。', 10, '　另一语境中的译文。', '　另一语境中的译文。'])
 
 
 if __name__ == '__main__':
