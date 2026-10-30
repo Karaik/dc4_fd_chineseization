@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "project": "dc4_fd_chineseization",
+  "algorithm": "cxdec-v1",
+  "random_generator": "lcg",
+  "mask": 468,
+  "offset": 42,
+  "prolog_order": [
+    2,
+    1,
+    0
+  ],
+  "odd_branch_order": [
+    4,
+    3,
+    2,
+    5,
+    0,
+    1
+  ],
+  "even_branch_order": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    3,
+    0,
+    2
+  ],
+  "control_block": "control_block.bin",
+  "control_block_sha256": "18b362bb9fc0c85ac8e5264c27b5f7faec02deda294a8d5dde276e64640d7ab8",
+  "startup_tjs_not_encrypted": false,
+  "source": {
+    "executable": "game/DC4_FD.exe",
+    "executable_sha256": "db175d1d01c81822fd099d4a435c1bc2d3bdf0486e2738002d1241f592361a8e",
+    "compressed_module_file_offset": 3084624,
+    "compressed_module_bytes": 51523,
+    "module_bytes": 105984,
+    "module_sha256": "c28025c7452b63e22b2841c4150a9965357196d3b23ad8e3b58a9d607c6827f4",
+    "records_file_offset": 55224,
+    "params_file_offset": 55233,
+    "params_hex": "060705000203040102030100050402010000d4012a00",
+    "table_file_offset": 55263
+  }
+}

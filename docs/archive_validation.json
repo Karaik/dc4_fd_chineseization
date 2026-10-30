@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "scope": "all_original_resource_payloads",
+  "method": "Cx decryption followed by complete entry Adler-32 verification",
+  "resource_count": 20001,
+  "index_entry_count": 20006,
+  "excluded_malformed_protection_notices": 5,
+  "archives": [
+    {
+      "archive": "bgimage.xp3",
+      "source_sha256": "05daafc54b7dd1fe608fd825415e45cbb020b9260a3c3130d00646a3b0d713a7",
+      "index_entries": 386,
+      "verified_payloads": 385,
+      "skipped_malformed_notices": 1
+    },
+    {
+      "archive": "data.xp3",
+      "source_sha256": "da17248f677b784937149305337e9f7f242c73da24ff3f12183e1362097a410b",
+      "index_entries": 2285,
+      "verified_payloads": 2284,
+      "skipped_malformed_notices": 1
+    },
+    {
+      "archive": "evimage.xp3",
+      "source_sha256": "9fe8e1dc82391a9ed687c9a44cc57693a641845aedfd755b6be1b76027d31703",
+      "index_entries": 331,
+      "verified_payloads": 330,
+      "skipped_malformed_notices": 1
+    },
+    {
+      "archive": "fgimage.xp3",
+      "source_sha256": "b57b2b7c4e8fba45e3b6f32bd3042b9f05c154eac37550a89d3cdc6008eea930",
+      "index_entries": 1617,
+      "verified_payloads": 1616,
+      "skipped_malformed_notices": 1
+    },
+    {
+      "archive": "voice.xp3",
+      "source_sha256": "27b31c076e4a2786ed748fc1b569278a1493aa050ad4bc37e445143fea1bd33d",
+      "index_entries": 15387,
+      "verified_payloads": 15386,
+      "skipped_malformed_notices": 1
+    }
+  ]
+}
