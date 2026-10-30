@@ -1,0 +1,3 @@
+LIBRARY dc4_fd_chs
+EXPORTS
+    StartRuntime=_StartRuntime@4

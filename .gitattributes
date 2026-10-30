@@ -1,0 +1,3 @@
+# 保留第三方许可证和兼容头的上游字节。
+solution/runtime/LICENSE.* -text -whitespace
+solution/runtime/src/compat/* -text -whitespace
