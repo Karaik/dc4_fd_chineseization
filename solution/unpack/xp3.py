@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import mmap
+import re
 import stat
 import struct
 import zlib
@@ -187,7 +188,8 @@ def extract_entry(path: Path, entry: Entry, scheme: Scheme | None = None, *, ver
 def safe_name(value: str) -> str:
     name = value.replace('\\', '/')
     parts = name.split('/')
-    if not name or name.startswith('/') or any(part in ('', '.', '..') or '\x00' in part or ':' in part for part in parts):
+    devices = re.compile(r'(?:CON|PRN|AUX|NUL|COM[1-9¹²³]|LPT[1-9¹²³])(?:\..*)?$', re.IGNORECASE)
+    if not name or name.startswith('/') or any(part in ('', '.', '..') or part.endswith(('.', ' ')) or any(ord(ch) < 32 or ch in '<>:"|?*' for ch in part) or devices.fullmatch(part) for part in parts):
         raise ArchiveError(f'Unsafe archive path: {value!r}')
     return PurePosixPath(*parts).as_posix()
 

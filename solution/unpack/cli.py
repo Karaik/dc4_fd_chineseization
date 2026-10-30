@@ -6,7 +6,7 @@ import json
 from dataclasses import asdict
 from pathlib import Path
 
-from solution.unpack.xp3 import ArchiveError, Entry, extract_archive, read_index
+from solution.unpack.xp3 import Entry, _check_output_path, extract_archive, read_index
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -43,6 +43,7 @@ def _output(path: Path) -> Path:
     for protected in ('game', 'game_script', 'solution/patch', 'solution/decrypt', 'solution/runtime/src'):
         if resolved == ROOT / protected or resolved.is_relative_to(ROOT / protected):
             raise ValueError(f'Unpack output is a maintained input path: {path}')
+    _check_output_path(ROOT, path)
     return path
 
 
@@ -50,6 +51,7 @@ def unpack_archive(archive: Path, output_root: Path = DEFAULT_OUTPUT, *, overwri
     archive = archive.resolve()
     output_root = _output(output_root)
     output = output_root / archive.stem
+    _check_output_path(output_root, output)
     entries = read_index(archive)
     index = [{'protected':entry.protected, **asdict(entry)} for entry in entries]
     archive_hash = sha256(archive)
@@ -67,6 +69,7 @@ def unpack_archive(archive: Path, output_root: Path = DEFAULT_OUTPUT, *, overwri
         if matches:
             for item in old['files']:
                 path = output / item['name']
+                _check_output_path(output_root, path)
                 if not path.is_file() or path.stat().st_size != item['bytes'] or path.stat().st_mtime_ns != item['mtime_ns']:
                     matches = False
                     break

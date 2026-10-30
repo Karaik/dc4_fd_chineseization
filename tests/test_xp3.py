@@ -74,6 +74,16 @@ class Xp3Tests(unittest.TestCase):
                     extract_archive(archive, output)
                 self.assertFalse(output.exists())
 
+    def test_windows_aliases_and_devices_are_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+            for name in ('same.txt.', 'same.txt ', 'dir./file.txt', 'CON', 'nul.txt', 'aux/file.bin', 'LPT1.bin', 'COM9.txt', 'bad?name'):
+                archive = root / 'bad.xp3'
+                fixture(archive, name, b'bad')
+                with self.assertRaises(ArchiveError, msg=name):
+                    extract_archive(archive, root / 'output')
+                self.assertFalse((root / 'output').exists())
+
     def test_encrypted_entry_requires_explicit_scheme(self) -> None:
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)
