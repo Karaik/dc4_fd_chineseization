@@ -1,0 +1,2081 @@
+{
+  "schema_version": 1,
+  "system_schema_version": 2,
+  "carrier_count": 338,
+  "original_roundtrip_byte_identical": 338,
+  "bytecode_files": 207,
+  "text_documents": 131,
+  "string_constants": 43084,
+  "japanese_candidates": 1317,
+  "formal_translation_is_source_only": true,
+  "bytecode_chinese_samples": [
+    {
+      "path": "sysscn/nocfchkdialog.tjs",
+      "constant_index": 21,
+      "source_bytes": 13848,
+      "rebuilt_bytes": 13876,
+      "source_sha256": "c37b4fbbfdfcba6b49cae5073d288b80455a1bff02a7bf425175f2462cd8e249",
+      "rebuilt_sha256": "6f33f30ab14e4310923b9ca49b31e3d1a04f05fe9ddfbc97819c2bef52860d4f",
+      "object_block_sha256": "0430622ab927ce862c333ab99fef5440233e2d405a1fe2850af98f9df2e3316a",
+      "index_count_preserved": true,
+      "replacement_matches": true,
+      "other_constants_preserved": true,
+      "numeric_prefix_preserved": true,
+      "octet_tail_preserved": true,
+      "object_block_preserved": true,
+      "total_size_updated": true
+    },
+    {
+      "path": "sysscn/advancedmenu.tjs",
+      "constant_index": 37,
+      "source_bytes": 3932,
+      "rebuilt_bytes": 3944,
+      "source_sha256": "051336938bab2c3e06bfbb5521b6b1bc761dcffff48af57a8b310719d984f5c4",
+      "rebuilt_sha256": "ee41bd66b3e9ffaf9ae2a4af7e36108f8410b0b6577910395d36586ff8f8f0fa",
+      "object_block_sha256": "66dcc4785341ba5e8c2916d741941eae18a329061c06201c26be1d6c0160aba1",
+      "index_count_preserved": true,
+      "replacement_matches": true,
+      "other_constants_preserved": true,
+      "numeric_prefix_preserved": true,
+      "octet_tail_preserved": true,
+      "object_block_preserved": true,
+      "total_size_updated": true
+    }
+  ],
+  "tests": "python -m unittest solution.script.test_system_text",
+  "limits": [
+    "本报告未验证修改后字节码的实际游戏加载",
+    "常量候选包含逻辑字符串，不等于显示文本范围",
+    "整篇TJS/INI文档仍须人工审查字段；不能按日文批量替换"
+  ],
+  "roundtrip": [
+    {
+      "path": "AppConfig.tjs",
+      "bytes": 1107,
+      "sha256": "8792f1ed36c03598d3d59718c884f4c0968eab518d59ea1494fb1b55dcb96a99",
+      "byte_identical": true
+    },
+    {
+      "path": "font/embfontlist.tjs",
+      "bytes": 1699,
+      "sha256": "c1dc278b4df651aafc15db9edad22b498e6185bc46d7df4f3cff447030252025",
+      "byte_identical": true
+    },
+    {
+      "path": "font/MTL_NOTICE.txt",
+      "bytes": 21775,
+      "sha256": "e0e6e93382ab9f11a2502dcf753201cc486d20d7a68490116e3b138844ad5f29",
+      "byte_identical": true
+    },
+    {
+      "path": "font/SourceHanSansAndSerifJP-LICENSE.txt",
+      "bytes": 8791,
+      "sha256": "a13aebc7c87674996696c51fdd3decb6479035704247e272d23fbae5399943ce",
+      "byte_identical": true
+    },
+    {
+      "path": "image/ED/endroll/4fd_gred.tjs",
+      "bytes": 405,
+      "sha256": "082bedf13a24893cf4ecb6d1a695770a618332bc6a378e8d7b6db37ae343bdeb",
+      "byte_identical": true
+    },
+    {
+      "path": "image/effect/particle_arfairy.tjs",
+      "bytes": 2215,
+      "sha256": "5058c92e9d36fe0f1d92f23965ec567974e4082ed961e08f04f44861d6271e79",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat.tjs",
+      "bytes": 19124,
+      "sha256": "4df5d83baf5a2eda46b04b00c730425ab6903816e8e54d720a9bb51d77532b88",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_console.tjs",
+      "bytes": 9368,
+      "sha256": "51db538360702b003cda6132eccab652b75b9e130b3c27ea94b720cfe0a4abec",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_controller.tjs",
+      "bytes": 2608,
+      "sha256": "5d023b070c19b9bf599fc7ed3454fe047a2a216a0e682d397e6b83a3182b5fb1",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_deskinfo.tjs",
+      "bytes": 4572,
+      "sha256": "3339fb8c397d1e15e3b4deea49b7ffd03c98ebc4874f3f3acdc5149e0250e505",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_fontselect.tjs",
+      "bytes": 10760,
+      "sha256": "512351120e8d6770dd7dbeba6b53ac3bd7e8f8a92a89c468b30b2c1b01a641bf",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_inputstring.tjs",
+      "bytes": 2952,
+      "sha256": "e5bb6b9444f5f01ceab49f5f2adc91464efd7c5269b68c1c56f64170c18dc0d2",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_modeless.tjs",
+      "bytes": 13312,
+      "sha256": "cfe64c4701d05d83c981ba8b371f0294fd82538bff6045bd6a13294a59088074",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_pad.tjs",
+      "bytes": 1792,
+      "sha256": "a62ea21b12d57a2eeb4796287031e7097ce578875c52ce5f2f40a59bc2625c30",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_padcommon.tjs",
+      "bytes": 21524,
+      "sha256": "4b9f690b872d31f7e481382c8eb517b98c018f549064e956320c52af5020aaca",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_scrinfo.tjs",
+      "bytes": 1108,
+      "sha256": "6c43a6897c7257de386aaa9a5346b9eeedfc75492789c1eb908025e6ced8b3bb",
+      "byte_identical": true
+    },
+    {
+      "path": "k2compat/k2compat_touchmouse.tjs",
+      "bytes": 352,
+      "sha256": "1787ce388d56c1c4ef6fe065c6a48569d63fe1002ff8662a9fb96847ecd62e3e",
+      "byte_identical": true
+    },
+    {
+      "path": "main/cglist.csv",
+      "bytes": 11283,
+      "sha256": "b3cddbb5ac267cef48df389a33bc41f2028dedfe2634d655035150f0e4ea3b97",
+      "byte_identical": true
+    },
+    {
+      "path": "main/charlist.csv",
+      "bytes": 1437,
+      "sha256": "62b9e715ec0dfe159465bb247c44ec3c34e48a90b6765350a24964f598a76bcb",
+      "byte_identical": true
+    },
+    {
+      "path": "main/charvoice.csv",
+      "bytes": 2633,
+      "sha256": "b584c33f94882b10a0f418b4705c3a03849ad1d99e362ed11258bdaf1d5e70ea",
+      "byte_identical": true
+    },
+    {
+      "path": "main/Config.tjs",
+      "bytes": 42595,
+      "sha256": "03270a24a1b2a510099ff5d58c86aeeaf7487919082da602ef6e51b373d77ee2",
+      "byte_identical": true
+    },
+    {
+      "path": "main/custom.ks",
+      "bytes": 17921,
+      "sha256": "160594075557716c6a564eadebc540927c8fca250e6106aacf34a3f550a33919",
+      "byte_identical": true
+    },
+    {
+      "path": "main/custom.tjs",
+      "bytes": 20753,
+      "sha256": "f699aac26e4307c8cb1bb1b5737df366480562a54dde26ce8001473b757f7ea9",
+      "byte_identical": true
+    },
+    {
+      "path": "main/default.tjs",
+      "bytes": 22845,
+      "sha256": "96e35dd2c3be2f334b8cdc30313a2df735552564e76722e5c5013005b6a6d103",
+      "byte_identical": true
+    },
+    {
+      "path": "main/drawdevice.tjs",
+      "bytes": 5080,
+      "sha256": "d33ed09cf919f2d33c126791376ce0a3356638445789154e592328ecc324ecc7",
+      "byte_identical": true
+    },
+    {
+      "path": "main/envinit.tjs",
+      "bytes": 173243,
+      "sha256": "e2d33826e945a1fc33366bdf62145c919dc1912f2e741338256fc6d97c6fadf6",
+      "byte_identical": true
+    },
+    {
+      "path": "main/FAQover.ini",
+      "bytes": 187,
+      "sha256": "859539bf543d091bf2931958112f4f2c70515f88ef6e63f4a957376603b8e712",
+      "byte_identical": true
+    },
+    {
+      "path": "main/flagedit.ini",
+      "bytes": 1539,
+      "sha256": "c397131d979f77560acb9b43e746c52b2ff4cf9330818bba52ed3af6adbc1a8b",
+      "byte_identical": true
+    },
+    {
+      "path": "main/GFX_Sprites.tjs",
+      "bytes": 22620,
+      "sha256": "d1eb4365dca1daf290e4b8e5af8a6929e79a08360c9faa5547b1392e52d2a23e",
+      "byte_identical": true
+    },
+    {
+      "path": "main/help_opt.txt",
+      "bytes": 5671,
+      "sha256": "09a9291914e0d91b5edd5b8216b3dd006190cf397fff3a8ddfdf080c42dd30da",
+      "byte_identical": true
+    },
+    {
+      "path": "main/imagediffmap.txt",
+      "bytes": 297,
+      "sha256": "cfa562c9844a2b6e999f9adf71b7200a6c8f3f9f9d32cbdbd35fac63676235d3",
+      "byte_identical": true
+    },
+    {
+      "path": "main/imagedressmap.txt",
+      "bytes": 107,
+      "sha256": "b5acb80553d5f34139b0b59948193fea43f5c20cb7f61a441994f243ded97c88",
+      "byte_identical": true
+    },
+    {
+      "path": "main/imagemulti.txt",
+      "bytes": 3531,
+      "sha256": "b3d5c423f987ea6c377a92be09e0cf498d616912eedf6514f1163d99d7e5f07a",
+      "byte_identical": true
+    },
+    {
+      "path": "main/imagenamemap.txt",
+      "bytes": 287,
+      "sha256": "2b5255ad302a0d7cd5b823580f7c90e0587c17e88f08e93f0fb0a800757a0947",
+      "byte_identical": true
+    },
+    {
+      "path": "main/imagepropmap.txt",
+      "bytes": 271,
+      "sha256": "26eb9fb17cc4f21483d0a381e4028fe4bb19f48c7e7bc82525646e7b9dd9b014",
+      "byte_identical": true
+    },
+    {
+      "path": "main/ngword.csv",
+      "bytes": 77,
+      "sha256": "89f4449887e40c3cdaf81eccb782f28eb1447bd9db99eb7913130a0638904a41",
+      "byte_identical": true
+    },
+    {
+      "path": "main/popup.tjs",
+      "bytes": 7712,
+      "sha256": "d6954ddf6672b5e2142e46da85810343583f04719ee86e19f242853150f9b7c1",
+      "byte_identical": true
+    },
+    {
+      "path": "main/rclickswitch.ks",
+      "bytes": 713,
+      "sha256": "2b9dcfcbf3974f1b8041844cb8ab0f9481a76cfac07004538c2322966f01b393",
+      "byte_identical": true
+    },
+    {
+      "path": "main/scenelist.csv",
+      "bytes": 37165,
+      "sha256": "d2d436e7fc34fd996a50ef2930dc0bae6911b9b80499245bf3c9486aecb31ba9",
+      "byte_identical": true
+    },
+    {
+      "path": "main/simpleanim.tjs",
+      "bytes": 57412,
+      "sha256": "a6c32ec6e38084e88dabf5f030aca93b670804728205ac10cdc6ca3baa4089e4",
+      "byte_identical": true
+    },
+    {
+      "path": "main/soundgain.csv",
+      "bytes": 1181,
+      "sha256": "7da531c37c9aebb59a6709d31ee3c9ea313f8d9bcdb41dc2dc850e7231c7a05d",
+      "byte_identical": true
+    },
+    {
+      "path": "main/soundlist.csv",
+      "bytes": 1439,
+      "sha256": "ed1c663d397f6d08aeb5b0face4b2d1a8f9c0f93efa9bffb952da0b377747cf5",
+      "byte_identical": true
+    },
+    {
+      "path": "main/speech_defdic.txt",
+      "bytes": 99,
+      "sha256": "808ef0fa0354eecbe791aa5f9296762d9bd3fb19f54eca379450aec1ac02ace9",
+      "byte_identical": true
+    },
+    {
+      "path": "main/Storages.tjs",
+      "bytes": 3603,
+      "sha256": "3fa54148ea4747f5cb339c57ce944c29ef9747fdad8dc9044ea2bcd4ff546f2e",
+      "byte_identical": true
+    },
+    {
+      "path": "main/sysmenu.ks",
+      "bytes": 1125,
+      "sha256": "3d98d6c2b9f27feb2452102f0e6d3f27aeba2756abc68a860b9bd25ae19711d1",
+      "byte_identical": true
+    },
+    {
+      "path": "main/sysse.ini",
+      "bytes": 7611,
+      "sha256": "bf9a6c5920fb2537114aaffab7141459a77a20e6af3a51e8cd62493ec74a8b6e",
+      "byte_identical": true
+    },
+    {
+      "path": "main/systrans.ini",
+      "bytes": 85,
+      "sha256": "4087c70c776dee181c97f981793f12df8904549cf44d2b78c40e0c25b4a468d0",
+      "byte_identical": true
+    },
+    {
+      "path": "main/title_anim.ini",
+      "bytes": 769,
+      "sha256": "6348563b67247ad35b9ff3f82aa23967e3f50931d1aa2e3f5b2f2fd0ffec4aac",
+      "byte_identical": true
+    },
+    {
+      "path": "main/uicomu.tjs",
+      "bytes": 26000,
+      "sha256": "3a99d7892281771d96e3f7290dc5ac462d001263f1ae2db1db12bb939b0329d6",
+      "byte_identical": true
+    },
+    {
+      "path": "main/uiextra.tjs",
+      "bytes": 28380,
+      "sha256": "cce8577c0e0d0fbd5bf995bbf967c8c6c07537b504af0f801656d4b00a3149ff",
+      "byte_identical": true
+    },
+    {
+      "path": "main/uifile.tjs",
+      "bytes": 7092,
+      "sha256": "36f93bbcc931aba5051882b69f652023b8e9fbf3f97a498cb9fcd29141007833",
+      "byte_identical": true
+    },
+    {
+      "path": "main/uigame.tjs",
+      "bytes": 29108,
+      "sha256": "ad0453b1d7186b9d9343e3fef82d2dd6c77199de7522305595c60d0d7ba5ad86",
+      "byte_identical": true
+    },
+    {
+      "path": "main/uikeys.tjs",
+      "bytes": 5088,
+      "sha256": "b8f433703f5b7283085ece18421e9b11f895caa29ca28d103dc383fea510960e",
+      "byte_identical": true
+    },
+    {
+      "path": "main/uimain.tjs",
+      "bytes": 18292,
+      "sha256": "315acdbeddd784c3ff2bcf9b4f36797ca4c53fd42481f6133928f3e819c17d27",
+      "byte_identical": true
+    },
+    {
+      "path": "main/uioption.tjs",
+      "bytes": 17088,
+      "sha256": "ec6cba9c12b73ef701fb122578ce1c51566143fd1961d65bc95471a7397ebc53",
+      "byte_identical": true
+    },
+    {
+      "path": "main/version.ks",
+      "bytes": 339,
+      "sha256": "853fe5a8ddf549ec816fe0ef001b23f09fa61e5416b86caea5bc1ec9256e7e30",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/!scnlist.txt",
+      "bytes": 9071,
+      "sha256": "fceedaf94c9f33840d11e145627fbf5f0454210e42ce96056f7632be4406639d",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/dummy_replay.ks",
+      "bytes": 1003,
+      "sha256": "4cfa4b20dfecd24138724ff98bb573337bdc8ea5e977673062872003f9351195",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/gamelist.txt",
+      "bytes": 2345,
+      "sha256": "99af07b9d436f0eede7838491e7145ec28425730f5b7d916ef334b5dcf735d92",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/macro.ks",
+      "bytes": 40391,
+      "sha256": "f085679c1006d0c3dad22ec7c468a8e48d8370b582a318c93adf3663c3c242fb",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/movieplay.ks",
+      "bytes": 147,
+      "sha256": "684c48d224cb0cabb2eedac1ddd78f737714ee70de136f100d77e954c25512be",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/parsermacro.ks",
+      "bytes": 447,
+      "sha256": "a6ea0af3271c5d1b6b040a22bfc20d3d9142139117ccb32df8ecdd5aafbcdb52",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/scripts/script_comuscreen.tjs",
+      "bytes": 337,
+      "sha256": "5ba04e123a8f4ae1c6178cd5e2b20d9c11d70e365622cd0ffd94a90119324217",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/scripts/script_kirie.tjs",
+      "bytes": 3043,
+      "sha256": "48db7cf2572826ba153cc6144edb6dffc37887923bff9301c937e07d91a79867",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/scripts/script_lightedge.tjs",
+      "bytes": 1705,
+      "sha256": "405c7e4bda9774ec3b5d9f8747919576cc5e451abbcd20000a1b521b90fb7c83",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/scripts/script_mosaic.tjs",
+      "bytes": 2411,
+      "sha256": "3c8851ce082997aed7a06010fd6d54bfe08cac45fbc08687a7404ea41d57e199",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/scripts/script_zoomblur.tjs",
+      "bytes": 3201,
+      "sha256": "75bba74f46baf58837d39fa6e30fb753a7397f492e051250d7d6f3fb0be9d013",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/simpleanim/sanim_bubble_up.tjs",
+      "bytes": 3431,
+      "sha256": "dbe902d866277d35ee0955157a596b80ef29caf0716df0d4e685a26b1698ae21",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/simpleanim/sanim_multimove_lr.tjs",
+      "bytes": 3365,
+      "sha256": "eec5de9f1169f7bf6c8631972abf7bf6e79ca1822d33e5408d691b5b2737173c",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/simpleanim/sanim_rotmove_lr.tjs",
+      "bytes": 1931,
+      "sha256": "9960e4e90b649c91265bf31b1b023e266f0fc8d65d21e0152f74078b9cd3164e",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/simpleanim/sprite_sakura.ini",
+      "bytes": 2245,
+      "sha256": "ef1e1faf0db5b814f4cca032d52dd0ac03f96d934dc0bb01eede3f8e9b3015cb",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/simpleanim/sprite_sakura_act.tjs",
+      "bytes": 2223,
+      "sha256": "d02aa731ec0e43bfbf51278bb36f07c8fd714b7076587f8cdb22b6e92c4bd298",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/start.ks",
+      "bytes": 1941,
+      "sha256": "ab2a415768a3a02613f7118c9fbf96dbbde9278ffdc1011db74e56a6c7f2d307",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_blurfade.tjs",
+      "bytes": 193,
+      "sha256": "f00c32f1b94bc51751b946ad832ebed43493498646cd86e6a4e28c5986abd7c4",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_book.tjs",
+      "bytes": 93,
+      "sha256": "1d99a6858b5f62d7e9f0b5ab80e101ce5968918ca6a851fa5d931fbc30f4d183",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_crossfade.tjs",
+      "bytes": 85,
+      "sha256": "864459929bc444b54eafc6a3719c8395e71bddd4d1f5104993ed8df04b36d16b",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_flutter.tjs",
+      "bytes": 117,
+      "sha256": "e5ff63d59dd42078e303ee43ad349c07bb213bfcacda78b5fe5e4d2499bd0c2b",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_honeyturn.tjs",
+      "bytes": 143,
+      "sha256": "d0b6a850379f4eb5242cdba741006084c3da05bb098d7c408bdb655561fc1c7c",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_laytranstest.tjs",
+      "bytes": 253,
+      "sha256": "21eacbed7b77d56f6239f80aac6cdba98eed848c01b904758b9af040231f8112",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_mosaic.tjs",
+      "bytes": 105,
+      "sha256": "9ccb0846effa0392fab08502ff852c950f339d6cad196df42847200e46c15bb8",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_multiripple.tjs",
+      "bytes": 223,
+      "sha256": "51f49cfc34fa8a676aeb7992332f4f7aa718d873741e0f1a33a2f9ac8664ce0a",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_ripple.tjs",
+      "bytes": 189,
+      "sha256": "36f2027e62a999a65eca30738ac2550abc00d5ce3027f6dd4841c1ecea9382e3",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_rotateswap.tjs",
+      "bytes": 145,
+      "sha256": "d4337c6c87299f98061b0a24e720d9f0182edc324518d87035e367927b8c140e",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_rotatevanish.tjs",
+      "bytes": 161,
+      "sha256": "2dafe770a9600b9996a5964d6e35ded3bebcdf9cde7ab4b325eb026cb629ddcf",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_rotatezoom.tjs",
+      "bytes": 179,
+      "sha256": "c588e0e20198957959f3183d75981466308aced038613b9361e6eacf60e5d256",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_scanline.tjs",
+      "bytes": 83,
+      "sha256": "38b42b20d6459fa9f61955250e1b61b50328e9ae1166092cd22f0195cc47dd51",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_scroll.tjs",
+      "bytes": 269,
+      "sha256": "bb81abc49c1a2810b36b4f45301d35223536e11e71f1c6f3717c8c4b18376cd7",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_showfade.tjs",
+      "bytes": 113,
+      "sha256": "bad4d496bf69c14db399fa73d562acaa66950e8d31d5f8f620623904afa8aee1",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_showslide.tjs",
+      "bytes": 645,
+      "sha256": "07a364d247b8c590d1d671224b6dd810e1d349b1c7b25885feb24423bfa791d8",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_showstand.tjs",
+      "bytes": 1721,
+      "sha256": "7370e4a666b1de13d4fe30398584702d526252f82f9b74784704e7df33752ef3",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_showzoom.tjs",
+      "bytes": 669,
+      "sha256": "5b8d7cefb1980dc9b568ee1fd64669ab97ca39a4b4ea4a5bfa54d828ac3444ac",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_spin.tjs",
+      "bytes": 121,
+      "sha256": "bee4f4f11e523a353404ab058d8480f972b3cf76cd8f6c7fe0d8d8d3cec27fcf",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_turn.tjs",
+      "bytes": 113,
+      "sha256": "0fea856fd5a5a3df44ae091b7a863a6e14d04009f4293b63b549970795393ce5",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_universal.tjs",
+      "bytes": 135,
+      "sha256": "d190379e7f36df978cd4b49b5ebb041e28c1504b0e24257cdc13b4ab3e7f4b7b",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_wave.tjs",
+      "bytes": 229,
+      "sha256": "1657a0d9f4861c98ead01ee7c695fdc1d6dcbc781343bf3aabf24a17cdc9f2c5",
+      "byte_identical": true
+    },
+    {
+      "path": "scenario/transitions/trans_zoomfade.tjs",
+      "bytes": 127,
+      "sha256": "f96fd55301ec093e1089748a53315565b702ab2e24ca56166d36586892d44017",
+      "byte_identical": true
+    },
+    {
+      "path": "startup.tjs",
+      "bytes": 1300,
+      "sha256": "25fbd9f90fa7e7a783b1c4485b86e0004257dc056475623ef79bd11a304d0cf5",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/about.ks",
+      "bytes": 3661,
+      "sha256": "27d196bdd37503ce5d363262c82005e0f94a33133c3292632ee58b316508bded",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/advancedmenu.tjs",
+      "bytes": 3932,
+      "sha256": "051336938bab2c3e06bfbb5521b6b1bc761dcffff48af57a8b310719d984f5c4",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/AfterInit.tjs",
+      "bytes": 3504,
+      "sha256": "fbfae944bef901d527565901644925b24f188a5815516ff2e82ea3813df95a95",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/afterstory.ks",
+      "bytes": 3043,
+      "sha256": "aac01b7c97042bc655e5b5e061b9e63bd3541c1779ba34d2d40570e32936c305",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/append_init.tjs",
+      "bytes": 22244,
+      "sha256": "3b25faad41cb7ab964f26756295351253703f4b39ef4466d013c9899f717929c",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/autoskipmark.tjs",
+      "bytes": 7728,
+      "sha256": "7fc6c17dafa550415543ae644afd6e68e57106a8136a2784029dacffee2ad969",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/backlog.ks",
+      "bytes": 4597,
+      "sha256": "b93408d55230aa0f1c83caa29e34ec5757814f757913570dfae1fc0b384e8f3b",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/backlog.tjs",
+      "bytes": 63344,
+      "sha256": "dd6775f756e120be2d457b2b2ff34b58cbf1c51d5889cb04c5ff1c7baa06b3e0",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/bgmtitleindicator.tjs",
+      "bytes": 19260,
+      "sha256": "a9f7b686a068e5c9d5a02914550523e9929131e796d611f52dfd9dcddc7816bd",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/brows.ks",
+      "bytes": 10731,
+      "sha256": "b9c2cb65c4de465565f5cf8440907cdc67637ee2c33fd39525fc67a2cc0b2bed",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/browswindow.tjs",
+      "bytes": 38200,
+      "sha256": "46ff6e0963f053ab019467328bebb7c236403549ba8bb98d0ae1beb699719e1b",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/brows_conf.ks",
+      "bytes": 2807,
+      "sha256": "f403311e2b62ae533adb2812fd71138b653f3b3072b07f00e5e2aa43c7d42bf8",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/brows_help.ks",
+      "bytes": 17997,
+      "sha256": "1100645ee627d1eacb1ecb0072465fe11c90b8b444689abdcaaf231556f90122",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/cgmode.ks",
+      "bytes": 4637,
+      "sha256": "2eb1eacf7efe6912f6fa7e9b7010cd92a66542e3f0fd116e45435ad95dfd347d",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/cgmode.tjs",
+      "bytes": 51452,
+      "sha256": "2583fd6a223961b48bd551195f898bd4f55af5aed43386c2e1edc87befb364fa",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/cgview.tjs",
+      "bytes": 32344,
+      "sha256": "f40a8429ab0e436c1ec64cf20d31f8d1d5bd6adc9861d1310e55e2262dfe8866",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/compat.ks",
+      "bytes": 843,
+      "sha256": "693a436b3fec3ea73fb055e8373c332f1397bd875317b0fe9e361d610ccb10e3",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/designmscur.tjs",
+      "bytes": 6464,
+      "sha256": "b3fd4f5d9c44b901e96ef79ded5cfbddad7a707959e671132856480a1e8cd749",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/diffimage.tjs",
+      "bytes": 4016,
+      "sha256": "bbce3df34f9c21ef2682cb2856b0bf3148f567d14bfc9e530ba022f5430ee836",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/diffimage2.tjs",
+      "bytes": 3604,
+      "sha256": "4a6a6bedf684367a899e038f20ace0756d49c0f2a663d5607fe1df1d0be1c368",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/dirutil.tjs",
+      "bytes": 3260,
+      "sha256": "b7b10976518abbbd7c0dd1944f1d5181cea488f9fdb0b33e23e8c82e35492375",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/dragutil.tjs",
+      "bytes": 18924,
+      "sha256": "d3c38b6761edeaefcbfb6c79fde6b5f537625b3cd5ebbdb3875bf13d01f3b908",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/drawtextparam.tjs",
+      "bytes": 11284,
+      "sha256": "c393af737a46d3e3717e479483571d2c13abe0fc644275c6c52ca16a78ccd11b",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/editcomment.tjs",
+      "bytes": 4368,
+      "sha256": "75f8fcbe4e28685da16cbbebc520af52d24f0afc987337f7d44f24be6bcfc246",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/embFontLoader.tjs",
+      "bytes": 6724,
+      "sha256": "f46c7c9b77d605e77686965125672480347c9058c3310dc4faa327a39dbdf2ec",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/encyclopedia.tjs",
+      "bytes": 12600,
+      "sha256": "95eabb094e481d7d476cc64cff2caecb4f4487ef42f0f74d2ad9422c6679c1e0",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/end.ks",
+      "bytes": 2661,
+      "sha256": "6bdec16ef1051344b56497c1d52b2502481355ded5400f88e1fac11a4a0f1a07",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/envplay.ks",
+      "bytes": 1127,
+      "sha256": "f838c54a6fe1ba71467863ead44ca23e3b62e0d84f9b5c905b7e88e0ce9acb14",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/exchview.ks",
+      "bytes": 8053,
+      "sha256": "3af6ab34fb264900098b2df5dcc461080cbb8f763d6e0ca7d4268fbdb3308760",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/exchview.tjs",
+      "bytes": 96128,
+      "sha256": "3a586b0446b95011a2c57f4c97fe3ab05aeed2a9d1c111112bbd40cb2c53147b",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/exgallery.tjs",
+      "bytes": 96616,
+      "sha256": "648abbe5dbdcf81073498f01398a5b4ed7b02523c4ac167af95f765c2c77fd22",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/exgamepad.tjs",
+      "bytes": 33740,
+      "sha256": "18c0d793a6bac5b74ce4465f3cdd72e270491dc70274c571d0d0c3edb5af62dc",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/exmenuintf.tjs",
+      "bytes": 33192,
+      "sha256": "58dba3ab8eb943b52e2ec0e743a31d67972e161ea4941703c2dfbea9b3161149",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/exroll.tjs",
+      "bytes": 52980,
+      "sha256": "cc348077200e7acaa3ecffdc99fff46174200222cadeefa5df3166a41e27bf1d",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/facethumbdraw.tjs",
+      "bytes": 15764,
+      "sha256": "4879e7bc0438429222f3c6cc2a7e28874b20728f302ab90c0075a7b082a6a1fb",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/first.ks",
+      "bytes": 2565,
+      "sha256": "ea8ad587a40eeee9d3891a862d73514516443c0c81f5f4b0b8baf31dac2b2cb4",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/fonteffect.tjs",
+      "bytes": 10692,
+      "sha256": "7aa990e1f9ebafe287670bbdcd1d2bdae3402f348857e7839e47e710f63cf610",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/gamecont.tjs",
+      "bytes": 9328,
+      "sha256": "49b517ba6b37c94e74d8081e5849aeb2515f2edbb3b69dce14fc366d0e271cc0",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/gesture.tjs",
+      "bytes": 50772,
+      "sha256": "ba39a50222769d27763c3f40b775d4b9f1a916f7b3cf724e3fb09ae3ac12c4d0",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/GFX_Motion.tjs",
+      "bytes": 5924,
+      "sha256": "edf77aa0ac1adbd7e122d3f4917951e7d48afe4c9fe72d1727ef93798b982cc7",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/GFX_Noise.tjs",
+      "bytes": 2936,
+      "sha256": "459f8928a21e759ff3a695b02b6fce7477499199aea799630dc3ee7bcac69dbf",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/GFX_Texture.tjs",
+      "bytes": 4232,
+      "sha256": "db7ad7f164ddd40e8fa0d22b2b863f9df959aa93ee4a2f18d5d4465767071be6",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/helptextman.tjs",
+      "bytes": 29664,
+      "sha256": "7afe45f9d3092cb9da9523510d043f092c5cd8ff4b3e1401e933dde52c3f0e55",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/hsvcpick.tjs",
+      "bytes": 34532,
+      "sha256": "66dc02922a1eebbfbef4eca9dc519a49f9b58448be3b91b34d635aa9cde7a3a1",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/iconfader.tjs",
+      "bytes": 7880,
+      "sha256": "ca5fba673859dee0db28b95e61b451c62c3e1dc6a98e4a1a1288c014f414df1e",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/keybinder.tjs",
+      "bytes": 26936,
+      "sha256": "255810f9c927ce90e21c1dcb9f0fd414b4438e8263f577718c14f1a2df556b41",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/load.ks",
+      "bytes": 3539,
+      "sha256": "551c7c607642fe2d7eedd349cf1799fd9364a264ebeaa8d0a4f841823ad18b04",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/loadinit.ks",
+      "bytes": 3601,
+      "sha256": "7b0a95f46a92f2fe78242f83cdfdbc88d36931d1489a8c9a237e5856b78323ea",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/mixinclass.tjs",
+      "bytes": 13556,
+      "sha256": "895b8afc5c483e65aa1753f3b4f383bc3f1c95b5b0fbd3ec435dfd0814e56514",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/movieaudiosample.tjs",
+      "bytes": 9604,
+      "sha256": "e2519119f93de973e0ff7d24d21c108141dd3f385e0b9bf5e81a265e4402e387",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/movieqsel.tjs",
+      "bytes": 8044,
+      "sha256": "4e0a4ea1c2c8dac3527b06d16e339dbc8237d34c20de5f4ffe0fefd5cf385874",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/mscurautohide.tjs",
+      "bytes": 5304,
+      "sha256": "e17d3a839333804240e13641fc12550d59350adabf76b6b98c8765b7d4265e6d",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/msghack.tjs",
+      "bytes": 57472,
+      "sha256": "6a46f4c0cdc7512090206c6a4b3fe3312b17cbc8b1080d5445dede8be70207c6",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/multilang.tjs",
+      "bytes": 60132,
+      "sha256": "b8aae942fa8692830399e9e7162f85b96ddc3361af904f12406aff1c655569a0",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/MyHistoryLayer.tjs",
+      "bytes": 38280,
+      "sha256": "48ad4d2e0cbe3d86104dd74bda95c8f0331a083496b34d1fc6809a405a7fda9a",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/MyMapSelectLayer.tjs",
+      "bytes": 11004,
+      "sha256": "85dd719b56434bd7a99d97e67b6653975b4d19889186f3f689b9000d8c223c35",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/MyYesNoDialog.tjs",
+      "bytes": 23560,
+      "sha256": "95e8fa86d0ce9dc1d92dbd92bc15b88d5fde41af92f771af6ec295fdd9bb06f4",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/name.ks",
+      "bytes": 1577,
+      "sha256": "551c6b01074e19fd65a13438cf6c900aedf3e4a11b28db52a6a64d4980476cb1",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/name.tjs",
+      "bytes": 11544,
+      "sha256": "dca542e11e9552a7f0d2197e264b58a4888346155b032488064e136fda4ed790",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/nameframe.tjs",
+      "bytes": 2376,
+      "sha256": "4bd0973c29f9007600d311d4808e5268af131d27fae3b351d004ac08e7de9033",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/nocfchkdialog.tjs",
+      "bytes": 13848,
+      "sha256": "c37b4fbbfdfcba6b49cae5073d288b80455a1bff02a7bf425175f2462cd8e249",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/option.ks",
+      "bytes": 2993,
+      "sha256": "33313f52778f2f0a59440458ff48a85498081c392cae3570b3ef0d82c8c6ea31",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/option.tjs",
+      "bytes": 114880,
+      "sha256": "2221d994617befe9cbcb8b49ef80fbfe824bc77a795217c4c06f9cd6d04e65c8",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/optrevundo.tjs",
+      "bytes": 11612,
+      "sha256": "049e9f2922ba20e5df2275263ba99f85b9f0ea86b02c0d2d01692df0692e2fde",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/Override.tjs",
+      "bytes": 132712,
+      "sha256": "88bb4c8bca9228eb37d5d85b3736355f2a4930c69e553ec893a699e90cedc4c2",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/pagebase.tjs",
+      "bytes": 18932,
+      "sha256": "421f4c3c55da52109c349ef8c9110ae9d92cecb6da6be0aadb39b6c708552c91",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/PreRenderFontEx.tjs",
+      "bytes": 18388,
+      "sha256": "ace2df6f6b876d74995efa1d20c6474b972a1f2087b09c6509ff8fc27fd81b81",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/qlpopup.tjs",
+      "bytes": 17516,
+      "sha256": "85fdc420c8b5f1254838a9811ae8825be76185a277adcc3ff7a82444074e9daf",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/quickmenu.tjs",
+      "bytes": 31088,
+      "sha256": "680f6555000b3a46999993111a59439b4d6141336b6f625728cd7ccf0a12e2d9",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/rendermsgwin.tjs",
+      "bytes": 25584,
+      "sha256": "959466b0a360ea67674bc1a051f6c7aed4d0dddd673fcdaffce788ad6d289c5a",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/rndvoice.tjs",
+      "bytes": 4576,
+      "sha256": "d6e0ec273cf27f180e03929da9acb53ede3a1bc058e8a76b4198952187ba3e48",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/rotatesave.tjs",
+      "bytes": 4436,
+      "sha256": "e5216b480df7ac99236ddc26b362fb0bcf7be58097306149cf1f47893045c1c8",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/save.ks",
+      "bytes": 2409,
+      "sha256": "6b318b912f89400b2af4d5408aa6d8b5a71cc5b37a4a5140efc78b30db8dfd7d",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/saveload.tjs",
+      "bytes": 136684,
+      "sha256": "ba36fdbfeaca9e73d4030398a37a3db806873016d3239fb5fd6bdccaa419548a",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/scenemode.ks",
+      "bytes": 4313,
+      "sha256": "ef857197bf06e168c1b55e93837a29ec213cc033a1ea3e4312bb16bc05e53918",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/scenemode.tjs",
+      "bytes": 9336,
+      "sha256": "42b989b1b53f0bd384111f983ad2c8c88a90d6bfd09208a1bb957184bb6219c8",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/scrollutil.tjs",
+      "bytes": 95868,
+      "sha256": "4ec6bfcb8bf2037852df02eecad73c34c7e73fcbbcdba2cafe00e71d23617444",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/showdate.tjs",
+      "bytes": 14588,
+      "sha256": "343235be43f6ade64fd2d6377a29acb301c21a1dd03565e9b68675ac911c2137",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/snapcapture.tjs",
+      "bytes": 76736,
+      "sha256": "b9281fde31622192baf78bc08ae591a2e846e1b920a76f9032ce832915702809",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/snapcapture_datefmt.txt",
+      "bytes": 271,
+      "sha256": "f8f2e8343285e918db4b4e427b4abe325991a84d7ad0e8f18adbc2700e4ad906",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/snapcapture_twitter.txt",
+      "bytes": 657,
+      "sha256": "a13f67a4a8c8ccf7af782018af7d7bf80c5ce8bac5d4cc0d8b15aa751bd465aa",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/soundmode.ks",
+      "bytes": 1819,
+      "sha256": "1def9f615518f7dfe0cd15d24c6c5051b736965f81135c76026b63f872962c00",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/soundmode.tjs",
+      "bytes": 23176,
+      "sha256": "b0496fe53150e2aa45d16f85021a8e97e4f2725a5775a1f53c075396a856b3a7",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/speech.tjs",
+      "bytes": 24588,
+      "sha256": "5fcd9406540b26408d6d3192f84572377c607a4c38f3324252840784b15e7373",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/speech_app.tjs",
+      "bytes": 2936,
+      "sha256": "810f2b7e6e5a02bfdf92ceae2c628398eadc144031b6f4cd827a3f9b9d386113",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/speech_app.txt",
+      "bytes": 839,
+      "sha256": "32b5cd462b750730b9ba7940d14ec6647b39a173a98c8baf5701d5ea77c2b522",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/speech_dlg.tjs",
+      "bytes": 67728,
+      "sha256": "cda1a11c9a7d908b9af469a11fd98bfe48bf0dc4a401e50b85a714315077d5dd",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/speech_help.txt",
+      "bytes": 6905,
+      "sha256": "f8c5092f7277831df1ce8a6673b55d442bd2ffa0ea7275b5f5ac94febee38339",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/speech_ole.tjs",
+      "bytes": 12204,
+      "sha256": "a55acc1ff8bdf3a1eaeb6cf5a97424ee5e51bb13da9d55d998a5c38b3645c4ca",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/sqscr.tjs",
+      "bytes": 15292,
+      "sha256": "7d224781877d1a10ed25aa13edc2d5806221eaf9cd9ecb538ec3dfde8758f7a7",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/stayontop.tjs",
+      "bytes": 2752,
+      "sha256": "716c15eb33dfbd53bd9ae6dc3ec30c926e1b39c7b411de4970e6df6caca4e808",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/stopdeactive.tjs",
+      "bytes": 9608,
+      "sha256": "6ad7cb6a2a3f82093ed2d14caacabdf3353f0b33ea48c8f18e5945151a825b93",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/syslangtext.tjs",
+      "bytes": 6004,
+      "sha256": "296cdb09072ccdefba793b4ea1161c3423d724de8bf786b2914a3446c45ac275",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/syssechk.tjs",
+      "bytes": 1388,
+      "sha256": "6f8a7390511a935d4c01cf1792c90a6a23d4fe17071713a6d3ea6dfb95aa1d93",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/system.tjs",
+      "bytes": 107856,
+      "sha256": "3ae3465c03b4acc8adf36d85a92daa06ab813eada7127177726a2aa778725a62",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/sysvoice.tjs",
+      "bytes": 21124,
+      "sha256": "7b6f77ac7866a186908576f5057026735967f5365893420a53dbd87ba26d2054",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/textspeedex.tjs",
+      "bytes": 6884,
+      "sha256": "a1e343151f192cb32f7881b1dd0a91fe9a358adbc16a7c30dcf80d95b0b6220d",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/title.ks",
+      "bytes": 2489,
+      "sha256": "d8b51613eed2923c6dde3a906f19c4e18052ff45d442fdaa5345802747070766",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/touchui.tjs",
+      "bytes": 53896,
+      "sha256": "60955cfa65e3fef0eb60690d50a2b4e3d5ad1b1aa71330e8a90ad693161f39ab",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/vcutfade.tjs",
+      "bytes": 4104,
+      "sha256": "d3e7d169af2652abffe41a9b4f31c25438163509fe98aca50f5678ed9fbc1d42",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/voiceboost.tjs",
+      "bytes": 2592,
+      "sha256": "0835cf1ca4e5315a38781ee2167fbecda9be5529642c6d49ae8997d7a2584eda",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/voiceeffect.tjs",
+      "bytes": 27452,
+      "sha256": "8fbe931ed935fa94d83fa7cd40ae1706933f5afc3d1fb3ac8213abc2410ab38c",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/voicematch.tjs",
+      "bytes": 4544,
+      "sha256": "0584da1fa1c447344e5b127dd7cb8b143d94ad082f8666fbf892f4b062520a47",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/voicemode.ks",
+      "bytes": 5969,
+      "sha256": "c1cd45f3f002c5997d1f7e461cf95cf077811cbb0d68c8de24e11a7135c8d976",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/voicemode.tjs",
+      "bytes": 84380,
+      "sha256": "7c8655a868e1bd0e9ff2f8a3cabc333690acbc37be62d928d2d8db23ae73ce62",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/voiceprogress.tjs",
+      "bytes": 12976,
+      "sha256": "08de070eaa7900cffa2ffaae24bd37cb73e15e1cb6941b887d7586104287bb30",
+      "byte_identical": true
+    },
+    {
+      "path": "sysscn/zoommap.tjs",
+      "bytes": 22880,
+      "sha256": "57c3f063f93bfd5151f8741c831f4d5a6c7a346903b8c2e0d7b4b42acbc86a54",
+      "byte_identical": true
+    },
+    {
+      "path": "system/Action.tjs",
+      "bytes": 69624,
+      "sha256": "2dd0400f7b0d7e6c72f91d1fc9ca66a3457e1bca5b045999c15cb6d9df645e2d",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineLayer.tjs",
+      "bytes": 42396,
+      "sha256": "b2f36743bf5be400282a4fc4f9687ecc484586208d5995cc2bbdc68f626d5894",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineMatrix.tjs",
+      "bytes": 14628,
+      "sha256": "55c03691119ab5945ed1e2c97b0704df2c1724002b3837a1035108b1ec5994b2",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSource.tjs",
+      "bytes": 21600,
+      "sha256": "617a835c8355c236e4268caf458b88aa7905aa27e0db098782a25be67023097f",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceASD.tjs",
+      "bytes": 13492,
+      "sha256": "8f27a680acd97d69f9230da7d649746a176a16691985d5d973432c34638877d8",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceBishamon.tjs",
+      "bytes": 7328,
+      "sha256": "6fb533ff2080085b825d0f485044ac1e01793cc7c0b2ebfcc314b1e7f27fc67a",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceBitmap.tjs",
+      "bytes": 18240,
+      "sha256": "c98faf2414bb8c135255d40bf145f6ec52b962c1c6de4839e46650abc465996a",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceBMPBase.tjs",
+      "bytes": 13868,
+      "sha256": "9f8c821fac5c638f9f22b64820c33c3eb773b4ec96b82910900f97a7addd4f18",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceFlip.tjs",
+      "bytes": 7876,
+      "sha256": "563434991d730ab2c3d3839d16fe00beff105d6e7252c681631ffb8bba083f6d",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceImage.tjs",
+      "bytes": 10336,
+      "sha256": "e5cf2490f4580ec3e1aba48d73f053c61917460fcd69d936b563958a0a442abc",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceMotion.tjs",
+      "bytes": 37216,
+      "sha256": "65f659a4de365dc6c45fdd05d725909c25ea7079e4715aa29b0639a242618efd",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceMultiTile.tjs",
+      "bytes": 8212,
+      "sha256": "57317cd1aeffcc0086dfcce422f540faaaea1fda0702d8d19d84d5431848b9e4",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceNoise.tjs",
+      "bytes": 2384,
+      "sha256": "9035ba63ba9fe184ee286276e8ea80b11f8c465cf420bdaa08ec64576d079b08",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourcePSD.tjs",
+      "bytes": 5924,
+      "sha256": "f5b608d4482b4132420bfc9c122e31bc94a054e0264c06c639b2da0ce78d9d13",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceStand.tjs",
+      "bytes": 21572,
+      "sha256": "e3cc8f5b7dc3f2f8b72e02cd13da0db21338ca9f4464f86c692a8ac5fa4c25ba",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceTile.tjs",
+      "bytes": 2772,
+      "sha256": "79d3d7d1ba4ac14e038ead02c66d3f82e52fe1c7504760f127a9b129fb885cc1",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AffineSourceVector.tjs",
+      "bytes": 3332,
+      "sha256": "68c8110bb009fc0ce74d044f152ea33c94f881ba89a3a8e7f96745a109b6e771",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AnimationLayer.tjs",
+      "bytes": 24900,
+      "sha256": "5d4ede6b037f07f918e32059f42edcb522fe37aa9e582435cf6529375726f035",
+      "byte_identical": true
+    },
+    {
+      "path": "system/AnimKAGLayer.tjs",
+      "bytes": 4300,
+      "sha256": "618efad37c55dfa92d927dd307427e5b3476e7647dd67ef24d6cf018d0e9c62d",
+      "byte_identical": true
+    },
+    {
+      "path": "system/autoface.tjs",
+      "bytes": 13160,
+      "sha256": "0861785232ef8a5e392e65a347573209e292bf14e9971733289b5e64b24d880a",
+      "byte_identical": true
+    },
+    {
+      "path": "system/BaseLayer.tjs",
+      "bytes": 13620,
+      "sha256": "f19070c0a37b8eda78dfcb35a768ed75cb60b0939ba1a304e12b7f4cdf901b95",
+      "byte_identical": true
+    },
+    {
+      "path": "system/BGM.tjs",
+      "bytes": 17652,
+      "sha256": "f83152ccb8ed0151bb9edeadefc9ef8d669a5b924579f2ff3b7ad016e66128a1",
+      "byte_identical": true
+    },
+    {
+      "path": "system/bishamon.tjs",
+      "bytes": 9452,
+      "sha256": "a5bf28f206ab58a11119cbfafd33f3436ecc31f29beda5391b0d4d82aeb45cdc",
+      "byte_identical": true
+    },
+    {
+      "path": "system/ButtonLayer.tjs",
+      "bytes": 31008,
+      "sha256": "0667c503c2db61f2ff4990e305d45eeecc4292e576aae354dfdd28d205657f32",
+      "byte_identical": true
+    },
+    {
+      "path": "system/CheckBoxLayer.tjs",
+      "bytes": 13460,
+      "sha256": "ff9550a4c10d3c856f6f9e0d37a8aa2f2d46c44795f505239d1e21f0e72497d2",
+      "byte_identical": true
+    },
+    {
+      "path": "system/Conductor.tjs",
+      "bytes": 20108,
+      "sha256": "3809bca8a8c8e9163024a5f831849f062c012c084a80f7268c0358541da9b607",
+      "byte_identical": true
+    },
+    {
+      "path": "system/D3D.tjs",
+      "bytes": 28808,
+      "sha256": "ddf87a07489f07df98a3276937a2c87e4538afd0cc29e12b9fd128ddbbc4cf2b",
+      "byte_identical": true
+    },
+    {
+      "path": "system/D3DAffineSource.tjs",
+      "bytes": 6524,
+      "sha256": "8d32a4461c9e118e0fa8142febf5adea4c989bc2976d2a4a3662c583bd407f84",
+      "byte_identical": true
+    },
+    {
+      "path": "system/D3DaffineSourceEmote.tjs",
+      "bytes": 14100,
+      "sha256": "5eaf998bb8fe1245a02c2889b33df48a4f0eb8a4c83593b65c7a55d62adf3e47",
+      "byte_identical": true
+    },
+    {
+      "path": "system/D3DAffineSourceImage.tjs",
+      "bytes": 4152,
+      "sha256": "5d5135a4e0a0808f672ae1c43ff0c2b5119b4818a527b5ed36144a82b97b90d7",
+      "byte_identical": true
+    },
+    {
+      "path": "system/D3DAffineSourceMotion.tjs",
+      "bytes": 5976,
+      "sha256": "0bfd89cda2fd27773756f7050ad266d621b0fa357e94b6b6f0a4be1f9751e2e7",
+      "byte_identical": true
+    },
+    {
+      "path": "system/D3DAffineSourcePicture.tjs",
+      "bytes": 5940,
+      "sha256": "8791cef73b7c24258799cb4f3673a475b33df4d9466086a5494925d846941bd5",
+      "byte_identical": true
+    },
+    {
+      "path": "system/DefaultMover.tjs",
+      "bytes": 6592,
+      "sha256": "b1c86fc36d4e8eda76403bec4b21f94865f89344af0b6fe98ba4830af58ce651",
+      "byte_identical": true
+    },
+    {
+      "path": "system/DialogLayer.tjs",
+      "bytes": 32568,
+      "sha256": "319963a24aab18047bc36ac107789119f2e28f8f523154cc8497e98de6735b22",
+      "byte_identical": true
+    },
+    {
+      "path": "system/EditLayer.tjs",
+      "bytes": 24552,
+      "sha256": "b3b919e541c755cc502a3e6a2a441518c5027a6f9f6d3dcae64980fd00782ec5",
+      "byte_identical": true
+    },
+    {
+      "path": "system/emotetalk.tjs",
+      "bytes": 2436,
+      "sha256": "1789ad7b720cc30209ae744e76cb018ae5ef10b66157335920e48ab337942283",
+      "byte_identical": true
+    },
+    {
+      "path": "system/emotion.tjs",
+      "bytes": 8720,
+      "sha256": "9a373ca13cee372fad4ee346c00b62fcb2d16fdd2f311e1a218424eadd5c6908",
+      "byte_identical": true
+    },
+    {
+      "path": "system/enginerev.ini",
+      "bytes": 163,
+      "sha256": "6c4d2ddb7e4dcc5a45c41c5411a948b2ef6c443094117d119ff01dbac7596ebf",
+      "byte_identical": true
+    },
+    {
+      "path": "system/ExecDialog.tjs",
+      "bytes": 1016,
+      "sha256": "1fcbca0862e7ede2af9c3e484e498eece49223532c843656f1fee7b705ea043f",
+      "byte_identical": true
+    },
+    {
+      "path": "system/GenericFlip.tjs",
+      "bytes": 4884,
+      "sha256": "573adb39925f7dd65f709e3ed23cc5ef7af712857516b44b4bae25cbb979f508",
+      "byte_identical": true
+    },
+    {
+      "path": "system/GFX_AMovie.tjs",
+      "bytes": 5260,
+      "sha256": "904581ef3d06f114bcf4825019ef89474a3e94e931d664cb87a969b2226f616d",
+      "byte_identical": true
+    },
+    {
+      "path": "system/GFX_Fire.tjs",
+      "bytes": 13848,
+      "sha256": "e9271079aa671c8b69ad9861c7ead09d44eb216f66e7c66c2ccedff10bd4b348",
+      "byte_identical": true
+    },
+    {
+      "path": "system/GFX_Flash.tjs",
+      "bytes": 4588,
+      "sha256": "5c371622bc7f033cd8e8b5ca26029c75b3ad57720c63c5734b7749af9405807e",
+      "byte_identical": true
+    },
+    {
+      "path": "system/GFX_Movie.tjs",
+      "bytes": 7476,
+      "sha256": "0741326e49e0a25cd4e2fe6432dc6d99bad387090f7496be18437a55a6d17d4d",
+      "byte_identical": true
+    },
+    {
+      "path": "system/GFX_Particle.tjs",
+      "bytes": 12792,
+      "sha256": "482feb1b3132428fa6bc295de0d02096c4338b6e82a4d68f3ba898e389eb5458",
+      "byte_identical": true
+    },
+    {
+      "path": "system/HistoryLayer.tjs",
+      "bytes": 26752,
+      "sha256": "ef414d22cf1e00797e15c55cbec5e4334b9db4e49be01d0f98048914ad4500f7",
+      "byte_identical": true
+    },
+    {
+      "path": "system/Initialize.tjs",
+      "bytes": 27260,
+      "sha256": "8ef30dd0a19df356f8f2f1237249b594dbeba2d62a748de577b9942d7daa9fde",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvBase.tjs",
+      "bytes": 37576,
+      "sha256": "08d649106e74d273b2f330b9cc9c76a5ac880ea1ca2ff400ac7ed6a1f2b20fd3",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvEditData.tjs",
+      "bytes": 18116,
+      "sha256": "b4d3034aac9f8aea093a16c8fe1b382d116e9c8fba0d2604c986d55f96f8fd2d",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvHistoryData.tjs",
+      "bytes": 9496,
+      "sha256": "be44cd108516c76aa32dd88a1deae99cba5ed04b2d785def90998660da853c78",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvImage.tjs",
+      "bytes": 98860,
+      "sha256": "019208ef07915101f083f2ebd477d26e97635514bf4dcdd38d00e2d17fcc05f1",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvImageMapperStage.tjs",
+      "bytes": 5644,
+      "sha256": "cd33a33bf30485d7227d7699896a7cf67c23f29cfa91621b56012e7e1adf3e32",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvImageMapperStand.tjs",
+      "bytes": 15712,
+      "sha256": "8dab07ff5afb67765abe157fdf5c889680139fe048f26a409c9bd0a345f97d80",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvironment.tjs",
+      "bytes": 86560,
+      "sha256": "2145e759d8cda7cd9ae52e7aa9004844ed3d8e9b63dad59ec19de86bfb57e5cf",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvMiniPlayer.tjs",
+      "bytes": 8972,
+      "sha256": "9a8fbc66c92729567523012f0d8305ceb2fc924ecdd126c15a79906fc49a89e3",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvMiniPlayerLayer.tjs",
+      "bytes": 9852,
+      "sha256": "d12a5aae55628bc57b2e92d1e97dbc1fcb54948fcb483eab6cd3c2f497d45eb8",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvMusic.tjs",
+      "bytes": 11784,
+      "sha256": "a7515e78664e2d974d48c0a6ef4b1d516c8ac38172b331cc6e0f5401417e53b4",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvParsePlayer.tjs",
+      "bytes": 2856,
+      "sha256": "cac9193bf84d4a905d8554d872ccfc0e655ebdfa7d5d115972dec14fab68aa88",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvParser.tjs",
+      "bytes": 34440,
+      "sha256": "5b35d0b583a6654b3be5ca58a978edc40a7b23c3c1e15e05139df1328afb9d22",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvPlayer.tjs",
+      "bytes": 46348,
+      "sha256": "7fe305bc812b2658027b9babf472c27cc74dcfd1b7cfdfaf8d9d29834e451b70",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvSound.tjs",
+      "bytes": 5276,
+      "sha256": "437e4fd6d295d4c493602ae467edb744890912ba34acc7096e668311ad7dbcd3",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGEnvTrans.tjs",
+      "bytes": 9408,
+      "sha256": "6827b54b9f4bac8f09937130329d5d0e3867038cecc22870aff7ff00832bb154",
+      "byte_identical": true
+    },
+    {
+      "path": "system/KAGLayer.tjs",
+      "bytes": 5228,
+      "sha256": "c035a7a339b433f9e7a86a471ba9ea7df32c7048a141aeea83ccc2557981bdfc",
+      "byte_identical": true
+    },
+    {
+      "path": "system/langfileparser.tjs",
+      "bytes": 14856,
+      "sha256": "6c2f00776d7b3d8c01120a561c7b7b2c498b50735fc6a640e646f6e8a8eeb67c",
+      "byte_identical": true
+    },
+    {
+      "path": "system/LangRender.tjs",
+      "bytes": 4588,
+      "sha256": "bb57bd259c2b6b59986e2c0088dba00c312af1d88c78d603c71700ea0401d730",
+      "byte_identical": true
+    },
+    {
+      "path": "system/LayerEx.tjs",
+      "bytes": 7808,
+      "sha256": "9455f8ae6d5193c1c61d0dd8673869066ff52095ff07bf1f81e4e01819c70466",
+      "byte_identical": true
+    },
+    {
+      "path": "system/LineMode.tjs",
+      "bytes": 28532,
+      "sha256": "e3c6f794469a14e92aaabac203348e1049b3ad23f853b390d4aeedbdd33b1ade",
+      "byte_identical": true
+    },
+    {
+      "path": "system/LineModeEx.tjs",
+      "bytes": 28968,
+      "sha256": "04bd745ba1c4f28d9280b4ca29d8b84615e2337a0cdac2e01bc3c4c484451000",
+      "byte_identical": true
+    },
+    {
+      "path": "system/LogWindow.tjs",
+      "bytes": 3956,
+      "sha256": "d2b9818c5d8d617cb34abca5152502ae6789db23c5506e7bd462f9faa0c254df",
+      "byte_identical": true
+    },
+    {
+      "path": "system/LoopVoice.tjs",
+      "bytes": 2612,
+      "sha256": "8421f1f7efadf7d14fe6567087852c39aa0eae252af9e5b7ae4ef98082b04356",
+      "byte_identical": true
+    },
+    {
+      "path": "system/MainWindow.tjs",
+      "bytes": 431624,
+      "sha256": "fc949f95660bb98e54ef7649ba1ef0c76fcdb841bf2d9602aecbef74694609fb",
+      "byte_identical": true
+    },
+    {
+      "path": "system/MapSelectLayer.tjs",
+      "bytes": 13160,
+      "sha256": "79d98d8efa79e171ba506922b1778b0cc0aa7f7fc990385e4a20cc1cf92375f5",
+      "byte_identical": true
+    },
+    {
+      "path": "system/Menus.tjs",
+      "bytes": 33752,
+      "sha256": "8b0c96cec0d95c265c5bfd957854cfa77d99aa977dab19fc13f25ea69f696d73",
+      "byte_identical": true
+    },
+    {
+      "path": "system/MessageLayer.tjs",
+      "bytes": 121080,
+      "sha256": "c5ab9667b0d46298739b1e37c985516786d7a28e64e77d12ed0b9a717a21e671",
+      "byte_identical": true
+    },
+    {
+      "path": "system/motion.tjs",
+      "bytes": 3116,
+      "sha256": "15b36fce5670e853b021c2fe37d48de5e81ae528b98a467d6c4fd7d423838233",
+      "byte_identical": true
+    },
+    {
+      "path": "system/Movie.tjs",
+      "bytes": 23056,
+      "sha256": "9e7cd74329786bf2e58531e93039b9067e470bf97905368aa87f405c88e3074a",
+      "byte_identical": true
+    },
+    {
+      "path": "system/MultiResolution.tjs",
+      "bytes": 2724,
+      "sha256": "e58ed65c3eedfd675a889df0d9ec8baefb3f51df90c2dfa2cbadf5002a73522b",
+      "byte_identical": true
+    },
+    {
+      "path": "system/Plugin.tjs",
+      "bytes": 1428,
+      "sha256": "690bc93452b4f4856276a441546fd34fa3eb359fd5b1dc66144d7e82927fb113",
+      "byte_identical": true
+    },
+    {
+      "path": "system/psdlayer.tjs",
+      "bytes": 33044,
+      "sha256": "cea1e4c4e1c3905f27116215b9ea00af8e81dfd9c8d16480cfb6e94dd22e24f5",
+      "byte_identical": true
+    },
+    {
+      "path": "system/SceneParserBase.tjs",
+      "bytes": 12620,
+      "sha256": "b06eb9a4330e89874b7beac3465e46c08cd39ef46a73a312431e50318bf1869b",
+      "byte_identical": true
+    },
+    {
+      "path": "system/SE.tjs",
+      "bytes": 8012,
+      "sha256": "87ed309e1c3c0bd9832091c4aea8d37b503f762400117d30759c0d3b53462198",
+      "byte_identical": true
+    },
+    {
+      "path": "system/SelectLayer.tjs",
+      "bytes": 29144,
+      "sha256": "97bbadb49a8b6e891ae6f9a0c4a0a7ec585dab2725800cc9140b7d9cf08968f2",
+      "byte_identical": true
+    },
+    {
+      "path": "system/SliderLayer.tjs",
+      "bytes": 24988,
+      "sha256": "1c926fb7e3517921ab3d68ccaa7528cb9f8002b3f0d83d2b4c58312b66d68f5f",
+      "byte_identical": true
+    },
+    {
+      "path": "system/StandImage.tjs",
+      "bytes": 22180,
+      "sha256": "0973e4cc038945a457a6a74f05d632203340ba9f5dd07d85b55b5c72c4643308",
+      "byte_identical": true
+    },
+    {
+      "path": "system/StandInformation.tjs",
+      "bytes": 20084,
+      "sha256": "8c564dab1bbf79a45370e2e590bfb75d36539fbd65d4b359ee29a252a6eca60b",
+      "byte_identical": true
+    },
+    {
+      "path": "system/StandLayer.tjs",
+      "bytes": 13316,
+      "sha256": "62ebc7f46650b9ce8abaa57c62cbf9acbd52fef1fe56a6d6f3ffbaba87b158fa",
+      "byte_identical": true
+    },
+    {
+      "path": "system/StorageData.tjs",
+      "bytes": 13784,
+      "sha256": "358b577618f598640a97d406625210fc5ba189c63d636c2353e9a96254e68bd0",
+      "byte_identical": true
+    },
+    {
+      "path": "system/SubTitleLayer.tjs",
+      "bytes": 6980,
+      "sha256": "f27a72c33b875b3a145246d0bd735f7cf5db12e82a594577cdd15a5980751e93",
+      "byte_identical": true
+    },
+    {
+      "path": "system/TagTextConverter.tjs",
+      "bytes": 14888,
+      "sha256": "a98fd39e00ffd02ff5e190fb80bb6359605a4cbb42d6a07a10a6b21fd37ca9c7",
+      "byte_identical": true
+    },
+    {
+      "path": "system/TagTextConverterEx.tjs",
+      "bytes": 6828,
+      "sha256": "b2ef83b8dcd8ced1b154d54a62e3f9dc7cb974ed4eb6f930d3af33d2e4d67138",
+      "byte_identical": true
+    },
+    {
+      "path": "system/TextRender.tjs",
+      "bytes": 14768,
+      "sha256": "dcb323d717e701916ff77f6818210c6e28b3ccb86feaa94ffe5762428d18ad9f",
+      "byte_identical": true
+    },
+    {
+      "path": "system/TextTagConverter.tjs",
+      "bytes": 10248,
+      "sha256": "54d2c630eb086022f42c67ebc10f1b05be7eb103511157b6f6f5871182fd97d4",
+      "byte_identical": true
+    },
+    {
+      "path": "system/TransLayer.tjs",
+      "bytes": 6404,
+      "sha256": "7749ca78608e4e4f3a483e4ba07225ef368306bc22f83c56b85313c4fbb6e05d",
+      "byte_identical": true
+    },
+    {
+      "path": "system/UILoader.tjs",
+      "bytes": 61200,
+      "sha256": "488d0acbb5a77dfb5299e1501eefa2977cb73f8dd371343483d66dc59a3e8a3e",
+      "byte_identical": true
+    },
+    {
+      "path": "system/uipsdinfo.tjs",
+      "bytes": 14588,
+      "sha256": "cf8b14a6b29521e9c16ef6c6e11df00541dc3eff02059dd9e2a5663781dad831",
+      "byte_identical": true
+    },
+    {
+      "path": "system/UpdateConfig.tjs",
+      "bytes": 2932,
+      "sha256": "4c0a619a7f6b1c0ecf154ecf71434a58ddef4ad0b09bc66ec53b3290d03fce48",
+      "byte_identical": true
+    },
+    {
+      "path": "system/UpdateRegion.tjs",
+      "bytes": 3496,
+      "sha256": "87ffab7f158a44f4487c596cd472ddff46107b934eb3d58b44a337751bd24b3f",
+      "byte_identical": true
+    },
+    {
+      "path": "system/Utils.tjs",
+      "bytes": 40092,
+      "sha256": "60e0741ca506af8e393a4f6818a2d9500f657777bf4719f250aac611a17b4af0",
+      "byte_identical": true
+    },
+    {
+      "path": "system/Voice.tjs",
+      "bytes": 10856,
+      "sha256": "289e2c07d2e765e1867d77493e3800d3889ad39449a46f8fa9f41d56ca0825a8",
+      "byte_identical": true
+    },
+    {
+      "path": "system/win32dialog.tjs",
+      "bytes": 65612,
+      "sha256": "287efae488e0e0f11c0349abb7132e77a7ba809ed36f2c403e03bd912008ec96",
+      "byte_identical": true
+    },
+    {
+      "path": "system/world.tjs",
+      "bytes": 233760,
+      "sha256": "eddb219157cc459ad328e99c1b878b2f1c684799b63ad8b1ed4cfd2bb9eaf836",
+      "byte_identical": true
+    },
+    {
+      "path": "system/YAML.tjs",
+      "bytes": 12580,
+      "sha256": "bdaf56547b8f9eb1492bbe0ada07733002b4a930070ecfdfae4564f780fec61f",
+      "byte_identical": true
+    },
+    {
+      "path": "system/YesNoDialog.tjs",
+      "bytes": 5360,
+      "sha256": "2722982609af7e00c0c791f9062c564bc3f0c50240948fe784b6c6863e6b5627",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/autoskipmark_pos.ini",
+      "bytes": 159,
+      "sha256": "2103f7f0f112b7c2b19dcdc29818c62c7456386b2acf57474e4ea080f8366a61",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/backlog.ini",
+      "bytes": 2629,
+      "sha256": "1db4a31789720290d45fb9898e5b8478e707bb80d1e7fa60f88e528432ec5507",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/comuscreen.ini",
+      "bytes": 947,
+      "sha256": "736534c264beb4635abc1a014dffbd260aa45969bc78791b2c94541d45de8f8d",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/dialog.ini",
+      "bytes": 1643,
+      "sha256": "e3294980c466f40eac3ce870068db940f4677be6923b5b62794dbe06377c7f12",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/extra_cg.ini",
+      "bytes": 167,
+      "sha256": "bc4f7113ad770f5042982a19b8baf3af9de1a37fa258329539c3d92ef3752757",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/extra_cgscene.ini",
+      "bytes": 3191,
+      "sha256": "861a5013e4cdb1e00ff8ee5d9592a1327fc8c8124e45eb5fc9eab1308da1947b",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/extra_movie.ini",
+      "bytes": 699,
+      "sha256": "adc6da159ee85c2797bf1a31f87abe14d50b47ac8a3881db284bf25baf99503f",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/extra_music.ini",
+      "bytes": 3883,
+      "sha256": "8a0b7a47d9f1fab32c40e02d2f233a2c73e2fc42e5e42567f0fe53050dbc3ec3",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/extra_scene.ini",
+      "bytes": 279,
+      "sha256": "6cd2f1ce25bafc8cbc572f5be9758f2a733d858fe8e04e7e813058313dba6ae2",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/file.ini",
+      "bytes": 3935,
+      "sha256": "733300b89e854e82a79a9d00c730db2df30ac0d2fb5d406b4e6059800d39e748",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/file_load.ini",
+      "bytes": 57,
+      "sha256": "41f058e162f623d95cfad4057b5e25f61d240488efc1794880151039f3bd76c8",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/file_popup.ini",
+      "bytes": 379,
+      "sha256": "88fbb70a7dede401c774a76ad35faf11619ce0a719c23319eaa439646639e5fc",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/file_save.ini",
+      "bytes": 57,
+      "sha256": "8cd0786b8927dde0277b09e5f0f8b746a19e22c3f6f7f1ba9590fbf865c8c351",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/gameselect.ini",
+      "bytes": 2055,
+      "sha256": "858626d2cafb47c590d5f4300596452a1ae2150016faa62799be51e509a8e438",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/gesture_tips.ini",
+      "bytes": 1921,
+      "sha256": "ff0439df3008c48a8618d6440ed9f532190ce14d57afb7cbaccb3404df6ac8cf",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/indicator.ini",
+      "bytes": 521,
+      "sha256": "c306655576936e762f30f172e8749693acb22523af955789e2106e40da35eedb",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/opt_0base.ini",
+      "bytes": 4009,
+      "sha256": "ce95d68249758521f384ea2ffb2ed2fccf850f873261138750679c7adb81eb38",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/opt_1system.ini",
+      "bytes": 4407,
+      "sha256": "04a0556668219702704386ba9e767670752ba9a4db8c4056e570ef2859ca1e9c",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/opt_2text.ini",
+      "bytes": 2927,
+      "sha256": "507c95224c4805b308564f78c87f154d2c92d273639c4febc020968e50b92b79",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/opt_3sound.ini",
+      "bytes": 2717,
+      "sha256": "fc9dbb632d1ed6ce0a15d5adf6fbf1f96a296c6f18578fe72aa7691cd8eb4e3d",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/opt_4voice.ini",
+      "bytes": 3567,
+      "sha256": "bb93e4a7e493ae57623afaeea51f546b5064ecdddcae274ebea44f563f9d3339",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/opt_5dialog.ini",
+      "bytes": 1771,
+      "sha256": "180a08408a686612327489642bf3b34fbb20aa0812845ae97045edf9dbb09346",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/opt_6keys.ini",
+      "bytes": 231,
+      "sha256": "cc61c00a0e2f0501223f1b1856533890773dd19bec64d99f71a2643ea94829af",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/opt_7mouse.ini",
+      "bytes": 3161,
+      "sha256": "cfa41cb2fc62a21d0b514d0c63b2ff5f8756c6b7bbd249a48bd026ea5fadb71c",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/quickmenu.ini",
+      "bytes": 1625,
+      "sha256": "6f1641b5d85bc9932b03618510c439990f57a73636b129f77a67306771b4168e",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/select.ini",
+      "bytes": 1135,
+      "sha256": "fbfa85efe201cfef2d4e4cf22bc7c825836e26f85e0d8b7aba825a6bb78fc53f",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/shortcuthelp.ini",
+      "bytes": 71,
+      "sha256": "c63d20d5711c211cd73ae231ce1b1cdb02e6ac0d37de47168724269ef14ca1ee",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/sidemenu.ini",
+      "bytes": 859,
+      "sha256": "8431b66e54a56962361e684b769127c7d5c80f2afbd83ebfcf3a87643a81a7c9",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/title.ini",
+      "bytes": 1399,
+      "sha256": "a8e802cf90e7f360e3c96a39758a38b5e72b9deb2c093fed10f3344d53a017b3",
+      "byte_identical": true
+    },
+    {
+      "path": "uipsd/window.ini",
+      "bytes": 727,
+      "sha256": "514eddd994926a13438ddf08ec6d94f6aa4aec60b34208c938d4f4025d50dcbf",
+      "byte_identical": true
+    },
+    {
+      "path": "currev.ini",
+      "bytes": 21,
+      "sha256": "76c4009cd678ef5498f62024251aed7c2b93f45f8558caa353d64869d1f292ca",
+      "byte_identical": true
+    }
+  ]
+}
