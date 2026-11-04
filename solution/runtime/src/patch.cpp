@@ -131,23 +131,28 @@ static void* __fastcall stream_hook(const TVPString* name, unsigned int flags) {
     if (in_redirect || (flags & 15) != 0 || !InterlockedCompareExchange(&imports_ready, 0, 0)) {
         return original_stream(name, flags);
     }
-    struct Scope { Scope() { in_redirect = true; } ~Scope() { in_redirect = false; } } scope;
-    std::wstring input(imports.c_str(name));
-    if (input.find(L"chs_patch/patch.xp3>") != std::wstring::npos) return original_stream(name, flags);
-    std::wstring resource = resource_name(input);
-    if (resource.empty()) return original_stream(name, flags);
-    for (int attempt = 0; attempt < (basename_fallback ? 2 : 1); ++attempt) {
-        if (attempt) {
-            size_t pos = resource.find_last_of(L'/');
-            if (pos == std::wstring::npos) break;
-            resource.erase(0, pos + 1);
+    {
+        struct Scope { Scope() { in_redirect = true; } ~Scope() { in_redirect = false; } } scope;
+        std::wstring input(imports.c_str(name));
+        if (input.find(L"chs_patch/patch.xp3>") == std::wstring::npos) {
+            std::wstring resource = resource_name(input);
+            if (!resource.empty()) {
+                for (int attempt = 0; attempt < (basename_fallback ? 2 : 1); ++attempt) {
+                    if (attempt) {
+                        size_t pos = resource.find_last_of(L'/');
+                        if (pos == std::wstring::npos) break;
+                        resource.erase(0, pos + 1);
+                    }
+                    TVPBinaryStream* candidate = package.open(resource);
+                    if (!candidate) continue;
+                    log("%s %s -> %s", attempt ? "REDIRECT_BASENAME" : "REDIRECT", utf8(input).c_str(), utf8(resource).c_str());
+                    return candidate;
+                }
+            }
         }
-        TVPBinaryStream* candidate = package.open(resource);
-        if (!candidate) continue;
-        log("%s %s -> %s", attempt ? "REDIRECT_BASENAME" : "REDIRECT", utf8(input).c_str(), utf8(resource).c_str());
-        return candidate;
+        if (loglevel >= 2) log("MISS %s", utf8(input).c_str());
     }
-    if (loglevel >= 2) log("MISS %s", utf8(input).c_str());
+    // Native media handlers may reopen a patchable container from this fallback.
     return original_stream(name, flags);
 }
 

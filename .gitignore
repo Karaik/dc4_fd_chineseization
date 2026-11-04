@@ -1,5 +1,6 @@
 # 本地游戏与个人存档
 /game/
+/game_script/
 /savedata/
 /savedata_*/
 
@@ -15,6 +16,7 @@ work/
 /cache/
 /.cache/
 /dependencies/
+/solution/patch/handoff_catalog.json
 /.venv/
 /venv/
 __pycache__/

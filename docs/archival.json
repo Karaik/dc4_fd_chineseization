@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "project": "dc4_fd_chineseization",
+  "date": "2026-11-04",
+  "current_source": {
+    "extracted_game_text_files_tracked": 0,
+    "game_text_files_removed_from_index": 432,
+    "placeholder_files_removed_from_index": 2,
+    "local_files_preserved_byte_identical": 434,
+    "history_rewritten": false,
+    "original_head": "f5a4a2637c77ac417d0465e5447b8ad8a346324b",
+    "original_history_count": 10
+  },
+  "tmp_cleanup": {
+    "scope": "tmp/",
+    "resolved_path": "D:\\Code\\VN_Reverse\\titles\\dc4_fd_chineseization\\tmp",
+    "files_removed": 19145,
+    "directories_removed": 539,
+    "bytes_removed": 15309547969,
+    "reparse_points": 0,
+    "empty_after_cleanup": true,
+    "protected_entries_outside_tmp_checked": 31634,
+    "protected_entries_outside_tmp_unchanged": true
+  },
+  "tests": {
+    "local_project": {
+      "run": 58,
+      "passed": 58,
+      "skipped": 0,
+      "failed": 0
+    },
+    "local_components": {
+      "run": 20,
+      "passed": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    "source_only_project": {
+      "run": 43,
+      "passed": 40,
+      "skipped": 3,
+      "failed": 0
+    },
+    "source_only_components": {
+      "run": 11,
+      "passed": 8,
+      "skipped": 3,
+      "failed": 0
+    }
+  },
+  "readme": {
+    "simple_project_overview": true,
+    "internal_conversation_or_requirement_history": false
+  },
+  "license": {
+    "own_code": "MIT",
+    "third_party_licenses_retained": true,
+    "game_resources_excluded": true
+  }
+}

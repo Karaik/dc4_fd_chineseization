@@ -172,6 +172,16 @@ def build(out: Path, verify: bool = True) -> dict:
         bad.write_bytes(malformed)
         subprocess.run([str(harness), str(good), str(bad)], cwd=out, check=True)
         summary["stream_tests"] = True
+        from solution.unpack.xp3 import pack_xp3
+        nested = compile_source(out, 'test_nested_stream.exe', 'test_nested_stream.cpp',
+            ['/link', '/SUBSYSTEM:CONSOLE', '/OUT:test_nested_stream.exe', 'gdi32.lib', 'user32.lib', 'shell32.lib'], setup)
+        nested_input = out / 'test_nested_input/uipsd'
+        nested_input.mkdir(parents=True)
+        (nested_input / 'window.pimg').write_bytes(b'PATCH')
+        nested_packet = out / 'test_nested_stream.xp3'
+        pack_xp3(nested_input.parent, nested_packet, compress_index=False, compress_content=False)
+        subprocess.run([str(nested), str(nested_packet)], cwd=out, check=True)
+        summary['nested_stream_fallback_tests'] = True
         log_harness = compile_source(out, "test_log_share.exe", "test_log_share.cpp", ["/link", "/SUBSYSTEM:CONSOLE", "/OUT:test_log_share.exe"], setup)
         summary["log_sharing_tests"] = verify_log_sharing(log_harness, out)
         summary["injection_tests"] = verify_injection(launcher, out, setup)

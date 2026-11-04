@@ -12,3 +12,5 @@
 | [KiriKiri Z 许可证](https://github.com/krkrz/krkrz/blob/fd5c4baa6a2ef5978db1bd043634351f48667daf/LICENSE) | 保留上游原文于 `LICENSE.krkrz.txt` |
 
 `LICENSE.minhook.txt` 保留 MinHook 与 HDE 的许可证，发布生成的运行时二进制时应随包保留本文件和两份许可证。编译产物不进入源码仓库。
+
+图片回写工具 `solution/patch/native_images.py` 与 `solution/patch/src/NativeImages.cs` 为本项目维护源码，运行时调用本地 FreeMote 4.3.0 的 `TlgLib.dll`。该依赖不随源码分发，固定版本、来源与许可见 [图片工具说明](../../docs/images.md)。根目录 MIT 许可证仅适用于本项目自有代码，第三方文件继续遵守其保留的原许可证，游戏资源不在授权范围内。

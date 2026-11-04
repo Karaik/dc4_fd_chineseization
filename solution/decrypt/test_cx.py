@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import importlib
+import shutil
 import unittest
 from pathlib import Path
 
@@ -70,6 +71,8 @@ class CxTests(unittest.TestCase):
         self.assertEqual(data, bytes.fromhex("3322"))
 
     def test_extracts_key_from_this_executable(self):
+        if not (TITLE_ROOT / 'game/DC4_FD.exe').is_file():
+            self.skipTest('The local original DC4_FD.exe is required')
         self.load()
         key = importlib.import_module("solution.decrypt.key")
         config, table = key.extract_key((TITLE_ROOT / "game/DC4_FD.exe").read_bytes())
@@ -87,6 +90,12 @@ class CxTests(unittest.TestCase):
     def test_verifies_original_representative_resources(self):
         self.assertTrue((Path(__file__).parent / "verify.py").is_file(), "Missing complete-payload sample verification")
         verify = importlib.import_module("solution.decrypt.verify")
+        missing = [name for name in sorted({row[0] for row in verify.SAMPLES})
+                   if not (TITLE_ROOT / 'game' / name).is_file()]
+        if missing:
+            self.skipTest('The local original archives are required: ' + ', '.join(missing))
+        if shutil.which('ffmpeg') is None:
+            self.skipTest('FFmpeg is required for complete representative audio decoding')
         result = verify.verify_samples()
         self.assertEqual(result["sample_count"], 11)
         self.assertTrue(all(item["checksum_matches"] for item in result["samples"]))

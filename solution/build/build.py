@@ -40,14 +40,18 @@ def write_json(path: Path, value: object) -> None:
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
 
-def static_resources(target: Path) -> list[str]:
-    base = ROOT / 'solution/patch/base/chs_patch'
-    manifest = base.parent / 'chs_patch_manifest.txt'
+def static_resources(target: Path, base: Path | None = None, manifest: Path | None = None) -> list[str]:
+    from solution.patch.handoff_return import _plain
+    base = Path(base or ROOT / 'solution/patch/base/chs_patch').absolute()
+    manifest = Path(manifest or base.parent / 'chs_patch_manifest.txt').absolute()
+    _plain(base, ROOT)
+    _plain(manifest, ROOT)
     names = [safe_name(line.strip()) for line in manifest.read_text('utf-8-sig').splitlines() if line.strip() and not line.lstrip().startswith('#')]
     if len({name.casefold() for name in names}) != len(names):
         raise ValueError('Duplicate static resource paths')
     for name in names:
         source = base / name
+        _plain(source, ROOT)
         if source.is_symlink() or not source.resolve().is_relative_to(base.resolve()) or not source.is_file():
             raise ValueError(f'Invalid static resource: {source}')
         if source.suffix.lower() in ('.exe', '.dll', '.xp3'):
@@ -206,7 +210,7 @@ def build(args: argparse.Namespace) -> dict:
         summary['data_archive'] = {k:v for k,v in unpack.items() if k != 'files'}
         jsonroot = DEFAULT_OUTPUT / 'data/scn_json'
         summary['decompile'] = ensure_decompile(DEFAULT_OUTPUT / 'data/scn', jsonroot, tools)
-        summary['export'] = export_text(jsonroot, ROOT / 'game_script/raw_script/scn', ROOT / 'game_script/translated_script/scn')
+        summary['export'] = {'handoff_candidate': True, 'formal_inputs_written': False} if getattr(args, 'handoff', None) else export_text(jsonroot, ROOT / 'game_script/raw_script/scn', ROOT / 'game_script/translated_script/scn')
         translated = args.translation_dir.resolve()
         if args.smoke_sample:
             summary['smoke_sample'] = smoke_translations(translated, work / 'smoke_translations')
@@ -214,8 +218,8 @@ def build(args: argparse.Namespace) -> dict:
         summary['scripts'] = compile_translations(jsonroot, translated, work / 'scn_bin', tools, verify=True)
         patch = work / 'patch'
         patch.mkdir()
-        summary['static_resources'] = static_resources(patch)
-        summary['system_export'] = export_system()
+        summary['static_resources'] = static_resources(patch, getattr(args, 'static_root', None), getattr(args, 'static_manifest', None))
+        summary['system_export'] = {'handoff_candidate': True, 'formal_inputs_written': False} if getattr(args, 'handoff', None) else export_system()
         system_document = json.loads(args.system_translation.read_text('utf-8'))
         if args.smoke_sample:
             samples = {'default:renderSampleConfig.text1':'消息显示测试\n文本显示速度及自动播放等待时间示例\n１２３４５６７８９０１２３４５６７８９', 'default:renderSampleConfig.text2':'１２３４５６７８９０１２３４５６７８９\n消息显示测试\n文本显示速度及自动播放等待时间示例'}
@@ -285,9 +289,12 @@ def build(args: argparse.Namespace) -> dict:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description='Build and verify the DC4 FD localization package; clean previous owned outputs first.')
-    parser.add_argument('--translation-dir', type=Path, default=ROOT / 'game_script/translated_script/scn')
+    parser.add_argument('--translation-dir', type=Path)
     parser.add_argument('--psb-tools', type=Path, default=ROOT / 'tools/Ulysses-FreeMoteToolkit-v4.3.0')
-    parser.add_argument('--system-translation', type=Path, default=ROOT / 'game_script/translated_script/system/system.json')
+    parser.add_argument('--system-translation', type=Path)
+    parser.add_argument('--static-root', type=Path)
+    parser.add_argument('--static-manifest', type=Path)
+    parser.add_argument('--handoff', type=Path, help='Use a verified candidate created by main_handoff.py import')
     parser.add_argument('--keep-previous-outputs', action='store_true')
     parser.add_argument('--dry-run', action='store_true')
     parser.add_argument('--verify-cache', action='store_true')
@@ -296,6 +303,15 @@ def main() -> int:
     parser.add_argument('--leave-running', action='store_true')
     parser.add_argument('--no-release', action='store_true')
     args = parser.parse_args()
+    if args.handoff:
+        if any((args.translation_dir, args.system_translation, args.static_root, args.static_manifest)):
+            parser.error('--handoff cannot be combined with explicit translation or static inputs')
+        from solution.patch.handoff_return import build_inputs
+        for key, value in build_inputs(args.handoff).items():
+            setattr(args, key, value)
+    else:
+        args.translation_dir = args.translation_dir or ROOT / 'game_script/translated_script/scn'
+        args.system_translation = args.system_translation or ROOT / 'game_script/translated_script/system/system.json'
     if args.leave_running and not args.run_smoke or args.run_smoke and args.no_release:
         parser.error('Use --leave-running with --run-smoke; smoke requires a release directory')
     build(args)

@@ -35,6 +35,7 @@ class RuntimeOutputTests(unittest.TestCase):
                 self.validate(path)
 
     def test_real_symlink_output_and_linked_existing_child_are_rejected(self):
+        (runtime.ROOT / 'out').mkdir(parents=True, exist_ok=True)
         with tempfile.TemporaryDirectory(prefix='dc4-runtime-link-test-', dir=runtime.ROOT / 'out') as directory:
             root = Path(directory)
             target = root / 'target'

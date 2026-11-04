@@ -1,5 +1,7 @@
 # 构建、发布与增量维护
 
+本工程已公开归档。以下为技术复现流程；原文、译文和系统文本不随源码分发，首次使用时由本地原版生成到已忽略的 `game_script/`。`tmp/` 已在归档收尾时清空，文档中的旧临时证据路径仅为历史运行记录。
+
 ## 输入与依赖
 
 所有命令以本作项目根目录为基准。`game/` 是本地同版本原版输入，基线记录 62 个文件；不向该目录回写补丁或测试存档。项目只维护汉化技术链，正式初始译文仍全部等于日文源文。
@@ -159,4 +161,11 @@ python -m unittest discover -s tests -v
 python -m unittest solution.decrypt.test_cx solution.script.test_system_text solution.runtime.test_build -v
 ```
 
+新克隆不附带原版和本地工具；缺少对应游戏、展开载体或 FreeMote 时，仅相应集成测试会明确跳过，合成测试仍执行。准备好本地输入后可运行完整验证。
+
 字体 `fontpath` 非空时，把对应源文件维护在 `solution/runtime/assets/<fontpath>`；构建器只复制该显式字体到发布根下的同一路径。例如 `fontpath=chs_patch/fonts/chinese.otf` 对应源文件 `solution/runtime/assets/chs_patch/fonts/chinese.otf`。默认使用系统微软雅黑，不复制系统字体。
+
+
+## 汉化素材回交构建
+
+文本和全部图片的部分回交使用 `main_handoff.py import`，生成独立候选后执行 `main_build.py --handoff <候选目录>`。原始结构由程序保留，不要求嵌字人员交回 JSON。回收、系统审核和冲突处理见 [汉化素材交付与回收](handoff.md)。

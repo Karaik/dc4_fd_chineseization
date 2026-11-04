@@ -12,6 +12,8 @@ from solution.unpack.system_inventory import bytecode_strings, decode_text
 class SystemTextTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
+        if not (system_text.TITLE_ROOT / 'game/data.xp3').is_file() or not system_text.SOURCE_ROOT.is_dir():
+            raise unittest.SkipTest('The local original data.xp3 and unpacked system carriers are required')
         cls.document, cls.plans = system_text.collect()
 
     def require_expanded_schema(self):

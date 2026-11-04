@@ -17,6 +17,10 @@ SOURCE = ROOT / 'solution/unpack/work/data'
 class PimgTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
+        required = (SOURCE / 'uipsd/indicator.pimg', TOOLS / 'PsbDecompile.exe', TOOLS / 'PsBuild.exe')
+        missing = [str(path) for path in required if not path.is_file()]
+        if missing:
+            raise unittest.SkipTest('Local original PIMG and FreeMote 4.3.0 are required: ' + ', '.join(missing))
         cls.work = ROOT / 'solution/patch/work' / ('tests-' + uuid.uuid4().hex[:12])
         cls.work.mkdir(parents=True)
 

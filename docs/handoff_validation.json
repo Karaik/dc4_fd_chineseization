@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "project": "dc4_fd_chineseization",
+  "verified_date": "2026-11-03",
+  "passed": true,
+  "scope": "实际交付ZIP、部分回交、原资源回封、完整构建、真实引擎加载和正常界面验证；不代表完成全部翻译或全路线游玩",
+  "delivery": {
+    "path": "tmp/D.C.4 Fortunate Departures_汉化素材_20261102.zip",
+    "sha256": "20d4cb63453559e38fa13256d0b30177733aaf1c2a88e8c26521f1d162b72059",
+    "bytes": 2085408140,
+    "files": 3838,
+    "script_files": 215,
+    "system_json": 1,
+    "png_files": 3621,
+    "contains_only_text_png_and_note": true,
+    "note": "注意事项（请一定要看且严格遵守）.txt",
+    "delivery_note_item_3_removed": true,
+    "encryption": "ZIP AES-256",
+    "recommended_extractor": "未修改的WinRAR 6.20或更新版本",
+    "winrar620_full_actual_extraction_all_files_verified": true,
+    "winrar723_final_full_test": true,
+    "non_note_raw_encrypted_records_preserved_after_final_note_update": 3837
+  },
+  "return_contract": {
+    "partial_files_supported": true,
+    "original_relative_paths_preserved": true,
+    "structure_files_kept_by_program": true,
+    "unknown_paths_rejected": true,
+    "dimensions_preserved": true,
+    "system_disabled_edits_require_explicit_program_review": true,
+    "formal_static_conflicts_require_explicit_candidate_replacement": true
+  },
+  "unchanged_return": {
+    "received_files": 3838,
+    "changed_groups": 0,
+    "image_overrides": 0
+  },
+  "edited_return": {
+    "received_files": 10,
+    "static_overrides": 7,
+    "changed_scn_records": 1,
+    "changed_system_records": 2,
+    "reviewed_system_fields": [
+      "bytecode:sysscn/Override.tjs:602"
+    ],
+    "candidate": "solution/patch/work/return_visible_verified_20261102"
+  },
+  "native_images": {
+    "tlg_force_encoded_and_full_rgba_verified": 1446,
+    "tlg_redecoded_with_current_implementation": 1446,
+    "original_source_modified": 0,
+    "cursor_original_frames_and_hotspots_preserved": true,
+    "jpeg_strategy": "本作交付无JPEG",
+    "jpeg_max_rgb_error_in_actual_edit_tests": null
+  },
+  "runtime_fix": {
+    "problem": "原生psb媒体外层请求回退时仍持有in_redirect，导致嵌套PIMG读取跳过补丁",
+    "change": "递归保护仅包围补丁自身查找，所有正常原引擎回退均在Scope析构之后调用",
+    "same_original_stream_interface_preserved": true,
+    "native_regression_old_exit": 1,
+    "native_regression_fixed_exit": 0,
+    "native_regression_in_full_build": true,
+    "pimg_keepalive_and_invalidate_then_reload_both_pass": true,
+    "pimg_all_rgba_pixels_match": true,
+    "runtime_dll_sha256": "cf883c276bd15777b1567ffa52bb8cfa092b25901177e879264905d8d96842ba"
+  },
+  "real_engine": {
+    "resource_count": 6,
+    "resources": [
+      {
+        "path": "image/ED/asa/4fd_ed_asa01.png",
+        "kind": "png",
+        "redirected": true,
+        "dimensions": [
+          1280,
+          720
+        ],
+        "dimensions_match": true,
+        "rgba_sha256": "1d0b9c9bf19cd22001c7c8da614885ac2441f6b3c9a1851d4f6410d244c225bf",
+        "expected_rgba_sha256": "1d0b9c9bf19cd22001c7c8da614885ac2441f6b3c9a1851d4f6410d244c225bf",
+        "all_rgba_pixels_match": true
+      },
+      {
+        "path": "bg001a.png",
+        "kind": "png",
+        "redirected": true,
+        "dimensions": [
+          1600,
+          1800
+        ],
+        "dimensions_match": true,
+        "rgba_sha256": "6a73a146e47101fb5d882402a69b7d82476c288c8c5b193b638af4d3adb36901",
+        "expected_rgba_sha256": "6a73a146e47101fb5d882402a69b7d82476c288c8c5b193b638af4d3adb36901",
+        "all_rgba_pixels_match": true
+      },
+      {
+        "path": "ev_4fd_asa01a.png",
+        "kind": "png",
+        "redirected": true,
+        "dimensions": [
+          1600,
+          900
+        ],
+        "dimensions_match": true,
+        "rgba_sha256": "f17c18aa151928420a5dd6e0a21018d2589a68705a99a0e70c2468a2bed32fe0",
+        "expected_rgba_sha256": "f17c18aa151928420a5dd6e0a21018d2589a68705a99a0e70c2468a2bed32fe0",
+        "all_rgba_pixels_match": true
+      },
+      {
+        "path": "KotoRI/kotori1_1_10.tlg",
+        "kind": "tlg",
+        "redirected": true,
+        "dimensions": [
+          195,
+          173
+        ],
+        "dimensions_match": true,
+        "rgba_sha256": "363cb23a068786d83f279b982795d34c4bc2229f26f8f58af9efae18946ea67b",
+        "expected_rgba_sha256": "363cb23a068786d83f279b982795d34c4bc2229f26f8f58af9efae18946ea67b",
+        "all_rgba_pixels_match": true
+      },
+      {
+        "path": "image/sys/cur_normal.cur",
+        "kind": "cur",
+        "redirected": true
+      },
+      {
+        "path": "image/sys/cur_over.cur",
+        "kind": "cur",
+        "redirected": true
+      }
+    ],
+    "same_basename_images_keep_separate_exact_paths": null,
+    "pimg_normal_title_and_body_visible_edits": true,
+    "chinese_body_visible": true,
+    "quick_save_and_load_restore_chinese_and_edited_window": true,
+    "save_directory": "savedata_chs/",
+    "screenshot_evidence_local_only": [
+      "tmp/handoff_title_visible_guard_fixed_20261103.png",
+      "tmp/handoff_body_and_pimg_guard_fixed_20261103.png",
+      "tmp/handoff_after_load_guard_fixed_20261103.png"
+    ]
+  },
+  "build": {
+    "run_id": "20261103T002540_b0b01afe",
+    "source": "main_build.py --handoff solution/patch/work/return_visible_verified_20261102 --verify-cache",
+    "patch_entries_roundtrip": 224,
+    "patch_sha256_mismatches": 0,
+    "package_files": 8,
+    "formal_inputs_written": false,
+    "baseline_and_formal_files_rehashed_unchanged": 498
+  },
+  "tests": {
+    "project": 58,
+    "components": 20
+  },
+  "evidence_local_only": {
+    "zip": "tmp/handoff_final_note_winrar723_20261102/verification.json",
+    "native": "tmp/native_codec_verification_20261102_163138/verification.json",
+    "pimg_lifecycle": "tmp/handoff_pimg_guard_fixed_20261103/final_result.json",
+    "engine": "tmp/handoff_core_guard_fixed_20261103/final_result.json",
+    "build": "out/build_20261103T002540_b0b01afe/pipeline_summary.json"
+  },
+  "limits": [
+    "测试改图仅在独立候选和验证副本中，交付ZIP与正式译文保持原始素材。",
+    "系统常量的可翻译用途仍需程序逐项审核。",
+    "JPEG回写存在格式固有的像素误差，不能声称无损。",
+    "验证覆盖各类资源与实际回交链，不等于全路线游玩审查。"
+  ],
+  "archive_note": {
+    "date": "2026-11-04",
+    "temporary_evidence": "归档收尾时已清空 tmp/；保留的结果描述此前完成的验证运行，原临时证据文件已清理。",
+    "game_texts": "解出的原文与译文保留在本地，当前源码版本不再跟踪这些文件。"
+  }
+}

@@ -23,7 +23,7 @@ class StructuralComparisonTests(unittest.TestCase):
 class ScnTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        if not (TITLE_ROOT / 'game/data.xp3').exists() or not (TOOL / 'PsbDecompile.exe').exists():
+        if any(not path.is_file() for path in (TITLE_ROOT / 'game/data.xp3', TOOL / 'PsbDecompile.exe', TOOL / 'PsBuild.exe')):
             raise unittest.SkipTest('The project-local original game and FreeMote 4.3.0 are required')
         cls.temp = tempfile.TemporaryDirectory()
         cls.root = Path(cls.temp.name)
